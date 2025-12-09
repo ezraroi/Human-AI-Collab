@@ -25,7 +25,6 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
-    - functional-alterity_r.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md

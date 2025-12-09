@@ -37,10 +37,9 @@ Backlinks:
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
     - recursive-pattern-verification-loop.md
-    - functional-alterity_r.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - the-journals-role-in-third-intelligence.md
     - alpha-function-integrating-dialogical-and-embo.md
     - 3-the-mechanism-catalytic-externalization.md

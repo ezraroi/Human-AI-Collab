@@ -21,7 +21,7 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - the-integrated-circuit-board.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

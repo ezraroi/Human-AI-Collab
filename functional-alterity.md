@@ -25,7 +25,6 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - dynamic-transitional-object-dto.md
-    - functional-alterity_r.md
     - protein-shake-brain-psb.md
     - functional-thirdness.md
     - mikhail-bakhtin.md
@@ -46,7 +45,7 @@ Links:
     - zpd.md
     - ai.md
     - reflective-prompting.md
-    - functional-alterity_r.md
+    - 1-introduction-why-functional-alterity-is-nece.md
 Emoji: "\U0001F4A1"
 id: bafyreihqcq2m2d2mp7tvu56plvj6yggb4tysy7yqosknmx3ascwk5r7jkm
 ---
@@ -70,6 +69,6 @@ Acts on the numerator indirectly by ensuring **Sₜ** remains functional, and on
 - **Defines Role Of →** [AI](ai.md)   
 - **Resolves →** Bakhtin paradox   
 - **Enabled By →** [Reflective Prompting](reflective-prompting.md)   
-[Functional Alterity](functional-alterity_r.md)    
+[1\. Introduction: Why Functional Alterity Is Necessary](1-introduction-why-functional-alterity-is-nece.md)    
    
    

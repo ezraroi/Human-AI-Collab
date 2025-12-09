@@ -6,7 +6,6 @@ Tag:
     - The Pathology Objects (The Diagnosis)
 Backlinks:
     - systematic-competence.md
-    - functional-alterity_r.md
     - functional-alterity.md
 Status: Done
 Creation date: "2025-11-22T13:24:04Z"
