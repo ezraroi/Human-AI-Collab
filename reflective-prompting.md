@@ -73,7 +73,7 @@ Emoji: "\U0001F6E0️"
 id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 ---
 # Reflective Prompting   
-A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](s_t-technical-scaffolding.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| [gap](challenge-gap-d-c.md)** by slowing work into recursive reflective loops. Its purpose is to prevent **[PSB](protein-shake-brain-psb.md)** and **[Cognitive Debt](cognitive-debt_a.md)** while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
+A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](s_t-technical-scaffolding.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| [gap](challenge-gap-d-c.md)** by slowing work into recursive reflective loops. Its purpose is to prevent **[PSB](protein-shake-brain-psb.md)** and **[Cognitive Debt](cognitive-debt_q.md)** while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
 ### System Role   
 - Converts AI interaction from **consumption** to **co-articulation**.   
 - Maintains [Productive Epistemic Tension](productive-epistemic-tension.md)** ** so transformation can occur instead of instant pseudo-clarity.   

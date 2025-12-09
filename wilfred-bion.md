@@ -20,7 +20,7 @@ Backlinks:
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-cascade.md
     - s_e-emotional-scaffolding.md

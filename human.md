@@ -28,7 +28,6 @@ Backlinks:
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
     - recursive-pattern-verification-loop.md
-    - functional-alterity_r.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - the-journals-role-in-third-intelligence.md

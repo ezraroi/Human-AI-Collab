@@ -47,13 +47,12 @@ Backlinks:
     - third-intelligence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
-    - functional-alterity_r.md
     - alpha-function.md
     - the-journals-three-essential-functions.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - surviving-object.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - the-journals-role-in-third-intelligence.md
     - alpha-function-integrating-dialogical-and-embo.md
     - activation-pathway-of-destiny-drive.md

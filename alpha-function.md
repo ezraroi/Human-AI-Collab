@@ -59,11 +59,10 @@ Backlinks:
     - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - felt-sense.md
-    - functional-alterity_r.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-as-the-insula-the-feedback-loop.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md

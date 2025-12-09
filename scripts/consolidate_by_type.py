@@ -223,7 +223,8 @@ def consolidate_files(root_dir: Path, schemas: dict, output_dir: Path):
 
 
 def main():
-    root_dir = Path(__file__).parent
+    script_dir = Path(__file__).parent
+    root_dir = script_dir.parent  # Go up one level to project root
     schemas_dir = root_dir / "schemas"
     output_dir = root_dir / "output"
 

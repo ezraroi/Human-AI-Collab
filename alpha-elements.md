@@ -21,7 +21,7 @@ Backlinks:
     - felt-sense.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - alpha-function-integrating-dialogical-and-embo.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
 Status: Done

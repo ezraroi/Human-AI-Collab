@@ -20,7 +20,6 @@ Backlinks:
       1.3. The Novice-to-Expert Gap
       The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
     - mko-more-knowledgeable-other.md
-    - functional-alterity_r.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - section-13-significance-and-forward-direction.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md

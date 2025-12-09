@@ -18,7 +18,6 @@ Backlinks:
     - section-7-the-three-layer-architecture-tempora.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - functional-alterity_r.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md

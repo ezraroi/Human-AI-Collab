@@ -7,7 +7,6 @@ Backlinks:
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - d-difficulty.md
-    - functional-alterity_r.md
     - functional-alterity.md
 Status: Done
 Creation date: "2025-11-22T13:21:24Z"

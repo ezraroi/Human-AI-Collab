@@ -19,7 +19,6 @@ Backlinks:
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
-    - functional-alterity_r.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - alpha-function-integrating-dialogical-and-embo.md
     - what-youve-actually-discovered-meta-level.md
