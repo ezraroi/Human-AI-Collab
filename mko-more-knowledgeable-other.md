@@ -1,0 +1,37 @@
+---
+# yaml-language-server: $schema=schemas/concept.schema.json
+Object type:
+    - Concept
+Tag:
+    - The AI-Specific Roles
+Backlinks:
+    - lev-vygotsky.md
+    - section-3-foundational-theoretical-integration.md
+    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-2-the-core-formula-and-components.md
+    - section-6-the-complete-system-architecture.md
+    - s_t-technical-scaffolding.md
+    - bions-alpha-function-synthesizing-piaget-and-v.md
+    - dialogical-and-embodied-frameworks-an-integrat.md
+Status: Done
+Creation date: "2025-11-22T11:55:54Z"
+Created by:
+    - Roi Ezra
+Links:
+    - ai.md
+    - zpd.md
+    - s_t-technical-scaffolding.md
+    - lev-vygotsky.md
+Emoji: "\U0001F4A1"
+id: bafyreiekm7dqoxyzzwby6whqgn5drsfuxq6fhxdvv3daqmpmfko4dfqjxm
+---
+# MKO (More Knowledgeable Other)   
+In this system, the [AI](ai.md) acts as a *technical* MKO.   
+The **More Knowledgeable Other (MKO)** is defined as **anyone** who has a **better understanding or a higher ability level** than the learner concerning a specific task, process, or concept.   
+Key points about the MKO:   
+• The MKO is generally a person, such as a teacher, instructor, knowledgeable adult, or a more capable peer.   
+• The sources also specify that the MKO can be a younger person or **even a machine/computer**.   
+• The assistance provided by the MKO is a vital element for the learner to reach their **potential level of development**, particularly within the Zone of Proximal Development ([ZPD](zpd.md))   
+[S\_t (Technical Scaffolding)](s_t-technical-scaffolding.md)    
+[Lev Vygotsky](lev-vygotsky.md)    
+   
