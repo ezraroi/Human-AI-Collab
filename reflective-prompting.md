@@ -4,6 +4,10 @@ Object type:
     - Method
 Tag:
     - The AI-Specific Roles
+    - 'Domain: Technical'
+    - 'System Role: Method'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - preconditions-for-transformative-ai-dialogue.md
@@ -41,7 +45,10 @@ Backlinks:
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md
-Status: Done
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Research Status: Evergreen
 Creation date: "2025-11-22T11:53:57Z"
 Created by:
     - Roi Ezra
@@ -73,7 +80,7 @@ Emoji: "\U0001F6E0️"
 id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 ---
 # Reflective Prompting   
-A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](s_t-technical-scaffolding.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| [gap](challenge-gap-d-c.md)** by slowing work into recursive reflective loops. Its purpose is to prevent **[PSB](protein-shake-brain-psb.md)** and **[Cognitive Debt](cognitive-debt_q.md)** while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
+A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](s_t-technical-scaffolding.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| [gap](challenge-gap-d-c.md)** by slowing work into recursive reflective loops. Its purpose is to prevent **[PSB](protein-shake-brain-psb.md)** and **[Cognitive Debt](cognitive-debt_e.md)** while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
 ### System Role   
 - Converts AI interaction from **consumption** to **co-articulation**.   
 - Maintains [Productive Epistemic Tension](productive-epistemic-tension.md)** ** so transformation can occur instead of instant pseudo-clarity.   
@@ -161,3 +168,4 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - **[PSB](protein-shake-brain-psb.md)**   
    
    
+**Notes:** The flagship method integrating scaffolding, metabolism, and verification.   

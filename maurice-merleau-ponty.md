@@ -3,11 +3,16 @@
 Object type:
     - Theorist
 Tag:
-    - NoteBook 7 - Phenomenological Layer
+ 
+    - 'Domain: Phenomenology'
+    - 'Temporal: Static'
 Backlinks:
     - reflective-awareness.md
     - pre-reflective-awareness.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+    - Cognitive Science & Embodied Cognition
+Research Status: Evergreen
 Creation date: "2025-11-28T11:41:34Z"
 Created by:
     - Roi Ezra

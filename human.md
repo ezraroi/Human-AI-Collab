@@ -4,6 +4,10 @@ Object type:
     - Research Component
 Tag:
     - The "Hardware"
+    - 'Domain: Synthesis'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
+    - 'Operational Flags: Core'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - minimal-self.md
@@ -12,7 +16,7 @@ Backlinks:
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
     - executive-summary.md
-    - cognitive-style-bias.md
+    - cognitive-style-ssbias.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
@@ -39,7 +43,10 @@ Backlinks:
     - dialogical-and-embodied-frameworks-an-integrat.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md
-Status: In Progress
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T11:41:49Z"
 Created by:
     - Roi Ezra
@@ -58,6 +65,7 @@ Provides
 - Embodied experience (though currently under-theorized)   
 - The subject whose C actually grows   
    
+**Notes:** The *role* “Human as Architect / Container” is a structural constant in the model; their **C** is cumulative, but the **component object** is a static role definition and part of the support architecture.   
    
 [Alpha-Function](alpha-function.md)    
 [S\_e (Emotional Scaffolding)](s_e-emotional-scaffolding.md)    

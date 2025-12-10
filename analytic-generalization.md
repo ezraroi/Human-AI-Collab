@@ -4,13 +4,18 @@ Object type:
     - Concept
 Tag:
     - NoteBook 8 - Methodology Defense
-Status: In Progress
+    - 'Domain: Methodology'
+    - 'System Role: Method'
+    - 'Temporal: Static'
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-12-01T16:50:57Z"
 Created by:
     - Roi Ezra
 Links:
     - hsced-hermeneutic-single-case-efficacy-design.md
     - p-alpha-probability-of-growth.md
+Emoji: "\U0001F4A1"
 id: bafyreif5v37mtaoczyzxr6zytet4l65tayrnqdoch7rjcpkqzrgknfi5ay
 ---
 # Analytic Generalization   

@@ -2,6 +2,9 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
+Tag:
+    - 'Domain: Phenomenology'
+    - 'Temporal: Static'
 Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - external-alpha-function.md
@@ -11,7 +14,10 @@ Backlinks:
     - felt-sense.md
     - critical-connection-2-felt-sense-channel-1-alp.md
     - the-unified-architecture.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+    - Philosophy of Technology & Phenomenology
+Research Status: Evergreen
 Creation date: "2025-11-22T11:15:59Z"
 Created by:
     - Roi Ezra

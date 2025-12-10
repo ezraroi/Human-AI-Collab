@@ -2,10 +2,17 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - the-container.md
     - s_e-emotional-scaffolding.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-23T07:54:09Z"
 Created by:
     - Roi Ezra
@@ -29,3 +36,4 @@ Connections to [Alpha-Function](alpha-function.md) :
 • **Mechanism of Transformation:** The caregiver (container) transforms the infant's intolerable feelings, or raw, mentally undigested emotional facts (**beta-elements**), into meaningful, digestible forms (**alpha-elements**). This successful detoxification and transformation is achieved by the container using its **alpha-function** while in a state of **reverie**.   
 • **Analytic Practice:** In the analytic setting, the "analytic attitude" that Bion recommends, the state of **reverie**, allows the **[alpha-function](alpha-function.md)** (the receptive capacity of the analyst) to stimulate the patient's process of thinking and dreaming. The analyst's alpha-function, working in reverie, allows the analyst to introspectively access and summon emotions that resonate with the analysand's hidden emotional truths, thereby achieving a "common sense" corroboration of the patient's feelings and establishing the "clinical truth" of the moment.   
 • **Source of Thinking:** The mother, in a state of **reverie**, uses her **alpha-function** to contain, mediate, and translate the infant's overwhelming emotions into personal truths, which Bion suggests is the origin of thinking. Alpha-function is also described as transforming sense-impressions of an emotional experience into alpha-elements, whether one is sleeping or waking, allowing the subject to "dream the session".   
+**Notes:** Container’s receptive mode enabling alpha-function processing.   

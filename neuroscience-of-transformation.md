@@ -2,12 +2,19 @@
 # yaml-language-server: $schema=schemas/research_gap.schema.json
 Object type:
     - Research Gap
+Tag:
+    - 'Domain: Bio-Embodied'
+    - 'Temporal: Static'
+    - Meta-Framework
 Backlinks:
     - neural-synchrony.md
     - the-doing-both-hypothesis.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
+Research Status: Drafting
+Origin Domain:
+    - Neurobiology & Neuroscience
 Gap Status: Hypothesized
-Status: In Progress
+Resolution Strategy: Plausible Neurobiological Substrate Mapping
 Creation date: "2025-11-22T14:04:32Z"
 Created by:
     - Roi Ezra
@@ -47,3 +54,4 @@ The **"plausible neurobiological substrate"** maps the psychological concepts on
 - **Transformation as Systems Consolidation:** The permanence and accumulation achieved by the Journal + Time components are mapped to **Systems Consolidation**, the process during NREM sleep where the Hippocampus replays insights to the Neocortex, making the new knowledge stable and permanent.   
    
 The detailed nature of this model transforms the vague question of "neuroscience" into a **specific, testable framework**.   
+**Notes:** Explicitly hypothesized; no imaging evidence yet.   

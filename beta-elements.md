@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - The Psychoanalytic Inputs & Outputs
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Input'
+    - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
     - document-abstract.md
@@ -20,6 +23,7 @@ Backlinks:
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - the-integrated-circuit-board.md
+    - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
@@ -28,7 +32,10 @@ Backlinks:
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - the-recursive-third-intelligence-system-archit.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T11:48:26Z"
 Created by:
     - Roi Ezra
@@ -45,6 +52,7 @@ id: bafyreiaxsahqx6vt4nomrszhpsjubiiyujekdg7nmieuhjh6lk46jah6ai
 In the neurobiological framework, these are synonymous with **Interoceptive Signals** (raw bodily sensations).   
 **Phenomenological Root ([Husserl](edmund-husserl.md)):** Maps to **Hyle**.
 In Husserl's structure, this is the "hyletic data"—the raw, non-intentional sensory matter that has not yet been animated by a meaning-giving act.   
+**Notes:** Unprocessed sensory/emotional matter entering Alpha-Function.   
 **Link to:**   
 - `[Anterior Insular Cortex](anterior-insular-cortex-aic.md)` (Relation: `Processed By`).   
 - [Alpha Function](alpha-function.md) (Relation: `Processed By`).   

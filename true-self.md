@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'Temporal: Cumulative'
+    - 'System Role: Output'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - destiny-drive.md
@@ -17,7 +21,10 @@ Backlinks:
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T11:49:12Z"
 Created by:
     - Roi Ezra
@@ -36,3 +43,4 @@ Key aspects of Winnicott's concept of the True Self:
 - **Developmental Foundation:** A healthy True Self develops when an infant's spontaneous gestures and needs are met and mirrored by a "good-enough" caregiver. This responsive environment creates an "illusion of omnipotence" in the infant (a sense that their needs make things happen), which is crucial for building confidence and a secure sense of self.   
    
 In essence, the True Self is the authentic core of a person's being, representing who they truly are, unshaped by external demands or the need to comply with others' expectations   
+**Notes:** Authentic self-structure that emerges under sustained Sₑ + Alpha-Function.   

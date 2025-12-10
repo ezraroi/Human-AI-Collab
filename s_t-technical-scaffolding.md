@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/research_component.schema.json
 Object type:
     - Research Component
+Tag:
+    - 'Domain: Technical'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - reflective-prompting.md
@@ -25,7 +29,10 @@ Backlinks:
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: In Progress
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T10:03:55Z"
 Created by:
     - Roi Ezra
@@ -39,5 +46,7 @@ id: bafyreiflk4z2eiffb32oncmi2w3nn4i2mjqgnebw67pf5dapqubxgxejmy
 # S\_t (Technical Scaffolding)   
 **Definition:** The instructional, guiding, and structuring aspects of support.   
 **System Role:** Provided by the **AI**. Unlike human mentors, this can be modulated in real-time (e.g., "explain like I'm 5" vs. "technical depth").   
-**Theoretical Basis:** [Vygotsky](lev-vygotsky.md)’s "[More Knowledgeable Other](mko-more-knowledgeable-other.md)" (competence side)   
+**Theoretical Basis:** [Vygotsky](lev-vygotsky.md)’s "[More Knowledgeable Other](mko-more-knowledgeable-other.md)" (competence side).   
+**Notes:** Provided by AI, modulated in real time (“explain like I’m 5”, etc.).   
 [P(alpha) (Probability of Growth)](p-alpha-probability-of-growth.md)    
+   

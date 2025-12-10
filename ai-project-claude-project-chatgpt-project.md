@@ -6,7 +6,9 @@ Backlinks:
     - the-journal-in-system-context.md
     - journal.md
     - the-journals-three-essential-functions.md
-Status: Done
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Research Status: Evergreen
 Creation date: "2025-11-22T14:43:17Z"
 Created by:
     - Roi Ezra

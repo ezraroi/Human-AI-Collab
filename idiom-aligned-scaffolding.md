@@ -2,10 +2,17 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Synthesis'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-08T17:37:50Z"
 Created by:
     - Roi Ezra

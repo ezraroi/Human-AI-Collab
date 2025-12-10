@@ -2,11 +2,18 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Technical'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Cumulative'
 Backlinks:
     - 6-final-conclusion.md
     - jim-collins.md
     - metabolic-discipline.md
-Status: Done
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-23T06:37:25Z"
 Created by:
     - Roi Ezra

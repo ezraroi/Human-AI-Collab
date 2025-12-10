@@ -1,12 +1,12 @@
 # Methods (8)
 
 ## Index
-4Ps Protocol, ABA Design (Withdrawal Phase), HSCED (Hermeneutic Single-Case Efficacy Design), Imaginative Variation, Recursive Pattern-Verification Loop, Reflective Prompting, RRV Cycle (Recursive–Refine–Validate), Self-Explanation
+4Ps Protocol, ABA Design, HSCED (Hermeneutic Single-Case Efficacy Design), Imaginative Variation, Recursive Pattern-Verification Loop, Reflective Prompting, RRV Cycle (Recursive–Refine–Validate), Self-Explanation
 
 ---
 
 ## [METHOD] 4Ps Protocol
-Tags: NoteBook 6 - Cognitive Mechanics
+[Theoretical] NoteBook 6 - Cognitive Mechanics, Domain: Methodology, System Role: Method, Temporal: Dynamic
 
 **Definition:** A metacognitive loop: **Pause** (Inhibition), **Probe** (Monitoring), **Process** (Control/Self-Explanation), **Possess** (Evaluation/Verification) .
 ## Methodological Equivalent
@@ -16,6 +16,7 @@ This protocol serves as the **Phenomenological Validity Criteria** for the resea
 3. **Process (Control):** Acts as **Process Tracing**. Documenting the steps of logic.
 4. **Possess (Evaluation):** Acts as **Ecological Validity**. Checking if the insight holds up in "real life" (Concrete Grounding).
 
+**Notes:** A procedural, metacognitive cycle; used as a validity scaffold within sessions.
 **Relations:**
 - Link to **Reflective Prompting** (Relation: `Operational Steps Of`).
 - Link to **Felt Sense** (Relation: `Used in 'Possess' Step`).
@@ -24,25 +25,25 @@ This protocol serves as the **Phenomenological Validity Criteria** for the resea
 
 ---
 
-## [METHOD] ABA Design (Withdrawal Phase)
-Tags: NoteBook 8 - Methodology Defense
+## [METHOD] ABA Design
+[Literature] NoteBook 8 - Methodology Defense, Domain: Methodology, System Role: Method, Temporal: Dynamic, Operational Flags: BoundaryCondition
 
-The methodological reframing of "Touch Grass" or "Withdrawal" periods. It functions as a natural experiment to test causal attribution.
-**The Phases:**
-- **Phase A (Intervention):** High-intensity AI dialogue.
-- **Phase B (Withdrawal):** Total cessation of AI interaction.
-
-**The Test:**
-If transformation persists during **Phase B**, it proves that  has been structurally internalized and is not just a fleeting mood boost dependent on the AI's presence.
-*Note: The  persists during Phase B, proving it is the "Surviving Object"*.
-**Relations:**
-- Link to **Time** (Relation: `Relies On`).
-- Link to **Journal** (Relation: `Persists During`).
+the ABA design is defined by the following characteristics:
+**1. Structure**The design consists of three distinct phases involving the alternation of baseline and intervention conditions:
+• **A (Baseline):** The study begins with a baseline or pre-intervention phase where the outcome variable is measured without the treatment.
+• **B (Intervention):** This is followed by an intervention phase where the treatment is applied.
+• **A (Return to Baseline):** The intervention is then withdrawn to observe if the outcome returns to baseline levels.
+**2. Purpose**The ABA design is used to demonstrate a causal (functional) relationship between the intervention and the outcome. By withdrawing the intervention (the second "A" phase), researchers attempt to show that the changes observed in the "B" phase were due to the treatment rather than extraneous factors.
+**3. Limitations and Variations**
+• **Replication:** While the ABA design offers more experimental control than a simple AB design, sources note that the **ABAB design** (which re-introduces the intervention a second time) is considered scientifically stronger because it provides a "within-subject replication" of the intervention effect.
+• **Ethical Concerns:** Researchers must determine if it is safe and ethical to withdraw an intervention, particularly if the treatment is effective and necessary for the participant's well-being.
+• **Carry-over Effects:** Reversal designs like ABA are recommended only when the intervention does not have carry-over effects; if an intervention produces permanent changes (e.g., learning a new skill), the subject's performance will not return to baseline levels when the intervention is withdrawn, making the ABA design inappropriate.
+**Notes:** A classical methodological tool reframed as “Touch Grass” withdrawal logic.
 
 ---
 
 ## [METHOD] HSCED (Hermeneutic Single-Case Efficacy Design)
-Tags: NoteBook 8 - Methodology Defense
+[Literature] Domain: Methodology, System Role: Method, Temporal: Static
 
 The methodological framework used to solve the "Biased Observer Problem" (where the researcher is also the subject). It creates rigor through **Systematic Adjudication**.
 **Core Components:**
@@ -50,6 +51,7 @@ The methodological framework used to solve the "Biased Observer Problem" (where 
 2. **The Skeptical Prosecutor:** Using the **AI** to challenge the user's interpretations rather than confirm them.
 3. **Negative Case Analysis:** Actively documenting failures and "manic episodes" as counter-evidence.
 
+**Notes:** A stable methodological framework, not a dynamic process within the transformation system.
 **Relations:**
 - Link to **Human** (Relation: `Governs Observation By`).
 - Link to **Boundary Condition (The Manic Episode)**  (Relation: `analyzes`).
@@ -57,16 +59,17 @@ The methodological framework used to solve the "Biased Observer Problem" (where 
 ---
 
 ## [METHOD] Imaginative Variation
-Tags: NoteBook 7 - Phenomenological Layer
+[Literature] Domain: Phenomenology, System Role: Method, Temporal: Dynamic
 
 Varying an example in every possible way to find what cannot be removed… Cross-AI stress-testing (using Claude, Gemini, etc.) is a form of imaginative variation
+**Notes:** A Husserlian method adapted to cross-AI stress-testing; a dynamic eidetic technique.
 **Relations:**
 - Eidetic Structure (The result)
 
 ---
 
 ## [METHOD] Recursive Pattern-Verification Loop
-Tags: Verification, Metabolism, Epistemic Safety
+[Theoretical] Verification, Metabolism, Epistemic Safety, Domain: Synthesis, System Role: Method, Temporal: Dynamic, Operational Flags: Core
 
 The real-time metabolic cycle through which the human tests AI-generated material against embodied knowing, symbolic grammar, and lived experience.
 It is the mechanism that ensures insights are **metabolized** (alpha-function) rather than adopted (Channel 2 -only bypass), preventing Category Error, PSB, and collapse of authorship.
@@ -100,6 +103,7 @@ This recursive structure is alpha-function operating live.
 - **Topological repair** → prevents collapse into C2-only processing.
 - **Boundary enforcement** → prevents AI from being treated as Subject.
 
+**Notes:** Although it is also a mechanism of Alpha-Function, it is best tagged as **Method** because it is a *protocol the user performs*. Mechanistic details live in Relations.
 ## Relations (Wiring)
 - **Reflective Prompting** — *Part Of*
     This loop provides RP’s epistemic integrity.
@@ -119,7 +123,7 @@ Why It Works: Verification Built Into Creation
 ---
 
 ## [METHOD] Reflective Prompting
-Tags: The AI-Specific Roles
+[Theoretical] The AI-Specific Roles, Domain: Technical, System Role: Method, Temporal: Dynamic, Operational Flags: Core
 
 A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **alpha-function** with the human, organizes **technical scaffolding (Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| gap** by slowing work into recursive reflective loops. Its purpose is to prevent **PSB** and **Cognitive Debt** while feeding the Journal with metabolized, owned insights (Journal relevant only in Identity Stakes work).
 ### System Role
@@ -208,9 +212,13 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 ### Failure Modes / Diagnostics
 - **PSB**
 
+
+**Notes:** The flagship method integrating scaffolding, metabolism, and verification.
+
 ---
 
 ## [METHOD] RRV Cycle (Recursive–Refine–Validate)
+[Theoretical] Domain: CognitiveScience, System Role: Method, Temporal: Dynamic
 
 A micro-method for metabolic dialogue in which the human and AI iteratively co-articulate meaning through cycles of **Externalize → Refine → Validate**. RRV is how External Alpha-Function is operationalized without surrendering authorship. It is the core engine of Phase 2 in Reflective Prompting.
 ### System Role
@@ -230,6 +238,7 @@ A micro-method for metabolic dialogue in which the human and AI iteratively co-a
     - AI produces an updated synthesis: “Here is what I now understand we’re doing.”
     - Human checks against **felt sense** and task definition: if still off, another RRV cycle.
 
+**Notes:** A cognitive micro-loop (externalize → refine → validate), but *operationalized* as a method.
 ### Relations
 - Embedded in → Reflective Prompting.
 - Uses → Rubber Duck Debugging, MetaCognition, Felt Sense.
@@ -238,9 +247,10 @@ A micro-method for metabolic dialogue in which the human and AI iteratively co-a
 ---
 
 ## [METHOD] Self-Explanation
-Tags: NoteBook 6 - Cognitive Mechanics
+[Literature] NoteBook 6 - Cognitive Mechanics, Domain: CognitiveScience, System Role: Method, Temporal: Dynamic
 
-**Definition:** The cognitive process of repairing mental models. It operates through **Gap Filling** (inference) and **Conflict Detection** (repair) .
+The cognitive process of repairing mental models. It operates through **Gap Filling** (inference) and **Conflict Detection** (repair) .
+**Notes:** An established learning mechanism, but used here as a **practical technique**, thus #Method.
 **Relations:**
 - Link to **Alpha-Function** (Relation: `Cognitive Equivalent Of`).
 - Link to **Reflective Prompting** (Relation: `Core Mechanism Of`).

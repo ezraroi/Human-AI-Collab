@@ -7,13 +7,20 @@ Tag:
     - Human Stance
     - Boundary Condition
     - Metacognition
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - cognitive-offloading.md
     - judgment-expertise-boundary.md
     - recursive-pattern-verification-loop.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T17:17:34Z"
 Created by:
     - Roi Ezra
@@ -110,3 +117,5 @@ Collapse is visible through:
     Clarifies what AI may scaffold vs. what must remain internal.   
 - **[Cognitive Offloading](cognitive-offloading.md)** — *Distinguishes From*   
     Offloading is permitted only when symbolic processing stays within the human.   
+   
+**Notes:** The stance that maintains authorship, prevents PSB, and protects relational ontology.   

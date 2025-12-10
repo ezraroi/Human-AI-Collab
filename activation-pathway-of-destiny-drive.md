@@ -3,8 +3,14 @@
 Object type:
     - Concept
 Tag:
-    - NoteBook 7 - Phenomenological Layer
-Status: Done
+ 
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-06T11:29:23Z"
 Created by:
     - Roi Ezra
@@ -84,3 +90,5 @@ It preserves the distinction between:
 - system-enabled articulation (emergent)   
    
 And provides a structural vocabulary for identifying where the pathway is blocked or collapsing.   
+   
+**Notes:** Phenomenological arc explaining how Destiny Drive becomes articulated through systemic conditions.   

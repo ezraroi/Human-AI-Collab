@@ -4,9 +4,15 @@ Object type:
     - Concept
 Tag:
     - NoteBook 5 - Dynamic Operations
+    - 'Domain: Synthesis'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - selected-fact.md
-Status: Done
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T16:50:23Z"
 Created by:
     - Roi Ezra

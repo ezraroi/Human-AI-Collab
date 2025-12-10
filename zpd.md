@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - The Spatial & Temporal Mechanics
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - lev-vygotsky.md
@@ -26,7 +29,10 @@ Backlinks:
     - dialogical-and-embodied-frameworks-an-integrat.md
     - functional-alterity.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T11:51:28Z"
 Created by:
     - Roi Ezra
@@ -53,4 +59,4 @@ Provides the **active workspace** in which alpha-function can operate. Translati
 - Linked to **[Alpha-Function](alpha-function.md)** (site of ignition)   
 [Lev Vygotsky](lev-vygotsky.md)    
    
-   
+**Notes:** Active relational space where α-function ignites under optimal tension + scaffolding.   

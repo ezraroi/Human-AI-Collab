@@ -4,6 +4,10 @@ Object type:
     - Concept
 Tag:
     - The Pathology Objects (The Diagnosis)
+    - 'Domain: Phenomenology'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
+    - 'Operational Flags: Pathology'
 Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - section-5-the-category-error-relational-axis-f.md
@@ -14,7 +18,10 @@ Backlinks:
     - the-integrated-circuit-board.md
     - recursive-pattern-verification-loop.md
     - protein-shake-brain-psb.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-06T09:28:18Z"
 Created by:
     - Roi Ezra
@@ -45,6 +52,7 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - The user assigns the AI an interpersonal role (friend, therapist, mentor).   
 - Emotional scaffolding is outsourced → relational boundaries collapse.   
    
+**Notes:** Structural misclassification that collapses Axis A.   
 ### Wiring (Relations)   
 - **Part Of:** [Two-Axis Framework](two-axis-framework.md) (Axis A failure)   
 - **Contributes To:** [Cognitive Dependency](cognitive-dependency.md)   

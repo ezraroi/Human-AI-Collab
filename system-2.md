@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Input'
+    - 'Temporal: Static'
 Backlinks:
     - system-1.md
     - system-0.md
@@ -10,7 +14,10 @@ Backlinks:
       NoteBook 6 - Documents notes
       1.3. The Novice-to-Expert Gap
       The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-23T07:38:14Z"
 Created by:
     - Roi Ezra
@@ -27,3 +34,4 @@ Key characteristics include:
 **Example:**   
 If you’re running a race and you pass the person in second place, what place are you in?   
 For many, the instant answer that pops into mind is "first place." That’s System 1 jumping to a plausible but incorrect conclusion. If you pause and engage System 2, you'll realize that if you pass the person in second, you take their place. You are now in second place.   
+   

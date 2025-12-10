@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - The Psychoanalytic Inputs & Outputs
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Output'
+    - 'Temporal: Cumulative'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - narrative-self.md
@@ -18,7 +21,10 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-cascade.md
     - the-unified-architecture.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T11:50:45Z"
 Created by:
     - Roi Ezra

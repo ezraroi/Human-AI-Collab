@@ -2,7 +2,12 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
-Status: Done
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'Temporal: Static'
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Research Status: Evergreen
 Creation date: "2025-11-23T10:07:03Z"
 Created by:
     - Roi Ezra

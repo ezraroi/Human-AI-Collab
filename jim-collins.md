@@ -2,10 +2,15 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
+Tag:
+    - 'Domain: Technical'
+    - 'Temporal: Static'
 Backlinks:
     - section-6-the-complete-system-architecture.md
     - the-flywheel.md
-Status: Done
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Research Status: Evergreen
 Creation date: "2025-11-22T11:19:11Z"
 Created by:
     - Roi Ezra

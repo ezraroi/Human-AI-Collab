@@ -4,9 +4,14 @@ Object type:
     - Concept
 Tag:
     - NoteBook 5 - Dynamic Operations
+    - 'Domain: CognitiveScience'
+    - 'System Role: Pathology'
 Backlinks:
     - human.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T16:52:59Z"
 Created by:
     - Roi Ezra
@@ -22,4 +27,4 @@ id: bafyreiavxalnq4r73p7bckqdu7ypdybn3u2m2mdybberk2vbxrzsfr7ma4
 - Link to **[Human](human.md)** (Relation: `Risk Factor For`).   
    
    
-   
+**Notes:** Human loses the global goal; AI cannot provide teleology.   

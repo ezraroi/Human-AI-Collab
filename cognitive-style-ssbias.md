@@ -2,13 +2,21 @@
 # yaml-language-server: $schema=schemas/research_gap.schema.json
 Object type:
     - Research Gap
+Tag:
+    - 'Domain: Methodology'
+    - 'Temporal: Static'
+    - 'Operational Flags: Paradox'
+    - Meta-Framework
 Backlinks:
     - |-
       NoteBook 6 - Documents notes
       1.3. The Novice-to-Expert Gap
       The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
+Research Status: Drafting
+Origin Domain:
+    - Qualitative Research Methodology
 Gap Status: Unanswered
-Status: Done
+Resolution Strategy: Generalizability & Comparative Cases
 Creation date: "2025-11-22T15:57:04Z"
 Created by:
     - Roi Ezra
@@ -18,7 +26,7 @@ Links:
 Emoji: ❓
 id: bafyreibumaemolp7wfh4zryzfosxahz4tqkhcyddskihxel6u7owtrmwie
 ---
-# Cognitive Style Bias   
+# Cognitive Style §Bias   
 The risk that this system is an "elite capability" that only works for people who already possess high meta-cognitive capacity and systems-thinking skills .   
 **Relations:**   
 - Link to **[Human](human.md)** (Relation: `Dependency On`).   
@@ -46,3 +54,5 @@ While the ultimate status is Unanswered, the sources do suggest that the system'
 - **The Baseline Requirement:** Even with this mitigation, the process fundamentally relies on the human exercising **epistemological humility**—the willingness to doubt both the AI output and one's own self-perception. The ability to perform **verification** against lived experience is identified as the core requirement.   
    
 The sources conclude that the research needs to **"distinguish universal mechanisms from contingent applications"** and set **"clear boundaries on who this works for"**, confirming the gap's status as actively under investigation but currently unresolved.   
+   
+**Notes:** A structural, unresolved methodological question about generalizability.   

@@ -4,9 +4,15 @@ Object type:
     - Concept
 Tag:
     - NoteBook 5 - Dynamic Operations
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - extended-mind-hypothesis-hec.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-23T07:07:14Z"
 Created by:
     - Roi Ezra

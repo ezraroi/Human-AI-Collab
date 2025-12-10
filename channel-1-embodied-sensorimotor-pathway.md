@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - The Embodiment (The Missing Link)
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - embodied-simulation.md
     - document-abstract.md
@@ -11,6 +14,7 @@ Backlinks:
     - what-this-means-for-your-paper.md
     - metabolic-activation.md
     - reflective-awareness.md
+    - anterior-insular-cortex-aic.md
     - maurice-merleau-ponty.md
     - questions-your-synthesis-raises.md
     - critical-connection-4-how-ai-dialogue-produces.md
@@ -42,7 +46,10 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - synthesizing-notebook-1-and-notebook-2.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T14:23:11Z"
 Created by:
     - Roi Ezra
@@ -79,4 +86,4 @@ It provides **friction, pacing, and affective response** to symbolic material an
     - Influences [**C** (Capacity)](c-capacity.md) by determining when symbolic material becomes *owned meaning*.   
     - Governs part of the metabolic loop constrained by **\|D – C\|**, as friction defines actual difficulty.   
    
-   
+**Notes:** Embodied friction, pacing, somatic verification; core metabolic channel.   

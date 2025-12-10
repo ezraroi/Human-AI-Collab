@@ -4,8 +4,15 @@ Object type:
     - Concept
 Tag:
     - NoteBook 6 - Cognitive Mechanics
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - identity-stakes.md
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-12-06T09:16:29Z"
 Created by:
     - Roi Ezra
@@ -41,4 +48,4 @@ It specifies the **three necessary conditions** for disembodied symbols to becom
 - **Feeds:** [Recursive Metabolic Loop](recursive-metabolic-loop.md)   
 - **Failure Mode:** [PSB](protein-shake-brain-psb.md) (when activation conditions are absent)   
    
-   
+**Notes:** Determines whether symbolic material becomes metabolically active (FA + ZPD + Identity Stakes).   

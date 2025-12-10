@@ -3,8 +3,14 @@
 Object type:
     - Concept
 Tag:
-    - NoteBook 7 - Phenomenological Layer
-Status: Done
+ 
+    - 'Domain: Phenomenology'
+    - 'System Role: Input'
+    - 'Temporal: Dynamic'
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-28T11:36:17Z"
 Created by:
     - Roi Ezra
@@ -23,4 +29,4 @@ id: bafyreiajosdubxldaf7l5yzn4hwpw6icikhxg6j7lugkofd57wuewu3ps4
 - Link to **[Human](human.md)** (Relation: `Core Aspect Of`).   
 - Link to [Narrative Self](narrative-self.md)  (Relation: `Distinct From`).   
    
-   
+**Notes:** Tacit sense of “I am”; source of embodied verification.   

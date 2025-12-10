@@ -2,9 +2,16 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Input'
+    - 'Temporal: Static'
 Backlinks:
     - ii-the-novelty-of-the-specific-mechanisms.md
-Status: Done
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:39:30Z"
 Created by:
     - Roi Ezra
@@ -26,4 +33,4 @@ Key characteristics include:
 **Relations:**   
 - Link to **[Beta-Elements](beta-elements.md)** (Relation: `Pre-processes`).   
    
-   
+**Notes:** AI as external cognition; part of cognitive framing.   

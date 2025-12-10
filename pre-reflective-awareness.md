@@ -3,10 +3,16 @@
 Object type:
     - Concept
 Tag:
-    - NoteBook 7 - Phenomenological Layer
+ 
+    - 'Domain: Phenomenology'
+    - 'System Role: Input'
+    - 'Temporal: Dynamic'
 Backlinks:
     - maurice-merleau-ponty.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-28T11:35:18Z"
 Created by:
     - Roi Ezra
@@ -26,3 +32,5 @@ id: bafyreiemum6lmncpex4tvibg3e5pefh3grk2xkhdjmwe5dfybzbcdfjzqa
 **Relations:**   
 - Link to **[Maurice Merleau-Ponty](maurice-merleau-ponty.md)** (Relation: `Defined By`).   
 - Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: `Neural Substrate Of`).   
+   
+**Notes:** Immediate tacit awareness; maps to Channel 1.   

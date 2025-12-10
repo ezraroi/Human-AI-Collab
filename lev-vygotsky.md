@@ -3,7 +3,8 @@
 Object type:
     - Theorist
 Tag:
-    - The Foundational Trio (The "Engine Design")
+    - 'Domain: CognitiveScience'
+    - 'Temporal: Static'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - document-abstract.md
@@ -28,7 +29,10 @@ Backlinks:
     - dialogical-and-embodied-frameworks-an-integrat.md
     - zpd.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+    - Dialogical Self Theory & Linguistics
+Research Status: Evergreen
 Creation date: "2025-11-22T11:08:32Z"
 Created by:
     - Roi Ezra

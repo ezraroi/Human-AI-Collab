@@ -2,12 +2,19 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - judgment-expertise-boundary.md
     - recursive-pattern-verification-loop.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T15:58:11Z"
 Created by:
     - Roi Ezra

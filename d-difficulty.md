@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/research_component.schema.json
 Object type:
     - Research Component
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Input'
+    - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - reflective-prompting.md
@@ -26,7 +30,10 @@ Backlinks:
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: In Progress
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T10:04:09Z"
 Created by:
     - Roi Ezra
@@ -42,3 +49,4 @@ id: bafyreidbddvjsfzardtkld75akrvm56puxfr44p2mevmwwqjrl4ycdhciq
 **System Goal:** To maintain a "[Productive Epistemic Tension](productive-epistemic-tension.md)" where $D$ slightly exceeds C.   
 **Pathology:** In "[Protein Shake Brain](protein-shake-brain-psb.md)," D collapses to 0 because the AI provides answers before the user struggles.   
 [P(alpha) (Probability of Growth)](p-alpha-probability-of-growth.md)    
+   

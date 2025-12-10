@@ -3,10 +3,16 @@
 Object type:
     - Concept
 Tag:
-    - NoteBook 7 - Phenomenological Layer
+ 
+    - 'Domain: Phenomenology'
+    - 'System Role: Input'
+    - 'Temporal: Dynamic'
 Backlinks:
     - maurice-merleau-ponty.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-28T11:35:47Z"
 Created by:
     - Roi Ezra

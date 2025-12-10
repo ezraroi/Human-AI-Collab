@@ -17,13 +17,15 @@ def load_schemas(schemas_dir: Path) -> dict[str, dict]:
             schema = json.load(f)
             type_name = schema.get("title", "")
             if type_name:
+                props = schema.get("properties", {})
                 schemas[type_name] = {
                     "file": schema_file.name,
                     "plural": schema.get("x-plural", type_name + "s"),
                     "properties": [
-                        prop for prop, details in schema.get("properties", {}).items()
+                        prop for prop, details in props.items()
                         if not details.get("x-hidden", False)
-                    ]
+                    ],
+                    "has_epistemic_status": "Epistemic Status" in props
                 }
     return schemas
 
@@ -110,6 +112,19 @@ def format_list(items: list) -> str:
     return ", ".join(str(item) for item in items)
 
 
+EPISTEMIC_STATUS_SHORT = {
+    "Empirical Claim: Testable biological or mechanical hypotheses": "Empirical",
+    "Literature: Established academic fact": "Literature",
+    "Experiential: Grounded in N=1 phenomenology/felt sense": "Experiential",
+    "Theoretical Framework: Structuring ideas/axioms": "Theoretical",
+}
+
+
+def get_epistemic_short(status: str) -> str:
+    """Convert verbose epistemic status to short form for token efficiency."""
+    return EPISTEMIC_STATUS_SHORT.get(status, status)
+
+
 def strip_markdown_links(text: str) -> str:
     """Remove markdown links, keeping only the display text.
 
@@ -190,11 +205,24 @@ def consolidate_files(root_dir: Path, schemas: dict, output_dir: Path):
 
             lines.append(f"## [{type_name.upper()}] {title}")
 
-            # Tags on same line if present (compact)
+            # Build compact metadata line: [EpistemicStatus] Tags
+            meta_parts = []
+
+            # Add epistemic status if schema supports it and value exists
+            if schema_info.get("has_epistemic_status"):
+                epistemic = metadata.get("Epistemic Status", "")
+                if epistemic:
+                    short_status = get_epistemic_short(epistemic)
+                    meta_parts.append(f"[{short_status}]")
+
+            # Add tags
             tags = metadata.get("Tag", [])
             if tags:
                 tag_str = format_list(tags) if isinstance(tags, list) else tags
-                lines.append(f"Tags: {tag_str}")
+                meta_parts.append(tag_str)
+
+            if meta_parts:
+                lines.append(" ".join(meta_parts))
 
             # Body content (strip the title since we already have it)
             body_lines = body.split("\n")

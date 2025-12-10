@@ -2,9 +2,16 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
 Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:05:49Z"
 Created by:
     - Roi Ezra
@@ -23,4 +30,4 @@ Treating [AI](ai.md) as this (a "[Piagetian](jean-piaget.md) Object") is key to 
 - Link to **[AI](ai.md)** (Relation: `Definition Of`).   
 - Link to **[Jean Piaget](jean-piaget.md)** (Relation: `Based On`).   
    
-   
+**Notes:** The classification of AI/journal as tools extending cognition; core to avoiding Category Error.   

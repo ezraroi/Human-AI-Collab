@@ -2,10 +2,17 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-08T17:39:33Z"
 Created by:
     - Roi Ezra
@@ -28,4 +35,4 @@ The discriminative capacity to distinguish between tasks that require **judgment
 - Requires → [MetaCognition](metacognition.md); [Epistemological Humility](epistemological-humility.md).   
 - Supported by → [Iron Man Mentality](iron-man-mentality.md)   
    
-   
+**Notes:** Structural boundary protecting authorship; used in RP Phase 3.   

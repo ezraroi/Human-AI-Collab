@@ -2,10 +2,17 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - cognitive-dependency.md
     - category-error.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-06T09:21:10Z"
 Created by:
     - Roi Ezra
@@ -38,3 +45,5 @@ It is the commitment to **embodied verification** over symbolic convenience.
     - Touch Grass Protocol (boundary management)   
 - **Guards Against:** [Cognitive Dependency](cognitive-dependency.md)   
 - **Supports:** Channel 1 activation and Alpha-Function engagement   
+   
+**Notes:** Volitional stance of refusing symbolic bypass; protects against PSB.   

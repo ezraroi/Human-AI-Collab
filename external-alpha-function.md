@@ -4,6 +4,10 @@ Object type:
     - Concept
 Tag:
     - The Embodiment (The Missing Link)
+    - 'Domain: Synthesis'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
     - reflective-prompting.md
     - parity-principle-pp.md
@@ -14,7 +18,10 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - alpha-function-integrating-dialogical-and-embo.md
     - dialogical-and-embodied-frameworks-an-integrat.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T15:17:48Z"
 Created by:
     - Roi Ezra

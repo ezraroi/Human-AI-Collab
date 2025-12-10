@@ -2,6 +2,11 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Scaffolding'
+    - 'Operational Flags: Core'
+    - 'Temporal: Dynamic'
 Backlinks:
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - d-w-winnicott.md
@@ -10,6 +15,10 @@ Backlinks:
     - s_e-emotional-scaffolding.md
     - the-unified-architecture.md
     - the-recursive-third-intelligence-system-archit.md
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Drafting
 Creation date: "2025-11-22T10:15:40Z"
 Created by:
     - Roi Ezra
@@ -29,3 +38,4 @@ In the context of psychoanalytic treatment, the **analyst's attention and consis
 **Definition:** The non-negotiable prerequisite of psychological safety (represented by **[$S\_e$](s_e-emotional-scaffolding.md)**).   
 **Function:** Protects the psyche from impingement, allowing the "[True Self](true-self.md)" to emerge.   
    
+**Notes:** Winnicott’s foundational precondition for Sₑ.   

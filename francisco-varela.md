@@ -3,10 +3,15 @@
 Object type:
     - Theorist
 Tag:
-    - NoteBook 7 - Phenomenological Layer
+ 
+    - 'Domain: Phenomenology'
+    - 'Temporal: Static'
 Backlinks:
     - digital-neurophenomenology.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+    - Philosophy of Technology & Phenomenology
+Research Status: Evergreen
 Creation date: "2025-11-28T12:52:34Z"
 Created by:
     - Roi Ezra

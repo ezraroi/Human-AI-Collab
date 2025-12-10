@@ -3,12 +3,16 @@
 Object type:
     - Theorist
 Tag:
-    - NoteBook 7 - Phenomenological Layer
+ 
+    - 'Domain: Phenomenology'
+    - 'Temporal: Static'
 Backlinks:
     - alpha-elements.md
     - beta-elements.md
     - alpha-function.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Research Status: Evergreen
 Creation date: "2025-11-28T11:57:03Z"
 Created by:
     - Roi Ezra

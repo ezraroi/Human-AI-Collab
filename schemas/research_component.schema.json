@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-09:type-6921888960de23efb249f095:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-10:type-6921888960de23efb249f095:ver-1.0",
   "type": "object",
   "title": "Research Component",
   "x-app": "Anytype",
@@ -29,29 +29,28 @@
     },
     "Tag": {
       "examples": [
-        "Verification",
-        "The Spatial \u0026 Temporal Mechanics",
-        "The Foundational Trio (The \"Engine Design\")",
-        "The Structural Framework",
-        "The Embodiment (The Missing Link)",
-        "Epistemic Safety",
-        "The AI-Specific Roles",
-        "Boundary Condition",
-        "NoteBook 8 - Methodology Defense",
-        "The Psychoanalytic Inputs \u0026 Outputs",
-        "Processing Failure",
-        "The \"Hardware\"",
-        "Metacognition",
-        "Metabolism",
-        "NoteBook 7 - Phenomenological Layer",
-        "New Concept",
-        "NoteBook 5 - Dynamic Operations",
-        "Not Sure Yet",
-        "Document",
-        "Human Stance",
-        "NoteBook 6 - Cognitive Mechanics",
-        "The Dialogical \u0026 Embodied Layer (The \"System\")",
-        "The Pathology Objects (The Diagnosis)"
+        "Temporal: Dynamic",
+        "Domain: Bio-Embodied",
+        "Meta-Framework",
+        "System Role: Scaffolding",
+        "Operational Flags: BoundaryCondition",
+        "Domain: Phenomenology",
+        "Domain: Technical",
+        "Temporal: Cumulative",
+        "System Role: Meta",
+        "Temporal: Static",
+        "Domain: Methodology",
+        "Domain: Synthesis",
+        "Domain: CognitiveScience",
+        "System Role: Input",
+        "Operational Flags: Core",
+        "System Role: Method",
+        "System Role: Mechanism",
+        "Operational Flags: Paradox",
+        "Domain: Psychoanalytic",
+        "System Role: Pathology",
+        "System Role: Output",
+        "Operational Flags: Pathology"
       ],
       "items": {
         "type": "string"
@@ -74,18 +73,47 @@
       "x-key": "backlinks",
       "x-order": 3
     },
-    "Status": {
-      "description": "Task status",
+    "Origin Domain": {
+      "examples": [
+        "Artificial Intelligence (Tech \u0026 Management)",
+        "Qualitative Research Methodology",
+        "Developmental Psychology \u0026 Learning Theory",
+        "Cognitive Science \u0026 Embodied Cognition",
+        "Neurobiology \u0026 Neuroscience",
+        "Dialogical Self Theory \u0026 Linguistics",
+        "Philosophy of Technology \u0026 Phenomenology",
+        "Psychoanalysis"
+      ],
+      "items": {
+        "type": "string"
+      },
+      "type": "array",
+      "x-format": "tag",
+      "x-key": "69383c5560de2303fa5b8b84",
+      "x-order": 4
+    },
+    "Epistemic Status": {
       "enum": [
-        "Done",
-        "Pending",
-        "In Review",
-        "In Progress"
+        "Empirical Claim: Testable biological or mechanical hypotheses",
+        "Literature: Established academic fact",
+        "Experiential: Grounded in N=1 phenomenology/felt sense",
+        "Theoretical Framework: Structuring ideas/axioms"
       ],
       "type": "string",
       "x-format": "status",
-      "x-key": "status",
-      "x-order": 4
+      "x-key": "69383bef60de2303fa5b8b7f",
+      "x-order": 5
+    },
+    "Research Status": {
+      "enum": [
+        "Evergreen",
+        "Drafting",
+        "Seed"
+      ],
+      "type": "string",
+      "x-format": "status",
+      "x-key": "69383afd60de2303fa5b8b7a",
+      "x-order": 6
     },
     "Influenced By": {
       "items": {
@@ -97,7 +125,7 @@
       "x-object-types": [
         "bafyreih2fkw57y3zgem5bjpsog7qyv5mwntl2et3yxn35nmywthdjfzuqa"
       ],
-      "x-order": 5
+      "x-order": 7
     },
     "Creation date": {
       "description": "Date when the object was initially created",
@@ -106,7 +134,7 @@
       "type": "string",
       "x-format": "date",
       "x-key": "createdDate",
-      "x-order": 6
+      "x-order": 8
     },
     "Created by": {
       "description": "Human which created this object",
@@ -120,7 +148,7 @@
       "x-object-types": [
         "bafyreihzpwrbovhmciqk72asnhnozdpz5ew5rwizrqhhvlxzhzujt6uoha"
       ],
-      "x-order": 7
+      "x-order": 9
     },
     "Links": {
       "description": "Outgoing links",
@@ -131,7 +159,7 @@
       "type": "array",
       "x-format": "object",
       "x-key": "links",
-      "x-order": 8
+      "x-order": 10
     },
     "Last modified date": {
       "description": "Date when the object was modified last time",
@@ -141,7 +169,7 @@
       "x-format": "date",
       "x-hidden": true,
       "x-key": "lastModifiedDate",
-      "x-order": 9
+      "x-order": 11
     },
     "Last modified by": {
       "description": "Human who updated the object last time",
@@ -156,7 +184,7 @@
       "x-object-types": [
         "bafyreihzpwrbovhmciqk72asnhnozdpz5ew5rwizrqhhvlxzhzujt6uoha"
       ],
-      "x-order": 10
+      "x-order": 12
     },
     "Last opened date": {
       "description": "Date when the object was modified last opened",
@@ -166,14 +194,14 @@
       "x-format": "date",
       "x-hidden": true,
       "x-key": "lastOpenedDate",
-      "x-order": 11
+      "x-order": 13
     },
     "Emoji": {
       "type": "string",
       "x-format": "emoji",
       "x-hidden": true,
       "x-key": "iconEmoji",
-      "x-order": 12
+      "x-order": 14
     },
     "Image": {
       "description": "Path to the file in the export",
@@ -181,14 +209,14 @@
       "x-format": "file",
       "x-hidden": true,
       "x-key": "iconImage",
-      "x-order": 13
+      "x-order": 15
     },
     "Cover image or color": {
       "type": "string",
       "x-format": "longtext",
       "x-hidden": true,
       "x-key": "coverId",
-      "x-order": 14
+      "x-order": 16
     }
   }
 }

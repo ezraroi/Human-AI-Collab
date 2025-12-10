@@ -2,9 +2,15 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'Temporal: Static'
 Backlinks:
     - section-1-introduction-and-framework-positioning.md
-Status: Done
+Origin Domain:
+    - Qualitative Research Methodology
+    - Developmental Psychology & Learning Theory
+Research Status: Evergreen
 Creation date: "2025-11-22T11:18:27Z"
 Created by:
     - Roi Ezra

@@ -5,12 +5,19 @@ Object type:
 Tag:
     - The AI-Specific Roles
     - The Pathology Objects (The Diagnosis)
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Pathology'
 Backlinks:
     - section-5-the-category-error-relational-axis-f.md
     - simulated-safety-s_e_sim.md
     - category-error.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T11:55:02Z"
 Created by:
     - Roi Ezra
@@ -33,3 +40,5 @@ Key Points
 - **Beyond Therapy:** The SSS dynamic extends beyond the clinical setting. People often place figures like gurus, charismatic leaders, or even institutions in the position of the "subject supposed to know," deferring their own critical thought and truth-seeking to an external authority.   
 [S\_e (Emotional Scaffolding)](s_e-emotional-scaffolding.md)    
 [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)    
+   
+**Notes:** AI misperceived as epistemic authority; fuels Category Error & dependency.   

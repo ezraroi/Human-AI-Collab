@@ -2,6 +2,9 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'Temporal: Static'
 Backlinks:
     - destiny-drive.md
     - identity-stakes.md
@@ -11,7 +14,9 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-cascade.md
     - the-unified-architecture.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Research Status: Evergreen
 Creation date: "2025-11-22T11:16:41Z"
 Created by:
     - Roi Ezra

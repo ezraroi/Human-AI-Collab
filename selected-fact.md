@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - NoteBook 5 - Dynamic Operations
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Output'
+    - 'Temporal: Dynamic'
 Backlinks:
     - |-
       NoteBook 6 - Documents notes
@@ -11,7 +14,10 @@ Backlinks:
       The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
     - 3-the-mechanism-catalytic-externalization.md
     - the-recursive-third-intelligence-system-archit.md
-Status: In Review
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Seed
 Creation date: "2025-11-22T16:50:55Z"
 Created by:
     - Roi Ezra
@@ -19,6 +25,7 @@ Links:
     - beta-elements.md
     - wilfred-bion.md
     - catalytic-externalization.md
+Emoji: "\U0001F4A1"
 id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 ---
 # Selected Fact   
@@ -29,4 +36,4 @@ id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 - Link to **[Beta-Elements](beta-elements.md)** (Relation: `Organizes`).   
 - Link to **[Catalytic Externalization](catalytic-externalization.md)** (Relation: `Outcome Of`).   
    
-   
+**Notes:** Meaning-organizing insight precipitated by catalytic externalization.   

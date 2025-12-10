@@ -2,7 +2,14 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
-Status: Done
+Tag:
+    - 'Domain: Phenomenology'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T14:42:17Z"
 Created by:
     - Roi Ezra

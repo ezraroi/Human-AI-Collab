@@ -4,10 +4,16 @@ Object type:
     - Method
 Tag:
     - NoteBook 6 - Cognitive Mechanics
+    - 'Domain: Methodology'
+    - 'System Role: Method'
+    - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
     - metabolic-discipline.md
-Status: In Progress
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Research Status: Drafting
 Creation date: "2025-11-23T12:51:39Z"
 Created by:
     - Roi Ezra
@@ -16,6 +22,7 @@ Links:
     - felt-sense.md
     - journal.md
     - hsced-hermeneutic-single-case-efficacy-design.md
+Emoji: "\U0001F6E0️"
 id: bafyreiat4xbdomf4nfou7n2d5rcshasyqeviqh6rzvkzxth6fy7ziflhjm
 ---
 # 4Ps Protocol   
@@ -27,6 +34,7 @@ This protocol serves as the **Phenomenological Validity Criteria** for the resea
 3. **Process (Control):** Acts as **Process Tracing**. Documenting the steps of logic.   
 4. **Possess (Evaluation):** Acts as **Ecological Validity**. Checking if the insight holds up in "real life" (Concrete Grounding).   
    
+**Notes:** A procedural, metacognitive cycle; used as a validity scaffold within sessions.   
 **Relations:**   
 - Link to **[Reflective Prompting](reflective-prompting.md)** (Relation: `Operational Steps Of`).   
 - Link to **[Felt Sense](felt-sense.md)** (Relation: `Used in 'Possess' Step`).   

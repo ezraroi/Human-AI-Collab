@@ -4,6 +4,9 @@ Object type:
     - Research Component
 Tag:
     - The "Hardware"
+    - 'Domain: Technical'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - subject-supposed-to-know-sss.md
@@ -51,7 +54,10 @@ Backlinks:
     - dialogical-and-embodied-frameworks-an-integrat.md
     - functional-alterity.md
     - the-recursive-third-intelligence-system-archit.md
-Status: In Progress
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T11:44:15Z"
 Created by:
     - Roi Ezra
@@ -65,6 +71,7 @@ id: bafyreiduvwnxxdh5tkqau4xtt3vzihogofkeqwx6ahjd3onsi46eelgogy
 Functions as a **Calibrated Antagonist**. It uses In-Context Learning not to 'bond,' but to maintain the optimal tension ($\|D-C\|$) required for the [Alpha Function.](alpha-function.md)   
 Technical Architecture: Large Language Model (LLM).   
 **Role:** **Cognitive Mirror**.   
+**Notes:** Technical MKO, provides S\_t and Functional Alterity; it’s a dynamic support structure, not the engine itself.   
 **Modes:**   
 - **Mode A (Expert):** Provides structure for Gap Filling.   
 - **Mode B (Novice):** Feigns ignorance to force Model Repair .   

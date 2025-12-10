@@ -4,6 +4,10 @@ Object type:
     - Research Component
 Tag:
     - The "Hardware"
+    - 'Domain: Synthesis'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
+    - 'Operational Flags: Core'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - narrative-self.md
@@ -33,7 +37,6 @@ Backlinks:
     - critical-distinctions.md
     - d-w-winnicott.md
     - section-7-the-three-layer-architecture-tempora.md
-    - aba-design-withdrawal-phase.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -67,7 +70,10 @@ Backlinks:
     - dialogical-and-embodied-frameworks-an-integrat.md
     - the-recursive-third-intelligence-system-archit.md
     - why-this-matters-the-stakes.md
-Status: In Progress
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T11:45:23Z"
 Created by:
     - Roi Ezra
@@ -135,6 +141,9 @@ The Journal stabilizes Sₑ by reducing internal chaos and capturing metabolized
 - **Absent journaling increases Sₑ drain**, because nothing is “put down,” leaving the psyche to hold unprocessed complexity alone.   
    
 Thus, journaling is a qualitative regulator of emotional scaffolding.   
+   
+**Notes:** As you already defined: **Journal = Scaffolding**, entries = Output. The object we’re tagging is the **infrastructure**.   
+   
 **Relations:**   
 - **Part Of:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture).   
 - **Feeds:** [Capacity (C)](c-capacity.md) through recursive materialization.   

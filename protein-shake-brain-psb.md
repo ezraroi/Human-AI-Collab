@@ -5,6 +5,11 @@ Object type:
 Tag:
     - The Pathology Objects (The Diagnosis)
     - Processing Failure
+    - 'Domain: Synthesis'
+    - 'System Role: Pathology'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
+    - 'Operational Flags: Pathology'
 Backlinks:
     - subject-supposed-to-know-sss.md
     - reflective-prompting.md
@@ -52,7 +57,10 @@ Backlinks:
     - critical-connection-2-felt-sense-channel-1-alp.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T10:05:08Z"
 Created by:
     - Roi Ezra
@@ -155,4 +163,6 @@ The denominator collapses; the formula does not compute. This is PSB's mathemati
 - [AIC](anterior-insular-cortex-aic.md) disengagement (no interoceptive prediction error)   
 - [HPA-axis](hpa-axis.md) dysregulation (counterfeit S\_e stress)   
    
-\*\*Tags:\*\**Pathology • Processing Failure • Embodiment Bypass • Counterfeit Scaffolding • Formula Collapse • False-Self Cascade • Cognitive Atrophy*   
+   
+**Notes:** Channel 1 offline; Channel 2-only consumption; collapse of metabolism.   
+   

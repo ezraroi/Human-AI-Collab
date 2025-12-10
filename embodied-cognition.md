@@ -2,12 +2,18 @@
 # yaml-language-server: $schema=schemas/research_gap.schema.json
 Object type:
     - Research Gap
+Tag:
+    - 'Domain: Bio-Embodied'
+    - 'Temporal: Static'
+    - Meta-Framework
 Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - the-recursive-third-intelligence-system-archit.md
+Research Status: Evergreen
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
 Gap Status: Resolved
-Resolution Strategy: As-If Body Loop
-Status: Done
+Resolution Strategy: As-If Body Loop, Two-Channel Embodied Simulation Model
 Creation date: "2025-11-22T14:02:05Z"
 Created by:
     - Roi Ezra
@@ -49,3 +55,5 @@ The process of verifying the simulated body state is mediated by a specific neur
 - The AIC detects **Prediction Error**. A **"tight"** feeling is the AIC/Salience Network detecting a cognitive conflict or prediction error (incoherence), while a **"spacious"** feeling is the signal of *resolution* and successful integration.   
    
 Therefore, the theoretical gap is **Resolved** because the sources provide the complete mechanism: disembodied text (Channel 2) is converted into embodied knowing (Channel 1) via the **As-If Body Loop**, which is consciously verified through the **Felt Sense** (the conscious output of the **AIC**).   
+   
+**Notes:** Resolved by As-If Body Loop + AIC; conceptual integration issue, not system function.   

@@ -2,9 +2,16 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - alpha-function-integrating-dialogical-and-embo.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T15:19:14Z"
 Created by:
     - Roi Ezra
@@ -24,3 +31,4 @@ It is hypothesized that **predictions are embodied simulations of sensory motor 
 - Link to **[Channel 2 (Symbolic)](channel-2-symbolic.md)** (Relation: `Triggered By`).   
    
    
+**Notes:** Words → sensorimotor activation; substrate for Channel 1 engagement.   

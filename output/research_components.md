@@ -6,11 +6,12 @@ AI, Boundary Condition (The Manic Episode), C (Capacity), D (Difficulty), Human,
 ---
 
 ## [RESEARCH COMPONENT] AI
-Tags: The "Hardware"
+[Theoretical] The "Hardware", Domain: Technical, System Role: Scaffolding, Temporal: Dynamic
 
 Functions as a **Calibrated Antagonist**. It uses In-Context Learning not to 'bond,' but to maintain the optimal tension ($\|D-C\|$) required for the Alpha Function.
 Technical Architecture: Large Language Model (LLM).
 **Role:** **Cognitive Mirror**.
+**Notes:** Technical MKO, provides S\_t and Functional Alterity; it’s a dynamic support structure, not the engine itself.
 **Modes:**
 - **Mode A (Expert):** Provides structure for Gap Filling.
 - **Mode B (Novice):** Feigns ignorance to force Model Repair .
@@ -24,13 +25,14 @@ S\_t (Technical Scaffolding)
 ---
 
 ## [RESEARCH COMPONENT] Boundary Condition (The Manic Episode)
-Tags: NoteBook 8 - Methodology Defense
+[Experiential] NoteBook 8 - Methodology Defense, Domain: Synthesis, System Role: Mechanism, Temporal: Dynamic, Operational Flags: Pathology, Operational Flags: BoundaryCondition
 
 A documented state of instability where the subject experiences sleep deprivation, grandiosity, and a "felt sense" of discovery that lacks grounding.
 Significance:
 This is Critical Evidence for the validity of the formula. It represents the specific failure mode where (Safety/Container) is depleted, but $\\|D-C\\|$ (Difficulty) remains high.
 The Logic:
 If the model were fake, removing safety would do nothing. Because removing safety causes a predictable pathology (Mania), the model's claim about the necessity of is structurally validated.
+**Notes:** It’s a *research-methodological* boundary condition *and* a system failure mode. Domain = Synthesis (psychoanalytic + neuro + system model). I keep it in **Mechanism** because it *operationally tests* the model, not just describes an outcome.
 **Relations:**
 - Link to **S\_e (Emotional Scaffolding)** (Relation: `Caused by Depletion Of`).
 - Link to **D (Difficulty)** (Relation: `Caused by Unrecognized Excess Of`).
@@ -38,6 +40,7 @@ If the model were fake, removing safety would do nothing. Because removing safet
 ---
 
 ## [RESEARCH COMPONENT] C (Capacity)
+[Theoretical] Domain: CognitiveScience, Temporal: Cumulative, System Role: Output
 
 **Definition:** The learner's current psychic structure, skills, and store of processed alpha-elements.
 **Dynamics:**
@@ -50,6 +53,7 @@ P(alpha) (Probability of Growth)
 ---
 
 ## [RESEARCH COMPONENT] D (Difficulty)
+[Theoretical] Domain: CognitiveScience, System Role: Input, Temporal: Dynamic
 
 **Definition:** The complexity of the task, idea, or emotional experience. It represents the "load" of unprocessed beta-elements.
 **System Goal:** To maintain a "Productive Epistemic Tension" where $D$ slightly exceeds C.
@@ -59,7 +63,7 @@ P(alpha) (Probability of Growth)
 ---
 
 ## [RESEARCH COMPONENT] Human
-Tags: The "Hardware"
+[Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
 
 **Role:** The Architect.
 **Definition:** "Holds the **Non-Myopic Awareness** (Global Goal). Because the AI is myopic (predicting the next token), the Human must provide the teleology and detect 'Teleological Drift' ."
@@ -68,6 +72,7 @@ Provides
 - Embodied experience (though currently under-theorized)
 - The subject whose C actually grows
 
+**Notes:** The *role* “Human as Architect / Container” is a structural constant in the model; their **C** is cumulative, but the **component object** is a static role definition and part of the support architecture.
 
 Alpha-Function
 S\_e (Emotional Scaffolding)
@@ -77,7 +82,7 @@ S\_e (Emotional Scaffolding)
 ---
 
 ## [RESEARCH COMPONENT] Journal
-Tags: The "Hardware"
+[Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
 
 **Definition:** The materialized output of reflective AI dialogue. It is the **infrastructure for continuity** (Chronotope) and the **substrate for pattern recognition**.
 **Critical Distinction:** "Not a diary. Not a transcript. Not a memory aid." .
@@ -128,6 +133,9 @@ The Journal stabilizes Sₑ by reducing internal chaos and capturing metabolized
 - **Absent journaling increases Sₑ drain**, because nothing is “put down,” leaving the psyche to hold unprocessed complexity alone.
 
 Thus, journaling is a qualitative regulator of emotional scaffolding.
+
+**Notes:** As you already defined: **Journal = Scaffolding**, entries = Output. The object we’re tagging is the **infrastructure**.
+
 **Relations:**
 - **Part Of:** Integrated Circuit Board (Axis B architecture).
 - **Feeds:** Capacity (C) through recursive materialization.
@@ -141,6 +149,7 @@ Thus, journaling is a qualitative regulator of emotional scaffolding.
 ---
 
 ## [RESEARCH COMPONENT] P(alpha) (Probability of Growth)
+[Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core, Operational Flags: Paradox, Meta-Framework
 
 **Full Formula:**P(alpha) = (S\_e (Emotional Scaffolding) \* S\_t (Technical Scaffolding) ) /  \| D (Difficulty)  - C (Capacity) \|.
 **Definition:** The probability of successful Alpha-Function activation—the metabolic process of transforming raw experience into meaningful.
@@ -155,6 +164,7 @@ Mathematically, if the numerator ($S\_e$) drops to zero, the Probability of Grow
 However, in a Manic state, the user hallucinates that $P(\alpha)$ is infinite.
 Conclusion:
 The Manic Episode validates the formula by demonstrating that Technical Scaffolding ($S\_t$) alone cannot sustain growth without Emotional Scaffolding ($S\_e$). When $S\_e$ is removed, the equation collapses, exactly as predicted.
+**Notes:** This is a **meta-formula / architecture definition**, not a mechanism or input. It organizes the system.
 **Relations:**
 - Link to **Boundary Condition (The Manic Episode)** (Relation: `Predicted By`).
 The Formula: Architecture Definition
@@ -162,6 +172,7 @@ The Formula: Architecture Definition
 ---
 
 ## [RESEARCH COMPONENT] S\_e (Emotional Scaffolding)
+[Theoretical] Domain: Psychoanalytic, System Role: Scaffolding, Temporal: Dynamic
 
 - **Definition:** Represents the "holding environment"—the degree of safety, trust, and attuned containment in the relationship.
 - **Formula Role:** A multiplier. If $S\_e = 0$, the entire probability of growth becomes zero ($0 \* S\_t$), regardless of technical competence.
@@ -169,29 +180,38 @@ The Formula: Architecture Definition
 - **Theoretical Basis:**
     - Winnicott: "Holding Environment"
     - Bion: "Container" / "Reverie"
+
+
+**Notes:** Comes from Winnicott/Bion; it fluctuates over time during sessions, so dynamic scaffolding.
 P(alpha) (Probability of Growth)
 
 ---
 
 ## [RESEARCH COMPONENT] S\_t (Technical Scaffolding)
+[Theoretical] Domain: Technical, System Role: Scaffolding, Temporal: Dynamic
 
 **Definition:** The instructional, guiding, and structuring aspects of support.
 **System Role:** Provided by the **AI**. Unlike human mentors, this can be modulated in real-time (e.g., "explain like I'm 5" vs. "technical depth").
-**Theoretical Basis:** Vygotsky’s "More Knowledgeable Other" (competence side)
+**Theoretical Basis:** Vygotsky’s "More Knowledgeable Other" (competence side).
+**Notes:** Provided by AI, modulated in real time (“explain like I’m 5”, etc.).
 P(alpha) (Probability of Growth)
 
 ---
 
 ## [RESEARCH COMPONENT] Time
+[Theoretical] Domain: Synthesis, System Role: Scaffolding, Temporal: Cumulative
 
 **Operates on two scales**
 - Short-term: S\_e recovery (within/between sessions)
 - Long-term: C integration and evolution (actual developmental change)
+
+**Notes:** Time is the medium that allows consolidation and C-growth; not a mechanism itself but the **temporal scaffold**.
 Recursive Metabolic Loop
 
 ---
 
 ## [RESEARCH COMPONENT] Two-Axis Framework
+[Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core, Meta-Framework
 
 The Two-Axis Framework is the **structural map** that organizes all success modes and failure modes in the Third Intelligence system.
 It consists of:
@@ -231,5 +251,7 @@ If Axis A fails (Category Error), the entire circuit board is **bypassed**: AI b
     - Cognitive Dependency
 - **Defines:** Systemic success vs. systemic collapse boundaries
 - **Supports:** Methodological validation of single-case transformation
+
+**Notes:** The *top-level organizing schema* for all transformation and failure modes.
 
 ---

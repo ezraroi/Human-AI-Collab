@@ -4,12 +4,19 @@ Object type:
     - Concept
 Tag:
     - The Pathology Objects (The Diagnosis)
+    - 'Domain: Phenomenology'
+    - 'System Role: Pathology'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Pathology'
 Backlinks:
     - metabolic-discipline.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
     - category-error.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-06T09:14:29Z"
 Created by:
     - Roi Ezra
@@ -36,3 +43,5 @@ It emerges when the user **misclassifies the AI as a Subject** (Category Error) 
 - **Results In:** [False True Self](false-true-self.md) (loss of authorship)   
 - **Inhibited By:** [Metabolic Discipline](metabolic-discipline.md)   
 - **Mapped By:** Two-Axis Framework   
+   
+**Notes:** Axis A + Axis B failure at the same time.   

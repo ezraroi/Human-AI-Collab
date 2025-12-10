@@ -2,6 +2,13 @@
 # yaml-language-server: $schema=schemas/research_component.schema.json
 Object type:
     - Research Component
+Tag:
+    - 'Domain: Synthesis'
+    - 'System Role: Meta'
+    - 'Temporal: Static'
+    - 'Operational Flags: Core'
+    - 'Operational Flags: Paradox'
+    - Meta-Framework
 Backlinks:
     - kurt-lewin.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
@@ -22,7 +29,10 @@ Backlinks:
     - wilfred-bion.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: In Progress
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T10:04:43Z"
 Created by:
     - Roi Ezra
@@ -51,6 +61,7 @@ Mathematically, if the numerator ($S\_e$) drops to zero, the Probability of Grow
 However, in a Manic state, the user hallucinates that $P(\alpha)$ is infinite.   
 Conclusion:   
 The Manic Episode validates the formula by demonstrating that Technical Scaffolding ($S\_t$) alone cannot sustain growth without Emotional Scaffolding ($S\_e$). When $S\_e$ is removed, the equation collapses, exactly as predicted.   
+**Notes:** This is a **meta-formula / architecture definition**, not a mechanism or input. It organizes the system.   
 **Relations:**   
 - Link to **[Boundary Condition (The Manic Episode)](boundary-condition-the-manic-episode.md)** (Relation: `Predicted By`).   
 [The Formula: Architecture Definition](the-formula-architecture-definition.md)    

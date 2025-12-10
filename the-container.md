@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
 Backlinks:
     - reverie.md
     - 4-the-system-architecture-v2-0.md
@@ -10,7 +14,10 @@ Backlinks:
     - hpa-axis.md
     - s_e-emotional-scaffolding.md
     - wilfred-bion.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T12:00:51Z"
 Created by:
     - Roi Ezra

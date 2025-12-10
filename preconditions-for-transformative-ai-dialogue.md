@@ -2,7 +2,14 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
-Status: Done
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-08T17:48:45Z"
 Created by:
     - Roi Ezra
@@ -36,4 +43,4 @@ Public-facing materials sometimes **popularize** these under the “ESCAPE” mn
 - Required for →[ Reflective Prompting](reflective-prompting.md); [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md); other high-stakes AI-dialogue methods.   
 - When absent → High risk of [PSB](protein-shake-brain-psb.md), [Cognitive Debt](cognitive-debt.md), and [Category Error.](category-error.md)   
    
-   
+**Notes:** Baseline capacities required for reflective transformation.   

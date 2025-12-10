@@ -4,7 +4,13 @@ Object type:
     - Concept
 Tag:
     - The Structural Framework
-Status: Done
+    - 'Domain: Synthesis'
+    - 'System Role: Meta'
+    - 'Temporal: Static'
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T15:02:35Z"
 Created by:
     - Roi Ezra
@@ -32,4 +38,4 @@ id: bafyreihkalohylof3a4m4abxu43bgx7wu4v2advq7qwxmgfkrkdbw3hnha
 | III. Feedback/Verification ([Gendlin](eugene-gendlin.md)) |                                [Felt Sense](felt-sense.md) (spacious vs. tight) provides embodied validation of truth. |              [Anterior Insular Cortex (AIC) ](anterior-insular-cortex-aic.md)(The interoceptive hub, processing prediction error). |
 |   IV. Expression/Agency ([Bollas](christopher-bollas.md)) |       [Destiny Drive](destiny-drive.md) is activated, translating unthought potential (idiom) into expressive reality. |        Practice-Dependent Neuroplasticity and Systems Consolidation (creating stable, long-term identity change in the neocortex). |
 
-   
+**Notes:** The convergence of all layers: safety, processing, verification, agency.   

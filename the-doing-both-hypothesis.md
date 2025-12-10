@@ -3,10 +3,15 @@
 Object type:
     - Research Gap
 Tag:
-    - NoteBook 7 - Phenomenological Layer
+ 
+    - 'Domain: Bio-Embodied'
+    - 'Temporal: Static'
+    - Meta-Framework
+Research Status: Drafting
+Origin Domain:
+    - Neurobiology & Neuroscience
 Gap Status: Hypothesized
-Resolution Strategy: ""
-Status: In Progress
+Resolution Strategy: Simultaneous DMN–FPN Activation (Triple Network State)
 Creation date: "2025-11-28T13:02:28Z"
 Created by:
     - Roi Ezra
@@ -55,3 +60,5 @@ Despite its comprehensive theoretical nature, the hypothesis is classified as Hy
 Therefore, the hypothesis is fully articulated and integrated into the model, but the crucial empirical data required to move it from the realm of the plausible to the resolved is currently missing.   
  --- 
 **Analogy:** The "Doing Both" Hypothesis is like designing a hybrid engine for transformation. The design requires the combustion engine (FPN/Logic) and the electric battery (DMN/Self-Simulation) to run at full power simultaneously—a state that typically causes the system to overheat or fail. We have the successful performance metrics (transformation outcome) and the complete blueprint (the Triple Network Model mapping), but we still lack the specialized sensors (neuroimaging data) to verify that the components are firing together exactly as predicted under load.   
+   
+**Notes:** Hypothesized neurobiological state of Third Intelligence.   

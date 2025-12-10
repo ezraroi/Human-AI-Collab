@@ -4,13 +4,19 @@ Object type:
     - Concept
 Tag:
     - New Concept
+    - 'Domain: Synthesis'
+    - 'System Role: Meta'
+    - 'Temporal: Static'
 Backlinks:
     - journal.md
     - conclusion-on-novelty-and-contribution.md
     - two-axis-framework.md
     - as-if-body-loop.md
     - alpha-function.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:40:28Z"
 Created by:
     - Roi Ezra
@@ -129,4 +135,4 @@ Sₑ therefore acts as the system’s qualitative “power regulator,” determi
     - Disembodied pseudo-clarity (if As-If Body Loop is offline)   
     - “Insight with no consequences” (if Journal is absent)   
    
-   
+**Notes:** Architectural map of Axis B (processing). Defines the wiring between Channel 2 → As-If Loop → Channel 1 → Alpha-Function → Journal → Time.   

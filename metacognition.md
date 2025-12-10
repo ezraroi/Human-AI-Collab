@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - NoteBook 6 - Cognitive Mechanics
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
     - 5-the-embodied-connection.md
@@ -14,7 +17,10 @@ Backlinks:
     - high-resolution-uncertainty.md
     - judgment-expertise-boundary.md
     - 1-executive-summary.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-23T10:33:00Z"
 Created by:
     - Roi Ezra
@@ -43,4 +49,4 @@ Flavell's model generally separates metacognition into two core functions:
 2. **Metacognitive Regulation (Control of Cognition):** This refers to the active control processes and skills involved in executing and modifying cognitive activities in relation to achieving a goal. This is sometimes referred to as metacognitive skills.   
 [Reflective Prompting](reflective-prompting.md)    
    
-   
+**Notes:** Monitoring + regulation; essential for Reflective Prompting & RP-V Loop.   
