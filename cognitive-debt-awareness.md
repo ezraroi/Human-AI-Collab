@@ -2,9 +2,16 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-08T17:49:20Z"
 Created by:
     - Roi Ezra
@@ -23,4 +30,4 @@ The metacognitive capacity to **notice** when [Cognitive Debt](cognitive-debt.md
 - Supports → Decision to engage [Reflective Prompting](reflective-prompting.md) instead of transactional use.   
 - Acts as early warning signal for → [PSB](protein-shake-brain-psb.md) risk and symbolic erosion.   
    
-   
+**Notes:** Early warning for symbolic bypass; metacognitive signal before PSB.   

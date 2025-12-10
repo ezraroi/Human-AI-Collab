@@ -3,8 +3,15 @@
 Object type:
     - Concept
 Tag:
-    - NoteBook 7 - Phenomenological Layer
-Status: Done
+ 
+    - 'Domain: Phenomenology'
+    - 'System Role: Method'
+    - 'Temporal: Static'
+    - Meta-Framework
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-28T12:53:00Z"
 Created by:
     - Roi Ezra
@@ -21,6 +28,7 @@ id: bafyreicpcmh5xy6zuhcl3l4qwnfmayxxmq4uxf5oyehsmsz3l5szfx7rcu
 - **3rd-Person (3P):** The  provides the structural, logical, and objective constraint (the "mapmaker").
 The Mechanism: **Mutual Circulation**. Transformation occurs not in one side, but in the reciprocal constraints between the messy subjectivity of the user and the rigid structure of the AI.   
    
+**Notes:** Methodological stance integrating 1P + 3P through AI mediation.   
 **Relations:**   
 - Link to [Third Intelligence](third-intelligence.md)  (Relation: `Methodology Of`).   
 - Link to [**Francisco Varela** ](francisco-varela.md)(Relation: `Derived From` )   

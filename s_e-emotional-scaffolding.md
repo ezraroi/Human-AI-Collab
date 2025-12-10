@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/research_component.schema.json
 Object type:
     - Research Component
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - subject-supposed-to-know-sss.md
@@ -40,7 +44,10 @@ Backlinks:
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: In Progress
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Influenced By:
     - holding-environment.md
 Creation date: "2025-11-22T10:03:34Z"
@@ -63,6 +70,8 @@ id: bafyreih4gisd4ro24y4jhojfyg5xarzmfr7sxznqni5w4lpw67ctc2tfqi
 - **Theoretical Basis:**   
     - [Winnicott](d-w-winnicott.md): "[Holding Environment](holding-environment.md)"    
     - [Bion](wilfred-bion.md): "[Container](the-container.md)" / "[Reverie](reverie.md)"    
-[P(alpha) (Probability of Growth)](p-alpha-probability-of-growth.md)    
    
+   
+**Notes:** Comes from Winnicott/Bion; it fluctuates over time during sessions, so dynamic scaffolding.   
+[P(alpha) (Probability of Growth)](p-alpha-probability-of-growth.md)    
    

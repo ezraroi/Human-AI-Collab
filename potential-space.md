@@ -4,10 +4,16 @@ Object type:
     - Concept
 Tag:
     - NoteBook 5 - Dynamic Operations
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - dynamic-transitional-object-dto.md
     - functional-thirdness.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T16:48:53Z"
 Created by:
     - Roi Ezra
@@ -23,4 +29,4 @@ id: bafyreig57nzehuxgkasfluqfzuhyjqhfv3sf6oaj3ragy34zczderkzr2i
 - Link to **[D.W. Winnicott](d-w-winnicott.md)** (Relation: `Originator`).   
 - Link to **[True Self](true-self.md)** (Relation: `Required For`).   
    
-   
+**Notes:** Winnicott’s enabling field for play & generativity.   

@@ -4,11 +4,17 @@ Object type:
     - Concept
 Tag:
     - NoteBook 5 - Dynamic Operations
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - iron-man-mentality.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - flow-optimization-principle.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T17:19:17Z"
 Created by:
     - Roi Ezra
@@ -32,3 +38,5 @@ Use AI when in **[High Resolution Uncertainty](high-resolution-uncertainty.md)**
 **🔗 Relations (The Wiring):   
 - **Link to:** `[Extended Mind Hypothesis (HEC)](extended-mind-hypothesis-hec.md)` (Relation: *Mechanism Of*).   
 - **Link to:** `[Iron Man Mentality](iron-man-mentality.md)` (Relation: *Optimizes*).   
+   
+**Notes:** Offloading reduces extraneous load; dangerous if metabolization is offloaded.   

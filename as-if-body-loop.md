@@ -2,6 +2,9 @@
 # yaml-language-server: $schema=schemas/biological_substrate.schema.json
 Object type:
     - Biological Substrate
+Tag:
+    - 'Domain: Bio-Embodied'
+    - 'Temporal: Static'
 Backlinks:
     - embodied-simulation.md
     - journal.md
@@ -25,9 +28,13 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - dialogical-and-embodied-frameworks-an-integrat.md
-Status: Done
+Origin Domain:
+    - Neurobiology & Neuroscience
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Empirical Claim: Testable biological or mechanical hypotheses'
+Research Status: Evergreen
 Neural Basis Of:
-    - alpha-function.md
+    - felt-sense.md
 Creation date: "2025-11-22T13:36:23Z"
 Created by:
     - Roi Ezra
@@ -43,6 +50,7 @@ Links:
     - category-error.md
     - anterior-insular-cortex-aic.md
     - Channel 1 (Sensorimotor)
+    - felt-sense.md
 Emoji: "\U0001F9EC"
 id: bafyreif3nf5do4owsxhnt6riumtjpqe6rcfvncoc2v6d7kpzbetrm5v3fq
 ---
@@ -105,4 +113,5 @@ Sₑ therefore governs *whether* the Loop can activate, even when symbolic input
 - Link to **[Channel 2 (Symbolic)](channel-2-symbolic.md)** (Relation: `Connects To`).   
 - Link to **[Alpha-Function](alpha-function.md)** (Relation: `Mechanism Of`).   
    
+**Notes:** Mechanism for simulation of bodily states; underpins embodied simulation & felt sense.   
    

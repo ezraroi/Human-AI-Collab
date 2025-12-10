@@ -2,13 +2,19 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
+Tag:
+    - 'Domain: Bio-Embodied'
+    - 'Temporal: Static'
 Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - somatic-marker-hypothesis.md
     - recursive-metabolic-loop.md
     - as-if-body-loop.md
     - unified-architecture-neurobiological-resolutio.md
-Status: Done
+Origin Domain:
+    - Neurobiology & Neuroscience
+    - Cognitive Science & Embodied Cognition
+Research Status: Evergreen
 Creation date: "2025-11-22T13:55:43Z"
 Created by:
     - Roi Ezra

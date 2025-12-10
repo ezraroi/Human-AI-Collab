@@ -4,10 +4,16 @@ Object type:
     - Concept
 Tag:
     - NoteBook 6 - Cognitive Mechanics
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - self-explanation.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-23T12:56:17Z"
 Created by:
     - Roi Ezra
@@ -27,4 +33,4 @@ id: bafyreibomhzmkaxzupfpykx4gg2t774gainvbqb46o3jrwjuwbhb64uvha
 - Link to **[AI](ai.md)** (Relation: `Triggered by Mode B (Novice)`).   
 - Link to **[Felt Sense](felt-sense.md)** (Relation: `Signals Need For` - *Note: Conflict often feels "Tight"*).   
    
-   
+**Notes:** Mode B of Alpha-Function; triggered by AI Mode B (Novice).   

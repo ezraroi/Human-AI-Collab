@@ -6,12 +6,14 @@ Antonio Damasio, Christopher Bollas, D.W. Winnicott, Daniel Kahneman, Edmund Hus
 ---
 
 ## [THEORIST] Antonio Damasio
+Domain: Bio-Embodied, Temporal: Static
 
 **Antonio Damasio** is a highly influential neuroscientist and researcher known primarily for developing the **Somatic Marker Hypothesis (SMH)**, a theory that posits emotion-based, or "somatic," biasing signals generated from the body (or the brain's representation of the body) are essential for regulating reasoning and decision-making, particularly in situations of uncertainty. Damasio's work often centers on understanding how emotions and feelings are generated in the brain and how they contribute to consciousness. His research, often conducted with his colleagues, demonstrated that patients with damage to the **ventromedial prefrontal cortex (vmPFC)** exhibit severe deficits in emotional regulation and everyday decision-making, which he linked to an inability to use these somatic markers. His conceptualizations include the distinction between the physical **"body loop"** and the purely neural, predictive **"As-If Body Loop"** (which we discussed previously), enabling fast decision guidance by simulating bodily reactions internally. Damasio's research has utilized tools like the Iowa Gambling Task (IGT) to support the SMH, investigating how body-state changes (somatic markers) influence cognitive choices
 
 ---
 
 ## [THEORIST] Christopher Bollas
+Domain: Psychoanalytic, Temporal: Static
 
 Provides the **Motive Force**.
 ***Destiny Drive:** The innate urge of the True Self to articulate its potential.
@@ -31,7 +33,7 @@ Third Intelligence
 ---
 
 ## [THEORIST] D.W. Winnicott
-Tags: The Foundational Trio (The "Engine Design")
+The Foundational Trio (The "Engine Design"), Domain: Psychoanalytic, Temporal: Static
 
 Provides the **Outcome (True/False Self)** and the **Prerequisite (Safety)**.
 ***Holding Environment:** The non-negotiable need for safety ($S\_e$).
@@ -52,6 +54,7 @@ Protein Shake Brain (PSB)
 ---
 
 ## [THEORIST] Daniel Kahneman
+Domain: CognitiveScience, Temporal: Static
 
 According to Nobel laureate Daniel Kahneman in his influential book Thinking, Fast and Slow, our minds are governed by two distinct systems(System 1  and System 2 ). Understanding how they work is the first step toward more deliberate learning and decision-making.
 
@@ -67,7 +70,7 @@ Kahneman's research fundamentally changed multiple fields, including economics, 
 ---
 
 ## [THEORIST] Edmund Husserl
-Tags: NoteBook 7 - Phenomenological Layer
+Domain: Phenomenology, Temporal: Static
 
 Provides the Structure of Consciousness.
 Noesis/Noema/Hyle: The triadic structure of experience that parallels the Bionian metabolic process.
@@ -81,6 +84,7 @@ Notebook 7 identifies a direct structural homology between Husserl's triad and t
 ---
 
 ## [THEORIST] Eugene Gendlin
+Domain: Phenomenology, Temporal: Static
 
 Provides the **Embodied Feedback (UI)**.
 ***Felt Sense:** The somatic feedback mechanism for the Alpha-Function.
@@ -99,7 +103,7 @@ Recursive Metabolic Loop
 ---
 
 ## [THEORIST] Francisco Varela
-Tags: NoteBook 7 - Phenomenological Layer
+Domain: Phenomenology, Temporal: Static
 
 Provides the **Methodological Stance**.
 ***Neurophenomenology:*** The scientific research program aimed at bridging the "hard problem" by treating first-person experience (phenomenology) and third-person data (neuroscience) as mutually constraining.
@@ -111,7 +115,7 @@ Francisco Varela (1946–2001) was a Chilean biologist, philosopher, and neurosc
 ---
 
 ## [THEORIST] Hubert Hermans
-Tags: The Dialogical & Embodied Layer (The "System")
+The Dialogical & Embodied Layer (The "System"), Domain: Phenomenology, Temporal: Static
 
 Provides the **Continuity**.
 ***Dialogical Self Theory:** The self as a multiplicity of "I-positions".
@@ -129,6 +133,7 @@ His work is considered an alternative to traditional individualistic and rationa
 ---
 
 ## [THEORIST] Jacques Lacan
+Domain: Psychoanalytic, Temporal: Static
 
 Jacques Lacan (1901–1981) was a highly controversial and influential French psychoanalyst, psychiatrist, and philosopher, often called "the most controversial psycho-analyst since Freud". He sought a "return to Freud" but reinterpreted Freud’s work using linguistics, philosophy, and mathematics, radically reshaping psychoanalytic theory.
 Key Contributions
@@ -146,7 +151,7 @@ Lacan remains a dominant, albeit difficult, figure in modern psychoanalysis, con
 ---
 
 ## [THEORIST] Jean Piaget
-Tags: The Structural Framework
+The Structural Framework, Domain: CognitiveScience, Temporal: Static
 
 Provides the **"Channel 1" Distinction**.
 - **Object vs. Subject:** Used to define the "Category Error." The AI is a Piagetian **Object** (tool) mistakenly treated as a Vygotskian **Subject**.
@@ -168,6 +173,7 @@ Protein Shake Brain (PSB)
 ---
 
 ## [THEORIST] Jim Collins
+Domain: Technical, Temporal: Static
 
 Jim Collins is an American researcher, author, and speaker who studies what makes great companies successful. He founded a management laboratory in Colorado and is the author or co-author of several best-selling books, including *Good to Great* and *Built to Last*. His work focuses on identifying key principles behind long-term corporate success and applying them to business and social sector.
 Provides the **System Metaphor**.
@@ -176,6 +182,7 @@ Provides the **System Metaphor**.
 ---
 
 ## [THEORIST] John Flavell
+Domain: CognitiveScience, Temporal: Static
 
 John H. Flavell was a world-renowned American developmental psychologist and the Anne T. and Robert M. Bass Professor of Psychology, Emeritus, at Stanford University. He is widely considered the **founder of metacognition theory** and is credited with coining the term "metacognition" (thinking about thinking).
 His key contributions include:
@@ -189,6 +196,7 @@ Flavell received numerous honors, including the American Psychological Associati
 ---
 
 ## [THEORIST] Kurt Lewin
+Domain: CognitiveScience, Temporal: Static
 
 Provides the **Generative Heuristic**.
 **$B = f(P,E)$:** The inspiration for the non-computational, generative formula structure used in this system.
@@ -208,7 +216,7 @@ P(alpha) (Probability of Growth)
 ---
 
 ## [THEORIST] Lev Vygotsky
-Tags: The Foundational Trio (The "Engine Design")
+Domain: CognitiveScience, Temporal: Static
 
 Provides the **Social Mechanism**.
 ***Zone of Proximal Development (ZPD):** The arena where transformation occurs (mapped to the $\|D-C\|$ gap).
@@ -231,7 +239,7 @@ D (Difficulty)
 ---
 
 ## [THEORIST] Maurice Merleau-Ponty
-Tags: NoteBook 7 - Phenomenological Layer
+Domain: Phenomenology, Temporal: Static
 
 Provides the **Phenomenological Ground**.
 ***The "I Can":*** Defined pre-reflective awareness not as "I think," but as a bodily "I can."
@@ -244,7 +252,7 @@ Maurice Merleau-Ponty (1908–1961) was a French phenomenological philosopher wh
 ---
 
 ## [THEORIST] Mikhail Bakhtin
-Tags: The Dialogical & Embodied Layer (The "System")
+The Dialogical & Embodied Layer (The "System"), Domain: Phenomenology, Temporal: Static
 
 Provides the **Time-Space Context**.
 ***Chronotope:** The stable time-space provided by the **Journal**.
@@ -264,7 +272,7 @@ Bakhtin's ideas, largely unknown until after his death due to political repressi
 ---
 
 ## [THEORIST] Wilfred Bion
-Tags: The Foundational Trio (The "Engine Design")
+The Foundational Trio (The "Engine Design"), Domain: Psychoanalytic, Temporal: Static
 
 Provides the **Psychic Mechanism (The Engine)**.
 ***Alpha-Function:** The metabolic process of thinking ($P(\alpha)$).

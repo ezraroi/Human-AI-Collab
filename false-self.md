@@ -2,6 +2,11 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
+    - 'Operational Flags: Pathology'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - 5-the-embodied-connection.md
@@ -19,7 +24,10 @@ Backlinks:
     - false-true-self.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T11:50:07Z"
 Created by:
     - Roi Ezra
@@ -41,3 +49,5 @@ id: bafyreibr5b7zvdv3g3rxyhccn3wkfci2pvona5puyllerinqbdlvzhjzsm
     - **Pathological False Self:** In extreme cases (such as severe mental illness, narcissism, or addiction), the False Self dominates, almost completely hiding the True Self. The person may appear successful and capable but feels internally dead or unreal.   
    
 Ultimately, the False Self functions to protect the [True Self](true-self.md), allowing it to survive, but prevents it from "living" a full, authentic, and spontaneous life.   
+   
+**Notes:** Winnicott’s defensive construct.   

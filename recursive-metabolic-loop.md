@@ -2,6 +2,11 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Synthesis'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
     - document-abstract.md
     - destiny-drive.md
@@ -21,7 +26,10 @@ Backlinks:
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - wilfred-bion.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T10:05:19Z"
 Created by:
     - Roi Ezra

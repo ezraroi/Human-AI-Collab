@@ -2,13 +2,19 @@
 # yaml-language-server: $schema=schemas/research_gap.schema.json
 Object type:
     - Research Gap
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'Temporal: Static'
+    - Meta-Framework
 Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-cascade.md
     - the-recursive-third-intelligence-system-archit.md
+Research Status: Evergreen
+Origin Domain:
+    - Psychoanalysis
 Gap Status: Resolved
 Resolution Strategy: Psychoanalytic Cascade
-Status: Done
 Creation date: "2025-11-22T14:03:00Z"
 Created by:
     - Roi Ezra
@@ -49,3 +55,5 @@ Bollas provides the **Motive Force**.
 - The drive is activated only *after* the alpha-function has successfully metabolized experience.   
    
 **The unified sequence is: The Holding Environment (Container) enables the Alpha-Function (Processor) to activate, which in turn allows the Destiny Drive (Motive) to be expressed**. This cohesive sequence forms the core conceptual structure that is then mapped onto the neural networks in the subsequent research.   
+   
+**Notes:** Resolved by the Psychoanalytic Cascade. It organizes theory, not functioning components.   

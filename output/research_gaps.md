@@ -1,11 +1,12 @@
 # Research Gaps (6)
 
 ## Index
-Cognitive Style Bias, Dialogical Knowing, Embodied Cognition, Neuroscience of Transformation, Psychoanalytic Integration, The "Doing Both" Hypothesis
+Cognitive Style §Bias, Dialogical Knowing, Embodied Cognition, Neuroscience of Transformation, Psychoanalytic Integration, The "Doing Both" Hypothesis
 
 ---
 
-## [RESEARCH GAP] Cognitive Style Bias
+## [RESEARCH GAP] Cognitive Style §Bias
+Domain: Methodology, Temporal: Static, Operational Flags: Paradox, Meta-Framework
 
 The risk that this system is an "elite capability" that only works for people who already possess high meta-cognitive capacity and systems-thinking skills .
 **Relations:**
@@ -35,9 +36,12 @@ While the ultimate status is Unanswered, the sources do suggest that the system'
 
 The sources conclude that the research needs to **"distinguish universal mechanisms from contingent applications"** and set **"clear boundaries on who this works for"**, confirming the gap's status as actively under investigation but currently unresolved.
 
+**Notes:** A structural, unresolved methodological question about generalizability.
+
 ---
 
 ## [RESEARCH GAP] Dialogical Knowing
+Domain: Phenomenology, Temporal: Static, Meta-Framework
 
 The tension between Bakhtin's requirement for conscious alterity and the non-conscious nature of AI
 **The Resolution Link:**
@@ -67,9 +71,12 @@ Functional Alterity is operationalized by forcing the AI to act as a **Calibrate
 
 The resolution is further strengthened by the insight that the AI functions as a **Dynamic Transitional Object (DTO)**, a "Productive Fiction" that simulates social presence just enough to activate the user's social-cognitive machinery without establishing a false dependency. This externalization of the reflective split by the AI allows the human brain to perform the simultaneous processing required for transformation without suffering internal resource depletion.
 
+**Notes:** A philosophical tension (Bakhtin alterity vs non-conscious AI); resolved via Functional Alterity.
+
 ---
 
 ## [RESEARCH GAP] Embodied Cognition
+Domain: Bio-Embodied, Temporal: Static, Meta-Framework
 
 The paradox of how disembodied text triggers a physical, embodied verification.
 **The Resolution Link:**
@@ -103,9 +110,12 @@ The process of verifying the simulated body state is mediated by a specific neur
 
 Therefore, the theoretical gap is **Resolved** because the sources provide the complete mechanism: disembodied text (Channel 2) is converted into embodied knowing (Channel 1) via the **As-If Body Loop**, which is consciously verified through the **Felt Sense** (the conscious output of the **AIC**).
 
+**Notes:** Resolved by As-If Body Loop + AIC; conceptual integration issue, not system function.
+
 ---
 
 ## [RESEARCH GAP] Neuroscience of Transformation
+Domain: Bio-Embodied, Temporal: Static, Meta-Framework
 
 The lack of empirical neuroimaging data to prove the model. It remains a "testable hypothesis".
 **The Resolution Link:**
@@ -136,10 +146,12 @@ The **"plausible neurobiological substrate"** maps the psychological concepts on
 - **Transformation as Systems Consolidation:** The permanence and accumulation achieved by the Journal + Time components are mapped to **Systems Consolidation**, the process during NREM sleep where the Hippocampus replays insights to the Neocortex, making the new knowledge stable and permanent.
 
 The detailed nature of this model transforms the vague question of "neuroscience" into a **specific, testable framework**.
+**Notes:** Explicitly hypothesized; no imaging evidence yet.
 
 ---
 
 ## [RESEARCH GAP] Psychoanalytic Integration
+Domain: Psychoanalytic, Temporal: Static, Meta-Framework
 
 How to fit Winnicott, Bion, and Bollas into one coherent system.
 **The Resolution Link:**
@@ -170,10 +182,12 @@ Bollas provides the **Motive Force**.
 
 **The unified sequence is: The Holding Environment (Container) enables the Alpha-Function (Processor) to activate, which in turn allows the Destiny Drive (Motive) to be expressed**. This cohesive sequence forms the core conceptual structure that is then mapped onto the neural networks in the subsequent research.
 
+**Notes:** Resolved by the Psychoanalytic Cascade. It organizes theory, not functioning components.
+
 ---
 
 ## [RESEARCH GAP] The "Doing Both" Hypothesis
-Tags: NoteBook 7 - Phenomenological Layer
+Domain: Bio-Embodied, Temporal: Static, Meta-Framework
 
 **Definition:** The neurobiological hypothesis that the "Third Intelligence" state requires the simultaneous, paradoxical activation of two typically anti-correlated networks:
 1. **FPN (Central Executive):** To process the logical challenge and "mapmaking" of the AI.
@@ -213,5 +227,7 @@ Despite its comprehensive theoretical nature, the hypothesis is classified as Hy
 Therefore, the hypothesis is fully articulated and integrated into the model, but the crucial empirical data required to move it from the realm of the plausible to the resolved is currently missing.
  ---
 **Analogy:** The "Doing Both" Hypothesis is like designing a hybrid engine for transformation. The design requires the combustion engine (FPN/Logic) and the electric battery (DMN/Self-Simulation) to run at full power simultaneously—a state that typically causes the system to overheat or fail. We have the successful performance metrics (transformation outcome) and the complete blueprint (the Triple Network Model mapping), but we still lack the specialized sensors (neuroimaging data) to verify that the components are firing together exactly as predicted under load.
+
+**Notes:** Hypothesized neurobiological state of Third Intelligence.
 
 ---

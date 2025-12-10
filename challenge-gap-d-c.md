@@ -2,13 +2,20 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Input'
+    - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
     - iron-man-mentality.md
     - recursive-pattern-verification-loop.md
     - functional-alterity.md
     - zpd.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-06T13:52:55Z"
 Created by:
     - Roi Ezra
@@ -44,4 +51,4 @@ It is the **condition** of transformation, not the **arena** where transformatio
     (Alterity does not create the gap but influences how the user encounters it inside the ZPD.)   
 - **Appears In → [P(α) Formula](p-alpha-probability-of-growth.md) **   
    
-   
+**Notes:** Structural condition; pre-dialogical developmental tension.   

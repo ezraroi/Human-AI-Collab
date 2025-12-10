@@ -2,9 +2,15 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'Temporal: Static'
 Backlinks:
     - metacognition.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+    - Developmental Psychology & Learning Theory
+Research Status: Evergreen
 Creation date: "2025-11-23T10:10:51Z"
 Created by:
     - Roi Ezra

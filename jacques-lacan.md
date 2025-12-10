@@ -2,9 +2,15 @@
 # yaml-language-server: $schema=schemas/theorist.schema.json
 Object type:
     - Theorist
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'Temporal: Static'
 Backlinks:
     - subject-supposed-to-know-sss.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+    - Dialogical Self Theory & Linguistics
+Research Status: Evergreen
 Creation date: "2025-11-23T08:03:22Z"
 Created by:
     - Roi Ezra

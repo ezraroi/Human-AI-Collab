@@ -6,12 +6,19 @@ Tag:
     - Verification
     - Metabolism
     - Epistemic Safety
+    - 'Domain: Synthesis'
+    - 'System Role: Method'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - iron-man-mentality.md
     - epistemological-humility.md
     - cognitive-debt.md
-Status: Done
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Research Status: Drafting
 Creation date: "2025-11-22T14:41:39Z"
 Created by:
     - Roi Ezra
@@ -69,6 +76,7 @@ This recursive structure is [alpha-function](alpha-function.md) operating live.
 - **Topological repair** → prevents collapse into C2-only processing.   
 - **Boundary enforcement** → prevents [AI](ai.md) from being treated as Subject.   
    
+**Notes:** Although it is also a mechanism of Alpha-Function, it is best tagged as **Method** because it is a *protocol the user performs*. Mechanistic details live in Relations.   
 ## Relations (Wiring)   
 - **[Reflective Prompting](reflective-prompting.md)** — *Part Of*   
     This loop provides RP’s epistemic integrity.   

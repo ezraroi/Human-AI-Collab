@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - The AI-Specific Roles
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - lev-vygotsky.md
     - section-3-foundational-theoretical-integration.md
@@ -13,7 +16,10 @@ Backlinks:
     - s_t-technical-scaffolding.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - dialogical-and-embodied-frameworks-an-integrat.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T11:55:54Z"
 Created by:
     - Roi Ezra
@@ -34,4 +40,4 @@ Key points about the MKO:
 • The assistance provided by the MKO is a vital element for the learner to reach their **potential level of development**, particularly within the Zone of Proximal Development ([ZPD](zpd.md))   
 [S\_t (Technical Scaffolding)](s_t-technical-scaffolding.md)    
 [Lev Vygotsky](lev-vygotsky.md)    
-   
+**Notes:** AI as “more knowledgeable other” for Sₜ.   

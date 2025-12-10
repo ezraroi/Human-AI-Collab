@@ -2,13 +2,21 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
     - reflective-prompting.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - d-difficulty.md
     - functional-alterity.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:21:24Z"
 Created by:
     - Roi Ezra

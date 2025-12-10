@@ -3,10 +3,16 @@
 Object type:
     - Concept
 Tag:
-    - NoteBook 7 - Phenomenological Layer
+ 
+    - 'Domain: Phenomenology'
+    - 'System Role: Output'
+    - 'Temporal: Cumulative'
 Backlinks:
     - minimal-self.md
-Status: Done
+Origin Domain:
+    - Dialogical Self Theory & Linguistics
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-28T11:36:35Z"
 Created by:
     - Roi Ezra
@@ -24,4 +30,4 @@ id: bafyreia7a6o3j3io4mgcj4xy57i2muqvqr4pza3344xopwjkfehhf7i3hm
 - Link to `[Journal](journal.md)` (Relation: `Materialized In`).   
 - Link to  `[Destiny Drive](destiny-drive.md)` (Relation: `Reshaped By`).   
    
-   
+**Notes:** Identity-level narrative structure reshaped by α-function & Destiny Drive.   

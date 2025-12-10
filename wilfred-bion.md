@@ -4,6 +4,8 @@ Object type:
     - Theorist
 Tag:
     - The Foundational Trio (The "Engine Design")
+    - 'Domain: Psychoanalytic'
+    - 'Temporal: Static'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - alpha-elements.md
@@ -28,7 +30,9 @@ Backlinks:
     - the-unified-architecture.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Research Status: Evergreen
 Creation date: "2025-11-22T11:12:09Z"
 Created by:
     - Roi Ezra

@@ -6,7 +6,6 @@
 ---
 
 ## [PAGE] 4. The Neurophenomenological Parallel
-Tags: NoteBook 7 - Phenomenological Layer
 
 ### 4.1 The Structural Homology
 The model's approach to integrating Piaget and Vygotsky mirrors neurophenomenology's approach to integrating first-person experience and third-person neurobiology:

@@ -4,11 +4,15 @@ Object type:
     - Theorist
 Tag:
     - The Dialogical & Embodied Layer (The "System")
+    - 'Domain: Phenomenology'
+    - 'Temporal: Static'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - section-6-the-complete-system-architecture.md
     - section-11-the-dialogical-illusion-as-producti.md
-Status: Done
+Origin Domain:
+    - Dialogical Self Theory & Linguistics
+Research Status: Evergreen
 Creation date: "2025-11-22T11:15:38Z"
 Created by:
     - Roi Ezra

@@ -2,6 +2,11 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - alpha-elements.md
@@ -83,23 +88,30 @@ Backlinks:
     - synthesizing-notebook-1-and-notebook-2.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: In Progress
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T10:15:12Z"
 Created by:
     - Roi Ezra
 Links:
+    - beta-elements.md
+    - alpha-elements.md
     - edmund-husserl.md
     - protein-shake-brain-psb.md
     - as-if-body-loop.md
     - journal.md
     - c-capacity.md
+    - channel-2-symbolic.md
     - the-integrated-circuit-board.md
     - recursive-metabolic-loop.md
     - d-difficulty.md
+Emoji: "\U0001F4A1"
 id: bafyreifo53w4l4yis2pviyq3di4j2jmlznc4l2cy5ks5fltatd7e5sdlwy
 ---
 # Alpha-Function   
-**Definition:** The internal, embodied process of metabolizing raw, unthinkable experience (Beta-Elements) into thinkable thoughts (Alpha-Elements).   
+The internal, embodied process of metabolizing raw, unthinkable experience ([Beta-Elements](beta-elements.md)) into thinkable thoughts ([Alpha-Elements](alpha-elements.md)).   
 **Phenomenological Root ([Husserl](edmund-husserl.md)):** Maps to **Noesis**.
 This is the *subjective act* of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.   
 **System Role:** The "Engine" of the Third Intelligence. It is sparked by frustration ($\|D-C\|$).   
@@ -116,7 +128,7 @@ When Alpha-Function is offline or overwhelmed:
 - **[As-If Body Loop](as-if-body-loop.md)** loses its function: embodied signals are ignored → symbolic overrun emerges.   
 - **[Journal](journal.md)** becomes corrupted: entries are written without metabolization, producing pseudo-insight or thin narratives.   
 - **[Capacity (C)](c-capacity.md)** fails to accumulate: future \|D−C\| gaps are miscalibrated (either too small → stagnation, or too large → overwhelm).   
-- **Axis B collapses** into a Channel-2-only processing pattern → the hallmark of PSB.   
+- **Axis B collapses** into a [Channel-2](channel-2-symbolic.md)-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.   
    
 Alpha-Function failure therefore propagates through the entire circuit.   
 ### Phenomenology (How Alpha-Function Feels When Online vs Offline)   
@@ -137,14 +149,18 @@ Alpha-Function failure therefore propagates through the entire circuit.
 These phenomenological markers are the easiest way to detect Alpha engagement in real time.   
 ### Sₑ Dependency (Qualitative Energy Constraint)   
 Alpha-Function draws heavily on Sₑ — the system’s emotional capacity to tolerate frustration, uncertainty, and disruption.   
-- **High Sₑ:** Alpha can hold tension long enough to metabolize β-elements.   
+- **High Sₑ:** Alpha can hold tension long enough to metabolize [beta-elements](beta-elements.md).   
 - **Low Sₑ:** Alpha collapses into avoidance, symbolic bypass, or manic acceleration.   
 - **Sₑ depletion:** requires recovery periods (Touch Grass Protocol) to restore metabolic capacity.   
    
 Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material.   
+   
+   
+**Notes:** The engine of metabolism; Bion’s core mechanism in your system.   
+   
 **Wiring (Relations)**   
 - **Part Of:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture)   
-- **Requires:** As-If Body Loop for somatic input; sufficient Sₑ for frustration tolerance   
+- **Requires:**[ As-If Body Loop](as-if-body-loop.md) for somatic input; sufficient Sₑ for frustration tolerance   
 - **Feeds:** [Journal](journal.md) (metabolized α-elements)   
 - **Counteracted By:** [PSB](protein-shake-brain-psb.md) (when Alpha is bypassed)   
 - **Constrained By:** Axis A (Alpha cannot run properly if AI is treated as Subject)   

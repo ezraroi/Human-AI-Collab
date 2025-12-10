@@ -4,11 +4,17 @@ Object type:
     - Concept
 Tag:
     - NoteBook 5 - Dynamic Operations
+    - 'Domain: CognitiveScience'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - parity-principle-pp.md
     - the-large-language-model-as-dynamic-transition.md
     - cognitive-offloading.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T15:48:21Z"
 Created by:
     - Roi Ezra

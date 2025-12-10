@@ -2,9 +2,16 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Technical'
+    - 'System Role: Input'
+    - 'Temporal: Static'
 Backlinks:
     - alpha-elements.md
-Status: Done
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T14:26:31Z"
 Created by:
     - Roi Ezra
@@ -30,4 +37,4 @@ This is the precise analogy for the [Alpha-Element](alpha-elements.md).
        
 [AI](ai.md)    
    
-   
+**Notes:** Vector form of meaning; model-side mechanism used as analogy to alpha-elements.   

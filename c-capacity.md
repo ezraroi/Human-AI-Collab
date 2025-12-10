@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/research_component.schema.json
 Object type:
     - Research Component
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'Temporal: Cumulative'
+    - 'System Role: Output'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - reflective-prompting.md
@@ -33,7 +37,10 @@ Backlinks:
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
-Status: In Progress
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T10:04:31Z"
 Created by:
     - Roi Ezra
@@ -52,3 +59,4 @@ id: bafyreiftikuzjeqpfzcfexqgzomeyp54nz552pelqpqz6ogwbcylxctiiq
    
 **System Role:** This is the variable that actually grows. It resides in the **[Human](human.md)** subject   
 [P(alpha) (Probability of Growth)](p-alpha-probability-of-growth.md)    
+   

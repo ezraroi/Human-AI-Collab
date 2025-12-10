@@ -4,6 +4,9 @@ Object type:
     - Concept
 Tag:
     - The Dialogical & Embodied Layer (The "System")
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - embodied-simulation.md
     - document-abstract.md
@@ -28,6 +31,7 @@ Backlinks:
     - critical-connection-6-my-method-works-because-.md
     - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
+    - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - integrated-synthesis-of-psychological-developm.md
@@ -39,7 +43,10 @@ Backlinks:
     - ii-the-novelty-of-the-specific-mechanisms.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - synthesizing-notebook-1-and-notebook-2.md
-Status: Done
+Origin Domain:
+    - Dialogical Self Theory & Linguistics
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:37:38Z"
 Created by:
     - Roi Ezra
@@ -76,3 +83,6 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
     - Determines the[ **D** (Difficulty)](d-difficulty.md) component of \|D – C\|.   
     - Provides raw material converted to **α-elements** through Alpha-Function.   
 - **Connected Objects:** [AI](ai.md) (DTO); Functional Alterity; [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); Category Error; [PSB](protein-shake-brain-psb.md).   
+   
+   
+**Notes:** Symbolic input source; language-based meaning; AI’s entry point.   

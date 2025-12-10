@@ -2,9 +2,16 @@
 # yaml-language-server: $schema=schemas/method.schema.json
 Object type:
     - Method
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Method'
+    - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
-Status: Done
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Research Status: Drafting
 Creation date: "2025-12-08T17:44:35Z"
 Created by:
     - Roi Ezra
@@ -37,6 +44,7 @@ A micro-method for metabolic dialogue in which the human and AI iteratively co-a
     - AI produces an updated synthesis: “Here is what I now understand we’re doing.”   
     - Human checks against **felt sense** and task definition: if still off, another RRV cycle.   
    
+**Notes:** A cognitive micro-loop (externalize → refine → validate), but *operationalized* as a method.   
 ### Relations   
 - Embedded in → [Reflective Prompting](reflective-prompting.md).   
 - Uses → [Rubber Duck Debugging](rubber-duck-debugging.md), [MetaCognition](metacognition.md), [Felt Sense](felt-sense.md).   

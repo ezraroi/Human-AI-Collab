@@ -4,6 +4,8 @@ Object type:
     - Theorist
 Tag:
     - The Structural Framework
+    - 'Domain: CognitiveScience'
+    - 'Temporal: Static'
 Backlinks:
     - cognitive-artifact.md
     - document-abstract.md
@@ -17,7 +19,10 @@ Backlinks:
     - integrated-synthesis-of-psychological-developm.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+    - Cognitive Science & Embodied Cognition
+Research Status: Evergreen
 Creation date: "2025-11-22T11:17:23Z"
 Created by:
     - Roi Ezra

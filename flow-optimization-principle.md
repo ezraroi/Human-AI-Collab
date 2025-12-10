@@ -4,9 +4,15 @@ Object type:
     - Concept
 Tag:
     - NoteBook 6 - Cognitive Mechanics
+    - 'Domain: CognitiveScience'
+    - 'System Role: Meta'
+    - 'Temporal: Static'
 Backlinks:
     - 3-the-metric-of-growth-high-resolution-uncerta.md
-Status: Done
+Origin Domain:
+    - Developmental Psychology & Learning Theory
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-23T12:52:59Z"
 Created by:
     - Roi Ezra

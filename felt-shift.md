@@ -4,9 +4,15 @@ Object type:
     - Concept
 Tag:
     - The Embodiment (The Missing Link)
+    - 'Domain: Phenomenology'
+    - 'System Role: Output'
+    - 'Temporal: Dynamic'
 Backlinks:
     - internally-persuasive-discourse.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-23T07:57:56Z"
 Created by:
     - Roi Ezra
@@ -19,3 +25,4 @@ It is characterized by:
 • **A Physical Release:** It is experienced as a palpable "loosening," "coming unstuck," or "uncramping" in the body, often accompanied by a deep breath or a sigh of relief.   
 • **A Change in Meaning:** The shift signals that the body-mind has moved a step forward; the problem or situation is physically felt differently, often opening up new possibilities or perspectives that logic alone could not provide.   
 • **Resonance:** It typically happens when a word, image, or thought matches the felt sense perfectly (resonates), causing the body to signal "Yes, that is it"   
+**Notes:** Event-like somatic confirmation that meaning matched.   

@@ -2,9 +2,16 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Bio-Embodied'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - neuroscience-of-transformation.md
-Status: Done
+Origin Domain:
+    - Neurobiology & Neuroscience
+Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'
+Research Status: Evergreen
 Creation date: "2025-11-22T14:19:22Z"
 Created by:
     - Roi Ezra

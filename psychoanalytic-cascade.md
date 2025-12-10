@@ -4,9 +4,15 @@ Object type:
     - Concept
 Tag:
     - New Concept
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Meta'
+    - 'Temporal: Static'
 Backlinks:
     - psychoanalytic-integration.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Drafting
 Creation date: "2025-11-22T14:07:45Z"
 Created by:
     - Roi Ezra
@@ -34,7 +40,7 @@ Simply and shortly, the generative cascade is the three-step sequence of necessa
    
 The entire sequence is summarized as: **The Holding Environment (Container) enables the Alpha-Function (Processor) to activate, which in turn allows the Destiny Drive (Motive) to be expressed**.   
 A separate, related concept is the **psychodynamic cascade**, which is the **diagnostic model** that traces the process of collapse (the "Protein Shake Brain" pathology). This cascade moves sequentially from **Seduction** → **Evasion** → **Consequence** → **Experience** → **Restoration**.   
-   
+**Notes:** The developmental prerequisite map; also the “upward” version of the psychodynamic collapse sequence.   
 **Relations:**   
   - Link to [Psychoanalytic Integration](psychoanalytic-integration.md) (Relation: `Resolves`).   
    

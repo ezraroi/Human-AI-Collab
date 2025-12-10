@@ -2,10 +2,18 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: CognitiveScience'
+    - 'System Role: Output'
+    - 'Temporal: Cumulative'
+    - 'Operational Flags: Pathology'
 Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - cognitive-debt-awareness.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-12-08T17:51:54Z"
 Created by:
     - Roi Ezra
@@ -25,9 +33,11 @@ The accumulated **metabolic deficit** that results from repeatedly adopting symb
 ### System Role   
 - Provides a **general umbrella** for long-term costs of [PSB](protein-shake-brain-psb.md) style usage.   
 - Explains why occasional misuse can compound into structural erosion of self-trust and alpha-function.   
- --- 
    
 ### Relations   
 - Manifests as → [PSB](protein-shake-brain-psb.md);    
 - Accumulates when → [Alpha-Function](alpha-function.md) is bypassed; Reflective methods are skipped.   
 - Prevented / reduced by → [Reflective Prompting](reflective-prompting.md); [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md); [Felt Sense.](felt-sense.md)   
+   
+   
+**Notes:** Long-term erosion from bypassing metabolism.   

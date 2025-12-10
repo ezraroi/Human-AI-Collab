@@ -2,11 +2,20 @@
 # yaml-language-server: $schema=schemas/research_component.schema.json
 Object type:
     - Research Component
+Tag:
+    - 'Domain: Synthesis'
+    - 'System Role: Meta'
+    - 'Temporal: Static'
+    - 'Operational Flags: Core'
+    - Meta-Framework
 Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - the-integrated-circuit-board.md
     - category-error.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-06T09:24:09Z"
 Created by:
     - Roi Ezra
@@ -61,3 +70,5 @@ If Axis A fails ([Category Error](category-error.md)), the entire circuit board 
     - [Cognitive Dependency](cognitive-dependency.md)   
 - **Defines:** Systemic success vs. systemic collapse boundaries   
 - **Supports:** Methodological validation of single-case transformation   
+   
+**Notes:** The *top-level organizing schema* for all transformation and failure modes.   

@@ -4,13 +4,20 @@ Object type:
     - Concept
 Tag:
     - The Pathology Objects (The Diagnosis)
+    - 'Domain: Psychoanalytic'
+    - 'System Role: Output'
+    - 'Temporal: Dynamic'
+    - 'Operational Flags: Pathology'
 Backlinks:
     - idiom-aligned-scaffolding.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
-Status: Done
+Origin Domain:
+    - Psychoanalysis
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:02:52Z"
 Created by:
     - Roi Ezra
@@ -33,3 +40,5 @@ The **Transmissive Self** is a self that **adapts to a demanding world of transm
 [False True Self](false-true-self.md)    
 [Christopher Bollas](christopher-bollas.md)    
 [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)    
+   
+**Notes:** Fluent but unowned self-state; byproduct of PSB + simulacrum.   

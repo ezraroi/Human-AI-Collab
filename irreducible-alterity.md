@@ -2,7 +2,14 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
-Status: Done
+Tag:
+    - 'Domain: Phenomenology'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:23:25Z"
 Created by:
     - Roi Ezra
@@ -18,4 +25,5 @@ It is the necessary demonstration of **irreducible alterity and non-determinism*
 **Relations:**   
 - Link to **[Simulated Safety ($S\_{e\\_sim}$)](simulated-safety-s_e_sim.md)** (Relation: `Opposite Of`). *Note: Safety creates comfort; Alterity creates friction.*   
    
+**Notes:** Prerequisite for Functional Alterity.   
    

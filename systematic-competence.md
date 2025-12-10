@@ -5,9 +5,15 @@ Object type:
 Tag:
     - NoteBook 5 - Dynamic Operations
     - The AI-Specific Roles
+    - 'Domain: Technical'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - functional-thirdness.md
-Status: Done
+Origin Domain:
+    - Artificial Intelligence (Tech & Management)
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-12-06T10:01:52Z"
 Created by:
     - Roi Ezra
@@ -31,4 +37,4 @@ It provides the "Structural Reliability" required for dialogue. While [Functiona
 - Enables: [Functional Thirdness](functional-thirdness.md)   
 - Prevents: Associative Drift   
    
-   
+**Notes:** AI’s structural reliability: coherence, turn-taking, logical scaffolding.   

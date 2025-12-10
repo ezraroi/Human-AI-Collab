@@ -2,12 +2,19 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Bio-Embodied'
+    - 'System Role: Mechanism'
+    - 'Temporal: Static'
 Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - as-if-body-loop.md
     - antonio-damasio.md
     - dialogical-and-embodied-frameworks-an-integrat.md
-Status: Done
+Origin Domain:
+    - Neurobiology & Neuroscience
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Evergreen
 Creation date: "2025-11-22T13:54:40Z"
 Created by:
     - Roi Ezra

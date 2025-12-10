@@ -5,6 +5,9 @@ Object type:
 Tag:
     - NoteBook 5 - Dynamic Operations
     - The AI-Specific Roles
+    - 'Domain: Technical'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
     - metabolic-activation.md
@@ -32,7 +35,10 @@ Backlinks:
     - ii-the-novelty-of-the-specific-mechanisms.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
-Status: Done
+Origin Domain:
+    - Philosophy of Technology & Phenomenology
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-22T10:14:46Z"
 Created by:
     - Roi Ezra
@@ -71,4 +77,4 @@ Acts on the numerator indirectly by ensuring **Sₜ** remains functional, and on
 - **Enabled By →** [Reflective Prompting](reflective-prompting.md)   
 [1\. Introduction: Why Functional Alterity Is Necessary](1-introduction-why-functional-alterity-is-nece.md)    
    
-   
+**Notes:** AI’s turn-by-turn generation of productive difference; preserves epistemic tension.   

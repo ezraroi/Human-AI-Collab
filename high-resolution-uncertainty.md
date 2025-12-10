@@ -4,11 +4,17 @@ Object type:
     - Concept
 Tag:
     - NoteBook 6 - Cognitive Mechanics
+    - 'Domain: CognitiveScience'
+    - 'System Role: Mechanism'
+    - 'Temporal: Dynamic'
 Backlinks:
     - cognitive-offloading.md
     - underconfidence-with-practice-uwp-effect.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
-Status: Done
+Origin Domain:
+    - Cognitive Science & Embodied Cognition
+Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
+Research Status: Evergreen
 Creation date: "2025-11-23T12:47:38Z"
 Created by:
     - Roi Ezra
@@ -25,3 +31,5 @@ id: bafyreidzbn2l25krsskpfigken6euslxlbir663rct6btxvta7qcsada7q
 - Link to **[Negative Capability](negative-capability.md)** (Relation: `Refinement Of`).   
 - Link to **[Protein Shake Brain](protein-shake-brain-psb.md)** (Relation: `Antidote To`).   
 - Link to **[Metacognitive](metacognition.md) Monitoring** (Relation: `Goal Of`).   
+   
+**Notes:** Cognitive tolerance of ambiguity; refined Negative Capability.   

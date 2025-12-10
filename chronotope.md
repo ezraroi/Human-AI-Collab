@@ -2,6 +2,10 @@
 # yaml-language-server: $schema=schemas/concept.schema.json
 Object type:
     - Concept
+Tag:
+    - 'Domain: Phenomenology'
+    - 'System Role: Scaffolding'
+    - 'Temporal: Static'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - journal.md
@@ -15,17 +19,22 @@ Backlinks:
     - ii-the-novelty-of-the-specific-mechanisms.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - the-recursive-third-intelligence-system-archit.md
-Status: In Progress
+Origin Domain:
+    - Dialogical Self Theory & Linguistics
+Epistemic Status: 'Literature: Established academic fact'
+Research Status: Drafting
 Creation date: "2025-11-22T11:52:31Z"
 Created by:
     - Roi Ezra
 Links:
     - journal.md
     - mikhail-bakhtin.md
+Emoji: "\U0001F4A1"
 id: bafyreihfoon6uy7yiksjtfxtva2rujdvtogrpm66d6y4kzh7oi7b36hymi
 ---
 # Chronotope   
 A stable time-space configuration. The Journal acts as the Chronotope allowing the "event" of insight to be recorded   
+**Notes:** Time–space framework provided by the Journal.   
 [Journal](journal.md)    
 [Mikhail Bakhtin](mikhail-bakhtin.md)    
    
