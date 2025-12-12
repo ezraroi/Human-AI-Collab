@@ -10,18 +10,16 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - lev-vygotsky.md
-    - metabolic-activation.md
+    - embodied-engagement-conditions.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - channel-2-symbolic.md
+    - productive-epistemic-tension.md
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - section-2-the-core-formula-and-components.md
     - challenge-gap-d-c.md
-    - |-
-      NoteBook 6 - Documents notes
-      1.3. The Novice-to-Expert Gap
-      The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
+    - section-10-the-grand-unification.md
     - mko-more-knowledgeable-other.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - section-13-significance-and-forward-direction.md

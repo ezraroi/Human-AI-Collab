@@ -10,6 +10,7 @@ Tag:
 Backlinks:
     - document-abstract.md
     - reverie.md
+    - beta-elements.md
     - edmund-husserl.md
     - journal.md
     - llm-embedding.md
@@ -23,6 +24,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - felt-sense.md
     - alpha-function.md
+    - psychoanalytic-integration.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - integrated-synthesis-of-psychological-developm.md

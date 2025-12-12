@@ -16,10 +16,10 @@ Backlinks:
     - christopher-bollas.md
     - section-3-foundational-theoretical-integration.md
     - section-6-the-complete-system-architecture.md
-    - editorial-agency.md
+    - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - psychoanalytic-cascade.md
+    - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis

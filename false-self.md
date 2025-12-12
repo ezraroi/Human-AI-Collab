@@ -13,6 +13,7 @@ Backlinks:
     - destiny-drive.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - introduction-the-core-problem-and-the-role-of-ai.md
+    - holding-environment.md
     - authoritative-discourse.md
     - section-3-foundational-theoretical-integration.md
     - section-2-the-core-formula-and-components.md

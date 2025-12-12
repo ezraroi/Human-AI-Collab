@@ -59,7 +59,7 @@ The methodological framework used to solve the "Biased Observer Problem" (where 
 ---
 
 ## [METHOD] Imaginative Variation
-[Literature] Domain: Phenomenology, System Role: Method, Temporal: Dynamic
+[Literature] NoteBook 7 - Phenomenological Layer, Domain: Phenomenology, System Role: Method, Temporal: Dynamic
 
 Varying an example in every possible way to find what cannot be removed… Cross-AI stress-testing (using Claude, Gemini, etc.) is a form of imaginative variation
 **Notes:** A Husserlian method adapted to cross-AI stress-testing; a dynamic eidetic technique.
@@ -74,7 +74,14 @@ Varying an example in every possible way to find what cannot be removed… Cross
 The real-time metabolic cycle through which the human tests AI-generated material against embodied knowing, symbolic grammar, and lived experience.
 It is the mechanism that ensures insights are **metabolized** (alpha-function) rather than adopted (Channel 2 -only bypass), preventing Category Error, PSB, and collapse of authorship.
 ## System Role
-The **core anti-collapse mechanism** of the Third Intelligence system.
+The **continuous verification protocol** running throughout all Reflective Prompting phases—the core anti-collapse mechanism of the Third Intelligence system.
+Scope:
+- Runs throughout ALL RP phases (not just Phase 4)
+- During Phase 2 (RRV Cycle): Provides quality control during co-articulation
+- During Phase 3: Checks workflow alignment
+- During Phase 4: Becomes most formalized/explicit with periodic check-ins
+
+RPVL is the **epistemic safety layer**  ensuring AI outputs are metabolized, not adopted.
 It:
 - Enforces alpha-function processing during dialogue (Axis B integrity).
 - Keeps AI outputs from bypassing embodiment and symbolic digestion.
@@ -128,7 +135,7 @@ Why It Works: Verification Built Into Creation
 A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **alpha-function** with the human, organizes **technical scaffolding (Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| gap** by slowing work into recursive reflective loops. Its purpose is to prevent **PSB** and **Cognitive Debt** while feeding the Journal with metabolized, owned insights (Journal relevant only in Identity Stakes work).
 ### System Role
 - Converts AI interaction from **consumption** to **co-articulation**.
-- Maintains Productive Epistemic Tension** ** so transformation can occur instead of instant pseudo-clarity.
+- Maintains the *conditions* for Productive Epistemic Tension—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.
 - Ensures AI remains a **Piagetian Tool (Object)** serving the human container, rather than a pseudo-MKO doing the alpha-function for the user.
 - Provides the **session-level protocol** that operates inside the Recursive–Refine–Validate Cycle.
 
@@ -163,6 +170,8 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 
 ### Phase 2 – Reflection & Warm-Up (RRV Cycle)
 **Function:** Co-construct a shared, precise “box of meaning” through **iterative reflection** before asking for heavy outputs.
+Implements the RRV Cycle micro-method with **continuous RPVL verification**.
+The RRV Cycle provides the dialogue structure; RPVL provides quality control throughout.
 **Operations (implemented by RRV Cycle):**
 1. **Externalize** – Speak/write raw thoughts, confusions, stakes to AI (Rubber Duck Debugging).
 2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence.
@@ -173,6 +182,13 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - Begins transforming beta-elements into thinkable form.
 - Keeps AI in **Functional Alterity** (difference, resistance), not in “perfect agreement” mode.
 
+**Teaching as Verification:**
+Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation. When forced to teach/explain to the AI, users:
+- Retrieve and organize knowledge
+- Identify gaps in their own understanding
+- Detect contradictions in their mental models
+
+This triggers Conflict Detection (Model Repair).
 ### Phase 3 – Workflow Design & Delegation
 **Function:** Turn clarified intention into an owned plan that respects the **Judgment–Expertise Boundary** and **Idiom-Aligned Scaffolding**.
 **Operations:**
@@ -201,7 +217,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - **Journal inscription** – When a genuine shift, decision, or reframe occurs, write it to the Journal in your own words. The transcript is not enough; the *inscribed insight* is the event.
 
 **Cognitive role:**
-- This phase is the **operational face** of the RRV Cycle.
+- **Formalizes** the Recursive Pattern-Verification Loop through explicit periodic check-ins. (Note: RPVL also runs continuously during Phases 2 and 3, but Phase 4 makes it most systematic.)
 - Prevents drift into fluent-but-hollow output.
 - Converts transient chat into durable evidence of transformation.
 
@@ -221,6 +237,20 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 [Theoretical] Domain: CognitiveScience, System Role: Method, Temporal: Dynamic
 
 A micro-method for metabolic dialogue in which the human and AI iteratively co-articulate meaning through cycles of **Externalize → Refine → Validate**. RRV is how External Alpha-Function is operationalized without surrendering authorship. It is the core engine of Phase 2 in Reflective Prompting.
+### Cognitive Basis
+Reflective Prompting's RRV Cycle (Externalize → Refine → Validate) mirrors the expert decision pattern Klein identified as Recognition-Primed Decision: serial evaluation through pattern recognition rather than exhaustive option comparison. This explains why iterative refinement works better than seeking perfect AI output.
+### Relationship to Recursive Pattern-Verification Loop
+RRV Cycle is the **dialogue structure** for Phase 2 co-articulation.
+**RPVL runs continuously DURING RRV as quality control:**
+- During Externalize: RPVL checks clarity, grounding, embodiment
+- During Refine: RPVL detects flattery, tests felt sense, checks grammar
+- During Validate: RPVL performs final embodied verification
+
+**The distinction:**
+- **RRV** = Conversational turns (you speak → AI reflects → you verify)
+- **RPVL** = Quality checks running throughout those turns
+
+Think of RRV as the assembly line, RPVL as quality control at each station.
 ### System Role
 - Transforms raw, pre-symbolic or confused material into stable, thinkable formulations.
 - Establishes a *shared model* between human and AI while preserving the human’s veto and felt-sense authority.

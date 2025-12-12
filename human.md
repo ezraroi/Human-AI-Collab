@@ -15,6 +15,7 @@ Backlinks:
     - teleological-drift.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
+    - holding-environment.md
     - executive-summary.md
     - cognitive-style-ssbias.md
     - iron-man-mentality.md
@@ -58,12 +59,12 @@ Emoji: "\U0001F9E9"
 id: bafyreicolvewu7y75zcgmpsylxokmfgroiuqnojk3vyisim4ikuajmeqcu
 ---
 # Human   
-**Role:** The Architect.   
-**Definition:** "Holds the **Non-Myopic Awareness** (Global Goal). Because the AI is myopic (predicting the next token), the Human must provide the teleology and detect 'Teleological Drift' ."   
+Holds the **Non-Myopic Awareness** (Global Goal). Because the AI is myopic (predicting the next token), the Human must provide the teleology and detect 'Teleological Drift' .   
 Provides   
 - Agency and intentionality   
 - Embodied experience (though currently under-theorized)   
 - The subject whose C actually grows   
+- survival function—container survives identity-level disruption   
    
 **Notes:** The *role* “Human as Architect / Container” is a structural constant in the model; their **C** is cumulative, but the **component object** is a static role definition and part of the support architecture.   
    

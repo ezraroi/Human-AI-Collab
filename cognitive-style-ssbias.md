@@ -7,11 +7,6 @@ Tag:
     - 'Temporal: Static'
     - 'Operational Flags: Paradox'
     - Meta-Framework
-Backlinks:
-    - |-
-      NoteBook 6 - Documents notes
-      1.3. The Novice-to-Expert Gap
-      The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
 Research Status: Drafting
 Origin Domain:
     - Qualitative Research Methodology

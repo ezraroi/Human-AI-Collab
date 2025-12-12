@@ -11,14 +11,17 @@ Tag:
     - 'Temporal: Dynamic'
     - 'Operational Flags: Core'
 Backlinks:
+    - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - iron-man-mentality.md
+    - rrv-cycle-recursive-refine-validate.md
     - epistemological-humility.md
     - cognitive-debt.md
+    - functional-thirdness.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Philosophy of Technology & Phenomenology
-Research Status: Drafting
+Research Status: Evergreen
 Creation date: "2025-11-22T14:41:39Z"
 Created by:
     - Roi Ezra
@@ -27,7 +30,6 @@ Links:
     - channel-2-symbolic.md
     - category-error.md
     - protein-shake-brain-psb.md
-    - third-intelligence.md
     - human.md
     - iron-man-mentality.md
     - challenge-gap-d-c.md
@@ -47,7 +49,14 @@ id: bafyreifhxkvij475kbclygf5ndrilyxh2pl45zr4gmniywdsy57pv6di2y
 The real-time metabolic cycle through which the human tests AI-generated material against embodied knowing, symbolic grammar, and lived experience.   
 It is the mechanism that ensures insights are **metabolized** ([alpha-function](alpha-function.md)) rather than adopted ([Channel 2](channel-2-symbolic.md) -only bypass), preventing [Category Error](category-error.md), [PSB](protein-shake-brain-psb.md), and collapse of authorship.   
 ## System Role   
-The **core anti-collapse mechanism** of the [Third Intelligence](third-intelligence.md) system.   
+The **continuous verification protocol** running throughout all Reflective Prompting phases—the core anti-collapse mechanism of the Third Intelligence system.   
+Scope:   
+- Runs throughout ALL RP phases (not just Phase 4)   
+- During Phase 2 (RRV Cycle): Provides quality control during co-articulation   
+- During Phase 3: Checks workflow alignment   
+- During Phase 4: Becomes most formalized/explicit with periodic check-ins   
+   
+RPVL is the **epistemic safety layer**  ensuring AI outputs are metabolized, not adopted.   
 It:   
 - Enforces [alpha-function](alpha-function.md) processing during dialogue (Axis B integrity).   
 - Keeps AI outputs from bypassing embodiment and symbolic digestion.   

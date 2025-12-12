@@ -49,7 +49,7 @@ Links:
     - the-integrated-circuit-board.md
     - category-error.md
     - anterior-insular-cortex-aic.md
-    - Channel 1 (Sensorimotor)
+    - bafyreidgbd4wmghbbphn6srb7qdoz5zx45cwmh34c5m3f4ke2gsceqglxi
     - felt-sense.md
 Emoji: "\U0001F9EC"
 id: bafyreif3nf5do4owsxhnt6riumtjpqe6rcfvncoc2v6d7kpzbetrm5v3fq
@@ -109,7 +109,7 @@ Sₑ therefore governs *whether* the Loop can activate, even when symbolic input
 - **Part Of:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture)   
 - **Constrained By:** Axis A ([Category Error](category-error.md) collapses embodied simulation by shifting relational stance to the AI rather than to self-experience)   
 - Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: `Neural Basis Of`).   
-- Link to **[Channel 1 (Sensorimotor)](channel-1-sensorimotor.md)** (Relation: `Connects To`).   
+- Link to **[Channel 1 (Sensorimotor)](bafyreidgbd4wmghbbphn6srb7qdoz5zx45cwmh34c5m3f.md)** (Relation: `Connects To`).   
 - Link to **[Channel 2 (Symbolic)](channel-2-symbolic.md)** (Relation: `Connects To`).   
 - Link to **[Alpha-Function](alpha-function.md)** (Relation: `Mechanism Of`).   
    

@@ -13,6 +13,7 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - what-this-means-for-your-paper.md
     - idiom-aligned-scaffolding.md
+    - embodied-engagement-conditions.md
     - 4ps-protocol.md
     - 1-the-core-hypothesis-practice-dependent-neuro.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
@@ -22,12 +23,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - rrv-cycle-recursive-refine-validate.md
-    - metabolic-discipline.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
-    - |-
-      NoteBook 6 - Documents notes
-      1.3. The Novice-to-Expert Gap
-      The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - epistemological-humility.md
@@ -40,6 +36,7 @@ Backlinks:
     - cognitive-debt.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
+    - functional-thirdness.md
     - final-definition.md
     - 1-executive-summary.md
     - functional-alterity.md
@@ -58,7 +55,7 @@ Links:
     - s_t-technical-scaffolding.md
     - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
-    - Cognitive Debt
+    - bafyreia3wmi7tjo5amlc2zmf4fe4w7h25rvfeimsewovaevfppw5jy2lca
     - journal.md
     - productive-epistemic-tension.md
     - rrv-cycle-recursive-refine-validate.md
@@ -73,17 +70,19 @@ Links:
     - external-alpha-function.md
     - beta-elements.md
     - functional-alterity.md
+    - conflict-detection-model-repair.md
     - judgment-expertise-boundary.md
     - iron-man-mentality.md
+    - recursive-pattern-verification-loop.md
     - 4ps-protocol.md
 Emoji: "\U0001F6E0️"
 id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 ---
 # Reflective Prompting   
-A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](s_t-technical-scaffolding.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| [gap](challenge-gap-d-c.md)** by slowing work into recursive reflective loops. Its purpose is to prevent **[PSB](protein-shake-brain-psb.md)** and **[Cognitive Debt](cognitive-debt_e.md)** while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
+A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](s_t-technical-scaffolding.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| [gap](challenge-gap-d-c.md)** by slowing work into recursive reflective loops. Its purpose is to prevent **[PSB](protein-shake-brain-psb.md)** and **[Cognitive Debt](bafyreia3wmi7tjo5amlc2zmf4fe4w7h25rvfeimsewova.md)** while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
 ### System Role   
 - Converts AI interaction from **consumption** to **co-articulation**.   
-- Maintains [Productive Epistemic Tension](productive-epistemic-tension.md)** ** so transformation can occur instead of instant pseudo-clarity.   
+- Maintains the *conditions* for [Productive Epistemic Tension](productive-epistemic-tension.md)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
 - Ensures AI remains a **Piagetian Tool (Object)** serving the human container, rather than a pseudo-MKO doing the alpha-function for the user.   
 - Provides the **session-level protocol** that operates inside the [Recursive–Refine–Validate Cycle](rrv-cycle-recursive-refine-validate.md).   
    
@@ -118,6 +117,8 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
    
 ### Phase 2 – Reflection & Warm-Up ([RRV Cycle](rrv-cycle-recursive-refine-validate.md))   
 **Function:** Co-construct a shared, precise “box of meaning” through **iterative reflection** before asking for heavy outputs.   
+Implements the RRV Cycle micro-method with **continuous RPVL verification**.   
+The RRV Cycle provides the dialogue structure; RPVL provides quality control throughout.   
 **Operations (implemented by RRV Cycle):**   
 1. **Externalize** – Speak/write raw thoughts, confusions, stakes to AI ([Rubber Duck Debugging](rubber-duck-debugging.md)).   
 2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence.   
@@ -128,6 +129,13 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - Begins transforming [beta-elements](beta-elements.md) into thinkable form.   
 - Keeps AI in **[Functional Alterity](functional-alterity.md)** (difference, resistance), not in “perfect agreement” mode.   
    
+**Teaching as Verification:**   
+Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation. When forced to teach/explain to the AI, users:   
+- Retrieve and organize knowledge   
+- Identify gaps in their own understanding   
+- Detect contradictions in their mental models   
+   
+This triggers [Conflict Detection (Model Repair).](conflict-detection-model-repair.md)   
 ### Phase 3 – Workflow Design & Delegation   
 **Function:** Turn clarified intention into an owned plan that respects the **[Judgment–Expertise Boundary](judgment-expertise-boundary.md)** and **[Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md)**.   
 **Operations:**   
@@ -156,7 +164,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - **Journal inscription** – When a genuine shift, decision, or reframe occurs, write it to the Journal in your own words. The transcript is not enough; the *inscribed insight* is the event.   
    
 **Cognitive role:**   
-- This phase is the **operational face** of the [RRV Cycle](rrv-cycle-recursive-refine-validate.md).   
+- **Formalizes** the [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md) through explicit periodic check-ins. (Note: RPVL also runs continuously during Phases 2 and 3, but Phase 4 makes it most systematic.)   
 - Prevents drift into fluent-but-hollow output.   
 - Converts transient chat into durable evidence of transformation.   
    

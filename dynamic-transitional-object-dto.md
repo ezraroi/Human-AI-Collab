@@ -17,6 +17,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - category-error.md
     - protein-shake-brain-psb.md
+    - functional-thirdness.md
     - 1-executive-summary.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

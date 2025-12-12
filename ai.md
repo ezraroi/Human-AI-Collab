@@ -76,6 +76,9 @@ Technical Architecture: Large Language Model (LLM).
 - **Mode A (Expert):** Provides structure for Gap Filling.   
 - **Mode B (Novice):** Feigns ignorance to force Model Repair .   
    
+   
+   
+   
 Provides:   
 - Before AI: Fixed scaffolding from mentor/context   
 - With AI: Can modulate "explain like I'm 5" vs "technical depth", "challenge me" vs "support me"   

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-10:type-6921ac4c60de23efb249fa5b:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-12:type-6921ac4c60de23efb249fa5b:ver-1.0",
   "type": "object",
   "title": "Biological Substrate",
   "x-app": "Anytype",

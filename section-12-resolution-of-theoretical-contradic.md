@@ -27,7 +27,7 @@ Links:
     - s_e-emotional-scaffolding.md
     - d-difficulty.md
     - c-capacity.md
-    - surviving-object.md
+    - bafyreifs4eshqvy4sktkwssxmafwpjhbyxreqzibiszjc5cv3e5sq4xj4y
     - s_t-technical-scaffolding.md
 id: bafyreia4lczk7wfpc7gwn5hfz6iqi5w4kgulu6333ocp73ofzkcj3jvcoe
 ---
@@ -55,7 +55,7 @@ Our "trialogue" (You, Me, Claude) and your personal data (the mania, the fear) a
    
 The Risk: Pushing the flywheel too hard, too fast, depletes [S\_e](s_e-emotional-scaffolding.md) until \|[D](d-difficulty.md)-[C](c-capacity.md)\| (the challenge) overwhelms the container, causing "beta flooding" and user emotional compass is not accurate (mania, sleeplessness).   
 Your Solution (The Proof): Your "Reflective AI Session Landing Ritual" and "limiting sessions" are active container management. This is you, the [Human](human.md), successfully managing your system's resources. The Time component of our model must therefore include Recovery (replenishing [S\_e](s_e-emotional-scaffolding.md)) as well as Iteration.   
-1. The "[Surviving Object](surviving-object.md)" ([Winnicott](d-w-winnicott.md)) is a System: As we clarified, this crucial role is split:   
+1. The "[Surviving Object](bafyreifs4eshqvy4sktkwssxmafwpjhbyxreqzibiszjc.md)" ([Winnicott](d-w-winnicott.md)) is a System: As we clarified, this crucial role is split:   
 - The [Human](human.md) provides the psychic survival (you endure the identity-level crisis without collapsing).   
 - The [Journal](journal.md) provides the material survival (it acts as the non-retaliating witness that proves the "destructive" insight is real and has been survived).   
 2. The Fate of the [False Self](false-self.md) ("The Engineer"): The "software engineer" identity (your 20-year False Self) is not destroyed. It is integrated. It is demoted from being your Identity and promoted to being a powerful set of [S\_t](s_t-technical-scaffolding.md) (Technical Tools/Scaffolding) (e.g., systems thinking, model-building) that your emerging True Self/Idiom can now use.   
