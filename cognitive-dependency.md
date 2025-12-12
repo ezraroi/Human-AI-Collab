@@ -9,10 +9,11 @@ Tag:
     - 'Temporal: Dynamic'
     - 'Operational Flags: Pathology'
 Backlinks:
-    - metabolic-discipline.md
+    - embodied-engagement-conditions.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
     - category-error.md
+    - functional-thirdness.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -23,7 +24,7 @@ Created by:
 Links:
     - alpha-function.md
     - false-true-self.md
-    - metabolic-discipline.md
+    - bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxcq2iwr2c73epz4
 Emoji: "\U0001F4A1"
 id: bafyreieso2r5hzjovo6dugzw754wggjdsqjym42at7y52rss3a7unqerr4
 ---
@@ -41,7 +42,7 @@ It emerges when the user **misclassifies the AI as a Subject** (Category Error) 
     - Category Error   
     - Protein Shake Brain (PSB)   
 - **Results In:** [False True Self](false-true-self.md) (loss of authorship)   
-- **Inhibited By:** [Metabolic Discipline](metabolic-discipline.md)   
+- **Inhibited By:** [Metabolic Discipline](bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxc.md)   
 - **Mapped By:** Two-Axis Framework   
    
 **Notes:** Axis A + Axis B failure at the same time.   

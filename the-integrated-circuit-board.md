@@ -8,11 +8,13 @@ Tag:
     - 'System Role: Meta'
     - 'Temporal: Static'
 Backlinks:
+    - embodied-engagement-conditions.md
     - journal.md
     - conclusion-on-novelty-and-contribution.md
     - two-axis-framework.md
     - as-if-body-loop.md
     - alpha-function.md
+    - psychoanalytic-integration.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

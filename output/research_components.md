@@ -16,6 +16,9 @@ Technical Architecture: Large Language Model (LLM).
 - **Mode A (Expert):** Provides structure for Gap Filling.
 - **Mode B (Novice):** Feigns ignorance to force Model Repair .
 
+
+
+
 Provides:
 - Before AI: Fixed scaffolding from mentor/context
 - With AI: Can modulate "explain like I'm 5" vs "technical depth", "challenge me" vs "support me"
@@ -65,12 +68,12 @@ P(alpha) (Probability of Growth)
 ## [RESEARCH COMPONENT] Human
 [Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
 
-**Role:** The Architect.
-**Definition:** "Holds the **Non-Myopic Awareness** (Global Goal). Because the AI is myopic (predicting the next token), the Human must provide the teleology and detect 'Teleological Drift' ."
+Holds the **Non-Myopic Awareness** (Global Goal). Because the AI is myopic (predicting the next token), the Human must provide the teleology and detect 'Teleological Drift' .
 Provides
 - Agency and intentionality
 - Embodied experience (though currently under-theorized)
 - The subject whose C actually grows
+- survival function—container survives identity-level disruption
 
 **Notes:** The *role* “Human as Architect / Container” is a structural constant in the model; their **C** is cumulative, but the **component object** is a static role definition and part of the support architecture.
 
@@ -85,6 +88,7 @@ S\_e (Emotional Scaffolding)
 [Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
 
 **Definition:** The materialized output of reflective AI dialogue. It is the **infrastructure for continuity** (Chronotope) and the **substrate for pattern recognition**.
+Serves as material surviving object (Winnicott)—persists through transformative 'destruction
 **Critical Distinction:** "Not a diary. Not a transcript. Not a memory aid." .
 - Tracks C growth over time
 - Prevents regression to baseline

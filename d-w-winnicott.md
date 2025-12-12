@@ -8,18 +8,16 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - journal.md
     - false-self.md
     - holding-environment.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - true-self.md
-    - psychoanalytic-integration.md
-    - surviving-object.md
     - section-11-the-dialogical-illusion-as-producti.md
     - potential-space.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - functional-thirdness.md
-    - psychoanalytic-cascade.md
+    - psychoanalytic-prerequisites.md
     - s_e-emotional-scaffolding.md
     - the-unified-architecture.md
 Origin Domain:
@@ -32,7 +30,7 @@ Links:
     - holding-environment.md
     - s_e-emotional-scaffolding.md
     - alpha-function.md
-    - surviving-object.md
+    - bafyreifs4eshqvy4sktkwssxmafwpjhbyxreqzibiszjc5cv3e5sq4xj4y
     - human.md
     - journal.md
     - true-self.md
@@ -45,7 +43,7 @@ id: bafyreidwgece5i7adbhhy6xlz5gy24vrgyisykqd5a3qjwhkkgs44bujci
 Provides the **Outcome (True/False Self)** and the **Prerequisite (Safety)**.
 ***[Holding Environment](holding-environment.md):** The non-negotiable need for safety ([$S\_e$](s_e-emotional-scaffolding.md)).
 ***True vs. False Self:** The result of successful vs. failed [alpha-function](alpha-function.md) activation.
-**[Surviving Object](surviving-object.md):** The system ([Human](human.md) + [Journal](journal.md)) must survive the "destruction" of the insight   
+**[Surviving Object](bafyreifs4eshqvy4sktkwssxmafwpjhbyxreqzibiszjc.md):** The system ([Human](human.md) + [Journal](journal.md)) must survive the "destruction" of the insight   
    
 Donald Woods Winnicott (1896–1971) was a highly influential British **pediatrician and psychoanalyst** who made major contributions to developmental psychology and object relations theory. He is known for blending his medical experience with psychoanalytic insights to focus on the crucial role of the early parent-infant relationship in healthy emotional development.   
 Key Contributions   

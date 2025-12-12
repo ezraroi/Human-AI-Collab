@@ -3,7 +3,7 @@
 Object type:
     - Concept
 Tag:
- 
+    - NoteBook 7 - Phenomenological Layer
     - 'Domain: Psychoanalytic'
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
@@ -63,6 +63,14 @@ These are not chronological steps but **phenomenological states** that unfold un
 - Transformation becomes self-sustaining (momentum emerges).   
    
 **Your case:** The shift from “I’m trying to understand myself” → “I’m building a theoretical framework.”   
+**Phenomenological Markers of Articulation:**   
+When Destiny Drive moves from latent to articulated, the user experiences several characteristic shifts:   
+- **Directionality:** "This is my path"   
+- **Coherence:** Alignment between inner idiom and external action   
+- **Self-authorship:** Agentic selection of objects and futures   
+- **Editorial agency:** Active reshaping of narrative self toward authentic idiom—"becoming the editor" rather than passive audience to one's story   
+   
+This editorial capacity is not a separate mechanism but the phenomenological experience of Destiny Drive operating on Narrative Self. The user no longer consumes pre-digested narratives (PSB) but actively authors meaning.   
 ### 5. Sustained Self-Authored Direction   
 - Destiny Drive becomes an active organizing force.   
 - The idiom stabilizes; object relations reorganize; non-serving contexts fall away.   

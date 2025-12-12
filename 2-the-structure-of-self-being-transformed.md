@@ -3,7 +3,7 @@
 Object type:
     - Manuscript Section
 Tag:
- 
+    - NoteBook 7 - Phenomenological Layer
 Backlinks:
     - 'Notebook 7: Theoretical Extensions to the Third Intelligence Model'
 Creation date: "2025-12-02T08:52:33Z"

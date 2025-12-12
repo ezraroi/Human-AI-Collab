@@ -2,6 +2,7 @@
 # yaml-language-server: $schema=schemas/task.schema.json
 Object type:
     - Task
+Done: true
 Creation date: "2025-11-23T12:05:58Z"
 Created by:
     - Roi Ezra

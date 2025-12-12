@@ -7,6 +7,8 @@ Tag:
     - 'Domain: Synthesis'
     - 'System Role: Meta'
     - 'Temporal: Static'
+Backlinks:
+    - psychoanalytic-integration.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

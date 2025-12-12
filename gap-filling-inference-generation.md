@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - conflict-detection-model-repair.md
     - self-explanation.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
 Origin Domain:

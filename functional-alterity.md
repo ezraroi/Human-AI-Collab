@@ -10,7 +10,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
-    - metabolic-activation.md
+    - embodied-engagement-conditions.md
     - dialogical-knowing.md
     - irreducible-alterity.md
     - systematic-competence.md
@@ -21,10 +21,6 @@ Backlinks:
     - external-alpha-function.md
     - challenge-gap-d-c.md
     - section-10-the-grand-unification.md
-    - |-
-      NoteBook 6 - Documents notes
-      1.3. The Novice-to-Expert Gap
-      The development of metacognitive skill is a key differentiator between novices and experts. While novices tend to organize knowledge as a list of facts and slowly search for correct formulas, experts organize their knowledge around core …
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - dynamic-transitional-object-dto.md

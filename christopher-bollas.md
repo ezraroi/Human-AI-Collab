@@ -7,12 +7,12 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - destiny-drive.md
+    - beta-elements.md
     - identity-stakes.md
     - section-3-foundational-theoretical-integration.md
     - transmissive-self.md
-    - psychoanalytic-integration.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - psychoanalytic-cascade.md
+    - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis
@@ -23,7 +23,7 @@ Created by:
 Links:
     - destiny-drive.md
     - true-self.md
-    - unthought-known.md
+    - bafyreiegty5vr6uwikxzrs2ku25xaknrblg3oygpvtudzjckysugfc5whm
     - third-intelligence.md
 Emoji: "\U0001F464"
 id: bafyreiclhptd42yxlcplpmfh3uojxkvfgvlayduiyvkyvenfsxgtdcoldy
@@ -40,7 +40,7 @@ Key Contributions
 - ***Human Idiom*:** The idea that each individual has a unique, core personal "idiom" or style of being that they express throughout life, and a healthy life involves finding objects and experiences that allow this idiom to unfold.   
 - **Emphasis on Free Association:** Bollas has argued for a return to the centrality of free association in clinical practice, emphasizing the inherent logic and creativity in the sequence of a patient's thoughts as a primary way to access the unconscious.   
    
-Bollas has published numerous books, including ***The Shadow of the Object: Psychoanalysis of the [Unthought Known](unthought-known.md)*** and ***Being a Character: Psychoanalysis and Self Experience***. He has also applied psychoanalytic thinking to literature, history, and politics, making his work widely read and influential in both clinical and academic fields.   
+Bollas has published numerous books, including ***The Shadow of the Object: Psychoanalysis of the [Unthought Known](bafyreiegty5vr6uwikxzrs2ku25xaknrblg3oygpvtudz.md)*** and ***Being a Character: Psychoanalysis and Self Experience***. He has also applied psychoanalytic thinking to literature, history, and politics, making his work widely read and influential in both clinical and academic fields.   
    
 [Third Intelligence](third-intelligence.md)    
    

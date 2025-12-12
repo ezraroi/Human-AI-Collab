@@ -102,6 +102,39 @@ Collapse is visible through:
 - C2-only fluency (PSB)   
 - AI assuming implicit Subjecthood   
    
+### Early-Stage Commitment (Metabolic Discipline)   
+IMM requires explicit volitional commitment, what might be called "metabolic discipline." This is the deliberate refusal to bypass Channel 1 friction even when AI offers effortless fluency.   
+Core commitment: "I will not confuse fluency with understanding. I will metabolize everything through my own embodied system."   
+This early-stage discipline is critical because:   
+- Transformation has not yet become self-reinforcing   
+- PSB temptations are strongest when work is hard   
+- The body's friction mechanism has not yet been habituated   
+   
+Methods supporting early-stage commitment: 4Ps Protocol, Reflective Prompting (especially Phase 2), Touch Grass Protocol for boundary management.   
+### Cognitive Basis: Expert Decision Patterns   
+Iron Man Mentality recreates the decision-making patterns Gary Klein identified in Recognition-Primed Decision (RPD) research—how experts make effective decisions in naturalistic conditions:   
+**Pattern Recognition (Not Analysis Paralysis):**   
+- Experts recognize situations from accumulated experience   
+- IMM: Felt Sense verification provides rapid pattern matching   
+- Body knows from journal-accumulated substrate   
+   
+**Serial Evaluation (Not Exhaustive Comparison):**   
+- Experts test first adequate solution, refine if inadequate   
+- IMM: Test interpretation against felt sense; if tight → refine   
+- NOT comparing multiple AI outputs seeking "best"   
+   
+**Mental Simulation:**   
+- Experts imagine action playing out   
+- IMM: As-If Body Loop simulates bodily response to symbolic material   
+- Channel 2 → Channel 1 verification   
+   
+**Satisficing (Not Optimizing):**   
+- Experts accept adequate resolution, not perfect certainty   
+- IMM: Optimal altitude calibration finds workable clarity level   
+- Aligns with High-Resolution Uncertainty and Negative Capability   
+   
+**Why This Matters:**
+IMM isn't arbitrary preference—it recreates expert decision-making patterns proven effective in naturalistic conditions. PSB fails because it violates these patterns: seeking perfect AI outputs, comparing exhaustively, bypassing pattern recognition, demanding certainty.   
 ## Relations (Wiring)   
 - **[Reflective Prompting](reflective-prompting.md)** — *Governs*   
     Provides the stance required for RP to function as a metabolic process rather than a productivity technique.   

@@ -14,7 +14,6 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - section-11-the-dialogical-illusion-as-producti.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - functional-thirdness.md
     - internally-persuasive-discourse.md
     - chronotope.md
     - ii-the-novelty-of-the-specific-mechanisms.md

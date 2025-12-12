@@ -16,7 +16,6 @@ Backlinks:
     - 5-the-embodied-connection.md
     - destiny-drive.md
     - what-this-means-for-your-paper.md
-    - metabolic-activation.md
     - triple-network-model.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - beta-elements.md
@@ -26,6 +25,7 @@ Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
     - critical-connection-4-how-ai-dialogue-produces.md
+    - holding-environment.md
     - executive-summary.md
     - self-explanation.md
     - identity-stakes.md
@@ -64,6 +64,7 @@ Backlinks:
     - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - felt-sense.md
+    - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - section-11-the-dialogical-illusion-as-producti.md
@@ -75,7 +76,8 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - critical-connection-1-the-two-channel-model-of.md
-    - psychoanalytic-cascade.md
+    - functional-thirdness.md
+    - psychoanalytic-prerequisites.md
     - critical-connection-2-felt-sense-channel-1-alp.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - what-youve-actually-discovered-meta-level.md

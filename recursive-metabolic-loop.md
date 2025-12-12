@@ -11,7 +11,6 @@ Backlinks:
     - document-abstract.md
     - destiny-drive.md
     - what-this-means-for-your-paper.md
-    - metabolic-activation.md
     - identity-stakes.md
     - eugene-gendlin.md
     - time.md

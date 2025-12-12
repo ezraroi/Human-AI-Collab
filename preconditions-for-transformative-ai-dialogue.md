@@ -6,6 +6,8 @@ Tag:
     - 'Domain: CognitiveScience'
     - 'System Role: Scaffolding'
     - 'Temporal: Static'
+Backlinks:
+    - embodied-engagement-conditions.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

@@ -8,7 +8,9 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - productive-epistemic-tension.md
     - iron-man-mentality.md
+    - section-10-the-grand-unification.md
     - recursive-pattern-verification-loop.md
     - functional-alterity.md
     - zpd.md

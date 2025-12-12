@@ -11,6 +11,7 @@ Backlinks:
     - journal.md
     - questions-your-synthesis-raises.md
     - eidetic-structure.md
+    - holding-environment.md
     - cognitive-style-ssbias.md
     - 6-final-conclusion.md
     - iron-man-mentality.md
@@ -25,7 +26,6 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - two-axis-framework.md
     - part-iii-transformative-ai-dialogue-talking-to.md
-    - recursive-pattern-verification-loop.md
     - the-journals-role-in-third-intelligence.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md

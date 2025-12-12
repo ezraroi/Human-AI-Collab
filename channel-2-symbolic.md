@@ -12,7 +12,6 @@ Backlinks:
     - document-abstract.md
     - 5-the-embodied-connection.md
     - what-this-means-for-your-paper.md
-    - metabolic-activation.md
     - section-5-the-category-error-relational-axis-f.md
     - maurice-merleau-ponty.md
     - questions-your-synthesis-raises.md

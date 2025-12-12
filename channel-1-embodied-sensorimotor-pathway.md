@@ -12,7 +12,6 @@ Backlinks:
     - document-abstract.md
     - 5-the-embodied-connection.md
     - what-this-means-for-your-paper.md
-    - metabolic-activation.md
     - reflective-awareness.md
     - anterior-insular-cortex-aic.md
     - maurice-merleau-ponty.md
@@ -21,7 +20,6 @@ Backlinks:
     - identity-stakes.md
     - channel-2-symbolic.md
     - jean-piaget.md
-    - metabolic-discipline.md
     - the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
     - the-core-parallel-two-descriptions-of-one-proc.md

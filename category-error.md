@@ -12,12 +12,14 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - section-5-the-category-error-relational-axis-f.md
     - journal.md
+    - holding-environment.md
     - iron-man-mentality.md
     - two-axis-framework.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
     - recursive-pattern-verification-loop.md
     - protein-shake-brain-psb.md
+    - functional-thirdness.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -31,7 +33,7 @@ Links:
     - two-axis-framework.md
     - cognitive-dependency.md
     - protein-shake-brain-psb.md
-    - metabolic-discipline.md
+    - bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxcq2iwr2c73epz4
     - s_e-emotional-scaffolding.md
 Emoji: "\U0001F4A1"
 id: bafyreifsd3zplsn24o4odj546e7qfwvxpu7hle7whk26o7rzc6fr7dxgqu
@@ -59,6 +61,6 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - **Raises Risk Of:** [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)   
 - **Prevented By:**   
     - [DTO](dynamic-transitional-object-dto.md) Framework   
-    - [Metabolic Discipline](metabolic-discipline.md)   
+    - [Metabolic Discipline](bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxc.md)   
     - Touch Grass Protocol   
 - **Breaks:** [Emotional Scaffolding](s_e-emotional-scaffolding.md) (Sₑ must come from human, not AI)   

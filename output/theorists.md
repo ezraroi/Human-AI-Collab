@@ -70,7 +70,7 @@ Kahneman's research fundamentally changed multiple fields, including economics, 
 ---
 
 ## [THEORIST] Edmund Husserl
-Domain: Phenomenology, Temporal: Static
+NoteBook 7 - Phenomenological Layer, Domain: Phenomenology, Temporal: Static
 
 Provides the Structure of Consciousness.
 Noesis/Noema/Hyle: The triadic structure of experience that parallels the Bionian metabolic process.
@@ -103,7 +103,7 @@ Recursive Metabolic Loop
 ---
 
 ## [THEORIST] Francisco Varela
-Domain: Phenomenology, Temporal: Static
+NoteBook 7 - Phenomenological Layer, Domain: Phenomenology, Temporal: Static
 
 Provides the **Methodological Stance**.
 ***Neurophenomenology:*** The scientific research program aimed at bridging the "hard problem" by treating first-person experience (phenomenology) and third-person data (neuroscience) as mutually constraining.
@@ -239,7 +239,7 @@ D (Difficulty)
 ---
 
 ## [THEORIST] Maurice Merleau-Ponty
-Domain: Phenomenology, Temporal: Static
+NoteBook 7 - Phenomenological Layer, Domain: Phenomenology, Temporal: Static
 
 Provides the **Phenomenological Ground**.
 ***The "I Can":*** Defined pre-reflective awareness not as "I think," but as a bodily "I can."

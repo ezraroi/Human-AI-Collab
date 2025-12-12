@@ -10,7 +10,8 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - destiny-drive.md
-    - metabolic-activation.md
+    - embodied-engagement-conditions.md
+    - holding-environment.md
     - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
@@ -25,7 +26,7 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
     - christopher-bollas.md
     - destiny-drive.md
-    - metabolic-activation.md
+    - embodied-engagement-conditions.md
     - alpha-function.md
     - recursive-metabolic-loop.md
 Emoji: "\U0001F4A1"
@@ -42,7 +43,7 @@ Identity Stakes represent the **threshold where information becomes self-relevan
    
 ### Wiring (Relations)   
 - **Derived From:** [Christopher Bollas](christopher-bollas.md) (the [destiny drive](destiny-drive.md), idiom, self-coherence formation)   
-- **Activates:** [Metabolic Activation](metabolic-activation.md)   
+- **Activates:** [Metabolic Activation](embodied-engagement-conditions.md)   
 - **Enables:** [Alpha-Function](alpha-function.md) engagement   
 - **Part Of:** Conditions for recursive oscillation in the [Recursive Loop](recursive-metabolic-loop.md)   
    

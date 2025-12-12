@@ -19,12 +19,11 @@ Backlinks:
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
-    - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - psychoanalytic-cascade.md
+    - psychoanalytic-prerequisites.md
     - s_e-emotional-scaffolding.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - the-unified-architecture.md

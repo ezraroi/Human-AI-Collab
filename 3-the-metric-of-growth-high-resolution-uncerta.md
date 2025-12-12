@@ -10,7 +10,7 @@ Creation date: "2025-11-23T13:00:21Z"
 Created by:
     - Roi Ezra
 Links:
-    - underconfidence-with-practice-uwp-effect.md
+    - bafyreieov6dyiqw4nsdy2q2nxihm77yuxwwbfijyumftmceaykxvk5f3oy
     - high-resolution-uncertainty.md
     - negative-capability.md
     - protein-shake-brain-psb.md
@@ -22,7 +22,7 @@ Links:
 id: bafyreiepapqtj556popoy2c2agkow6zhzou2kvl5s4ce5tv2bcoboescqa
 ---
 # 3. The Metric of Growth: High-Resolution Uncertainty   
-The research identifies the [Underconfidence-with-Practice (UWP) Effect](underconfidence-with-practice-uwp-effect.md): as expertise grows, confidence (Calibration) often drops while accuracy (Resolution) improves.   
+The research identifies the [Underconfidence-with-Practice (UWP) Effect](bafyreieov6dyiqw4nsdy2q2nxihm77yuxwwbfijyumftm.md): as expertise grows, confidence (Calibration) often drops while accuracy (Resolution) improves.   
 - Implication for our model: We must distinguish Productive Doubt (High Resolution: "I see the nuance") from Destructive Doubt (Low Resolution: "I am lost").   
 - The Goal: The system aims for [High-Resolution Uncertainty](high-resolution-uncertainty.md)—the state of "[Negative Capability](negative-capability.md)" where the user can sustain the tension of complex, unresolved ambiguity without collapsing into the "False Certainty" of the [Protein Shake Brain](protein-shake-brain-psb.md).   
    

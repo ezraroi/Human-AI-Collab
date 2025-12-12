@@ -15,7 +15,7 @@ Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - what-this-means-for-your-paper.md
-    - metabolic-activation.md
+    - embodied-engagement-conditions.md
     - teleological-drift.md
     - cognitive-debt-awareness.md
     - section-5-the-category-error-relational-axis-f.md
@@ -23,13 +23,13 @@ Backlinks:
     - questions-your-synthesis-raises.md
     - authoritative-discourse.md
     - channel-2-symbolic.md
+    - productive-epistemic-tension.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - jean-piaget.md
     - section-1-introduction-and-framework-positioning.md
     - 5-the-operational-metric-negative-capability.md
     - hyperreflexivity-trap.md
-    - metabolic-discipline.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
     - cognitive-offloading.md
@@ -49,9 +49,9 @@ Backlinks:
     - category-error.md
     - cognitive-debt.md
     - c-capacity.md
-    - editorial-agency.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - false-true-self.md
+    - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - negative-capability.md
     - critical-connection-2-felt-sense-channel-1-alp.md
