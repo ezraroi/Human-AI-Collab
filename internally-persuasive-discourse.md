@@ -16,7 +16,7 @@ Backlinks:
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:59:23Z"
 Created by:
     - Roi Ezra
@@ -31,6 +31,6 @@ id: bafyreih3x3hul3wuaplbsiirhmwhkiwuxrhgsdiihtkxevbyzw4qvozlwi
 # Internally Persuasive Discourse   
 Information or guidance that is internalized through genuine understanding and ownership, rather than coercion. It can serve as linguistic material for the [True Self](true-self.md) when verified through [Felt Sense](felt-sense.md).   
 **Verification:** You know discourse is "internally persuasive" when it resonates with the **[Felt Sense](felt-sense.md)**, causing a "[Felt Shift](felt-shift.md)"   
-**Notes:** AI/human articulation that resonates with Felt Sense.   
+**Notes:** AI/human articulation that resonates with [Felt Sense](felt-sense.md).   
 [Mikhail Bakhtin](mikhail-bakhtin.md)    
    

@@ -23,6 +23,7 @@ Backlinks:
     - c-capacity.md
     - section-13-significance-and-forward-direction.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
+    - functional-alterity.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
@@ -34,7 +35,6 @@ Creation date: "2025-11-22T10:04:09Z"
 Created by:
     - Roi Ezra
 Links:
-    - beta-elements.md
     - identity-stakes.md
     - p-alpha-probability-of-growth.md
     - c-capacity.md
@@ -42,11 +42,12 @@ Links:
     - challenge-gap-d-c.md
     - lev-vygotsky.md
     - wilfred-bion.md
+    - beta-elements.md
 Emoji: "\U0001F9E9"
 id: bafyreidbddvjsfzardtkld75akrvm56puxfr44p2mevmwwqjrl4ycdhciq
 ---
 # D (Difficulty)   
-The complexity or challenge level of the task, idea, or emotional experience the user engages with. D represents the "load" of unprocessed [beta-elements](beta-elements.md) requiring metabolic transformation on [Identity Stakes](identity-stakes.md).   
+The complexity or challenge level of the task, idea, or emotional experience the user engages with. D represents the ‘load’ of unprocessed beta-elements requiring metabolic transformation **when the material is marked as self-relevant ([Identity Stakes](identity-stakes.md))**.   
 **Formula Role:**   
 **Denominator component in [P(α)](p-alpha-probability-of-growth.md) = (S\_e × S\_t) / \|D-C\|**   
 D pairs with [C (Capacity)](c-capacity.md) to create the **Challenge Gap** \|D-C\|:   

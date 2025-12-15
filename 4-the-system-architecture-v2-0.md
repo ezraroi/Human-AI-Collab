@@ -15,6 +15,8 @@ Links:
     - the-container.md
     - emotional-scaffolding-s_e.md
     - in-context-learning.md
+    - challenge-gap-d-c.md
+    - alpha-function.md
 id: bafyreib6h4ozbxdtjf4f5i3qssgglsmhzjzm3bybahuqsdywuso2dcycxi
 ---
 # 4. The System Architecture (V2.0)   
@@ -27,7 +29,7 @@ Notebook 5 identified the "Iron Man Mentality" where the user "owns quality" and
 ### B. The AI: The Calibrated Antagonist   
 Notebook 5 identified "[In-Context Learning](in-context-learning.md)" (ICL) as a key differentiator.   
 - Old View: The AI "learns" and "grows" with you.   
-- V2.0 View:Adaptive Calibration. ICL is the servomechanism that allows the AI to fine-tune the Challenge Gap (\|D - C\|) in real-time. It adjusts to your prompt not to "bond," but to maintain the optimal tension required for the Alpha Function to fire.   
+- V2.0 View:Adaptive Calibration. ICL is the servomechanism that allows the AI to fine-tune the [Challenge Gap](challenge-gap-d-c.md) (\|D - C\|) in real-time. It adjusts to your prompt not to ‘bond,’ but to help sustain usable challenge in the interaction so the [Alpha Function](alpha-function.md) can operate.   
    
 ### C. The Journal: The Chronotope   
 Notebook 5 wrestled with "fleeting systems".

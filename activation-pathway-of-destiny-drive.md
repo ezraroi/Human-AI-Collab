@@ -35,7 +35,7 @@ id: bafyreiggpekvo4qrcc3zl64gnr5echvx7eddouipdis3nfubhk6mdtbwlq
 ---
 # Activation Pathway of Destiny Drive   
 The **Activation Pathway of Destiny Drive** describes the developmental transition through which the innate, latent [Destiny Drive](destiny-drive.md) becomes **articulated**, **felt**, and **directionally operative** within the [Third Intelligence](third-intelligence.md) system.   
-It is **not a mechanism**, but a *phenomenological sequence* that unfolds when the system enables sustained transformation of **[Identity Stakes](identity-stakes.md)** material.   
+It is **not a mechanism**, but a phenomenological sequence that unfolds when the system enables sustained transformation of material **that carries [Identity Stakes](identity-stakes.md)**.   
 ## System Role   
 The pathway clarifies how a universal, latent [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated as self-directed directionality   
 It shows:   

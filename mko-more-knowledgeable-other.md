@@ -12,14 +12,13 @@ Backlinks:
     - lev-vygotsky.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
-    - section-2-the-core-formula-and-components.md
     - technical-scaffolding-s_t.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - dialogical-and-embodied-frameworks-an-integrat.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:55:54Z"
 Created by:
     - Roi Ezra

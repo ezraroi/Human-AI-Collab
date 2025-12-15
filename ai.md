@@ -29,7 +29,6 @@ Backlinks:
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - section-3-foundational-theoretical-integration.md
     - neural-synchrony.md
     - conclusion-on-novelty-and-contribution.md
     - gap-filling-inference-generation.md
@@ -154,8 +153,8 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 **[In-Context Learning (ICL)](in-context-learning.md):**   
 - Adapts to user's prompt without parameter updates   
 - Enables real-time calibration of Sₜ *relative to* the Challenge Gap, without changing the Challenge Gap itself   
-- Creates personalized scaffolding   
-- Not "bonding"—adjusting its responses and presentation to support [Alpha-Function](alpha-function.md) activation   
+- Creates context-specific scaffolding   
+- Not "bonding"—adjusting its responses and presentation to help sustain usable challenge so the [Alpha-Function](alpha-function.md) can operate   
    
 **Emergent Properties:**   
 - Complex conversational behavior   

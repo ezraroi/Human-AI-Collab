@@ -180,7 +180,7 @@ Domain: CognitiveScience, Temporal: Static
 
 John H. Flavell was a world-renowned American developmental psychologist and the Anne T. and Robert M. Bass Professor of Psychology, Emeritus, at Stanford University. He is widely considered the **founder of metacognition theory** and is credited with coining the term "metacognition" (thinking about thinking).
 His key contributions include:
-- **Metacognition and Metamemory:** He defined metacognitive knowledge (knowledge about oneself as a learner, tasks, and strategies) and metacognitive experiences, highlighting their crucial role in effective learning and self-regulation.
+- **Metacognition and Metamemory:** He defined metacognitive knowledge (person, task, strategy factors) and emphasized metacognitive regulation—active monitoring and consequent control of cognition—in effective learning and self-regulation.
 - **Theory of Mind:** Flavell conducted extensive research on the development of children's understanding of mental states, such as perception, perspective-taking, and consciousness.
 - **Appearance vs. Reality:** His famous studies assessed children's ability to distinguish how an object looks from what it actually is, finding that older four-year-olds and five-year-olds succeed on these tasks while three-year-olds often fail.
 - **Piaget's Work:** His 1963 book, *The Developmental Psychology of Jean Piaget*, was the first major work in English on Piaget's theories and research, helping to popularize the Swiss psychologist's ideas in American psychology.
@@ -217,13 +217,12 @@ Provides the **Social Mechanism**.
 ***More Knowledgeable Other (MKO):** The source of technical scaffolding ($S\_t$).
 ***General Genetic Law:** Higher functions appear first socially, then internally.
 ***Temporality:** Scaffolding must fade; the AI's contribution is ephemeral.
-
 Lev Vygotsky (1896–1934) was a brilliant Soviet psychologist and the founder of the **Cultural-Historical Theory of Psychology**. His work is foundational to developmental psychology and education, arguing that social interaction plays a critical role in the development of cognition.
 Key Contributions
 - **Social Development Theory:** Vygotsky countered the individualistic focus of other theorists (like Piaget) by asserting that cognitive functions are products of social interactions and cultural tools. Learning, for Vygotsky, precedes development.
-- **Zone of Proximal Development (ZPD):** This is his most famous concept, defining the difference between what a learner can achieve independently and what they can achieve with the guidance and encouragement of a more skilled person (e.g., a teacher, parent, or peer).
+- Zone of Proximal Development (ZPD): This is his most famous concept, defining the difference between what a learner can achieve independently and what they can achieve with the **guidance and instruction** of a more skilled person (e.g., a teacher, parent, or peer).
 - **More Knowledgeable Other (MKO):** This refers to anyone who has a better understanding or higher ability level than the learner, guiding them through the ZPD.
-- **Scaffolding:** An instructional method derived from Vygotsky’s theories, involving providing temporary, structured support tailored to the learner’s needs, which is gradually withdrawn as they become more competent.
+- **Scaffolding:** An instructional method derived from Vygotsky’s theories, involving providing temporary, structured **instructional support** tailored to the learner’s needs, which is gradually withdrawn as they become more competent.
 - **Language and Thought:** Vygotsky stressed the deep connection between language (speech) and thought, arguing that internal private speech (thinking in words) is essential for developing higher-order cognitive functions like planning, problem-solving, and self-regulation.
 
 Tragically, Vygotsky's work was suppressed in the Soviet Union for decades after his early death from tuberculosis. His theories only gained widespread recognition in the West in the 1970s and 80s, fundamentally reshaping modern educational practices.
@@ -250,7 +249,7 @@ The Dialogical & Embodied Layer (The "System"), Domain: Phenomenology, Temporal:
 
 Provides the **Time-Space Context**.
 ***Chronotope:** The stable time-space provided by the **Journal**.
-***Internally Persuasive Discourse:** The goal of the system (vs. Authoritative Discourse).
+*Internally Persuasive Discourse: **A desired form of discourse within the system—internalized through genuine understanding and ownership and verified by Felt Sense (Felt Shift)—in contrast to Authoritative Discourse.**
 Alterity: The "otherness" required for dialogue, addressed functionally by the AI’s turn-by-turn "Functional Alterity" (productive difference without conscious otherness).
 Mikhail Bakhtin (1895–1975) was a Russian philosopher, literary critic, and scholar who became one of the most influential thinkers of the 20th century in literary theory, ethics, and the philosophy of language. His work emphasizes that all language and meaning are social and produced through dynamic interaction, not static systems.
 Key Contributions and Concepts

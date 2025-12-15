@@ -23,6 +23,7 @@ Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - beta-elements.md
     - edmund-husserl.md
+    - 4-the-system-architecture-v2-0.md
     - parity-principle-pp.md
     - journal.md
     - channel-1-embodied-sensorimotor-pathway.md
@@ -144,7 +145,7 @@ This is the Alpha-Function’s component-level collapse.
 ### Interaction Dynamics (Propagation Rules)   
 When Alpha-Function is offline or overwhelmed:   
 - **[As-If Body Loop](as-if-body-loop.md)** loses its function: embodied signals are ignored → symbolic overrun emerges.   
-- **[Journal](journal.md)** becomes corrupted (on [Identity Stakes](identity-stakes.md) work): entries are written without metabolization, producing pseudo-insight or thin narratives.   
+- [Journal](journal.md) becomes corrupted (**when the work carries [Identity Stakes](identity-stakes.md)**): entries are written without metabolization, producing pseudo-insight or thin narratives.   
 - **[Capacity (C)](c-capacity.md)** fails to accumulate: Not real growth is happening.   
 - **Axis B collapses** into a [Channel-2](channel-2-symbolic.md)-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of [PSB](protein-shake-brain-psb.md).   
    

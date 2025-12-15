@@ -13,6 +13,7 @@ Backlinks:
     - dialogical-knowing.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
+    - section-3-foundational-theoretical-integration.md
     - ai.md
     - section-10-the-grand-unification.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -28,8 +29,6 @@ Created by:
     - Roi Ezra
 Links:
     - d-difficulty.md
-    - identity-stakes.md
-    - c-capacity.md
     - zpd.md
     - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
@@ -40,7 +39,7 @@ id: bafyreibyr6i7bt3andluk2ykljpujw54u3fwj46knhpvmygwgh435je7ei
 ---
 # Productive Epistemic Tension   
 The **felt state of being cognitively stretched but still able to think**.   
-It is the “just-right” epistemic friction where [Difficulty](d-difficulty.md) / [Identity Stakes](identity-stakes.md) (D) slightly exceed [Capacity (C)](c-capacity.md) in the presence of adequate scaffolding, so the human remains the active driver of meaning-making.   
+It is the ‘just-right’ epistemic friction where **[Difficulty](d-difficulty.md) (D)** slightly exceeds Capacity (C) in the presence of adequate scaffolding, so the human remains the active driver of meaning-making.   
 **System Role**   
 - Marks that the system is operating inside a **workable [ZPD](zpd.md)** rather than in collapse (too little tension) or overwhelm (too much).   
 - Signals that the human, not the AI, is doing the core symbolic work (authorship preserved).   
@@ -57,6 +56,3 @@ It is the “just-right” epistemic friction where [Difficulty](d-difficulty.md
 - Requires → **[Functional Alterity](functional-alterity.md)**   
 - Supports / Activates → **[Alpha-Function](alpha-function.md)**   
 - Opposed To → **[PSB](protein-shake-brain-psb.md) (Protein Shake Brain)** (Relation: *Absent In*)   
-   
-   
-   

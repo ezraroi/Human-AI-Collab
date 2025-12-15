@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - alpha-elements.md
+    - 5-the-embodied-connection.md
     - minimal-self.md
     - embodied-engagement-conditions.md
     - reflective-awareness.md
@@ -39,8 +40,10 @@ Backlinks:
     - internally-persuasive-discourse.md
     - negative-capability.md
     - critical-connection-2-felt-sense-channel-1-ver.md
+    - mikhail-bakhtin.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
+    - synthesizing-notebook-1-and-notebook-2.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

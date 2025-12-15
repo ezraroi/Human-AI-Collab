@@ -16,7 +16,6 @@ Backlinks:
     - questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - 6-final-conclusion.md
-    - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
     - human.md
     - section-3-foundational-theoretical-integration.md

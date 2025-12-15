@@ -24,7 +24,7 @@ Emoji: "\U0001F6E0️"
 id: bafyreiat4xbdomf4nfou7n2d5rcshasyqeviqh6rzvkzxth6fy7ziflhjm
 ---
 # 4Ps Protocol   
-A four-step [metacognitive](metacognition.md) verification loop preventing passive consumption of AI outputs. Forces real-time metabolic processing by requiring explicit pause, questioning, articulation, and embodied verification before accepting insights.   
+A four-step verification protocol that operationalizes [metacognitive](metacognition.md) monitoring and consequent regulation to prevent passive consumption of AI outputs. It does this by requiring explicit pause, questioning, articulation, and embodied verification before accepting insights.   
 **Purpose:**   
 **Primary:** Prevents [PSB](protein-shake-brain-psb.md) (Protein Shake Brain) by breaking automatic acceptance pattern
    

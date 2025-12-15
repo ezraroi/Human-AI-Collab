@@ -11,7 +11,7 @@ Backlinks:
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T14:19:22Z"
 Created by:
     - Roi Ezra

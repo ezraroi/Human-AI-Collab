@@ -14,6 +14,7 @@ Backlinks:
     - the-journal-in-system-context.md
     - catalytic-externalization.md
     - channel-2-symbolic.md
+    - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - ai.md
@@ -24,7 +25,9 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - part-iv-reflective-prompting-as-system-level-p.md
+    - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
+    - dialogical-and-embodied-frameworks-an-integrat.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
@@ -38,7 +41,10 @@ Created by:
 Links:
     - lev-vygotsky.md
     - mko-more-knowledgeable-other.md
+    - p-alpha-probability-of-growth.md
     - zpd.md
+    - protein-shake-brain-psb.md
+    - challenge-gap-d-c.md
     - reflective-prompting.md
     - emotional-scaffolding-s_e.md
 Emoji: "\U0001F9E9"
@@ -51,7 +57,7 @@ S\_t operationalizes [Vygotsky's](lev-vygotsky.md) **More Knowledgeable Other ([
 **Formula Role:**   
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**   
 - Multiplicative with S\_e (emotional scaffolding)   
-- If S\_t = 0 → P(α) = 0 (no technical guidance)   
+- If S\_t = 0 → [P(alpha)](p-alpha-probability-of-growth.md) = 0 (no technical guidance)   
 - Must be calibrated to \|D-C\| gap   
 - Cannot substitute for S\_e (multiplication, not addition)   
    
@@ -74,7 +80,7 @@ Unlike human MKOs, AI-provided S\_t can be:
 - Provides hints, not complete answers   
 - Maintains productive struggle   
 - Scaffolds without replacing user's work   
-- Creates optimal \|D-C\| gap ([ZPD](zpd.md))   
+- Maintains productive struggle **within** the existing \|D-C\| gap ([ZPD](zpd.md))   
 - Fades as user gains competence   
    
 **Observable Markers of Good Technical Scaffolding:**   
@@ -84,10 +90,10 @@ Unlike human MKOs, AI-provided S\_t can be:
 - Can explain concept in own words   
 - Felt sense of "spacious" engagement   
    
-**Preemptive Technical Scaffolding (component of PSB):**   
+**Preemptive Technical Scaffolding (component of [PSB](protein-shake-brain-psb.md)):**   
 - Delivers complete answers before user struggles   
-- Removes difficulty (D → 0) rather than bridging it   
-- Collapses \|D-C\| gap prematurely   
+- Removes the learner’s engagement with difficulty prematurely rather than bridging it   
+- Collapses \|D-C\| [challenge gap](challenge-gap-d-c.md) prematurely   
 - Enables passive consumption   
 - Prevents Alpha-Function activation   
    

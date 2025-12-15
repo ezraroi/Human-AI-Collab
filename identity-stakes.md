@@ -13,20 +13,17 @@ Backlinks:
     - embodied-engagement-conditions.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - holding-environment.md
-    - productive-epistemic-tension.md
     - section-4-the-importance-of-emotional-scaffold.md
     - d-difficulty.md
     - 7-final-conclusion-the-third-intelligence.md
-    - challenge-gap-d-c.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
     - emotional-scaffolding-s_e.md
-    - functional-alterity.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-06T09:18:58Z"
 Created by:
     - Roi Ezra

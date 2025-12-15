@@ -63,11 +63,12 @@ Links:
     - d-w-winnicott.md
     - holding-environment.md
     - wilfred-bion.md
-    - identity-stakes.md
-    - alpha-function.md
-    - time.md
     - p-alpha-probability-of-growth.md
+    - alpha-function.md
+    - identity-stakes.md
+    - time.md
     - zpd.md
+    - channel-1-embodied-sensorimotor-pathway.md
 Emoji: "\U0001F9E9"
 id: bafyreih4gisd4ro24y4jhojfyg5xarzmfr7sxznqni5w4lpw67ctc2tfqi
 ---
@@ -77,9 +78,9 @@ The operationalized indicator of holding function—the human's current state of
 S\_e operationalizes [Winnicott](d-w-winnicott.md)'s [Holding Environment](holding-environment.md) and [Bion](wilfred-bion.md)'s Container function as a session-level indicator of available holding/containment capacity. While Holding Environment describes the developmental prerequisite condition, S\_e current-state the **current operational capacity** to hold oneself during transformation work.   
 **Formula Role:**   
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**   
-- If S\_e = 0 → P(α) = 0 (entire system collapses)   
+- If S\_e = 0 → [P(alpha)](p-alpha-probability-of-growth.md) = 0 (entire system collapses)   
 - Multiplicative with S\_t (technical scaffolding)   
-- Non-negotiable prerequisite for Alpha-Function activation   
+- Non-negotiable prerequisite for [Alpha-Function](alpha-function.md) activation   
 - Cannot be substituted or compensated for   
    
 **System Role:**   
@@ -91,7 +92,7 @@ S\_e operationalizes [Winnicott](d-w-winnicott.md)'s [Holding Environment](holdi
    
 **Dynamic Properties:**   
 **Within-Session Depletion:**   
-- S\_e drains during [Identity Stakes](identity-stakes.md) work   
+- Emotional Scaffolding drains during work **that carries [Identity Stakes](identity-stakes.md)**   
 - Intensive [Alpha-Function](alpha-function.md) processing exhausts emotional bandwidth   
 - Felt phenomenologically as: increasing tightness, irritability, reduced capacity for ambiguity   
 - Requires recognition and withdrawal (Touch Grass Protocol)   
@@ -159,7 +160,7 @@ S\_e is the operationalized indicator of whether the [Holding Environment](holdi
 - **When S\_e = 0:** PSB risk increases, Category Error vulnerability, Manic Episode possible   
 - **Contrasted With:** S\_e\_sim (counterfeit safety collapsing challenge gap)   
 - **Enables:** Alpha-Function activation, tolerance for productive tension   
-- **Required For:** [ZPD](zpd.md) work, Identity Stakes processing, transformation   
+- **Required For: **[ZPD](zpd.md) work, **[Channel 1](channel-1-embodied-sensorimotor-pathway.md) recruitment when work carries [Identity Stakes](identity-stakes.md)**, transformation   
    
 **Notes:**   
 S\_e is YOUR contribution—the operationalization of Winnicott/Bion concepts into a dynamic indicator with clear depletion/recovery dynamics and formula integration.   

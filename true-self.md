@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Output'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - narrative-self.md
     - destiny-drive.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - false-self.md

@@ -14,9 +14,12 @@ Links:
     - technical-scaffolding-s_t.md
     - d-difficulty.md
     - c-capacity.md
-    - mko-more-knowledgeable-other.md
+    - challenge-gap-d-c.md
     - lev-vygotsky.md
     - zpd.md
+    - d-w-winnicott.md
+    - holding-environment.md
+    - wilfred-bion.md
     - false-self.md
     - true-self.md
     - protein-shake-brain-psb.md
@@ -40,8 +43,8 @@ Where:
 P(α): The probability of successful alpha-function activation. This is the desired outcome.   
 C: The learner's current Capacity (their existing psychic structure, skills, and store of processed alpha-elements).   
 D: The Difficulty or complexity of the task, idea, or emotional experience (the "load" of the beta-elements).   
-S: The total quality of the Scaffolding provided by the [MKO](mko-more-knowledgeable-other.md) within the relational field.   
-### The "Challenge Gap": \|D - C\|   
+S: The total quality of the Scaffolding in the system, composed of S\_e (holding environment) and S\_t (technical scaffolding provided by the AI as technical MKO).   
+### The "[Challenge Gap](challenge-gap-d-c.md)": \|D - C\|   
 This term represents the distance between the challenge and the person's ability to handle it alone. The goal is not to eliminate this gap, but to manage it.   
 What \|D-C\| captures:   
 - When D ≈ C (good match): denominator small → high P(α) → optimal challenge/flow state   
@@ -76,13 +79,13 @@ Too-far manager:
 - Even with some [S\_e](emotional-scaffolding-s_e.md), the product collapses   
    
 Theoretical grounding:   
-- [S\_t](technical-scaffolding-s_t.md) = technical/cognitive scaffolding (Vygotsky's competence-side ZPD)   
-- [S\_e](emotional-scaffolding-s_e.md) = affective/relational scaffolding (Winnicott's holding, Bion's container)   
+- S\_t = [technical scaffolding](technical-scaffolding-s_t.md) (Vygotsky's competence-side [ZPD](zpd.md))”   
+- [S\_e](emotional-scaffolding-s_e.md) = affective/relational scaffolding ([Winnicott's](d-w-winnicott.md) [holding](holding-environment.md), [Bion's](wilfred-bion.md) container)   
    
 ### The Bridge Analogy   
 Imagine you need to build a bridge across a canyon.   
 The width of the canyon is the Challenge Gap (\|D - C\|). It's the distance between what you can already do and what the task requires.   
-The strength and length of your bridge materials is the Scaffolding (S). It's the support you have from your leader, your tools, or your own internal resources.   
+The strength and length of your bridge materials is the Scaffolding (S). It's the support you have from your leader or your tools.   
 The formula S\_e \* S\_t / \|D - C\| now becomes a simple question: Is the bridge long and strong enough for the canyon?   
 This creates three clear scenarios:   
 1. The Ratio is Optimal (The [ZPD](zpd.md))   

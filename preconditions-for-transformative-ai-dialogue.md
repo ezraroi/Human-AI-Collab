@@ -23,6 +23,7 @@ Links:
     - cognitive-debt-awareness.md
     - iron-man-mentality.md
     - judgment-expertise-boundary.md
+    - metacognition.md
     - reflective-prompting.md
     - recursive-pattern-verification-loop.md
     - cognitive-debt.md
@@ -39,7 +40,7 @@ Includes at least:
 - [Cognitive Debt Awareness](cognitive-debt-awareness.md)   
 - [Iron Man](iron-man-mentality.md) (Augmentation Stance)   
 - [Judgment–Expertise Boundary](judgment-expertise-boundary.md) (Purposeful Judgment)   
-- Meta-Cognitive Awareness   
+- [Metacognition](metacognition.md) (monitoring and consequent regulation)   
    
 Public-facing materials sometimes **popularize** these under the “ESCAPE” mnemonic; ESCAPE itself is not an object.   
 ### Relations   

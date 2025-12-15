@@ -54,6 +54,7 @@ Links:
     - alpha-function.md
     - technical-scaffolding-s_t.md
     - zpd.md
+    - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
     - journal.md
     - productive-epistemic-tension.md
@@ -64,6 +65,7 @@ Links:
     - emotional-scaffolding-s_e.md
     - metacognition.md
     - epistemological-humility.md
+    - iron-man-mentality.md
     - idiom-aligned-scaffolding.md
     - rubber-duck-debugging.md
     - external-alpha-function.md
@@ -72,14 +74,13 @@ Links:
     - conflict-detection-model-repair.md
     - self-explanation.md
     - judgment-expertise-boundary.md
-    - iron-man-mentality.md
     - recursive-pattern-verification-loop.md
     - 4ps-protocol.md
 Emoji: "\U0001F6E0️"
 id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 ---
 # Reflective Prompting   
-A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](technical-scaffolding-s_t.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the [ZPD](zpd.md)** by slowing work into recursive reflective loops (the structural Challenge Gap \|D–C\| remains pre-existing)..Its purpose is to prevent **[PSB](protein-shake-brain-psb.md) **while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
+A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](technical-scaffolding-s_t.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the [ZPD](zpd.md)** by slowing work into recursive reflective loops (the structural [Challenge Gap](challenge-gap-d-c.md) \|D–C\| remains pre-existing).Its purpose is to prevent **[PSB](protein-shake-brain-psb.md) **while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
 ### System Role   
 - Converts AI interaction from **consumption** to **co-articulation**.   
 - Maintains the *conditions* for [Productive Epistemic Tension](productive-epistemic-tension.md)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
@@ -97,8 +98,9 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - The conscious tradeoff is **speed over depth**, and transformation is not the aim.   
    
 **Requires:**   
-- [MetaCognition](metacognition.md).   
+- [Metacognition](metacognition.md) (active monitoring and consequent regulation of cognition in service of the goal).   
 - [Epistemological Humility](epistemological-humility.md).   
+- [Iron Man Mentality](iron-man-mentality.md).   
    
 ## Four-Phase Protocol   
 ### Phase 1 – Preparation (“Cognitive Canvas”)   
@@ -106,7 +108,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 **Operations:**   
 - **Goal articulation** – What am I actually trying to do? What would count as a real shift?   
 - **Resource inventory** – Gather notes, past Journal entries, prior documents, constraints.   
-- **Strengths & delegation boundaries** – Clarify: What do *I* own (judgment, meaning, narrative)? What can be delegated to AI (enumeration, editing, code, formatting)?   
+- **Idiom & delegation boundaries** – Clarify your cognitive style/strengths and what you own (judgment, meaning, narrative) vs. what can be delegated to AI (enumeration, editing, code, formatting).   
    
 **Cognitive role:**   
 - Builds a **holding environment** before asking AI anything.   
@@ -147,7 +149,7 @@ This triggers [Conflict Detection (Model Repair)](conflict-detection-model-repai
     - AI-assist (editing, refactoring, syntax, formatting)   
    
 **Cognitive role:**   
-- Operationalizes the **[Iron Man Mentality](iron-man-mentality.md)**: AI as suit, not pilot.   
+- Applies the [Iron Man Mentality](iron-man-mentality.md): [AI](ai.md) as suit, not pilot.   
 - Aligns scaffolding with your **idiom** so the system bends around you, not vice versa.   
    
 **Relations:**   
@@ -176,3 +178,4 @@ This triggers [Conflict Detection (Model Repair)](conflict-detection-model-repai
 - **[PSB](protein-shake-brain-psb.md)**   
    
 **Notes:** The flagship method integrating scaffolding, metabolism, and verification.   
+   

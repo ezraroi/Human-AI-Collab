@@ -48,7 +48,7 @@ It exists in **latent form** in all individuals and becomes **phenomenologically
 ## System Role   
 Destiny Drive is **not a mechanism** in the [Third Intelligence](third-intelligence.md) system.   
 It is an **emergent experiential outcome** that appears when:   
-- the [recursive loop](recursive-metabolic-loop.md) is operating effectively on **[Identity Stakes](identity-stakes.md)** material   
+- the [recursive](recursive-metabolic-loop.md) loop is operating effectively on material **that carries [Identity Stakes](identity-stakes.md)**   
 - [Alpha-Function](alpha-function.md) is repeatedly activated through structured tension + support   
 - Winnicottian [False Self](false-self.md) defensive compliance weakens as sufficient holding makes spontaneity safer   
 - transformation becomes self-sustaining   
@@ -82,4 +82,5 @@ Destiny Drive explains the **vector** of transformation—*where the increased [
 **Portable Insight:**   
 Destiny Drive is not the *engine* of transformation—   
 it is the **revealed vector** once the transformation system clears the obstructions blocking idiom expression.   
-It is always present, but only *felt* when conditions for Identity Stakes articulation are met.   
+It is always present, but only felt when conditions for **idiom articulation in [Identity Stakes](identity-stakes.md) work** are met.   
+   

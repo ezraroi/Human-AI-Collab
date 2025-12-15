@@ -57,6 +57,7 @@ Backlinks:
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - integrated-synthesis-of-psychological-developm.md
+    - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
     - alpha-function-integrating-dialogical-and-embo.md
     - activation-pathway-of-destiny-drive.md

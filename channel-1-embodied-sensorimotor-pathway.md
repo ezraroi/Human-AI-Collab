@@ -51,6 +51,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
+    - emotional-scaffolding-s_e.md
     - negative-capability.md
     - critical-connection-2-felt-sense-channel-1-ver.md
     - what-youve-actually-discovered-meta-level.md

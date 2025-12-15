@@ -46,7 +46,7 @@ This leads directly to the False True Self and the Transmissive Self.
 The second document explains that [Reflective Prompting](reflective-prompting.md) is a methodological loop designed to counter all three failure points:   
 ### a. Philosophical / Ontological Tensions   
 Reflective prompting:   
-- Reduces defensive compliance by forcing verification, not acceptance—supporting conditions where a Winnicottian [False Self](false-self.md) facade is less likely to dominate (On [Identity Stakes](identity-stakes.md)).   
+- Reduces defensive compliance by forcing verification, not acceptance—supporting conditions where a Winnicottian [False Self](false-self.md) facade is less likely to dominate **when the work carries [Identity Stakes](identity-stakes.md)**.   
 - Counters the [False True Self](false-true-self.md) by demanding the user check whether the insight matches lived experience.   
 - Prevents the [Transmissive Self](transmissive-self.md) by requiring the user to express their own idiom, intuition, and internal logic before consulting the model.   
    

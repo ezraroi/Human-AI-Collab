@@ -12,7 +12,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-08T17:39:33Z"
 Created by:
     - Roi Ezra
@@ -36,3 +36,4 @@ The discriminative capacity to distinguish between tasks that require **judgment
 - Supported by → [Iron Man Mentality](iron-man-mentality.md)   
    
 **Notes:** Structural boundary protecting authorship; used in RP Phase 3.   
+   

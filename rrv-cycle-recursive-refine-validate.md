@@ -63,5 +63,5 @@ Think of RRV as the assembly line, RPVL as quality control at each station.
 **Notes:** A cognitive micro-loop (externalize → refine → validate), but *operationalized* as a method.   
 ### Relations   
 - Embedded in → [Reflective Prompting](reflective-prompting.md).   
-- Uses → [Rubber Duck Debugging](rubber-duck-debugging.md), [MetaCognition](metacognition.md), [Felt Sense](felt-sense.md).   
+- Uses → [Rubber Duck Debugging](rubber-duck-debugging.md), [MetaCognitive](metacognition.md) monitoring and consequent regulation, [Felt Sense](felt-sense.md).   
 - Supports → [External Alpha-Function](external-alpha-function.md), [Alpha-Function](alpha-function.md) ignition.   

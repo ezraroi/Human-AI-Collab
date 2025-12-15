@@ -19,6 +19,7 @@ Created by:
 Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
+    - the-integrated-circuit-board.md
     - protein-shake-brain-psb.md
     - functional-alterity.md
     - zpd.md
@@ -26,7 +27,6 @@ Links:
     - identity-stakes.md
     - felt-sense.md
     - alpha-function.md
-    - the-integrated-circuit-board.md
     - preconditions-for-transformative-ai-dialogue.md
     - category-error.md
     - cognitive-dependency.md
@@ -35,7 +35,7 @@ Emoji: "\U0001F4A1"
 id: bafyreian45p6xubzvsjrpclvsie6gwcosvkbslizqnwgacihholkzzqhdi
 ---
 # Embodied Engagement Conditions   
-The three content-level prerequisites that determine whether symbolic AI output [(Channel 2)](channel-2-symbolic.md) successfully recruits embodied processing [(Channel 1)](channel-1-embodied-sensorimotor-pathway.md) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the Integrated Circuit Board engages; when absent, [PSB](protein-shake-brain-psb.md) pathology emerges.   
+The three content-level prerequisites that determine whether symbolic AI output [(Channel 2)](channel-2-symbolic.md) successfully recruits embodied processing [(Channel 1)](channel-1-embodied-sensorimotor-pathway.md) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the [Integrated Circuit Board](the-integrated-circuit-board.md) engages; when absent, [PSB](protein-shake-brain-psb.md) pathology emerges.   
 ## **System Role:**   
 Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether Channel 1 is recruited into the Recursive Metabolic Loop. They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, controlling whether Alpha-Function can engage in genuine transformation versus remaining offline.   
 This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces nothing—or worse, PSB.   

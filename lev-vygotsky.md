@@ -53,13 +53,12 @@ Provides the **Social Mechanism**.
 ***More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)):** The source of technical scaffolding ([$S\_t$](technical-scaffolding-s_t.md)).
 ***General Genetic Law:** Higher functions appear first socially, then internally.
 ***Temporality:** Scaffolding must fade; the AI's contribution is ephemeral.   
-   
 Lev Vygotsky (1896–1934) was a brilliant Soviet psychologist and the founder of the **Cultural-Historical Theory of Psychology**. His work is foundational to developmental psychology and education, arguing that social interaction plays a critical role in the development of cognition.   
 Key Contributions   
 - **Social Development Theory:** Vygotsky countered the individualistic focus of other theorists (like Piaget) by asserting that cognitive functions are products of social interactions and cultural tools. Learning, for Vygotsky, precedes development.   
-- **Zone of Proximal Development ([ZPD](zpd.md)):** This is his most famous concept, defining the difference between what a learner can achieve independently and what they can achieve with the guidance and encouragement of a more skilled person (e.g., a teacher, parent, or peer).   
+- Zone of Proximal Development ([ZPD](zpd.md)): This is his most famous concept, defining the difference between what a learner can achieve independently and what they can achieve with the **guidance and instruction** of a more skilled person (e.g., a teacher, parent, or peer).   
 - **More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)):** This refers to anyone who has a better understanding or higher ability level than the learner, guiding them through the ZPD.   
-- **Scaffolding:** An instructional method derived from Vygotsky’s theories, involving providing temporary, structured support tailored to the learner’s needs, which is gradually withdrawn as they become more competent.   
+- **Scaffolding:** An instructional method derived from Vygotsky’s theories, involving providing temporary, structured **instructional support** tailored to the learner’s needs, which is gradually withdrawn as they become more competent.   
 - **Language and Thought:** Vygotsky stressed the deep connection between language (speech) and thought, arguing that internal private speech (thinking in words) is essential for developing higher-order cognitive functions like planning, problem-solving, and self-regulation.   
    
 Tragically, Vygotsky's work was suppressed in the Soviet Union for decades after his early death from tuberculosis. His theories only gained widespread recognition in the West in the 1970s and 80s, fundamentally reshaping modern educational practices.   

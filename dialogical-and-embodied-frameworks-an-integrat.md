@@ -12,6 +12,7 @@ Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - journal.md
+    - technical-scaffolding-s_t.md
     - mko-more-knowledgeable-other.md
     - zpd.md
     - alpha-function.md
@@ -43,7 +44,7 @@ Your inclusion of the environment, the [journal](journal.md), and the AI into th
 - The perspective known as 4E cognition (embodied, embedded, enactive, extended) stresses the relevance of embodied interactions with the environment for understanding cognition.   
 - The Extended Mind Hypothesis (HEC) posits that cognition can extend beyond the brain, involving external artifacts and environment features in driving cognitive processes.   
 - Cognitive tools (like pen and paper) are routinely used as cognitive extensions in professional and academic settings, creating a "unified, densely coupled system" where the brain complements external structures.   
-- The use of AI models (like GPT) as tools that provide enhanced cognitive scaffolding and mediate thinking processes aligns with the functional role of the More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) in the Zone of Proximal Development ([ZPD](zpd.md)).   
+- The use of AI models (like GPT) as tools that provide enhanced **[technical scaffolding (S\_t)](technical-scaffolding-s_t.md)** and mediate thinking processes aligns with the functional role of the More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) in the Zone of Proximal Development ([ZPD](zpd.md)).   
    
 ### 2. Is Your Model Suggesting Something New? (Novelty and Contribution)   
 Yes, your model offers three primary novel contributions by providing a specific, interwoven architecture that integrates psychoanalytic processing with cognitive and dialogical theory.   

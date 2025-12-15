@@ -18,6 +18,7 @@ Backlinks:
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
+    - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md

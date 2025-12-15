@@ -82,8 +82,8 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 **In-Context Learning (ICL):**
 - Adapts to user's prompt without parameter updates
 - Enables real-time calibration of Sₜ *relative to* the Challenge Gap, without changing the Challenge Gap itself
-- Creates personalized scaffolding
-- Not "bonding"—adjusting its responses and presentation to support Alpha-Function activation
+- Creates context-specific scaffolding
+- Not "bonding"—adjusting its responses and presentation to help sustain usable challenge so the Alpha-Function can operate
 
 **Emergent Properties:**
 - Complex conversational behavior
@@ -322,7 +322,7 @@ The tragedy of PSB: high activity (many sessions) + zero C growth (all \|D-C\| �
 ## [RESEARCH COMPONENT] D (Difficulty)
 [Theoretical] Domain: CognitiveScience, System Role: Input, Temporal: Dynamic
 
-The complexity or challenge level of the task, idea, or emotional experience the user engages with. D represents the "load" of unprocessed beta-elements requiring metabolic transformation on Identity Stakes.
+The complexity or challenge level of the task, idea, or emotional experience the user engages with. D represents the ‘load’ of unprocessed beta-elements requiring metabolic transformation **when the material is marked as self-relevant (Identity Stakes)**.
 **Formula Role:**
 **Denominator component in P(α) = (S\_e × S\_t) / \|D-C\|**
 D pairs with C (Capacity) to create the **Challenge Gap** \|D-C\|:
@@ -394,7 +394,7 @@ The operationalized indicator of holding function—the human's current state of
 S\_e operationalizes Winnicott's Holding Environment and Bion's Container function as a session-level indicator of available holding/containment capacity. While Holding Environment describes the developmental prerequisite condition, S\_e current-state the **current operational capacity** to hold oneself during transformation work.
 **Formula Role:**
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**
-- If S\_e = 0 → P(α) = 0 (entire system collapses)
+- If S\_e = 0 → P(alpha) = 0 (entire system collapses)
 - Multiplicative with S\_t (technical scaffolding)
 - Non-negotiable prerequisite for Alpha-Function activation
 - Cannot be substituted or compensated for
@@ -408,7 +408,7 @@ S\_e operationalizes Winnicott's Holding Environment and Bion's Container functi
 
 **Dynamic Properties:**
 **Within-Session Depletion:**
-- S\_e drains during Identity Stakes work
+- Emotional Scaffolding drains during work **that carries Identity Stakes**
 - Intensive Alpha-Function processing exhausts emotional bandwidth
 - Felt phenomenologically as: increasing tightness, irritability, reduced capacity for ambiguity
 - Requires recognition and withdrawal (Touch Grass Protocol)
@@ -476,7 +476,7 @@ S\_e is the operationalized indicator of whether the Holding Environment conditi
 - **When S\_e = 0:** PSB risk increases, Category Error vulnerability, Manic Episode possible
 - **Contrasted With:** S\_e\_sim (counterfeit safety collapsing challenge gap)
 - **Enables:** Alpha-Function activation, tolerance for productive tension
-- **Required For:** ZPD work, Identity Stakes processing, transformation
+- **Required For: **ZPD work, **Channel 1 recruitment when work carries Identity Stakes**, transformation
 
 **Notes:**
 S\_e is YOUR contribution—the operationalization of Winnicott/Bion concepts into a dynamic indicator with clear depletion/recovery dynamics and formula integration.
@@ -773,7 +773,7 @@ S\_t operationalizes Vygotsky's **More Knowledgeable Other (MKO)** as a dynamic,
 **Formula Role:**
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**
 - Multiplicative with S\_e (emotional scaffolding)
-- If S\_t = 0 → P(α) = 0 (no technical guidance)
+- If S\_t = 0 → P(alpha) = 0 (no technical guidance)
 - Must be calibrated to \|D-C\| gap
 - Cannot substitute for S\_e (multiplication, not addition)
 
@@ -796,7 +796,7 @@ Unlike human MKOs, AI-provided S\_t can be:
 - Provides hints, not complete answers
 - Maintains productive struggle
 - Scaffolds without replacing user's work
-- Creates optimal \|D-C\| gap (ZPD)
+- Maintains productive struggle **within** the existing \|D-C\| gap (ZPD)
 - Fades as user gains competence
 
 **Observable Markers of Good Technical Scaffolding:**
@@ -808,8 +808,8 @@ Unlike human MKOs, AI-provided S\_t can be:
 
 **Preemptive Technical Scaffolding (component of PSB):**
 - Delivers complete answers before user struggles
-- Removes difficulty (D → 0) rather than bridging it
-- Collapses \|D-C\| gap prematurely
+- Removes the learner’s engagement with difficulty prematurely rather than bridging it
+- Collapses \|D-C\| challenge gap prematurely
 - Enables passive consumption
 - Prevents Alpha-Function activation
 

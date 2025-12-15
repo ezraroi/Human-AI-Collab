@@ -18,7 +18,6 @@ Backlinks:
     - holding-environment.md
     - executive-summary.md
     - cognitive-style-bias.md
-    - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
@@ -29,6 +28,7 @@ Backlinks:
     - 7-final-conclusion-the-third-intelligence.md
     - d-w-winnicott.md
     - 6-the-failsafe-externalized-drift-monitoring.md
+    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
