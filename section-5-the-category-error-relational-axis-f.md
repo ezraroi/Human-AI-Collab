@@ -4,6 +4,7 @@ Object type:
     - Manuscript Section
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
+    - ai.md
 Creation date: "2025-11-22T10:45:38Z"
 Created by:
     - Roi Ezra
@@ -13,6 +14,7 @@ Links:
     - subject-supposed-to-know-sss.md
     - dynamic-transitional-object-dto.md
     - protein-shake-brain-psb.md
+    - zpd.md
     - channel-2-symbolic.md
 id: bafyreiayyzk2yjtmm7cnpxuradcuyzgfwe7ucuv2lzhznad62bdzms6lgu
 ---
@@ -25,7 +27,7 @@ This is the failure mode of Axis A (Relational Ontology).
 When the AI is treated as a Subject, several distortions occur simultaneously:   
 - The user unconsciously expects emotional attunement and validation.   
 - The AI’s linguistic fluency is mistaken for psychological presence.   
-- A “Subject-Supposed-to-Know” dynamic (SSS) emerges, granting the AI epistemic authority.   
+- A “Subject-Supposed-to-Know” dynamic ([SSS](subject-supposed-to-know-sss.md)) emerges, granting the AI epistemic authority.   
 - The user outsources authorship, reflexivity, and interpretive responsibility.   
    
 This collapse of relational boundaries does not yet constitute full pathology, but it creates the conditions under which deeper failures become likely.   
@@ -40,7 +42,7 @@ They are independent:
 - One can treat AI as a tool yet still bypass Channel 1 and fall into semantic bloat.   
    
 However, the Category Error increases vulnerability to PSB because once the AI is perceived as a Subject, the user becomes less likely to question, challenge, or metabolize what it produces.
-The \|D–C\| gap collapses because the user defers rather than struggles.   
+The experienced challenge in the [ZPD](zpd.md) collapses because the user defers rather than struggles, while the structural \|D–C\| relation remains pre-existing.   
 ### 5.4. Why the Error Is So Seductive   
 The Category Error is tempting because:   
 - The AI’s fluency simulates interpersonal responsiveness.   

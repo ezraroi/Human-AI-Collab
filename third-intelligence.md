@@ -12,7 +12,7 @@ Backlinks:
     - questions-your-synthesis-raises.md
     - eidetic-structure.md
     - holding-environment.md
-    - cognitive-style-ssbias.md
+    - cognitive-style-bias.md
     - 6-final-conclusion.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
@@ -20,13 +20,17 @@ Backlinks:
     - christopher-bollas.md
     - digital-neurophenomenology.md
     - section-3-foundational-theoretical-integration.md
+    - time.md
     - 7-final-conclusion-the-third-intelligence.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - two-axis-framework.md
     - part-iii-transformative-ai-dialogue-talking-to.md
+    - the-doing-both-hypothesis.md
+    - alpha-function.md
     - the-journals-role-in-third-intelligence.md
+    - activation-pathway-of-destiny-drive.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - unified-architecture-neurobiological-resolutio.md

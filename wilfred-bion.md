@@ -15,16 +15,17 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - the-container.md
+    - d-difficulty.md
     - external-alpha-function.md
+    - the-core-parallel-two-descriptions-of-one-proc.md
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
-    - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - the-unified-architecture.md
     - dialogical-and-embodied-frameworks-an-integrat.md
@@ -40,7 +41,7 @@ Links:
     - p-alpha-probability-of-growth.md
     - human.md
     - the-container.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - recursive-metabolic-loop.md
 Emoji: "\U0001F464"
 id: bafyreihmpfz2slhtskuvsli2sv4attqcivvpx3iigcrlfcfmk6boavyovi
@@ -49,7 +50,7 @@ id: bafyreihmpfz2slhtskuvsli2sv4attqcivvpx3iigcrlfcfmk6boavyovi
 Provides the **Psychic Mechanism (The Engine)**.
 ***[Alpha-Function](alpha-function.md):** The metabolic process of thinking ([$P(\alpha)$](p-alpha-probability-of-growth.md)).
 ***Container/Contained:** The [Human](human.md) acts as [the Container](the-container.md); the AI is a "False Container".
-**Nameless Dread:** The result of a failed container (or [$S\_e=0$](s_e-emotional-scaffolding.md)).   
+**Nameless Dread:** The result of a failed container (or [$S\_e=0$](emotional-scaffolding-s_e.md)).   
    
 Wilfred Bion (1897-1979) was an influential English psychoanalyst, considered by some to be "possibly the greatest psychoanalytic thinker…after Freud". A decorated war veteran of WWI, he made significant contributions t**o group dynami**cs and developed a highly origina**l theory of thinki**ng based on emotional experience.   
 Key Contributions   

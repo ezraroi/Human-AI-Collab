@@ -32,12 +32,12 @@ Links:
     - protein-shake-brain-psb.md
     - human.md
     - iron-man-mentality.md
+    - zpd.md
     - challenge-gap-d-c.md
     - reflective-prompting.md
     - journal.md
     - as-if-body-loop.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - ai.md
     - felt-sense.md
     - epistemological-humility.md
     - external-alpha-function.md
@@ -47,7 +47,7 @@ id: bafyreifhxkvij475kbclygf5ndrilyxh2pl45zr4gmniywdsy57pv6di2y
 ---
 # Recursive Pattern-Verification Loop   
 The real-time metabolic cycle through which the human tests AI-generated material against embodied knowing, symbolic grammar, and lived experience.   
-It is the mechanism that ensures insights are **metabolized** ([alpha-function](alpha-function.md)) rather than adopted ([Channel 2](channel-2-symbolic.md) -only bypass), preventing [Category Error](category-error.md), [PSB](protein-shake-brain-psb.md), and collapse of authorship.   
+It is the verification protocol that ensures insights are metabolized ([alpha-function](alpha-function.md)) rather than adopted ([Channel 2](channel-2-symbolic.md)-only bypass), reducing vulnerability to [Category Error](category-error.md) (Axis A failure), [PSB](protein-shake-brain-psb.md), and collapse of authorship.   
 ## System Role   
 The **continuous verification protocol** running throughout all Reflective Prompting phases—the core anti-collapse mechanism of the Third Intelligence system.   
 Scope:   
@@ -59,10 +59,10 @@ Scope:
 RPVL is the **epistemic safety layer**  ensuring AI outputs are metabolized, not adopted.   
 It:   
 - Enforces [alpha-function](alpha-function.md) processing during dialogue (Axis B integrity).   
-- Keeps AI outputs from bypassing embodiment and symbolic digestion.   
+- Keeps AI outputs from bypassing Channel 1 verification and Alpha-Function metabolism.   
 - Maintains [human](human.md) authorship of meaning.   
 - Provides the functional expression of [Iron Man Mentality](iron-man-mentality.md).   
-- Ensures [\|D–C\| ](challenge-gap-d-c.md)is not prematurely collapsed by over-delegation.   
+- Ensures the *experienced challenge* inside the [ZPD](zpd.md) is not prematurely collapsed by over-delegation (i.e., prevents ‘no struggle’ [PSB](protein-shake-brain-psb.md)), while the structural [Challenge Gap (\|D–C\|](challenge-gap-d-c.md)) remains unchanged.   
 - Anchors the epistemic safety of [Reflective Prompting](reflective-prompting.md).   
    
 Without this loop, Reflective Prompting becomes scripting, the [Journal](journal.md) becomes transcript, and transformation collapses into [PSB](protein-shake-brain-psb.md).   
@@ -78,12 +78,12 @@ Without this loop, Reflective Prompting becomes scripting, the [Journal](journal
 5. **Recursive Revision**   
     Insight → Challenge → Verification → Grounding → Re-articulation → New Insight.   
    
-This recursive structure is [alpha-function](alpha-function.md) operating live.   
+This recursive structure keeps Alpha-Function processing engaged live.   
 ## Mechanisms   
-- **[As-If Body Loop](as-if-body-loop.md) activation** → [Channel 2](channel-2-symbolic.md) → [Channel 1](channel-1-embodied-sensorimotor-pathway.md) → [alpha-function](alpha-function.md).   
+- [As-If Body Loop](as-if-body-loop.md): Channel 2 symbolic input recruits [Channel 1](channel-1-embodied-sensorimotor-pathway.md) embodied verification within Alpha-Function cycles.   
 - **Metabolic friction** → tension necessary for transformation.   
 - **Topological repair** → prevents collapse into C2-only processing.   
-- **Boundary enforcement** → prevents [AI](ai.md) from being treated as Subject.   
+- **Boundary enforcement** → prevents the user from treating AI as Subject.   
    
 **Notes:** Although it is also a mechanism of Alpha-Function, it is best tagged as **Method** because it is a *protocol the user performs*. Mechanistic details live in Relations.   
 ## Relations (Wiring)   

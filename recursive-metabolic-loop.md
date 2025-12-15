@@ -10,17 +10,16 @@ Tag:
 Backlinks:
     - document-abstract.md
     - destiny-drive.md
-    - what-this-means-for-your-paper.md
     - identity-stakes.md
     - eugene-gendlin.md
     - time.md
     - external-alpha-function.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - two-axis-framework.md
     - critical-connection-6-my-method-works-because-.md
     - third-intelligence.md
     - alpha-function.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - wilfred-bion.md
@@ -39,7 +38,7 @@ Links:
     - alpha-elements.md
     - c-capacity.md
     - protein-shake-brain-psb.md
-    - jean-piaget.md
+    - e.md
     - lev-vygotsky.md
     - wilfred-bion.md
     - antonio-damasio.md
@@ -64,7 +63,7 @@ The Recursive Loop:
 This is the engine of transformation — not upward by default, but upward **when recursive cycles reach integration thresholds**.   
 ### The Cycle:   
 ### 1. Symbolic Input (Channel 2)   
-AI or internal thought produces a symbolic candidate meaning.   
+Symbolic material (Channel 2)—from AI output or internal thought—provides a candidate meaning.   
 ### 2. Embodied Check (Channel 1)   
 The body responds with friction, pacing, affective signal (“tight/spacious”).   
 ### 3. Alpha-Function Processing   
@@ -83,14 +82,14 @@ New capacity becomes the foundation for the next loop.
 This produces the *upward spiral* when repeated over time.   
 # Wiring (Relations)   
 ### Theorists   
-- [Piaget](jean-piaget.md) (schema accommodation via conflict)   
+- [Piaget](e.md) (schema accommodation via conflict)   
 - [Vygotsky](lev-vygotsky.md) (mediated meaning through tools/dialogue)   
 - [Bion](wilfred-bion.md) (Alpha-Function)   
 - [Damasio](antonio-damasio.md) ([As-If Body Loop](as-if-body-loop.md) enabling C1 activation from C2 input)   
    
 ### Biological Substrate   
 - [AIC](anterior-insular-cortex-aic.md) (interoception)   
-- Fronto-Parietal Network (symbolic processing)   
+- Fronto-Parietal Network (supporting Channel 2 symbolic work)   
 - Hippocampal memory consolidation (stabilizing α-elements)   
 - Insula ↔ Prefrontal integration pathways (recursive loops)   
    

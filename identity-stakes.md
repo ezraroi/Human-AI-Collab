@@ -12,9 +12,14 @@ Backlinks:
     - destiny-drive.md
     - embodied-engagement-conditions.md
     - holding-environment.md
+    - productive-epistemic-tension.md
+    - d-difficulty.md
     - challenge-gap-d-c.md
+    - alpha-function.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
+    - emotional-scaffolding-s_e.md
+    - functional-alterity.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -34,7 +39,7 @@ id: bafyreibwvz5w4cq7nwvjea5kzjoqz6ei4hbfoebxhsfpgksku3ucr3upcm
 ---
 # Identity Stakes   
 Identity Stakes represent the **threshold where information becomes self-relevant** and shifts from abstract knowledge to material for self-construction.   
-[Channel 1](channel-1-embodied-sensorimotor-pathway.md) fully engages only when the symbolic tension touches the **becoming self**.   
+[Channel 1](channel-1-embodied-sensorimotor-pathway.md) tends to engage most strongly when the symbolic tension touches the becoming self.   
 ### System Role   
 - Converts symbolic tension into **embodied tension**.   
 - Acts as the bridge between psychoanalytic drives (destiny/formation) and cognitive metabolism.   

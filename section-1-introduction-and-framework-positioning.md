@@ -19,7 +19,7 @@ Links:
     - kurt-lewin.md
     - lev-vygotsky.md
     - zpd.md
-    - jean-piaget.md
+    - e.md
     - d-difficulty.md
 id: bafyreic7ecyec2ljlc2xiwasds3hr62bxl52mb7tikcsjfpfbbi7cqxkxy
 ---
@@ -33,7 +33,7 @@ The "[Third Intelligence](third-intelligence.md)" is not located in the AI nor s
 Established: You're building a generative theoretical schema, similar to:   
 - [Kurt Lewin's](kurt-lewin.md) B = f(P,E)   
 - [Vygotsky's](lev-vygotsky.md) [ZPD](zpd.md)   
-- [Piaget's](jean-piaget.md) Equilibration   
+- [Piaget's](e.md) Equilibration   
    
 These formulas were never computational - they provided:   
 - Consistent analytical lens across phenomena   

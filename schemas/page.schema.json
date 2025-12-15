@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-12:type-page:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-15:type-page:ver-1.0",
   "type": "object",
   "title": "Page",
   "x-app": "Anytype",

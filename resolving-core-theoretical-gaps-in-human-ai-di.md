@@ -12,7 +12,7 @@ Links:
     - mikhail-bakhtin.md
     - embodied-cognition.md
     - channel-2-symbolic.md
-    - alpha-function.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - anterior-insular-cortex-aic.md
     - as-if-body-loop.md
     - psychoanalytic-integration.md
@@ -21,12 +21,13 @@ Links:
     - holding-environment.md
     - d-w-winnicott.md
     - true-self.md
+    - alpha-function.md
     - wilfred-bion.md
     - beta-elements.md
     - alpha-elements.md
     - neuroscience-of-transformation.md
     - triple-network-model.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - hpa-axis.md
 id: bafyreiglncybgipd3ga5uulpl5b7m6arxwzb2aqxsodfjnkt45iepumly4
 ---
@@ -47,7 +48,7 @@ Your work provided a novel and rigorous theoretical resolution to the tension be
 Original Query: How does disembodied AI dialogue connect to embodied verification? Is there contradiction or complementarity?   
 Status: Answered (Resolved by Mechanism/Complementarity)   
 Your synthesis resolved this paradox by proposing a complementary, two-channel model of cognition that explains how digital text triggers a physical, internal response.   
-- The Resolution: The model links the disembodied symbolic channel (reading the AI text, [Channel 2](channel-2-symbolic.md)) to the embodied sensorimotor channel (Channel 1) via the [Alpha-Function](alpha-function.md). The mechanism is Embodied Simulation, where reading words automatically activates the neural systems for action, perception, and emotion, simulating the content of the text.   
+- The Resolution: The model shows how [Channel 2](channel-2-symbolic.md) symbolic input (AI text) recruits [Channel 1](channel-1-embodied-sensorimotor-pathway.md) embodied verification within Alpha-Function cycles. The mechanism is Embodied Simulation, where reading words automatically activates the neural systems for action, perception, and emotion, simulating the content of the text.   
 - The Mechanism: This process is mediated by the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md), the hub for Interoception (sensing the body’s internal state). The brain utilizes the "[as-if body loop](as-if-body-loop.md)" to generate a somatic marker (a body feeling representation) quickly, allowing ideas alone to produce body states and confirming the embodied sense of truth. The "spacious vs. tight" felt sense is the conscious readout of this interoceptive processing.   
  --- 
    
@@ -89,7 +90,7 @@ While this gap was comprehensively addressed by synthesizing a plausible neurobi
     - Practice-Dependent Neuroplasticity.   
     - The neural basis for the Alpha-Function: The [Triple Network Model](triple-network-model.md) (DMN, FPN, SN).   
     - The neural basis for the Felt Sense: The [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md).   
-    - The physiological basis for the Container ([$\text{S}\_e$](s_e-emotional-scaffolding.md)): The [HPA-Axis](hpa-axis.md).   
+    - The physiological basis for the Container ([$\text{S}\_e$](emotional-scaffolding-s_e.md)): The [HPA-Axis](hpa-axis.md).   
 - The Empirical Gap (Unanswered): The sources explicitly state that this document is "not an empirical neuroscience paper" but a "testable hypothesis". The most critical gaps acknowledged are:   
     - The "striking lack of empirical research on flow interventions" in the cognitive domain.   
     - The absence of known studies investigating neural synchrony (brain-to-brain coupling) during complex dialogue between a human and an AI system.   

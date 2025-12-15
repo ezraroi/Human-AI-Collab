@@ -35,8 +35,7 @@ Links:
     - beta-elements.md
     - alpha-elements.md
     - dynamic-transitional-object-dto.md
-    - category-error.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - cognitive-dependency.md
 Emoji: "\U0001F4A1"
 id: bafyreifcwkg3udzmdnghxr6votkkuow4ejbo7eo4nivcznk22hkyvxadi4
@@ -47,9 +46,9 @@ It describes the *routing, sequencing, and feedback* by which raw experience bec
 ### System Role   
 - Provides the **mechanistic map** of the processing axis (Axis B).   
 - Specifies *how*:   
-    - Symbolic input from AI enters the system ([Channel 2](channel-2-symbolic.md)),   
-    - Becomes embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) via the As-If Body Loop,   
-    - Gets metabolized by Alpha-Function,   
+    - Symbolic input from AI enters the system ([Channel 2](channel-2-symbolic.md))   
+    - Recruits embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) via the As-If Body Loop   
+    - Gets metabolized by [Alpha-Function](alpha-function.md)   
     - And is materialized + returned via the Journal across sessions.   
 - Enables **diagnosis of distinct failure modes**:   
     - [PSB](protein-shake-brain-psb.md) (Alpha-Function offline)   
@@ -68,7 +67,7 @@ Minimal cycle (one “transformative pass”):
     - The As-If Body Loop simulates bodily states (AIC / somatic markers) → “felt sense” appears.   
     - This generates embodied signal about relevance, coherence, threat, etc. (Channel 1).   
 3. **Alpha-Function Metabolism (Processor / Regulator):**   
-    - Alpha-Function receives *joint input*: symbolic content ([Channel 2](channel-2-symbolic.md)) + somatic signal ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)).   
+    - Alpha-Function metabolizes symbolic content (Channel 2) in recursive oscillation with somatic signal (Channel 1).   
     - It transforms [beta-elements](beta-elements.md) (raw/unbearable or unstructured experience) into [alpha-elements](alpha-elements.md) (thinkable representations).   
     - Result: a more organized, personally owned configuration of meaning (proto-insight).   
 4. **[Journal](journal.md) Materialization (External Organ):**   
@@ -76,7 +75,7 @@ Minimal cycle (one “transformative pass”):
     - This:   
         - Fixes the transformation in time (chronotope),   
         - Creates substrate for future pattern recognition,   
-        - Re-injects α-elements into future cycles as upgraded C.   
+        - Re-injects the *captured record* of [alpha-elements](alpha-elements.md) into future cycles as upgraded C.   
 5. **Recursive Feedback ([Time](time.md)):**   
     - On later days, the Journal feeds prior α-elements back into the next cycle as “baseline C”.   
     - The circuit runs again with new input (D) → repeated metabolic passes gradually increase Capacity (C).   
@@ -126,13 +125,13 @@ Sₑ therefore acts as the system’s qualitative “power regulator,” determi
 ### D. Wiring (Relations)   
 - **Part Of:** Axis B – Processing Mode ([Two-Axis Framework](two-axis-framework.md))   
 - **Depends On:**   
-    - Correct Axis A stance (AI as [DTO](dynamic-transitional-object-dto.md); no [Category Error](category-error.md))   
-    - [Emotional Scaffolding](s_e-emotional-scaffolding.md) (Sₑ) sufficient for frustration tolerance   
+    - Correct Axis A stance (AI as [DTO](dynamic-transitional-object-dto.md))   
+    - [Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ) sufficient for frustration tolerance   
 - **Contributes To:**   
     - Growth of C (Capacity) over Time   
     - Prevention / diagnosis of PSB, Symbolic Overrun, Transient Insight   
 - **Raises Risk Of (if misconfigured):**   
-    - [Cognitive Dependency](cognitive-dependency.md) (if AI treated as Subject and circuit bypassed)   
+    - [Cognitive Dependency](cognitive-dependency.md) (**if AI treated as Subject and [PSB](protein-shake-brain-psb.md) co-occurs**)   
     - PSB (if Alpha-Function is not engaged)   
     - Disembodied pseudo-clarity (if As-If Body Loop is offline)   
     - “Insight with no consequences” (if Journal is absent)   

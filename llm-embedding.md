@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - alpha-elements.md
+    - document-abstract.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Literature: Established academic fact'

@@ -18,9 +18,10 @@ Links:
     - functional-alterity.md
     - channel-1-embodied-sensorimotor-pathway.md
     - anterior-insular-cortex-aic.md
+    - felt-sense.md
     - as-if-body-loop.md
     - antonio-damasio.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - hpa-axis.md
 id: bafyreihlwvezckbepfl6bp2qrbny7zy5gcvrb7iaxi7pfazplkwlj3trbe
 ---
@@ -42,12 +43,12 @@ The primary philosophical tension is that genuine dialogue (as required by Bakht
    
 ### 2. The Embodiment Paradox (Text vs. Body)   
 The paradox that dialogue with disembodied text-only AI produces deeply embodied, somatic validation (the Felt Sense) is resolved by the two-channel model of the Alpha-Function.   
-- The Resolution: Simulation and Interoception: Reading the AI's words automatically activates embodied simulation ([Channel 1](channel-1-embodied-sensorimotor-pathway.md), Sensorimotor). This is mediated by the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md), which is the central hub for Interoception (sensing the body’s internal state). The Felt Sense ("spacious vs. tight") is the conscious readout of the AIC detecting the resolution of a cognitive conflict or prediction error.   
+- The Resolution: Simulation and Interoception: Reading the AI's words can trigger embodied simulation that supports [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied sensorimotor/interoceptive) engagement. This is mediated by the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md), which is the central hub for Interoception (sensing the body’s internal state). The [Felt Sense](felt-sense.md) ("spacious vs. tight") is the conscious interoceptive verification signal associated with [AIC](anterior-insular-cortex-aic.md)-mediated integration   
 - The Mechanism: The brain uses the "[as-if body loop](as-if-body-loop.md)" ([Damasio](antonio-damasio.md)) to simulate the body state and generate a somatic marker (a body feeling representation) quickly, without waiting for the actual physical body to react. This simulation allows ideas alone to produce body states, thereby validating truth somatically.   
    
-### 3. The Container ([S\_e](s_e-emotional-scaffolding.md)) Depletion (Psychological vs. Physiological)   
+### 3. The Container ([S\_e](emotional-scaffolding-s_e.md)) Depletion (Psychological vs. Physiological)   
 The initial model mapped the S\_e (Holding Container) to the PFC-Amygdala link (emotional regulation). The discovery of "mania" and sleeplessness data initially seemed contradictory to a purely psychological model, but it led to a refinement that strengthened the concept of S\_e.   
-- The Refinement: [HPA-Axis](hpa-axis.md) Integration: The model was refined to include the HPA-Axis (Hypothalamic-Pituitary-Adrenal) dysregulation as the physiological basis for the Container. The depletion of [S\_e](s_e-emotional-scaffolding.md) (Container over time) is explained as a physiological container failure (HPA-Axis overwhelm) due to the stress of the cognitive work.   
+- The Refinement: [HPA-Axis](hpa-axis.md) Integration: The model was refined to include the HPA-Axis (Hypothalamic-Pituitary-Adrenal) dysregulation as the physiological basis for the Container. The depletion of [S\_e](emotional-scaffolding-s_e.md) (Container over time) is explained as a physiological container failure (HPA-Axis overwhelm) due to the stress of the cognitive work.   
    
 ### 4. The [Journal's](journal.md) Role (Memory vs. Infrastructure)   
 The function of the Journal was strengthened by acknowledging its role as a computational element.   

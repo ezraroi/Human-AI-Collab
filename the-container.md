@@ -10,9 +10,10 @@ Backlinks:
     - reverie.md
     - 4-the-system-architecture-v2-0.md
     - executive-summary.md
+    - human.md
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - hpa-axis.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - wilfred-bion.md
 Origin Domain:
     - Psychoanalysis
@@ -27,7 +28,7 @@ Links:
     - alpha-function.md
     - beta-elements.md
     - human.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
 Emoji: "\U0001F4A1"
 id: bafyreid3alfbrtfbjhmerg44nhlmk5eliw66ldlvpy4bpigljjwrywymhi
 ---
@@ -38,5 +39,5 @@ This process is achieved when the container is in a state of **"[reverie](reveri
 ### In my context:   
 **Definition:** The capacity to hold, contain, and metabolize raw, unprocessed **[Beta-Elements](beta-elements.md)** (anxiety/sensory data) so they do not overwhelm the psyche.   
 **System Role:** In the "Third Intelligence" model, the **[Human](human.md)** is the Container, not the AI. The AI is a "False Container" or "False ZPD".   
-**Management:** The Container uses **[$S\_e$](s_e-emotional-scaffolding.md)** (Emotional Scaffolding) and depletes over time, requiring recovery.   
+**Management:** The Container uses **[$S\_e$](emotional-scaffolding-s_e.md)** (Emotional Scaffolding) and depletes over time, requiring recovery.   
    

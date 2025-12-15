@@ -9,7 +9,7 @@ Created by:
     - Roi Ezra
 Links:
     - lev-vygotsky.md
-    - jean-piaget.md
+    - e.md
     - protein-shake-brain-psb.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
@@ -18,7 +18,7 @@ id: bafyreiffltozrj5jdurh2xnn3dvnkwejo573rbtcb53f7rdr7bmtcuoasi
 ---
 # CRITICAL CONNECTION #5: Why PSB Happens   
 ### NoteBook 1: The Category Error   
-- Treating AI as [Vygotskian](lev-vygotsky.md) Subject instead of [Piagetian](jean-piaget.md) Object   
+- Treating AI as [Vygotskian](lev-vygotsky.md) Subject instead of [Piagetian](e.md) Object   
 - AI provides permanent scaffolding instead of temporary   
 - Collapses \|D-C\| to zero   
 - Creates False Container   
@@ -32,10 +32,10 @@ id: bafyreiffltozrj5jdurh2xnn3dvnkwejo573rbtcb53f7rdr7bmtcuoasi
 THE UNIFIED DIAGNOSIS:   
 [PSB](protein-shake-brain-psb.md) happens when Channel 1 is completely bypassed:   
 1. User asks question   
-2. AI provides complete answer ([Channel 2 ](channel-2-symbolic.md)only - pure semantic)   
-3. User passively consumes (no embodied simulation required)   
+2. AI provides symbolic content ([Channel 2](channel-2-symbolic.md)), and the user treats it as sufficient without engaging Channel 1.   
+3. User passively consumes (no embodied verification engaged)   
 4. No "spacious vs tight" checking ([Channel 1](channel-1-embodied-sensorimotor-pathway.md) offline)   
 5. No writing/materialization (no integration point)   
-6. [Alpha function](alpha-function.md) never activates   
+6. [Alpha-function](alpha-function.md) processing fails to engage robustly   
    
-The result: Knowledge flows through without transformation. Like trying to digest without a stomach. Beta elements remain beta elements.\*\*   
+The result: Knowledge flows through without transformation. Like trying to digest without a stomach. Beta elements remain beta elements.   

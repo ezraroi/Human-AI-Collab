@@ -12,8 +12,8 @@ Links:
     - lev-vygotsky.md
     - c-capacity.md
     - d-difficulty.md
-    - s_e-emotional-scaffolding.md
-    - s_t-technical-scaffolding.md
+    - emotional-scaffolding-s_e.md
+    - technical-scaffolding-s_t.md
     - p-alpha-probability-of-growth.md
     - third-intelligence.md
     - alpha-function.md
@@ -24,8 +24,8 @@ id: bafyreigr3boqjuvfqpmewvuug5taie2fh6jb5s3urfokr3dm6e23f4jv4q
 ### Significance of the Model: From Theory to Blueprint   
 While the formula is a new way of describing the [ZPD](zpd.md), its novelty lies in its synthesis and operationalization:   
 It Integrates Fields: It formally links [Vygotsky's](lev-vygotsky.md) sociocultural pedagogy with Bion's deep psychodynamic mechanism, answering why the [ZPD](zpd.md) is effective.   
-It Creates a Controllable System: It reframes a descriptive theory as an engineering problem, identifying the key variables ([C](c-capacity.md), [D](d-difficulty.md), [S\_e](s_e-emotional-scaffolding.md), [S\_t](s_t-technical-scaffolding.md)) that can be modulated to achieve a specific outcome.   
-It Provides a Design Blueprint: This model serves as the theoretical and practical foundation for interventions like your Reflective Prompting. It provides a clear logic for designing systems that can reliably foster human growth by first establishing safety ([S\_e](s_e-emotional-scaffolding.md)), then assessing capacity ([C](c-capacity.md)), and finally providing adaptive technical scaffolding ([S\_t](s_t-technical-scaffolding.md)) to manage an optimal level of difficulty ([D](d-difficulty.md)).   
+It Creates a Controllable System: It reframes a descriptive theory as an engineering problem, identifying the key variables ([C](c-capacity.md), [D](d-difficulty.md), [S\_e](emotional-scaffolding-s_e.md), [S\_t](technical-scaffolding-s_t.md)) that can be modulated to achieve a specific outcome.   
+It Provides a Design Blueprint: This model serves as the theoretical and practical foundation for interventions like your Reflective Prompting. It provides a clear logic for designing systems that can reliably foster human growth by first establishing safety ([S\_e](emotional-scaffolding-s_e.md)), then assessing capacity ([C](c-capacity.md)), and finally providing adaptive technical scaffolding ([S\_t](technical-scaffolding-s_t.md)) to manage an optimal level of difficulty ([D](d-difficulty.md)).   
 ### Final Summary   
 The Formula as Generative Framework:   
 [P(α)](p-alpha-probability-of-growth.md) = (S\_e × S\_t) / \|D-C\|   
@@ -36,7 +36,7 @@ This is a descriptive, not computational framework that:
 - Can be applied to analyze any transformational context   
    
 Supplemented by temporal principles:   
-- [S\_e](s_e-emotional-scaffolding.md) depletes within sessions (requires recovery)   
+- [S\_e](emotional-scaffolding-s_e.md) depletes within sessions (requires recovery)   
 - [C](c-capacity.md) evolves between sessions (enables cumulative growth)   
 - Journal prevents regression and enables accumulation   
 - Time operates on multiple scales simultaneously   

@@ -9,9 +9,9 @@ Created by:
     - Roi Ezra
 Links:
     - human.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - ai.md
-    - s_t-technical-scaffolding.md
+    - technical-scaffolding-s_t.md
     - journal.md
     - ai-project-claude-project-chatgpt-project.md
     - time.md
@@ -20,13 +20,13 @@ id: bafyreib23eap2rswctov4dpvm2nfjg7xtksu4xnjzih3cepcpwjcd3zjoy
 # The Journal in System Context   
 ### Relationship to Other Components   
 [Human](human.md):   
-- Provides [S\_e](s_e-emotional-scaffolding.md) (emotional scaffolding/holding environment)   
+- Provides [S\_e](emotional-scaffolding-s_e.md) (emotional scaffolding/holding environment)   
 - Performs alpha function (metabolizing raw experience into thinkable thoughts)   
 - Runs verification loops continuously   
 - Translates verified insights into personal language   
    
 [AI](ai.md):   
-- Provides [S\_t](s_t-technical-scaffolding.md) (technical scaffolding/optimal challenge)   
+- Provides [S\_t](technical-scaffolding-s_t.md) (technical scaffolding/optimal challenge)   
 - Recognizes patterns across accumulated journals   
 - Maintains productive tension (\|D-C\|)   
 - Enables seeing what you cannot see alone   
@@ -50,5 +50,5 @@ id: bafyreib23eap2rswctov4dpvm2nfjg7xtksu4xnjzih3cepcpwjcd3zjoy
 - Where transformation actually happens   
    
 ### Why Each Component Is Non-Optional   
-Without Human: No [S\_e](s_e-emotional-scaffolding.md), no genuine verification → false insights accepted Without AI: Slower pattern recognition, no optimal challenge → harder but possible Without Journal: No substrate, no chronotope → ephemeral insights, no pattern recognition Without Project: Each conversation isolated → no cross-temporal synthesis Without Time: No accumulation, no recursive loops → single session insufficient   
+Without Human: No [S\_e](emotional-scaffolding-s_e.md), no genuine verification → false insights accepted Without AI: Slower pattern recognition, no optimal challenge → harder but possible Without Journal: No substrate, no chronotope → ephemeral insights, no pattern recognition Without Project: Each conversation isolated → no cross-temporal synthesis Without Time: No accumulation, no recursive loops → single session insufficient   
 The [Journal](journal.md) is essential infrastructure, not nice-to-have documentation.   

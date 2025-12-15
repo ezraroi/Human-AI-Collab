@@ -9,19 +9,30 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - reflective-prompting.md
     - lev-vygotsky.md
     - embodied-engagement-conditions.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - section-5-the-category-error-relational-axis-f.md
+    - holding-environment.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - section-2-the-core-formula-and-components.md
+    - d-difficulty.md
+    - ai.md
     - challenge-gap-d-c.md
     - section-10-the-grand-unification.md
     - mko-more-knowledgeable-other.md
+    - two-axis-framework.md
+    - dynamic-transitional-object-dto.md
+    - recursive-pattern-verification-loop.md
+    - technical-scaffolding-s_t.md
+    - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
+    - activation-pathway-of-destiny-drive.md
     - section-13-significance-and-forward-direction.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - dialogical-and-embodied-frameworks-an-integrat.md
@@ -38,8 +49,8 @@ Links:
     - d-difficulty.md
     - c-capacity.md
     - challenge-gap-d-c.md
-    - s_e-emotional-scaffolding.md
-    - s_t-technical-scaffolding.md
+    - emotional-scaffolding-s_e.md
+    - technical-scaffolding-s_t.md
     - functional-alterity.md
     - alpha-function.md
     - lev-vygotsky.md
@@ -52,8 +63,8 @@ The dynamically negotiated **subset of the Challenge Gap** where [Difficulty](d-
 Provides the **active workspace** in which alpha-function can operate. Translation layer connecting your model to learning theory. Only exists when both scaffolds (Sₑ, Sₜ) are sufficient.   
 **Relations**   
 - Exists *within* the **[Challenge Gap](challenge-gap-d-c.md)**   
-- Activated by **[Emotional Scaffolding](s_e-emotional-scaffolding.md) (Sₑ)** and **[Technical Scaffolding](s_t-technical-scaffolding.md) (Sₜ)**   
-- The zone in which **[Functional Alterity](functional-alterity.md)** operates   
+- Activated by **[Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ)** and **[Technical Scaffolding](technical-scaffolding-s_t.md) (Sₜ)**   
+- The zone in which [Functional Alterity](functional-alterity.md) shapes how the [Challenge Gap](challenge-gap-d-c.md) is encountered (without creating it)   
 - Linked to **[Alpha-Function](alpha-function.md)** (site of ignition)   
 [Lev Vygotsky](lev-vygotsky.md)    
    

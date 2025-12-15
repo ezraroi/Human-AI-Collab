@@ -8,7 +8,6 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - the-container.md
-    - s_e-emotional-scaffolding.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

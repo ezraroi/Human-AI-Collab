@@ -9,8 +9,8 @@ Created by:
     - Roi Ezra
 Links:
     - p-alpha-probability-of-growth.md
-    - s_e-emotional-scaffolding.md
-    - s_t-technical-scaffolding.md
+    - emotional-scaffolding-s_e.md
+    - technical-scaffolding-s_t.md
     - d-difficulty.md
     - c-capacity.md
     - protein-shake-brain-psb.md
@@ -20,19 +20,19 @@ id: bafyreiedu7hwzdqk4k2nzam4zzpririqr2yhvkbqaqz5j4ora7vwqlvcpa
 # Section 7 - The Three-Layer Architecture (Temporal Dynamics)   
 ## 8. The Three-Layer Architecture   
 ### Layer 1: The Formula (Structural Analysis)   
-[P(α) ](p-alpha-probability-of-growth.md)= ([S\_e](s_e-emotional-scaffolding.md) × [S\_t](s_t-technical-scaffolding.md)) / \|[D](d-difficulty.md)-[C](c-capacity.md)\|   
+[P(α) ](p-alpha-probability-of-growth.md)= ([S\_e](emotional-scaffolding-s_e.md) × [S\_t](technical-scaffolding-s_t.md)) / \|[D](d-difficulty.md)-[C](c-capacity.md)\|   
 Purpose: Describes what conditions, when present, enable transformation   
 Use: Analyze any snapshot - [PSB](protein-shake-brain-psb.md), micromanager, good session, bad session. Explains why that configuration works or fails structurally.   
 Analytical power: Can be applied to any phenomenon to test if the same structural relationships hold.   
 ### Layer 2: Within-Session Dynamics (Depletion)   
-Principle: [S\_e ](s_e-emotional-scaffolding.md)depletes during extended engagement   
+Principle: [S\_e ](emotional-scaffolding-s_e.md)depletes during extended engagement   
 Manifestations:   
 - Cannot marathon sessions indefinitely   
-- Racing thoughts episodes when pushed past [S\_e](s_e-emotional-scaffolding.md) depletion   
+- Racing thoughts episodes when pushed past [S\_e](emotional-scaffolding-s_e.md) depletion   
 - Need for breaks, rituals, session endings   
    
 Mechanism: Even with infinite AI capacity, human emotional reserves are finite and exhaust during session.   
-Recovery: Time, breaks, sleep, rituals restore [S\_e](s_e-emotional-scaffolding.md)   
+Recovery: Time, breaks, sleep, rituals restore [S\_e](emotional-scaffolding-s_e.md)   
 ### Layer 3: Between-Session Dynamics (Growth/Atrophy)   
 Principle: [C (Capacity)](c-capacity.md) evolves based on whether transformation occurred   
 Growth trajectory:   

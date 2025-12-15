@@ -17,7 +17,7 @@ Links:
     - human.md
     - flow-optimization-principle.md
     - cognitive-offloading.md
-    - c-capacity.md
+    - alpha-function.md
     - reflective-prompting.md
 id: bafyreiepapqtj556popoy2c2agkow6zhzou2kvl5s4ce5tv2bcoboescqa
 ---
@@ -50,12 +50,12 @@ Reflective Prompting succeeds by maximizing germane load while minimizing extran
 - User maintains verification (germane) → prevents dependency   
    
 The Anti-Otto Safeguard:   
-Unlike Otto's notebook (which reliably stores integrated knowledge), the AI must remain a catalyst not a cognitive extension. The system prevents dependency through:   
+Unlike Otto’s notebook (which can be treated as reliable storage), AI cannot be treated as an automatically trusted cognitive extension; it must be used with verification, as a catalyst for the user’s own processing. The system prevents dependency through:   
 1. Mandatory verification (felt sense check prevents blind acceptance)   
 2. Resolution monitoring (awareness of what you do/don't understand)   
 3. Journal requirement (externalization proves understanding)   
    
-The goal is not efficiency but capacity growth. [Cognitive offloading](cognitive-offloading.md) that increases [C (capacity)](c-capacity.md) over time is productive; offloading that maintains or decreases C is [PSB](protein-shake-brain-psb.md).   
+The goal is not efficiency but capacity growth. [Cognitive offloading](cognitive-offloading.md) is productive when it offloads retrieval/storage while preserving internal processing ([Alpha-Function](alpha-function.md)); it becomes destructive when it offloads the processing itself, risking [Protein Shake Brain.](protein-shake-brain-psb.md)   
 ### 3.2 How This Strengthens Your Model   
 ### 1. Provides Operational Decision Rules   
 Instead of just "use [Reflective Prompting](reflective-prompting.md) not PSB," you now have specific criteria:   

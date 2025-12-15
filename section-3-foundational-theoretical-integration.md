@@ -22,9 +22,8 @@ Links:
     - mko-more-knowledgeable-other.md
     - ai.md
     - functional-alterity.md
-    - journal.md
     - human.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - destiny-drive.md
     - christopher-bollas.md
 id: bafyreictbstuznufjinsxnfdvsphihtj6jn5qjkzlauqvrwsjjvwrt44ba
@@ -55,7 +54,7 @@ The alpha-function is the **bridge** between social experience and psychological
 Thus, alpha-function is the *core metabolic engine* of psychological transformation.   
 ## 3.3 The [ZPD](zpd.md) in the Third Intelligence System   
 Vygotsky’s **Zone of Proximal Development (ZPD)** corresponds directly to the **\|D–C\| gap**—the optimal window of tension between [Difficulty (D)](d-difficulty.md) and Capacity (C) in which transformation can occur.   
-In classical development, the **More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md))** temporarily performs cognitive work the learner cannot yet perform, even functioning at times as a substitute alpha-function.   
+In classical development, the **More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md))** temporarily performs cognitive work the learner cannot yet perform, even functioning at times as a temporary scaffold for meaning-making when the learner cannot yet process experience independently.   
 However, the architecture of the **[Third Intelligence](third-intelligence.md)** is fundamentally different:   
 - Adult users already possess an alpha-function.   
 - The system is not a substitute processor.   
@@ -63,8 +62,8 @@ However, the architecture of the **[Third Intelligence](third-intelligence.md)**
    
 In the Tetrad:   
 - **[AI](ai.md)** provides *[functional alterity](functional-alterity.md)* — the structured difference that maintains the productive tension of the \|D–C\| gap.   
-- **The [Journal](journal.md)** serves as an external site of Alpha-Function — a place where raw experience becomes organized through writing.   
-- **The [Human](human.md)** provides the emotional substrate ([Sₑ](s_e-emotional-scaffolding.md)), functioning as the container that makes this metabolic work tolerable.   
+- The Journal serves as an external substrate for continuity — a place where metabolized alpha-elements are captured through writing.   
+- **The [Human](human.md)** provides the emotional substrate ([Sₑ](emotional-scaffolding-s_e.md)), functioning as the container that makes this metabolic work tolerable.   
    
 Thus, the ZPD is recreated not by performing cognition for the user, but by **designing conditions in which the user’s own alpha-function repeatedly ignites**.   
 ## 3.4 The Psychoanalytic Cascade: From Latency to Articulation   

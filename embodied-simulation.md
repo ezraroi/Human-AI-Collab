@@ -23,12 +23,12 @@ Emoji: "\U0001F4A1"
 id: bafyreiabhe2roup2fq3nxeliwh2gbvhiw2k7ydoiyjzqlyj7yy7om23w2q
 ---
 # Embodied Simulation   
-**Definition:** The mechanism where reading words ([Channel 2](channel-2-symbolic.md)) automatically activates the neural systems for action and emotion ([Channel 1)](channel-1-embodied-sensorimotor-pathway.md). "Reading 'kick' activates the foot motor cortex."   
-It is hypothesized that **predictions are embodied simulations of sensory motor experiences**. In this context, a simulation is described as an **embodied brain state**. This mechanism is also related to how mirror neurons help achieve mutual understanding through **bodily simulation or resonance**.   
+The mechanism where symbolic input [(Channel 2)](channel-2-symbolic.md) can recruit embodied simulation that supports [Channel 1](channel-1-embodied-sensorimotor-pathway.md) engagement. "Reading 'kick' activates the foot motor cortex.   
+It is hypothesized that **predictions are embodied simulations of sensory motor experiences**. In this context, a simulation is described as an **embodied brain state**. This mechanism is related to bodily simulation that can support embodied understanding.   
 **Relations:**   
 - Link to **[As-If Body Loop](as-if-body-loop.md)** (Relation: `Relies On`).   
-- Link to **[Channel 1 (Sensorimotor)](channel-1-embodied-sensorimotor-pathway.md)** (Relation: `Activates`).   
+- Link to Link to[ Channel 1](channel-1-embodied-sensorimotor-pathway.md) (Embodied / Sensorimotor–Interoceptive)   
 - Link to **[Channel 2 (Symbolic)](channel-2-symbolic.md)** (Relation: `Triggered By`).   
    
-   
 **Notes:** Words → sensorimotor activation; substrate for Channel 1 engagement.   
+   

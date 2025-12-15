@@ -12,8 +12,9 @@ Created by:
 Links:
     - alpha-function.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - channel-2-symbolic.md
     - self-explanation.md
+    - channel-2-symbolic.md
+    - ai.md
     - journal.md
     - false-self.md
     - metacognition.md
@@ -21,10 +22,10 @@ id: bafyreiahu4e2cufagddvuplw2yxzly5i2j7kgdk5k25ml3hacigjjwj3eq
 ---
 # 5. The Embodied Connection   
 Notebook 6 focuses on cognitive "seeing," but our Unified Model integrates this with somatic "feeling."   
-- The Bridge: The [Alpha Function](alpha-function.md) operates through a bidirectional loop:   
-1. [Channel 1](channel-1-embodied-sensorimotor-pathway.md) signals conflict (somatic tightness = beta element)   
-2. [Channel 2](channel-2-symbolic.md) externalizes the conflict through [self-explanation](self-explanation.md) to AI   
-3. AI Mirror reflects the explanation back (or the user with himself)   
+- he Bridge: [Alpha-Function](alpha-function.md) cycles metabolize Channel 2 symbolic material through recursive oscillation with Channel 1 embodied verification   
+1. [Channel 1](channel-1-embodied-sensorimotor-pathway.md) signals conflict (somatic tightness indicates unprocessed material)   
+2. You externalize the conflict through [self-explanation](self-explanation.md) in [Channel 2](channel-2-symbolic.md) (symbolic dialogue to AI).   
+3. [AI](ai.md) Mirror reflects the explanation back (or the user with himself)   
 4. [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verifies the reflection (spacious = resolved; tight = still broken)   
 5. [Journal](journal.md) records successful alpha elements (if needed, not in all sessions)   
 - The Test: A "Cognitive Repair" is only valid if it produces a "Somatic Release" (The Felt Shift). Thinking without feeling is rationalization ([False Self](false-self.md)); feeling without thinking is anxiety (Beta Flooding). The Third Intelligence is the integration of both.   

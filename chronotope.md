@@ -12,6 +12,8 @@ Backlinks:
     - 6-final-conclusion.md
     - the-large-language-model-as-dynamic-transition.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
+    - time.md
+    - the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md

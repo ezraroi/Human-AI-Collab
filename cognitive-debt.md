@@ -13,7 +13,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-08T17:51:54Z"
 Created by:
     - Roi Ezra
@@ -38,6 +38,5 @@ The accumulated **metabolic deficit** that results from repeatedly adopting symb
 - Manifests as → [PSB](protein-shake-brain-psb.md);    
 - Accumulates when → [Alpha-Function](alpha-function.md) is bypassed; Reflective methods are skipped.   
 - Prevented / reduced by → [Reflective Prompting](reflective-prompting.md); [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md); [Felt Sense.](felt-sense.md)   
-   
    
 **Notes:** Long-term erosion from bypassing metabolism.   

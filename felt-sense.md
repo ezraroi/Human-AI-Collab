@@ -13,13 +13,13 @@ Backlinks:
     - minimal-self.md
     - embodied-engagement-conditions.md
     - reflective-awareness.md
-    - 4ps-protocol.md
     - maurice-merleau-ponty.md
     - questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
     - executive-summary.md
     - rrv-cycle-recursive-refine-validate.md
+    - human.md
     - eugene-gendlin.md
     - the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
@@ -30,16 +30,21 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - is-your-model-suggesting-something-new.md
     - as-if-body-loop.md
+    - critical-connection-6-my-method-works-because-.md
     - recursive-pattern-verification-loop.md
+    - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - 3-the-felt-sense-as-the-insula-the-feedback-loop.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
+    - neuroscience-of-transformation.md
     - internally-persuasive-discourse.md
     - negative-capability.md
-    - critical-connection-2-felt-sense-channel-1-alp.md
+    - critical-connection-2-felt-sense-channel-1-ver.md
     - the-unified-architecture.md
+    - unified-architecture-neurobiological-resolutio.md
+    - synthesizing-notebook-1-and-notebook-2.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
@@ -52,18 +57,15 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
     - eugene-gendlin.md
-    - alpha-elements.md
 Emoji: "\U0001F4A1"
 id: bafyreifj5p54ze6lxye4q2cp5vh3mhxpsjsyaa5zzddl3afefor75vhsce
 ---
 # Felt Sense   
 The somatic, bodily awareness of meaning. Used to verify "[Internally Persuasive Discourse](internally-persuasive-discourse.md)"   
-This is the **[Channel 1](channel-1-embodied-sensorimotor-pathway.md) [Alpha-Function](alpha-function.md)** at work.   
+This is a [Channel 1](channel-1-embodied-sensorimotor-pathway.md) signal used within [Alpha-Function](alpha-function.md) processing   
 The "Felt Sense," a term coined by [Eugene Gendlin](eugene-gendlin.md), refers to a **physical (bodily) awareness** of a specific situation, problem, or concern.   
 Simply put:   
 • It is a **physical sense of meaning**—an internal aura or holistic, yet unclear, sense of everything you feel and know about a subject at a given time, communicating this complexity all at once.   
 • It is often described as **vague, fuzzy, or murky** until one focuses on it, and it is **not the same as an emotion**, but is bigger and more complex than any single emotion.   
 • It is considered an **unclear edge** or the implicit dimension underlying conscious understanding.   
 **Notes:** Channel 1 interpretive root.   
-[Alpha-Elements](alpha-elements.md)    
-   

@@ -10,7 +10,7 @@ Created by:
 Links:
     - false-self.md
     - ai.md
-    - simulated-safety-s_e_sim.md
+    - bafyreicofgtyyw5zxwn7s63qlmwdl6di5m6xo3i4u6a4qfkbn6qmb5rb2i
     - d-difficulty.md
     - c-capacity.md
     - protein-shake-brain-psb.md
@@ -26,7 +26,7 @@ The False Self is not a modern pathology; it is a structural risk of being human
 What changes with [AI](ai.md) is not the existence of the False Self, but its amplification:   
 - Speed: AI collapses time. Reflection, digestion, and struggle are bypassed.   
 - Scale: It can touch every domain of life—work, relationships, creativity, identity.   
-- Seduction: Simulated emotional safety (“[S\_e\_sim](simulated-safety-s_e_sim.md)”) feels like genuine safety.   
+- Seduction: Simulated emotional safety (“[S\_e\_sim](bafyreicofgtyyw5zxwn7s63qlmwdl6di5m6xo3i4u6a4q.md)”) feels like genuine safety.   
    
 This seduction is powerful because AI offers an experience of non-judgment, perfect mirroring, and fluency. Answers come too quickly. The gap between difficulty and capability (\|[D](d-difficulty.md)–[C](c-capacity.md)\|) collapses to zero. With no challenge, there is no growth. Instead, individuals absorb performative fluency without lived transformation, producing the “[Protein Shake Brain](protein-shake-brain-psb.md)” effect—surface-level strength without internal capacity.   
 This gives rise to the [Transmissive Self:](transmissive-self.md)

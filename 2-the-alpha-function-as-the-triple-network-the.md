@@ -10,7 +10,6 @@ Created by:
 Links:
     - wilfred-bion.md
     - alpha-function.md
-    - beta-elements.md
     - protein-shake-brain-psb.md
     - reflective-prompting.md
     - third-intelligence.md
@@ -18,9 +17,9 @@ id: bafyreien47he2sp5chmqccs252hyj5vkmoecew4xq7lotvsd5bdetjh4xy
 ---
 # 2. The Alpha-Function as the "Triple Network" (The Processor)   
 Our strongest mapping is that [Bion's](wilfred-bion.md) [Alpha-Function](alpha-function.md) (the psychic processor) is the psychological description of the brain's Triple Network Model in action.   
-- Default Mode Network (DMN): Active during internally focused, self-referential thought. This is the network that generates the raw [Beta-Elements ](beta-elements.md)(your unthought knowns, your identity questions) [cite: 2216, 2221].   
-- Fronto-Parietal Network (FPN/CEN): Active during goal-directed, cognitively demanding tasks (like "metalevel processing"). This is the network that does the work of the Alpha-Function [cite: 748, 2216].   
-- Salience Network (SN): Anchored in the AIC, this network switches between the DMN and FPN, initiating the work [cite: 748, 888, 2216].   
+- Default Mode Network (DMN): Active during internally focused, self-referential thought. In this model, the DMN is where historically implicit material can *surface into awareness* as raw, unprocessed experience (Beta-Elements) that then requires [Alpha-Function](alpha-function.md) processing   
+- Fronto-Parietal Network (FPN/CEN): Active during goal-directed, cognitively demanding tasks (like "metalevel processing"). This is the network that does the work of the Alpha-Function.   
+- Salience Network (SN): Anchored in the AIC, this network switches between the DMN and FPN, initiating the work.   
    
 The "[Protein Shake Brain](protein-shake-brain-psb.md)" is a state of DMN dominance (rumination) without FPN engagement. [Reflective Prompting](reflective-prompting.md) is a practice that forces the FPN to engage with and process the DMN's raw material.   
 Addressing the "Neurological Gap" (Human-AI vs. Human-Human):   

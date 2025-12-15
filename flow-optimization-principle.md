@@ -24,7 +24,7 @@ Emoji: "\U0001F4A1"
 id: bafyreihss2jgvscsrwro43imawnecpugithmkm6vi7kszu2zxvkmcdabcu
 ---
 # Flow Optimization Principle   
-**Definition:** [Reflective Prompting](reflective-prompting.md) succeeds by maximizing **Germane Load** (learning) while minimizing **Extraneous Load** (retrieval).   
+[Reflective Prompting](reflective-prompting.md) succeeds by maximizing **Germane Load** (learning) while minimizing **Extraneous Load** (retrieval).   
 **Relations:**   
 - Link to **[Cognitive Offloading](cognitive-offloading.md)** (Relation: `Guiding Principle For`).   
 - Link to **[Human](human.md)** (Relation: `Used By Architect`).   

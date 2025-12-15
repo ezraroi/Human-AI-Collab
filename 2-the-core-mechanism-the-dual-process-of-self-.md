@@ -27,3 +27,4 @@ This Cognitive Mirror function operates in two modes:
 - Mode B (Novice): Feigns confusion or asks basic questions to force Model Repair   
    
 Effective [Reflective Prompting](reflective-prompting.md) requires knowing when to invoke each mode.   
+   

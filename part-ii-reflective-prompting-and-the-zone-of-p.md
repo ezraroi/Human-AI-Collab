@@ -10,8 +10,8 @@ Created by:
 Links:
     - zpd.md
     - p-alpha-probability-of-growth.md
-    - s_e-emotional-scaffolding.md
-    - s_t-technical-scaffolding.md
+    - emotional-scaffolding-s_e.md
+    - technical-scaffolding-s_t.md
     - d-difficulty.md
     - c-capacity.md
     - alpha-function.md
@@ -26,8 +26,8 @@ id: bafyreiawwzvdmy27ubzo2psp5isbx5xobilvrctdbcmn6eojop5jmf6zim
 The documents introduce a model for genuine learning and transformation:   
 P(α) = S\_e \* S\_t / \|D – C\|   
 Where:   
-- [S\_e](s_e-emotional-scaffolding.md) = psychological safety   
-- [S\_t](s_t-technical-scaffolding.md) = technical scaffolding   
+- [S\_e](emotional-scaffolding-s_e.md) = psychological safety   
+- [S\_t](technical-scaffolding-s_t.md) = technical scaffolding   
 - [D](d-difficulty.md) = difficulty   
 - [C](c-capacity.md) = capability   
    
@@ -51,7 +51,7 @@ Reflective prompting:
    
 ### b. Mechanistic / System Design Gaps   
 [Reflective prompting:](reflective-prompting.md)   
-- Preserves [S\_e](s_e-emotional-scaffolding.md) by making safety intentional, not simulated.   
+- Preserves [S\_e](emotional-scaffolding-s_e.md) by making safety intentional, not simulated.   
 - Uses metaphor, abstraction layers, and zooming to connect symbolic and embodied dimensions.   
 - Uses disciplined turn-taking to maintain [ZPD](zpd.md).   
    

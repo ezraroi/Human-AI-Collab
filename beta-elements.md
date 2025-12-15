@@ -14,13 +14,14 @@ Backlinks:
     - edmund-husserl.md
     - system-0.md
     - journal.md
+    - self-explanation.md
     - selected-fact.md
+    - human.md
     - section-3-foundational-theoretical-integration.md
     - the-container.md
-    - the-hidden-implications-youve-discovered.md
+    - d-difficulty.md
     - external-alpha-function.md
     - the-core-parallel-two-descriptions-of-one-proc.md
-    - 2-the-alpha-function-as-the-triple-network-the.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - the-integrated-circuit-board.md
     - alpha-function.md
@@ -30,13 +31,14 @@ Backlinks:
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - critical-connection-1-the-two-channel-model-of.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:48:26Z"
 Created by:
     - Roi Ezra
@@ -78,3 +80,8 @@ Maps to **Interoceptive Signals**—raw bodily sensations processed by Anterior 
 - **Biological Substrate:** [Anterior Insular Cortex ](anterior-insular-cortex-aic.md)   
 - **Phenomenological Mapping:** Hyle (Husserl's raw sensory matter)   
 - **Failure Mode:** When not metabolized → Nameless Dread, overwhelm, psychic chaos   
+   
+   
+   
+   
+   

@@ -22,10 +22,10 @@ id: bafyreibn3vvphxxyxk4q4skklwipuapi3fq7hdpbudtcjkorlle7o32rqu
 # QUESTIONS YOUR SYNTHESIS RAISES   
 ### Question 1: Is the "[As-If Body Loop](as-if-body-loop.md)" the Mechanism Linking Channels?   
 From NoteBook 2: The brain can simulate body states without waiting for actual body response. Prefrontal cortex and amygdala can instruct somatosensory cortex to organize into the pattern it would have if body were in that state.   
-For your model: Is this how [Channel 2](channel-2-symbolic.md) (symbolic) activates [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (sensorimotor)?   
+For your model: Is this how [Channel 2](channel-2-symbolic.md) (symbolic) input recruits [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied sensorimotor/interoceptive)   
 When you read AI text:   
-1. Semantic processing (Channel 2) extracts meaning   
-2. As-if body loop simulates the state (Channel 2 → Channel 1)   
+1. Symbolic input (Channel 2) is processed semantically   
+2. [As-if body](as-if-body-loop.md) loop supports embodied response (Channel 2 input recruits Channel 1)   
 3. Felt sense emerges from simulation (Channel 1)   
 4. Verification check (Channel 1 → Channel 2)   
 5. Integration (both channels)   

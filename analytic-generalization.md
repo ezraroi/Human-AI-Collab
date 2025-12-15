@@ -7,14 +7,15 @@ Tag:
     - 'Domain: Methodology'
     - 'System Role: Method'
     - 'Temporal: Static'
+Origin Domain:
+    - Qualitative Research Methodology
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-01T16:50:57Z"
 Created by:
     - Roi Ezra
 Links:
     - hsced-hermeneutic-single-case-efficacy-design.md
-    - p-alpha-probability-of-growth.md
 Emoji: "\U0001F4A1"
 id: bafyreif5v37mtaoczyzxr6zytet4l65tayrnqdoch7rjcpkqzrgknfi5ay
 ---
@@ -27,6 +28,5 @@ This is the "Legal Defense" of the system. It asserts that we are not claiming "
    
 **Relations:**   
 - Link to **[HSCED](hsced-hermeneutic-single-case-efficacy-design.md)** (Relation: `Supported By`).   
-- Link to **[P(alpha)](p-alpha-probability-of-growth.md)** (Relation: `Validates Mechanism Of`).   
    
    

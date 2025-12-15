@@ -11,14 +11,15 @@ Backlinks:
     - journal.md
     - false-self.md
     - holding-environment.md
+    - human.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - true-self.md
+    - dynamic-transitional-object-dto.md
     - section-11-the-dialogical-illusion-as-producti.md
     - potential-space.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
-    - s_e-emotional-scaffolding.md
     - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis
@@ -28,7 +29,7 @@ Created by:
     - Roi Ezra
 Links:
     - holding-environment.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - alpha-function.md
     - bafyreifs4eshqvy4sktkwssxmafwpjhbyxreqzibiszjc5cv3e5sq4xj4y
     - human.md
@@ -41,7 +42,7 @@ id: bafyreidwgece5i7adbhhy6xlz5gy24vrgyisykqd5a3qjwhkkgs44bujci
 ---
 # D.W. Winnicott   
 Provides the **Outcome (True/False Self)** and the **Prerequisite (Safety)**.
-***[Holding Environment](holding-environment.md):** The non-negotiable need for safety ([$S\_e$](s_e-emotional-scaffolding.md)).
+***[Holding Environment](holding-environment.md):** The non-negotiable need for safety ([$S\_e$](emotional-scaffolding-s_e.md)).
 ***True vs. False Self:** The result of successful vs. failed [alpha-function](alpha-function.md) activation.
 **[Surviving Object](bafyreifs4eshqvy4sktkwssxmafwpjhbyxreqzibiszjc.md):** The system ([Human](human.md) + [Journal](journal.md)) must survive the "destruction" of the insight   
    

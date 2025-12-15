@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-12:type-6921e80a60de23efb24a1755:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-15:type-6921e80a60de23efb24a1755:ver-1.0",
   "type": "object",
   "title": "Tool",
   "x-app": "Anytype",
@@ -94,6 +94,7 @@
     },
     "Research Status": {
       "enum": [
+        "Sealed",
         "Evergreen",
         "Drafting",
         "Seed"
