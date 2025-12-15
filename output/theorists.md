@@ -15,10 +15,8 @@ Domain: Bio-Embodied, Temporal: Static
 ## [THEORIST] Christopher Bollas
 Domain: Psychoanalytic, Temporal: Static
 
-Provides the **Motive Force**.
-***Destiny Drive:** The innate urge of the True Self to articulate its potential.
-***Personal Effects:** The material output of the drive (e.g., the "43 notebooks").
-
+Provides the theoretical origin for the concept: Destiny Drive: The innate urge to articulate one’s unique idiom (True Self) through the active selection and use of objects.
+Personal Effects: The material evidence of this articulation within the system (e.g., the "43 notebooks").
 Christopher Bollas (born 1943) is a prominent American-born British psychoanalyst, writer, and cultural critic, known as a leading figure in contemporary psychoanalytic theory. He is particularly known for his innovative theoretical concepts that give language to subtle, non-verbal aspects of human experience and the unconscious mind.
 Key Contributions
 - ***The Unthought Known*:** His most famous theory, which suggests that people carry a vast amount of implicit knowledge and emotional truths derived from early life experiences that have been lived but not yet consciously processed or articulated.
@@ -35,11 +33,10 @@ Third Intelligence
 ## [THEORIST] D.W. Winnicott
 The Foundational Trio (The "Engine Design"), Domain: Psychoanalytic, Temporal: Static
 
-Provides the **Outcome (True/False Self)** and the **Prerequisite (Safety)**.
-***Holding Environment:** The non-negotiable need for safety ($S\_e$).
-***True vs. False Self:** The result of successful vs. failed alpha-function activation.
-**Surviving Object:** The system (Human + Journal) must survive the "destruction" of the insight
-
+Provides the conceptual lens: True/False Self dynamics and the role of holding (safety/attunement) in development.
+**Holding Environment:** The non-negotiable need for safety and reliable attunement that allows spontaneity and the True Self to emerge.”*
+*True vs. False Self: When holding is insufficient, False Self defensive compliance dominates to protect continuity-of-being; when holding is sufficient, True Self spontaneity becomes possible.
+**Surviving Object:**The system (Human + Journal) must survive the "destruction" of the insight
 Donald Woods Winnicott (1896–1971) was a highly influential British **pediatrician and psychoanalyst** who made major contributions to developmental psychology and object relations theory. He is known for blending his medical experience with psychoanalytic insights to focus on the crucial role of the early parent-infant relationship in healthy emotional development.
 Key Contributions
 - **The "Good Enough" Mother:** Winnicott's most famous concept posits that parents need not be perfect. A "good enough" mother (or primary caregiver) initially adapts almost completely to the infant's needs, creating an illusion of omnipotence. As the infant develops, she gradually fails to adapt perfectly, which allows the child to learn to cope with reality and develop a sense of independence.
@@ -107,9 +104,8 @@ Notebook 7 identifies a direct structural homology between Husserl's triad and t
 Domain: Phenomenology, Temporal: Static
 
 Provides the **Embodied Feedback (UI)**.
-***Felt Sense:** The somatic feedback mechanism for the Alpha-Function.
-***Resonation:** How we verify if an AI-generated insight is true ("internally persuasive")
-
+Felt Sense: The somatic, Channel 1 verification signal used within Alpha-Function processing.*
+***Resonation:** Attending to Felt Sense to verify whether an AI-generated discourse is internally persuasive.
 Eugene Gendlin (1926–2017) was an Austrian-born American **philosopher and psychologist** best known for developing the therapeutic practice called **Focusing** and the "Philosophy of the Implicit".
 Key Contributions
 - **Focusing:** A body-oriented, experiential method that helps individuals access their "felt sense"—a subtle, non-verbal bodily awareness of a situation or problem—to generate new insights, emotional healing, and personal development. This practice originated from his research which found that successful therapy clients were those who could attend to this inner, bodily experience.
@@ -245,7 +241,7 @@ Provides the **Phenomenological Ground**.
 Maurice Merleau-Ponty (1908–1961) was a French phenomenological philosopher who emphasized the body as the primary site of knowing the world. Unlike the intellectual "I think" of Descartes, Merleau-Ponty posited that our primary relationship to the world is bodily and practical.
 **Relevance to Model:**
 - His distinction between Pre-Reflective and Reflective awareness aligns with Channel 1 (embodied signal) and Channel 2 (symbolic articulation).
-- His concept of the "Lived Body" validates the **Felt Sense** as a form of knowledge, not just a feeling.
+- His concept of the "Lived Body" supports Felt Sense as a somatic awareness of meaning that can be used for verification, not just an emotion
 
 ---
 
@@ -255,8 +251,7 @@ The Dialogical & Embodied Layer (The "System"), Domain: Phenomenology, Temporal:
 Provides the **Time-Space Context**.
 ***Chronotope:** The stable time-space provided by the **Journal**.
 ***Internally Persuasive Discourse:** The goal of the system (vs. Authoritative Discourse).
-**Alterity:** The "otherness" required for dialogue, simulated by the AI as "Functional Alterity"
-
+Alterity: The "otherness" required for dialogue, addressed functionally by the AI’s turn-by-turn "Functional Alterity" (productive difference without conscious otherness).
 Mikhail Bakhtin (1895–1975) was a Russian philosopher, literary critic, and scholar who became one of the most influential thinkers of the 20th century in literary theory, ethics, and the philosophy of language. His work emphasizes that all language and meaning are social and produced through dynamic interaction, not static systems.
 Key Contributions and Concepts
 - **Dialogism:** This central concept argues that all discourse is fundamentally an ongoing, responsive exchange, where meaning is generated only through the interaction of different voices and contexts, not in isolation. "To be means to be for another, and through the other for oneself".

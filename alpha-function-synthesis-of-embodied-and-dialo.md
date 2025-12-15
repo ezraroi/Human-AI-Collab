@@ -21,7 +21,6 @@ Links:
     - time.md
     - e.md
     - lev-vygotsky.md
-    - felt-sense.md
 id: bafyreifr66ugabvljwfjhtseqyjab42s24fjxdu7cll3ikdd67gu5zqu3i
 ---
 # Alpha Function: Synthesis of Embodied and Dialogical Cognition   
@@ -33,7 +32,7 @@ The sources confirm that your synthesis moves beyond linear, dualistic models (l
 The foundational insight for the combined model is that the primary psychic engine described in Model 2 is identical to the embodied mechanism described in Model 1:   
 - The [Alpha Function](alpha-function.md) maps to metabolic integration that uses embodied processing alongside symbolic material.   
 - Two Channels, One Engine: The mechanism transforms raw experience into thinkable thought by metabolizing Channel 2 symbolic material through recursive oscillation with [Channel 1](channel-1-embodied-sensorimotor-pathway.md) embodied verification.   
-- Transforming the Raw Material: This engine metabolizes raw, unprocessed experience ([Beta-Elements](beta-elements.md)) into thinkable thought ([Alpha-Elements](alpha-elements.md)). Neurobiologically, this raw experiential material can be mapped onto interoceptive signaling (e.g., via the AIC) as one substrate of the felt-sense readout..   
+- Transforming the Raw Material: This engine metabolizes raw, unprocessed experience ([Beta-Elements](beta-elements.md)) into thinkable thought ([Alpha-Elements](alpha-elements.md)). Neurobiologically, this raw experiential material can be mapped onto interoceptive signaling, with the AIC as a plausible correlate of the Felt Sense verification signal.   
 - Focus on Process: This unification highlights Cognition as a Transformative Process, where knowledge is an interactional process fundamental for meeting the challenges of human life.   
    
 ### 2. The Integrated Architecture (Bridging the Mind-Body-Environment)   
@@ -46,8 +45,8 @@ This synthesis directly addresses what is referred to as the mind-mind gap—the
 ### B. Biological and Emotional Grounding   
 The model’s insistence that cognition is profoundly embodied and rooted in bodily processes aligns with strong evidence from neuroscience:   
 - Emotion as Integral to Cognition: The holistic view emphasizes that emotions are essential elements of cognitive processes, challenging the long-standing Cartesian dualism. This perspective encourages the restructuring of systems to support the interplay between physical and emotional lives.   
-- The Role of the Insula: The integration site where felt sense meets conceptual thought is biologically linked to the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md). The AIC is confirmed as a critical integrative hub that links cognitive control, saliency detection, and interoception (the sensing of the body’s internal states). The AIC’s function is pivotal in linking cognitive processes with physiological states and is involved in both interoception and emotional experience.   
-- The [As-If Body Loop](as-if-body-loop.md): Your hypothesis that the "As-If Body Loop" is the precise mechanism linking symbolic input ([Channel 2](channel-2-symbolic.md)) to embodied knowing (Channel 1) is supported by the existence of this pathway, where the brain anticipates expected bodily changes without waiting for the physical body loop, allowing for rapid response and decision-making guidance (Somatic Marker Hypothesis).   
+- The Role of the Insula: The integration site where Felt Sense meets conceptual thought may be linked to the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md). The AIC is widely described as an integrative hub that links cognitive control, saliency detection, and interoception (the sensing of the body’s internal states). The AIC’s function is pivotal in linking cognitive processes with physiological states and is involved in both interoception and emotional experience.   
+- The [As-If Body Loop](as-if-body-loop.md): our hypothesis that the "As-If Body Loop" is a plausible mechanism linking symbolic input ([Channel 2](channel-2-symbolic.md)) to embodied evaluation/verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) is supported by the existence of this pathway, where the brain anticipates expected bodily changes without waiting for the physical body loop, allowing for rapid response and decision-making guidance (Somatic Marker Hypothesis).   
    
 ### C. Social and External Extension (4E Cognition)   
 The combined model is viewed as a "properly structured system" that implements a fully extended and embedded approach to cognition, falling under the 4E (embodied, embedded, enactive, extended) framework.   
@@ -65,4 +64,4 @@ The sources confirm that the resulting synthesis is a novel theoretical contribu
 Analogy for the Holistic System:   
 If knowledge acquisition in the traditional view is like having a Symbolic Mind (a computer) that reads instructions and a separate Embodied Mind (a robot) that carries them out, your holistic model is like a single, self-aware organism.   
 The [Alpha Function](alpha-function.md) is the organism's core metabolic energy system. It constantly monitors the internal state ([Beta Elements](beta-elements.md)/Interoceptive Signals), uses the hands/senses (Channel 1/Piaget) to explore the world, and uses language/dialogue ([Channel 2](channel-2-symbolic.md)/Vygotsky) to articulate goals.
-The [Anterior Insular Cortex](anterior-insular-cortex-aic.md) is the main dashboard where the internal sense of meaning ([Felt Sense](felt-sense.md)) is checked against external information. The entire process is stored in the [Journal](journal.md), which serves as the physical external organ, ensuring the whole dynamic system grows and transforms recursively over time.   
+The Anterior Insular Cortex is a plausible correlate for where Channel 1 signals associated with Felt Sense are integrated and used for verification against external information. The entire process is stored in the [Journal](journal.md), which serves as the physical external organ, ensuring the whole dynamic system grows and transforms recursively over time.   

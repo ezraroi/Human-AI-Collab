@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Input'
     - 'Temporal: Static'
 Backlinks:
+    - section-3-foundational-theoretical-integration.md
     - mikhail-bakhtin.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics

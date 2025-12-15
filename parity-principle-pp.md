@@ -20,6 +20,8 @@ Links:
     - extended-mind-hypothesis-hec.md
     - journal.md
     - external-alpha-function.md
+    - challenge-gap-d-c.md
+    - alpha-function.md
     - protein-shake-brain-psb.md
 Emoji: "\U0001F4A1"
 id: bafyreibeg5hoftxaq26foybikcevwhpql7zmpeopjnoh7l3kv77e5m4vcy
@@ -29,8 +31,8 @@ The **Parity Principle**, introduced by Andy Clark and David Chalmers in their f
 The Parity Principle is relevant to my research in three critical, distinct ways:   
 1. It Legitimizes the [Journal](journal.md) as an "[External Alpha-Function](external-alpha-function.md)" - My model argues that the Journal is not merely a record of thought but a "constitutive part of the psychological process". The Parity Principle provides the theoretical justification for this claim. It supports my definition of the Journal as an "External Alpha-Function," where the metabolic processing of experience happens *in the writing itself*, making the Journal an external organ of the cognitive system rather than just an archive,.   
 2. It Identifies the "Trust Paradox" (The AI as an "Anti-Otto" Device) - Your sources identify a conflict between the classic Parity Principle and your specific use of AI.   
-    • **The Constraint:** To qualify as an extended mind under the Parity Principle (specifically the "Otto" thought experiment), an external resource usually requires **"automatic endorsement"**—meaning you trust the information immediately without checking it.   
+    • **The Constraint:** To qualify as an extended mind in the classic EMH ‘Otto’ case, an external resource usually requires ‘automatic endorsement’—a ‘glue and trust’ condition for reliable coupling.   
     • **The Violation:** My model explicitly **violates** this criterion regarding AI. Because AI hallucinates and is unreliable, you cannot automatically endorse its output,.   
-    • **The Feature:** My research reframes this violation as a feature, not a bug. I define the AI as an **"Anti-Otto Device"**,. The *inability* to automatically endorse the AI (violating the PP's trust condition) forces the user to perform **verification**, which creates the necessary "Challenge Gap" (∣D−C∣) and activates the Alpha-Function,.   
+    • **The Feature:** My research reframes this violation as a feature, not a bug. I define the AI as an **"Anti-Otto Device"**. The inability to automatically endorse the AI (violating the classic EMH trust condition) forces the user to perform verification, which prevents premature collapse of the "[Challenge Gap](challenge-gap-d-c.md)" (∣D−C∣) and supports [Alpha-Function](alpha-function.md) activation.   
    
-3. It Explains the Pathology of "[Protein Shake Brain](protein-shake-brain-psb.md)" - The Parity Principle explains why "Protein Shake Brain" (PSB) occurs. PSB happens when a user treats the AI as if it fulfills the Parity Principle's "automatic endorsement" criterion—trusting it blindly like a calculator or memory extension. By treating the AI as a reliable extension of their mind (a "Vygotskian Partner") rather than an unreliable tool requiring verification (a "Piagetian Object"), the user creates a "False ZPD" and atrophies their own cognitive capacity,.   
+3. It Explains the Pathology of "[Protein Shake Brain](protein-shake-brain-psb.md)" - The Parity Principle explains why "Protein Shake Brain" (PSB) occurs. [PSB](protein-shake-brain-psb.md) happens when a user treats the AI as if it fulfills the classic EMH ‘automatic endorsement’ coupling criterion—trusting it blindly like a calculator or memory extension. By treating the AI as a reliable extension of their mind (a "Vygotskian Partner") rather than an unreliable tool requiring verification (a "Piagetian Object"), the user creates a "False ZPD" and atrophies their own cognitive capacity,.   

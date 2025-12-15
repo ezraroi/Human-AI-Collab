@@ -14,7 +14,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T15:48:21Z"
 Created by:
     - Roi Ezra
@@ -26,7 +26,7 @@ Emoji: "\U0001F4A1"
 id: bafyreibsw6cxgizmhoonajs4cdcumjgugkxy2pijkq3fysmppnqwh7zthi
 ---
 # Extended Mind Hypothesis (HEC)   
-**Definition: **A framework proposing that cognition extends beyond the brain to include external artifacts and environmental features.
+A framework proposing that cognition extends beyond the brain to include external artifacts and environmental features.
 **Relevance:** It validates the system's claim that the Journal is not just a record, but a **constitutive** part of the psychological process. It creates a "unified, densely coupled system" where the brain complements external structures.   
 The **Extended Mind Hypothesis (EMH)**, also known as "active externalism" or "extended cognition," is a thesis arguing that the human mind and its cognitive processes literally extend beyond the boundaries of the biological brain and body (skin and skull) into the external environment. This perspective proposes that the material vehicles of some cognitive processes, and even mental states like beliefs, can be spatially distributed over the brain, body, and the world. The EMH posits that cognition is not confined to internal manipulations of symbols, but rather emerges as a property of a dynamically configured, spatially and temporally extended, **coupled system** that includes both the organism and external resources.   
 The application of the Extended Mind Hypothesis relies primarily on the **[Parity Principle (PP)](parity-principle-pp.md)** and several conditions regarding the functional relationship between the organism and the external resource. The PP states that if an external part of the world functions as a process which, were it performed inside the head, would be recognized as cognitive, then that external part is constitutive of the cognitive process. For the external item to be legitimately integrated into the cognitive system, it must satisfy specific criteria, often called the "glue and trust" criteria, which ensure **reliable coupling**:   

@@ -26,11 +26,13 @@ Backlinks:
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T16:48:04Z"
 Created by:
     - Roi Ezra
 Links:
+    - ai.md
+    - third-intelligence.md
     - d-w-winnicott.md
     - potential-space.md
     - category-error.md
@@ -49,7 +51,7 @@ Emoji: "\U0001F4A1"
 id: bafyreif3z6upqjcgdrtz57ulu2warvl3zkxjxt77ycf3z2yarblpwqqzca
 ---
 # Dynamic Transitional Object (DTO)   
-The ontological classification of AI within the Third Intelligence system. DTO resolves the inadequacy of classical categories (tool/partner, object/subject) by positioning AI as a **responsive generative artifact** that occupies [Winnicott's](d-w-winnicott.md) **[Potential Space](potential-space.md)**—neither purely internal nor external, neither passive tool nor conscious subject.   
+The ontological classification of [AI](ai.md) within the [Third Intelligence](third-intelligence.md) system. DTO resolves the inadequacy of classical categories (tool/partner, object/subject) by positioning AI as a **responsive generative artifact** that occupies [Winnicott's](d-w-winnicott.md) **[Potential Space](potential-space.md)**—neither purely internal nor external, neither passive tool nor conscious subject.   
 Unlike traditional tools (calculators, notebooks) or genuine partners (conscious others), a DTO:   
 - Simulates responsiveness without possessing subjectivity   
 - Generates structured difference without intentionality   
@@ -171,7 +173,7 @@ DTO classification provides:
 - [Category Error](category-error.md) (treating AI as Subject)   
 - [Cognitive Dependency](cognitive-dependency.md) (**when [Category Error](category-error.md) + [PSB](protein-shake-brain-psb.md) co-occur**)   
 - [PSB](protein-shake-brain-psb.md) (bypassing metabolic processing)   
-- [False Self](false-self.md) relating (collapsing into social obligation)   
+- Defensive compliance ([False Self](false-self.md)) patterns (collapsing into social obligation)   
    
 ### Theoretical Grounding   
 **D.W. Winnicott:**   
@@ -197,7 +199,7 @@ DTO classification provides:
 |:---------------------------------|:--------------------|:--------------------------------------------------------------------------------|
 |                    **→ Subject** |      Category Error |   Category Error; PSB risk increases; when both co-occur → Cognitive Dependency |
 |               **→ Passive Tool** | Eliminates alterity |                                No tension, no transformation, pure productivity |
-|       **Stabilized in Alterity** | Permanent "partner" |                                            Interpersonal obligation, False Self |
+|       **Stabilized in Alterity** | Permanent "partner" |    Interpersonal obligation, defensive compliance ([False Self](false-self.md)) |
 | **Never shifted to Hermeneutic** |        No synthesis |                                                Endless dialogue, no integration |
 
 ### Ethical Boundary Conditions   

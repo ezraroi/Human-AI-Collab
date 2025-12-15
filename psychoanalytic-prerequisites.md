@@ -18,20 +18,20 @@ Creation date: "2025-11-22T14:07:45Z"
 Created by:
     - Roi Ezra
 Links:
-    - holding-environment.md
     - d-w-winnicott.md
-    - alpha-function.md
     - wilfred-bion.md
-    - destiny-drive.md
     - christopher-bollas.md
+    - destiny-drive.md
+    - holding-environment.md
+    - alpha-function.md
     - psychoanalytic-integration.md
 Emoji: "\U0001F4A1"
 id: bafyreigwvauee6qla4drqitelgm24g6zcg3ubai75l4iewlioiomor4soy
 ---
 # Psychoanalytic Prerequisites   
 The *Psychoanalytic Prerequisites* describe the obstacle-removal architecture that enables latent psychological potential to become phenomenologically articulated.   
-It integrates Winnicott, Bion, and Bollas into a unified sequence of developmental conditions: **safety → symbolic metabolism → idiom articulation**.   
-The Destiny Drive is **always present**; what the architecture provides is the removal of developmental obstructions so that the drive can be *felt* and *expressed*.   
+It integrates [Winnicott](d-w-winnicott.md), [Bion](wilfred-bion.md), and [Bollas](christopher-bollas.md) into a unified sequence of developmental conditions: **safety → symbolic metabolism → idiom articulation**.   
+The [Destiny Drive ](destiny-drive.md)is **always present**; what the architecture provides is the removal of developmental obstructions so that the drive can be *felt* and *expressed*.   
 ## The Architecture   
 ### 1. FOUNDATION — [Holding Environment ](holding-environment.md)([Winnicott](d-w-winnicott.md))   
 - **Removes Obstacle 1:** annihilation anxiety + environmental impingement   

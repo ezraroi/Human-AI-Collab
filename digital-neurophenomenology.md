@@ -11,7 +11,7 @@ Tag:
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Drafting
 Creation date: "2025-11-28T12:53:00Z"
 Created by:
     - Roi Ezra
@@ -22,7 +22,7 @@ Emoji: "\U0001F4A1"
 id: bafyreicpcmh5xy6zuhcl3l4qwnfmayxxmq4uxf5oyehsmsz3l5szfx7rcu
 ---
 # Digital Neurophenomenology   
-**Definition:** The methodological stance of the system. It adapts the framework of Neurophenomenology (integrating first-person experience with third-person data) to the Human-AI context.
+The methodological stance of the system. It adapts the framework of Neurophenomenology (integrating first-person experience with third-person data) to the Human-AI context.
 **The Structural Mapping:**   
 - **1st-Person (1P):** The  provides the raw, lived, pre-reflective experience (the "hiker's report").   
 - **3rd-Person (3P):** The  provides the structural, logical, and objective constraint (the "mapmaker").
@@ -32,6 +32,5 @@ The Mechanism: **Mutual Circulation**. Transformation occurs not in one side, bu
 **Relations:**   
 - Link to [Third Intelligence](third-intelligence.md)  (Relation: `Methodology Of`).   
 - Link to [**Francisco Varela** ](francisco-varela.md)(Relation: `Derived From` )   
- --- 
    
    

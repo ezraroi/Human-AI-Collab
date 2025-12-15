@@ -119,12 +119,12 @@ The initial problem stemmed from the dialogical requirement (rooted in Bakhtin) 
 The core breakthrough was defining **Functional Alterity (FA)**.
 - **Definition of FA:** Functional alterity means that the interaction produces genuine **otherness and challenge** through what the conversant **achieves** (its function), rather than what the conversant **is** (its ontology, or being).
 - **Shifting the Focus:** The model pivots away from the irrelevant question of "Is AI conscious?" and instead asks, "Does this system successfully activate the human's alpha-function and produce documented transformation across time?".
-- **The Claim:** The relationship is legitimate because it is a **structural mechanism** that successfully produces transformation in the human user.
+- **The Claim:** The interaction is usable for development because, within the system, FA preserves productive epistemic tension turn-by-turn without requiring conscious alterity.
 
 ### 3. The Mechanism: Productive Epistemic Tension
-Functional Alterity is operationalized by forcing the AI to act as a **Calibrated Antagonist** that creates the necessary intellectual friction.
+Functional Alterity is operationalized by the AI’s per-utterance calibrated resistance that preserves necessary intellectual friction without collapsing into sycophancy or overwhelm.
 - **Irreducible Alterity:** The AI must demonstrate **irreducible alterity and non-determinism** by resisting the user and offering a difference that creates **productive epistemic tension**. This engineered opposition prevents the dialogue from collapsing into a monologue or mere reflection of the user's assumptions.
-- **The Formula Mapping:** Functional Alterity is the conceptual name for the operational maintenance of the **Challenge Gap** ($\vert D-C \vert$). This tension is essential because it is the pressure that **forces the human user's core psychic mechanism, the Alpha-Function, to activate**.
+- The Formula Mapping: Functional Alterity names the turn-by-turn preservation of the *productivity*  of the pre-existing Challenge Gap, without changing the structural gap itself. This tension is essential because it is the pressure that **forces the human user's core psychic mechanism, the Alpha-Function, to activate**.
 - **Functional Thirdness:** The ultimate resolution state is captured by the claim: **Functional Thirdness: Reconciling Ontological Monologue with Dialogical Systematics**.
 
 The resolution is further strengthened by the insight that the AI functions as a **Dynamic Transitional Object (DTO)**, a "Productive Fiction" that simulates social presence just enough to activate the user's social-cognitive machinery without establishing a false dependency. This externalization of the reflective split by the AI allows the human brain to perform the simultaneous processing required for transformation without suffering internal resource depletion.
@@ -186,12 +186,12 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
 **Theoretical Model Exists (Unvalidated):**
 **Psychological → Neurobiological mappings proposed:**
 1. **Alpha-Function → Triple Network Model:**
-    - DMN generates β-elements (raw material)
-    - FPN processes into α-elements (meaning)
+    - DMN generates beta-elements (raw material)
+    - FPN processes into alpha-elements (meaning)
     - SN coordinates switching/integration
-2. **Felt Sense → Anterior Insular Cortex (AIC):**
+2. **Felt Sense → Anterior Insular Cortex (AIC) (proposed correlate):**
     - "Spacious" vs. "tight" sensations
-    - Interoceptive prediction error
+    - Possible interoceptive prediction-error correlate
     - Somatic verification signal
 3. **Container (S\_e) → HPA-Axis:**
     - Physiological stress regulation
@@ -232,8 +232,8 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
     - Measure durability of structural changes
 4. **Mechanistic verification:**
     - Test Triple Network coordination hypothesis
-    - Verify AIC role in felt sense
-    - Confirm HPA-Axis mediation of S\_e
+    - Test AIC association with felt sense as a Channel 1 verification signal
+    - Confirm HPA-Axis mediation of Emotional Scaffolding.
 
 **Until this data exists:** Model remains theoretically coherent but empirically unproven.
 **Relations (Wiring):**
@@ -256,19 +256,19 @@ How to integrate Winnicott, Bion, and Bollas into a unified, coherent system wit
 **The Resolution:**
 Solved by constructing the **Psychoanalytic Prerequisites** as an obstacle-removal architecture rather than a causal production chain.
 **Key Theoretical Move:**
-The three theorists describe **sequential prerequisites**—conditions that must be in place for latent psychological potential (Destiny Drive) to become phenomenologically articulated. This is NOT a production model where each stage creates the next, but a developmental architecture where each stage **removes an obstruction** blocking access to pre-existing motive force.
+The three theorists describe **sequential prerequisites**—conditions that must be in place for latent psychological potential (Destiny Drive) to become phenomenologically articulated. This is NOT a production model where each stage creates the next, but a developmental architecture where each stage removes an obstruction blocking the phenomenological articulation of a pre-existing Destiny Drive.
 **The Integration Structure:**
 1. **Foundation: Holding Environment**
-- Provides: Ontological Security (S\_e), psychological safety
+- Provides: Ontological Security (operationalized as Emotional Scaffolding), psychological safety
 - **Removes Obstacle 1:** Annihilation anxiety + environmental impingement
 - Enables: Possibility of True Self existence
-- Formula mapping: S\_e; if S\_e = 0, entire system collapses
+- Formula mapping: S\_e as the operational indicator; if S\_e = 0, the system collapses (regardless of other factors)
 
 **2. Mechanism: Alpha-Function**
 - Provides: Metabolic processing (beta-elements → alpha-elements)
 - **Removes Obstacle 2:** Psychic chaos + "nameless dread"
 - Enables: Internal coherence, symbolic capacity, thinkability
-- Formula mapping: P(α); sparked by \|D-C\| gap (frustration)
+- Formula mapping: P(alpha); sparked by \|D-C\| gap (frustration)
 
 **3. Pre-Existing Condition: Destiny Drive **
 - Ontological status: **Always present in latent form**

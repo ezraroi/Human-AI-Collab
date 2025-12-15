@@ -9,19 +9,22 @@ Tag:
     - 'Operational Flags: Core'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - narrative-self.md
     - alpha-elements.md
     - reflective-prompting.md
+    - preconditions-for-transformative-ai-dialogue.md
     - document-abstract.md
     - reverie.md
     - 5-the-embodied-connection.md
     - destiny-drive.md
     - what-this-means-for-your-paper.md
+    - embodied-engagement-conditions.md
     - triple-network-model.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - beta-elements.md
     - edmund-husserl.md
+    - parity-principle-pp.md
     - journal.md
-    - questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
     - critical-connection-4-how-ai-dialogue-produces.md
@@ -38,7 +41,7 @@ Backlinks:
     - human.md
     - section-3-foundational-theoretical-integration.md
     - eugene-gendlin.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - the-container.md
     - conclusion-on-novelty-and-contribution.md
@@ -47,8 +50,9 @@ Backlinks:
     - external-alpha-function.md
     - cognitive-offloading.md
     - the-core-parallel-two-descriptions-of-one-proc.md
+    - ai.md
     - challenge-gap-d-c.md
-    - d-w-winnicott.md
+    - 2-the-core-mechanism-the-dual-process-of-self-.md
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - p-alpha-probability-of-growth.md
@@ -75,7 +79,7 @@ Backlinks:
     - cognitive-debt.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
-    - 3-the-felt-sense-as-the-insula-the-feedback-loop.md
+    - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
     - neuroscience-of-transformation.md

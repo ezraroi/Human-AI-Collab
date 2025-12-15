@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - self-explanation.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

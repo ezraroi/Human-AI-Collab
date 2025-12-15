@@ -9,7 +9,6 @@ Tag:
     - 'Operational Flags: Pathology'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
-    - 5-the-embodied-connection.md
     - destiny-drive.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - introduction-the-core-problem-and-the-role-of-ai.md
@@ -28,7 +27,7 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:50:07Z"
 Created by:
     - Roi Ezra
@@ -50,5 +49,4 @@ id: bafyreibr5b7zvdv3g3rxyhccn3wkfci2pvona5puyllerinqbdlvzhjzsm
     - **Pathological False Self:** In extreme cases (such as severe mental illness, narcissism, or addiction), the False Self dominates, almost completely hiding the True Self. The person may appear successful and capable but feels internally dead or unreal.   
    
 Ultimately, the False Self functions to protect the [True Self](true-self.md), allowing it to survive, but prevents it from "living" a full, authentic, and spontaneous life.   
-   
 **Notes:** Winnicott’s defensive construct.   

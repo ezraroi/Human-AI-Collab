@@ -20,8 +20,6 @@ Backlinks:
     - section-10-the-grand-unification.md
     - p-alpha-probability-of-growth.md
     - section-7-the-three-layer-architecture-tempora.md
-    - section-6-the-complete-system-architecture.md
-    - section-8-the-recursive-loop-and-embodied-inte.md
     - c-capacity.md
     - section-13-significance-and-forward-direction.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md

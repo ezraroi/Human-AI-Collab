@@ -13,7 +13,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-23T12:47:38Z"
 Created by:
     - Roi Ezra

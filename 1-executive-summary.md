@@ -12,11 +12,10 @@ Created by:
 Links:
     - reflective-prompting.md
     - metacognition.md
-    - ai.md
     - dynamic-transitional-object-dto.md
 id: bafyreihojz5xjmrlsv5wvbcsag4rfzmo4jne4xflj2by67yfba654qfes4
 ---
 # 1. Executive Summary   
 Notebook 6 asks: "What are the precise mechanisms by which [Reflective Prompting](reflective-prompting.md) enhances [metacognition](metacognition.md)?"   
-The research confirms that [Reflective Prompting](reflective-prompting.md) is not just a conversation technique; it is a structured Cognitive Repair Protocol. It systematically activates Metacognitive Monitoring (seeing your thoughts) and Metacognitive Control (fixing your thoughts) by leveraging the unique affordances of [AI](ai.md) as a [Dynamic Transitional Object](dynamic-transitional-object-dto.md).   
+The research confirms that [Reflective Prompting](reflective-prompting.md) is not just a conversation technique; It systematically supports [Metacognitive](metacognition.md) Monitoring (seeing your thoughts) and Metacognitive Control (fixing your thoughts) by using AI as a [Dynamic Transitional Object](dynamic-transitional-object-dto.md)—an event-like, verification-requiring artifact that provides catalytic difference without doing the thinking for the user.   
    

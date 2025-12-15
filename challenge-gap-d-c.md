@@ -7,13 +7,19 @@ Tag:
     - 'System Role: Input'
     - 'Temporal: Dynamic'
 Backlinks:
+    - dialogical-knowing.md
+    - parity-principle-pp.md
+    - channel-2-symbolic.md
     - productive-epistemic-tension.md
+    - the-large-language-model-as-dynamic-transition.md
     - d-difficulty.md
     - ai.md
     - recursive-pattern-verification-loop.md
+    - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - functional-alterity.md
     - zpd.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

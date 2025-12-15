@@ -21,7 +21,6 @@ Created by:
 Links:
     - antonio-damasio.md
     - as-if-body-loop.md
-    - eugene-gendlin.md
     - felt-sense.md
     - anterior-insular-cortex-aic.md
 Emoji: "\U0001F4A1"
@@ -34,10 +33,10 @@ Simply put:
 • **"Somatic markers"** are **feelings in the body** (such as "gut feelings," changes in heart rate, or muscle tension) that function as **indicators of the value or risk** associated with a particular scenario.   
 • These markers act as an **"automated alarm signal"** or incentive, providing an emotional shorthand that helps the brain efficiently filter options and leads to more accurate and effective decision-making.   
 This process can occur either through the actual physical "body loop" or through a rapid, anticipatory representation in the brain called the **"[as-if body loop](as-if-body-loop.md)"**   
-**Content Note:** Explicitly mention that this provides the biological validity for [Gendlin's](eugene-gendlin.md) "[Felt Sense](felt-sense.md)."   
+Content Note: Mention that SMH is compatible with [Felt Sense](felt-sense.md) as an example of how bodily signals can inform cognition, without equating the two.   
 **Relations (The Wiring):**   
 - Link to **[As-If Body Loop](as-if-body-loop.md)** (Relation: `Uses Mechanism`).   
-- Link to **[Felt Sense](felt-sense.md)** (Relation: `Scientific Basis For`).   
-- Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: `Relies On`).   
+- Link to **[Felt Sense](felt-sense.md)** (Relation: Adjacent To).   
+- Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: Associated With).   
    
    

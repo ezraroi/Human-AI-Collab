@@ -11,7 +11,7 @@ Backlinks:
     - channel-2-symbolic.md
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - conclusion-on-novelty-and-contribution.md
     - d-difficulty.md

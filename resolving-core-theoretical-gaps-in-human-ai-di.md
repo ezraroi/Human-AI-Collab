@@ -18,9 +18,9 @@ Links:
     - psychoanalytic-integration.md
     - destiny-drive.md
     - christopher-bollas.md
+    - true-self.md
     - holding-environment.md
     - d-w-winnicott.md
-    - true-self.md
     - alpha-function.md
     - wilfred-bion.md
     - beta-elements.md
@@ -56,7 +56,7 @@ Your synthesis resolved this paradox by proposing a complementary, two-channel m
 ### The Resolution: Psychoanalytic Integration as Obstacle-Removal Architecture   
 The three theorists do not describe a causal production chain but a **prerequisite architecture** that removes the obstacles preventing idiom articulation. [Destiny Drive](destiny-drive.md) is **present from the beginning in latent form**. What develops is the psyche’s ability to *experience and act from it*.   
 ### PRE-EXISTING CONDITION: The Latent Destiny Drive ([Bollas](christopher-bollas.md))   
-- **What it is:** The innate, universal urge of the idiom (True Self) to articulate its unique potential through the use of objects.   
+- What it is: The innate, universal urge to articulate one’s unique idiom ([True Self](true-self.md)) through the use of objects.   
 - **Ontological status:** Always present, **latent**, and not created by the system.   
 - **Transition:** It becomes **articulated** only when developmental obstacles are removed.   
 - **Phenomenology when articulated:** Directionality, self-authorship, and sustained idiom-driven engagement.   
@@ -78,7 +78,7 @@ This marks the shift from:
 - **Fate** → reactive, determined, False Self compliance   
 - **Destiny** → agentic, idiom-expressive, True Self authorship   
    
-The system does not produce the Destiny Drive; it **creates the conditions under which the pre-existing motive becomes lived experience**.   
+The system does not produce the [Destiny Drive](destiny-drive.md); it creates the conditions under which the pre-existing drive becomes lived experience.   
 ### The Cohesion   
 This obstacle-removal architecture forms the conceptual core that is later mapped onto neural networks. It preserves psychoanalytic fidelity—Winnicott enabling being, Bion enabling thinking, Bollas describing idiom articulation—and aligns naturally with the recursive design of the Third Intelligence system.   
  --- 
@@ -90,7 +90,7 @@ While this gap was comprehensively addressed by synthesizing a plausible neurobi
     - Practice-Dependent Neuroplasticity.   
     - The neural basis for the Alpha-Function: The [Triple Network Model](triple-network-model.md) (DMN, FPN, SN).   
     - The neural basis for the Felt Sense: The [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md).   
-    - The physiological basis for the Container ([$\text{S}\_e$](emotional-scaffolding-s_e.md)): The [HPA-Axis](hpa-axis.md).   
+    - The physiological basis for [Emotional Scaffolding](emotional-scaffolding-s_e.md) (the holding/containment capacity): [The HPA-Axis](hpa-axis.md).   
 - The Empirical Gap (Unanswered): The sources explicitly state that this document is "not an empirical neuroscience paper" but a "testable hypothesis". The most critical gaps acknowledged are:   
     - The "striking lack of empirical research on flow interventions" in the cognitive domain.   
     - The absence of known studies investigating neural synchrony (brain-to-brain coupling) during complex dialogue between a human and an AI system.   

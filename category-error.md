@@ -12,9 +12,9 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - embodied-engagement-conditions.md
     - section-5-the-category-error-relational-axis-f.md
-    - holding-environment.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
+    - 7-final-conclusion-the-third-intelligence.md
     - ai.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
@@ -46,7 +46,7 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - Opens the door to emotional dependency, projection, and false intimacy.   
 - Undermines authorship by positioning the AI as epistemic authority rather than interpretive material.   
 - Increases vulnerability to [PSB](protein-shake-brain-psb.md) and is one half of the equation for [Cognitive Dependency](cognitive-dependency.md).   
-- Must be avoided to preserve psychological safety and maintain the [DTO](dynamic-transitional-object-dto.md) stance required for transformation.   
+- Must be avoided to prevent collapse into false interpersonal safety and to maintain the [DTO](dynamic-transitional-object-dto.md) stance required for transformation.   
    
 ### Mechanism   
 - The user mistakes linguistic fluency for personhood.   

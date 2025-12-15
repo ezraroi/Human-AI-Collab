@@ -18,12 +18,17 @@ Creation date: "2025-11-22T14:04:32Z"
 Created by:
     - Roi Ezra
 Links:
+    - alpha-function.md
     - triple-network-model.md
+    - beta-elements.md
+    - alpha-elements.md
+    - anterior-insular-cortex-aic.md
+    - felt-sense.md
+    - channel-1-embodied-sensorimotor-pathway.md
+    - hpa-axis.md
+    - emotional-scaffolding-s_e.md
     - neural-synchrony.md
     - the-doing-both-hypothesis.md
-    - alpha-function.md
-    - felt-sense.md
-    - emotional-scaffolding-s_e.md
 Emoji: ❓
 id: bafyreigdjpq37zbdz3fktxkbegcff6axqhfmdf3nrhxmwdv5fap4why6cm
 ---
@@ -38,13 +43,13 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
    
 **Theoretical Model Exists (Unvalidated):**   
 **Psychological → Neurobiological mappings proposed:**   
-1. **Alpha-Function → Triple Network Model:**   
-    - DMN generates β-elements (raw material)   
-    - FPN processes into α-elements (meaning)   
+1. **[Alpha-Function](alpha-function.md) → [Triple Network Model](triple-network-model.md):**   
+    - DMN generates [beta-elements](beta-elements.md) (raw material)   
+    - FPN processes into [alpha-elements](alpha-elements.md) (meaning)   
     - SN coordinates switching/integration   
-2. **Felt Sense → Anterior Insular Cortex (AIC):**   
+2. **Felt Sense → [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md) (proposed correlate):**   
     - "Spacious" vs. "tight" sensations   
-    - Interoceptive prediction error   
+    - Possible interoceptive prediction-error correlate   
     - Somatic verification signal   
 3. **Container (S\_e) → HPA-Axis:**   
     - Physiological stress regulation   
@@ -85,8 +90,8 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
     - Measure durability of structural changes   
 4. **Mechanistic verification:**   
     - Test Triple Network coordination hypothesis   
-    - Verify AIC role in felt sense   
-    - Confirm HPA-Axis mediation of S\_e   
+    - Test [AIC](anterior-insular-cortex-aic.md) association with [felt sense](felt-sense.md) as a [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal   
+    - Confirm [HPA-Axis](hpa-axis.md) mediation of [Emotional Scaffolding](emotional-scaffolding-s_e.md).   
    
 **Until this data exists:** Model remains theoretically coherent but empirically unproven.   
 **Relations (Wiring):**   

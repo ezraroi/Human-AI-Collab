@@ -12,6 +12,7 @@ Backlinks:
     - questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - executive-summary.md
+    - human.md
     - neural-synchrony.md
     - external-alpha-function.md
     - somatic-marker-hypothesis.md
@@ -19,9 +20,10 @@ Backlinks:
     - pre-reflective-awareness.md
     - as-if-body-loop.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - 3-the-felt-sense-as-the-insula-the-feedback-loop.md
+    - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
+    - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
     - embodied-cognition.md

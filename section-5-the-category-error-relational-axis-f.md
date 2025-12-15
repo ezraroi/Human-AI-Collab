@@ -16,6 +16,7 @@ Links:
     - protein-shake-brain-psb.md
     - zpd.md
     - channel-2-symbolic.md
+    - cognitive-artifact.md
 id: bafyreiayyzk2yjtmm7cnpxuradcuyzgfwe7ucuv2lzhznad62bdzms6lgu
 ---
 # Section 5 - The Category Error (Relational Axis Failure)   
@@ -70,8 +71,8 @@ PSB = [Channel 2](channel-2-symbolic.md)–only processing, not Category Error i
 The solution is not to “force the AI into Piaget’s channel”—the AI always enters through Channel 2, because its medium is symbolic text.   
 The correction is to maintain the proper relational stance:   
 AI = [DTO](dynamic-transitional-object-dto.md) (Dynamic Transitional Object)
-a cognitive artifact that produces difference, not a Subject that provides truth.   
-This preserves authorship, emotional safety, and the necessary distance for interpretation.   
+a [cognitive artifact](cognitive-artifact.md) that produces difference, not a Subject that provides truth.   
+This preserves authorship, the necessary distance for interpretation, and protects the user from collapsing into false interpersonal safety.   
 ### 5.7. Using AI Correctly: Supporting, Not Replacing, Internal Dialogue   
 Reflective methods succeed—such as Reflective Prompting, the 4Ps, and the Recursive Loop—because they:   
 - preserve the DTO stance (Axis A remains healthy),   

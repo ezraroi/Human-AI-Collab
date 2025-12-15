@@ -24,7 +24,7 @@ Emoji: "\U0001F4A1"
 id: bafyreiamryysvzzhfax2r3ay7dzr2fyxhbvdhu6oysaqip3qyofrvxcrji
 ---
 # Idiom-Aligned Scaffolding   
-The design principle that **scaffolding structures** (AI workflows, prompts, protocols) must be adapted to the individual’s **idiom**—their characteristic cognitive style, strengths, and personality potentials—rather than forcing the person into generic productivity templates. Misaligned scaffolding can mute the Destiny Drive and produce pseudo-efficiency without true emergence.   
+The design principle that **scaffolding structures** (AI workflows, prompts, protocols) must be adapted to the individual’s **idiom**—their characteristic cognitive style, strengths, and personality potentials—rather than forcing the person into generic productivity templates. Misaligned scaffolding can block idiom articulation and produce pseudo-efficiency without the phenomenological articulation of Destiny Drive.   
 ### System Role   
 - Ensures that methods like [Reflective Prompting](reflective-prompting.md) **amplify** the user’s idiom rather than overwrite it.   
 - Protects against systems that technically “optimize” output while psychologically undermining the True Self.   
@@ -33,5 +33,3 @@ The design principle that **scaffolding structures** (AI workflows, prompts, pro
 - Operationalized in → [Reflective Prompting](reflective-prompting.md) (Phase 3).   
 - Supports → [Destiny Drive](destiny-drive.md)   
 - Prevents → Generic productivity colonization; [Transmissive Self](transmissive-self.md) .   
-   
-   

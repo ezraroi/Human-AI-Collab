@@ -20,11 +20,13 @@ Created by:
     - Roi Ezra
 Links:
     - psychoanalytic-prerequisites.md
+    - destiny-drive.md
     - holding-environment.md
+    - emotional-scaffolding-s_e.md
     - alpha-function.md
     - beta-elements.md
     - alpha-elements.md
-    - destiny-drive.md
+    - p-alpha-probability-of-growth.md
     - the-unified-architecture.md
     - the-integrated-circuit-board.md
 Emoji: ❓
@@ -36,19 +38,19 @@ How to integrate Winnicott, Bion, and Bollas into a unified, coherent system wit
 **The Resolution:**   
 Solved by constructing the **[Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md)** as an obstacle-removal architecture rather than a causal production chain.   
 **Key Theoretical Move:**   
-The three theorists describe **sequential prerequisites**—conditions that must be in place for latent psychological potential (Destiny Drive) to become phenomenologically articulated. This is NOT a production model where each stage creates the next, but a developmental architecture where each stage **removes an obstruction** blocking access to pre-existing motive force.   
+The three theorists describe **sequential prerequisites**—conditions that must be in place for latent psychological potential ([Destiny Drive](destiny-drive.md)) to become phenomenologically articulated. This is NOT a production model where each stage creates the next, but a developmental architecture where each stage removes an obstruction blocking the phenomenological articulation of a pre-existing [Destiny Drive](destiny-drive.md).   
 **The Integration Structure:**   
 1. **Foundation: [Holding Environment](holding-environment.md)**   
-- Provides: Ontological Security (S\_e), psychological safety   
+- Provides: Ontological Security (operationalized as [Emotional Scaffolding](emotional-scaffolding-s_e.md)), psychological safety   
 - **Removes Obstacle 1:** Annihilation anxiety + environmental impingement   
 - Enables: Possibility of True Self existence   
-- Formula mapping: S\_e; if S\_e = 0, entire system collapses   
+- Formula mapping: S\_e as the operational indicator; if S\_e = 0, the system collapses (regardless of other factors)   
    
 **2. Mechanism: [Alpha-Function](alpha-function.md)**   
 - Provides: Metabolic processing ([beta-elements](beta-elements.md) → [alpha-elements](alpha-elements.md))   
 - **Removes Obstacle 2:** Psychic chaos + "nameless dread"   
 - Enables: Internal coherence, symbolic capacity, thinkability   
-- Formula mapping: P(α); sparked by \|D-C\| gap (frustration)   
+- Formula mapping: [P(alpha);](p-alpha-probability-of-growth.md) sparked by \|D-C\| gap (frustration)   
    
 **3. Pre-Existing Condition: [Destiny Drive ](destiny-drive.md)**   
 - Ontological status: **Always present in latent form**   

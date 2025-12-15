@@ -19,6 +19,7 @@ Backlinks:
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
     - human.md
+    - section-3-foundational-theoretical-integration.md
     - time.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
@@ -37,7 +38,6 @@ Backlinks:
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - functional-alterity.md
     - zpd.md
-    - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

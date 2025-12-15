@@ -34,9 +34,9 @@ Offloading is not inherently good or bad; it depends on *what* is offloaded.
 - **Passive Offloading:** Offloading the *processing* (the [Alpha-Function](alpha-function.md)). This leads to **[Protein Shake Brain](protein-shake-brain-psb.md)** and atrophy.   
 - **Strategic Offloading:** Offloading the *lower-level retrieval/storage* to maximize "Germane Load" (productive effort) on the Architect's goals. This enables **Flow Optimization**.   
    
-Use AI when in **[High Resolution Uncertainty](high-resolution-uncertainty.md)** (to maximize Germane Load). Avoid AI when in **Low Resolution Uncertainty** (increase resolution solo first) or **False Certainty** (use AI as challenger)   
+Use AI when you have [High-Resolution Uncertainty](high-resolution-uncertainty.md) (granular awareness of what you know/don’t know) so offloading supports germane work rather than replacing it. Avoid AI when uncertainty is low-resolution (‘I’m lost/overwhelmed’) until you regain granularity, or when in False Certainty (use AI as challenger).   
 **🔗 Relations (The Wiring):   
-- **Link to:** `[Extended Mind Hypothesis (HEC)](extended-mind-hypothesis-hec.md)` (Relation: *Mechanism Of*).   
+- **Link to:** `[Extended Mind Hypothesis (HEC)](extended-mind-hypothesis-hec.md)` (Relation: Theoretical Basis For).   
 - **Link to:** `[Iron Man Mentality](iron-man-mentality.md)` (Relation: *Optimizes*).   
    
 **Notes:** Offloading reduces extraneous load; dangerous if metabolization is offloaded.   

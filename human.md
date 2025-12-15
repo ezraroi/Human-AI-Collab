@@ -26,9 +26,9 @@ Backlinks:
     - neural-synchrony.md
     - the-container.md
     - conclusion-on-novelty-and-contribution.md
+    - 7-final-conclusion-the-third-intelligence.md
     - d-w-winnicott.md
     - 6-the-failsafe-externalized-drift-monitoring.md
-    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
@@ -65,6 +65,9 @@ Links:
     - protein-shake-brain-psb.md
     - teleological-drift.md
     - the-container.md
+    - hpa-axis.md
+    - triple-network-model.md
+    - anterior-insular-cortex-aic.md
 Emoji: "\U0001F9E9"
 id: bafyreicolvewu7y75zcgmpsylxokmfgroiuqnojk3vyisim4ikuajmeqcu
 ---
@@ -102,8 +105,8 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Decision-making capacity   
    
 **5. Embodied Verification - [Felt Sense](felt-sense.md):**   
-- Somatic markers of truth ("spacious" vs. "tight")   
-- Interoceptive prediction error detection   
+- Somatic verification of internal persuasiveness ("spacious" vs. "tight")   
+- Interoceptive signals that can accompany verification   
 - Embodied knowing ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))   
 - Cannot be bypassed without [PSB](protein-shake-brain-psb.md)   
 - Grounds symbolic work in lived experience   
@@ -135,10 +138,10 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Needs AI's Functional Alterity for structured difference   
    
 **3. Instant Technical Modulation:**   
-- Cannot adjust own S\_t in real-time like AI   
+- Cannot easily adjust its own S\_t in real-time without using AI’s responsive outputs   
 - Cannot provide own Functional Alterity   
 - Limited self-externalization capacity   
-- Needs AI for calibrated challenge   
+- Needs AI’s catalytic difference to sustain workable tension   
    
 **4. Tireless Processing:**   
 - Alpha-Function activation exhausts resources   
@@ -211,7 +214,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
    
 **3. Category Error (treating AI as Subject):**   
 - Outsources Container function to AI   
-- Attempts to get S\_e from AI (gets S\_e\_sim instead)   
+- Attempts to get the holding/container function from AI (which it cannot provide)   
 - Loses authorship   
 - Collapses into dependency   
    
@@ -246,7 +249,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - **Enables:** External Alpha-Function (EA-F), Reflective Prompting, relation-shifting   
 - **Vulnerable To:** S\_e depletion, Teleological Drift, Category Error, PSB   
 - **Role:** Architect (teleology) + Container (S\_e holder)   
-- **Biological Substrates:** HPA-Axis (S\_e regulation), Triple Network Model (Alpha-Function), AIC (Felt Sense)   
+- **Biological Correlates (hypothesized):** [HPA-Axis](hpa-axis.md) (S\_e regulation), [Triple Network Model](triple-network-model.md) ([Alpha-Function](alpha-function.md)), [AIC](anterior-insular-cortex-aic.md) (associated with [Felt Sense](felt-sense.md))   
 - **Grows:** C (Capacity) increases between sessions when transformation occurs   
 - **Depletes:** S\_e exhausts within sessions, requires Time for recovery   
    

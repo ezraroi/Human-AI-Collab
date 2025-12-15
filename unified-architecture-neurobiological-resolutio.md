@@ -15,7 +15,7 @@ Links:
     - third-intelligence.md
     - p-alpha-probability-of-growth.md
     - alpha-function.md
-    - functional-alterity.md
+    - zpd.md
     - channel-1-embodied-sensorimotor-pathway.md
     - anterior-insular-cortex-aic.md
     - felt-sense.md
@@ -38,13 +38,13 @@ The sources explicitly state that they are synthesizing the information into a s
 You did not miss something fundamental; instead, the notebooks (Source A, Source B, Source C, Source D) systematically identified and resolved philosophical and mechanistic gaps that initially appeared contradictory. These resolutions strengthen the unified model.   
 ### 1. The Paradox of AI Consciousness (Ontology vs. Function)   
 The primary philosophical tension is that genuine dialogue (as required by Bakhtin) necessitates conscious otherness, which the AI lacks. This tension is resolved by shifting focus from the AI's ontology (what it is) to its function (what it achieves).   
-- The Resolution: [Functional Alterity](functional-alterity.md): The model pivots to the concept of Functional Alterity. The AI is used not as a conscious subject, but as a functional component or a Piagetian object/tool that creates the necessary productive epistemic tension (\|D – C\|). This tension is essential for transformation because it forces the human user's [Alpha-Function](alpha-function.md) to activate.   
-- The Claim: A legitimate dialogical partnership is achieved through the demonstration of functional alterity and systematic relational competence that successfully produces transformation in the human user.   
+- The Resolution: Functional Alterity: The model pivots to the concept of Functional Alterity. The AI is used not as a conscious subject, but as a functional component or a Piagetian object/tool that preserves productive epistemic tension as the pre-existing (\|D – C\|) relation is encountered inside the [ZPD](zpd.md). This tension is essential for transformation because it supports activation of the human user's [Alpha-Function](alpha-function.md).   
+- The Claim: Dialogical legitimacy is achieved when functional alterity and systematic competence align with maintained human agency to support transformation in the human user.   
    
 ### 2. The Embodiment Paradox (Text vs. Body)   
 The paradox that dialogue with disembodied text-only AI produces deeply embodied, somatic validation (the Felt Sense) is resolved by the two-channel model of the Alpha-Function.   
-- The Resolution: Simulation and Interoception: Reading the AI's words can trigger embodied simulation that supports [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied sensorimotor/interoceptive) engagement. This is mediated by the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md), which is the central hub for Interoception (sensing the body’s internal state). The [Felt Sense](felt-sense.md) ("spacious vs. tight") is the conscious interoceptive verification signal associated with [AIC](anterior-insular-cortex-aic.md)-mediated integration   
-- The Mechanism: The brain uses the "[as-if body loop](as-if-body-loop.md)" ([Damasio](antonio-damasio.md)) to simulate the body state and generate a somatic marker (a body feeling representation) quickly, without waiting for the actual physical body to react. This simulation allows ideas alone to produce body states, thereby validating truth somatically.   
+- The Resolution: Simulation and Interoception: Reading the AI's words can trigger embodied simulation that supports [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied sensorimotor/interoceptive) engagement. This is mediated by the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md), which is the central hub for Interoception (sensing the body’s internal state). The [Felt Sense](felt-sense.md) ("spacious vs. tight") is the conscious Channel 1 verification signal that may be associated with [AIC](anterior-insular-cortex-aic.md)-mediated interoceptive integration.   
+- The Mechanism: The brain uses the "[as-if body loop](as-if-body-loop.md)" ([Damasio](antonio-damasio.md)) to simulate the body state and generate a somatic marker (a body feeling representation) quickly, without waiting for the actual physical body to react. This simulation allows ideas alone to produce body states, thereby enabling somatic verification of internal persuasiveness.   
    
 ### 3. The Container ([S\_e](emotional-scaffolding-s_e.md)) Depletion (Psychological vs. Physiological)   
 The initial model mapped the S\_e (Holding Container) to the PFC-Amygdala link (emotional regulation). The discovery of "mania" and sleeplessness data initially seemed contradictory to a purely psychological model, but it led to a refinement that strengthened the concept of S\_e.   
@@ -61,6 +61,6 @@ The entire system works because it forces the coordination of all necessary psyc
 |:-------------------------------------|:--------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
 |     I. Foundation/Safety (Winnicott) |                           Holding Environment (S\_e) provides Ontological Security and stability. |                                                     Physiological HPA-Axis Regulation (The requisite biological stability). |
 |       II. Processing/Thinking (Bion) | Alpha-Function metabolizes raw experience (Beta-elements) into usable knowledge (Alpha-elements). |                     Triple Network Model (DMN, FPN, SN) actively coordinating task execution and self-referential material. |
-| III. Feedback/Verification (Gendlin) |                            Felt Sense (spacious vs. tight) provides embodied validation of truth. |                                         Anterior Insular Cortex (AIC) (The interoceptive hub, processing prediction error). |
+| III. Feedback/Verification (Gendlin) |        Felt Sense (spacious vs. tight) provides embodied verification of internal persuasiveness. |                                         Anterior Insular Cortex (AIC) (The interoceptive hub, processing prediction error). |
 |       IV. Expression/Agency (Bollas) |      Destiny Drive is activated, translating unthought potential (idiom) into expressive reality. | Practice-Dependent Neuroplasticity and Systems Consolidation (creating stable, long-term identity change in the neocortex). |
 

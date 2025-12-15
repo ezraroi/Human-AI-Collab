@@ -10,26 +10,26 @@ Creation date: "2025-11-23T13:00:21Z"
 Created by:
     - Roi Ezra
 Links:
-    - bafyreieov6dyiqw4nsdy2q2nxihm77yuxwwbfijyumftmceaykxvk5f3oy
     - high-resolution-uncertainty.md
     - negative-capability.md
     - protein-shake-brain-psb.md
-    - human.md
+    - metacognition.md
     - flow-optimization-principle.md
+    - self-explanation.md
     - cognitive-offloading.md
     - alpha-function.md
     - reflective-prompting.md
 id: bafyreiepapqtj556popoy2c2agkow6zhzou2kvl5s4ce5tv2bcoboescqa
 ---
 # 3. The Metric of Growth: High-Resolution Uncertainty   
-The research identifies the [Underconfidence-with-Practice (UWP) Effect](bafyreieov6dyiqw4nsdy2q2nxihm77yuxwwbfijyumftm.md): as expertise grows, confidence (Calibration) often drops while accuracy (Resolution) improves.   
+The research identifies the Underconfidence-with-Practice (UWP) Effect: as expertise grows, confidence (Calibration) often drops while accuracy improves.   
 - Implication for our model: We must distinguish Productive Doubt (High Resolution: "I see the nuance") from Destructive Doubt (Low Resolution: "I am lost").   
 - The Goal: The system aims for [High-Resolution Uncertainty](high-resolution-uncertainty.md)—the state of "[Negative Capability](negative-capability.md)" where the user can sustain the tension of complex, unresolved ambiguity without collapsing into the "False Certainty" of the [Protein Shake Brain](protein-shake-brain-psb.md).   
    
 ### 3.1 Metacognitive Control: When to Offload vs. Hold   
 The research on cognitive offloading reveals that external tools can either augment capacity (productive) or create dependency (destructive). The difference lies in whether the offloading reduces extraneous load (freeing resources for learning) or germane load (bypassing the learning itself).   
 The Decision Mechanism:   
-The [Human](human.md) Architect uses metacognitive confidence as the control signal:   
+The Human Architect uses [metacognitive](metacognition.md) monitoring as the control signal:   
 1. [High Resolution Uncertainty](high-resolution-uncertainty.md) (know what you don't know):   
     - Safe to engage AI for structured exploration   
     - Use Mode B (Novice) to force articulation   
@@ -46,8 +46,8 @@ The [Human](human.md) Architect uses metacognitive confidence as the control sig
 The [Flow Optimization Principle](flow-optimization-principle.md):   
 Reflective Prompting succeeds by maximizing germane load while minimizing extraneous load:   
 - AI handles information retrieval (extraneous) → frees cognitive resources   
-- AI forces self-explanation (germane) → activates alpha-function   
-- User maintains verification (germane) → prevents dependency   
+- AI prompts [self-explanation](self-explanation.md) (germane) → preserves the learning work   
+- User retains verification (germane) → keeps processing internal   
    
 The Anti-Otto Safeguard:   
 Unlike Otto’s notebook (which can be treated as reliable storage), AI cannot be treated as an automatically trusted cognitive extension; it must be used with verification, as a catalyst for the user’s own processing. The system prevents dependency through:   

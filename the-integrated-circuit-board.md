@@ -51,7 +51,7 @@ It describes the *routing, sequencing, and feedback* by which raw experience bec
     - Gets metabolized by [Alpha-Function](alpha-function.md)   
     - And is materialized + returned via the Journal across sessions.   
 - Enables **diagnosis of distinct failure modes**:   
-    - [PSB](protein-shake-brain-psb.md) (Alpha-Function offline)   
+    - [PSB](protein-shake-brain-psb.md) ([Alpha-Function](alpha-function.md) offline)   
     - Symbolic Overrun (As-If Body Loop offline)   
     - Transient Insight (Journal missing/corrupted)   
 - Allows you to talk not only about “three components are necessary”, but about **how the output of one becomes the input of the other**.   
@@ -61,7 +61,7 @@ Minimal cycle (one “transformative pass”):
 1. **Input – Symbolic Challenge (Channel 2):**   
     - User encounters a problem or prompt → engages AI.   
     - AI returns symbolically rich material (proposal, reflection, tension).   
-    - This injects **D** (Difficulty) into the system, at some distance from current C.   
+    - This introduces symbolic material that may be experienced as difficulty, at some distance from current [Capacity](c-capacity.md).   
 2. **As-If Body Loop Engagement (Data Bus):**   
     - The symbolic material is *held in attention* (not bypassed).   
     - The As-If Body Loop simulates bodily states (AIC / somatic markers) → “felt sense” appears.   
@@ -75,7 +75,7 @@ Minimal cycle (one “transformative pass”):
     - This:   
         - Fixes the transformation in time (chronotope),   
         - Creates substrate for future pattern recognition,   
-        - Re-injects the *captured record* of [alpha-elements](alpha-elements.md) into future cycles as upgraded C.   
+        - Carries the captured record of [alpha-elements](alpha-elements.md) into future cycles as a strengthened baseline for capacity.   
 5. **Recursive Feedback ([Time](time.md)):**   
     - On later days, the Journal feeds prior α-elements back into the next cycle as “baseline C”.   
     - The circuit runs again with new input (D) → repeated metabolic passes gradually increase Capacity (C).   

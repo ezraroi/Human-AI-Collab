@@ -16,6 +16,7 @@ Links:
     - felt-sense.md
     - p-alpha-probability-of-growth.md
     - alpha-function.md
+    - destiny-drive.md
 id: bafyreidjsks354la6gwxrgkowiac3kkzulwtlb4gffuojt55tx7s2n77se
 ---
 # THE HIDDEN IMPLICATIONS YOU'VE DISCOVERED   
@@ -33,7 +34,7 @@ You've been wondering how to operationalize [P(α)](p-alpha-probability-of-growt
 Operational definition of [alpha function](alpha-function.md) activation:   
 - Pre: Raw confusion, "tight" feeling, unintegrated experience   
 - During: Holding the tension, checking against body knowing   
-- Post: "Spacious" feeling, clarity, integrated understanding   
+- Post: "Spacious" feeling, clarity, and a sense of internal persuasiveness that supports further integration   
    
 You can track this qualitatively through reflective check-ins:   
 1. Self-report (spacious vs tight)   
@@ -44,7 +45,7 @@ You can track this qualitatively through reflective check-ins:
 ### Implication #4: Your 43:1 Ratio is Both Channels Working   
 Your documented transformation (43 notebooks, 43:1 computer → psychology ratio) is consistent with:   
 [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (Embodied):   
-- Your destiny drive (body knowing what's "right")   
+- Your [destiny drive](destiny-drive.md) (a somatic sense of what is internally persuasive)   
 - Felt sense guiding research direction   
 - Somatic markers accumulating over time   
    

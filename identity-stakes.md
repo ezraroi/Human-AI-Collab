@@ -11,9 +11,12 @@ Backlinks:
     - reflective-prompting.md
     - destiny-drive.md
     - embodied-engagement-conditions.md
+    - part-ii-reflective-prompting-and-the-zone-of-p.md
     - holding-environment.md
     - productive-epistemic-tension.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - d-difficulty.md
+    - 7-final-conclusion-the-third-intelligence.md
     - challenge-gap-d-c.md
     - alpha-function.md
     - protein-shake-brain-psb.md
@@ -29,9 +32,12 @@ Created by:
     - Roi Ezra
 Links:
     - channel-1-embodied-sensorimotor-pathway.md
+    - functional-alterity.md
+    - zpd.md
+    - true-self.md
+    - embodied-engagement-conditions.md
     - christopher-bollas.md
     - destiny-drive.md
-    - embodied-engagement-conditions.md
     - alpha-function.md
     - recursive-metabolic-loop.md
 Emoji: "\U0001F4A1"
@@ -41,13 +47,13 @@ id: bafyreibwvz5w4cq7nwvjea5kzjoqz6ei4hbfoebxhsfpgksku3ucr3upcm
 Identity Stakes represent the **threshold where information becomes self-relevant** and shifts from abstract knowledge to material for self-construction.   
 [Channel 1](channel-1-embodied-sensorimotor-pathway.md) tends to engage most strongly when the symbolic tension touches the becoming self.   
 ### System Role   
-- Converts symbolic tension into **embodied tension**.   
-- Acts as the bridge between psychoanalytic drives (destiny/formation) and cognitive metabolism.   
-- Determines whether AI output enters the transformation pathway or remains purely intellectual.   
+- Marks symbolic material as self-relevant so embodied processing can engage *(when paired with [Functional Alterity](functional-alterity.md) and [ZPD](zpd.md) Alignment)*   
+- Acts as the bridge between psychoanalytic development (idiom/[True Self](true-self.md) articulation) and cognitive metabolism.   
+- Helps determine whether AI output enters the transformation pathway (as one of the three [Embodied Engagement Conditions](embodied-engagement-conditions.md)) or remains purely intellectual.   
 - Explains why reflective writing, leadership questions, and meaning-making activate the body more reliably than technical tasks.   
    
 ### Wiring (Relations)   
-- **Derived From:** [Christopher Bollas](christopher-bollas.md) (the [destiny drive](destiny-drive.md), idiom, self-coherence formation)   
+- Derived From: [Christopher Bollas](christopher-bollas.md) (idiom, self-coherence formation; [Destiny Drive](destiny-drive.md) as latent→articulated vector)   
 - **Activates:** [Metabolic Activation](embodied-engagement-conditions.md)   
 - **Enables:** [Alpha-Function](alpha-function.md) engagement   
 - **Part Of:** Conditions for recursive oscillation in the [Recursive Loop](recursive-metabolic-loop.md)   

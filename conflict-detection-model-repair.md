@@ -22,18 +22,22 @@ Links:
     - self-explanation.md
     - alpha-function.md
     - ai.md
+    - wilfred-bion.md
+    - beta-elements.md
+    - alpha-elements.md
     - felt-sense.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - gap-filling-inference-generation.md
 Emoji: "\U0001F4A1"
 id: bafyreibomhzmkaxzupfpykx4gg2t774gainvbqb46o3jrwjuwbhb64uvha
 ---
 # Conflict Detection (Model Repair)   
-The critical process of identifying where an internal mental model contradicts reality or feedback, and then repairing it. This is **Mode B of Self-Explanation**—one of two distinct mechanisms through which [Self-Explanation](self-explanation.md) operates.   
+The critical process of identifying where an internal mental model contradicts reality or feedback, and then repairing it. This is one of two distinct mechanisms through which [Self-Explanation](self-explanation.md) operates.   
 **System Role:**   
 Conflict Detection is one pathway through which the cognitive equivalent of [Alpha-Function](alpha-function.md) (metabolic transformation) occurs. When the [AI](ai.md) adopts a "Novice" stance, it forces externalization of the user's mental model, making contradictions visible for repair.   
 **Relationship to[ Alpha-Function](alpha-function.md):**   
 In our integrated model, Self-Explanation (with its two modes) serves as the **cognitive science equivalent** of Bion's Alpha-Function. Both describe transformation of raw/incoherent material into organized understanding, but from different theoretical traditions:   
-- **Alpha-Function (Bion):** Psychoanalytic—transforms emotional-sensory experience (β) into thinkable thoughts (α)   
+- **Alpha-Function ([Bion](wilfred-bion.md)):** Psychoanalytic—transforms emotional-sensory experience ([beta-elements](beta-elements.md)) into thinkable thoughts ([alpha-elements](alpha-elements.md))   
 - **Self-Explanation:** Cognitive science—transforms partial/contradictory knowledge into coherent understanding   
     - Mode A: Gap Filling (inference generation)   
     - Mode B: Conflict Detection (model repair)   
@@ -44,7 +48,7 @@ The AI adopts a "teachable novice" posture, feigning ignorance or confusion to f
 - Forces externalization of tacit assumptions   
 - Makes mental model contradictions visible   
 - Triggers Conflict Detection mechanism   
-- Activates felt sense ("tight" when conflict present)   
+- Makes [Felt Sense](felt-sense.md) salient as a [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal (often experienced as "tight" when discourse is not internally persuasive)   
    
 **Example prompts:**   
 - "I'm not following—can you explain that differently?"   
@@ -54,6 +58,6 @@ The AI adopts a "teachable novice" posture, feigning ignorance or confusion to f
 **Relations (Wiring):**   
 - **Part of:** Self-Explanation (Mode B mechanism)   
 - **Triggered by:** AI Mode B (Novice stance)   
-- **Signals through:** [Felt Sense](felt-sense.md) (conflict often feels "Tight")   
+- **Signals through: **Felt Sense (a Channel 1 verification signal; conflict can feel "tight")   
 - **Grounded in:** Protégé Effect (educational psychology)   
-- **Paired with:** [Gap Filling](gap-filling-inference-generation.md) (Mode A of Self-Explanation)   
+- **Paired with: **[Gap Filling](gap-filling-inference-generation.md) (inference generation)   

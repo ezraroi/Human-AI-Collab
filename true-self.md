@@ -9,11 +9,14 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - destiny-drive.md
+    - introduction-the-core-problem-and-the-role-of-ai.md
     - false-self.md
     - holding-environment.md
+    - identity-stakes.md
     - christopher-bollas.md
     - section-3-foundational-theoretical-integration.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
+    - section-2-the-core-formula-and-components.md
     - 7-final-conclusion-the-third-intelligence.md
     - d-w-winnicott.md
     - potential-space.md
@@ -21,6 +24,7 @@ Backlinks:
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

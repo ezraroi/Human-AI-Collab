@@ -16,7 +16,7 @@ Links:
     - channel-2-symbolic.md
     - ai.md
     - journal.md
-    - false-self.md
+    - third-intelligence.md
     - metacognition.md
 id: bafyreiahu4e2cufagddvuplw2yxzly5i2j7kgdk5k25ml3hacigjjwj3eq
 ---
@@ -28,6 +28,6 @@ Notebook 6 focuses on cognitive "seeing," but our Unified Model integrates this 
 3. [AI](ai.md) Mirror reflects the explanation back (or the user with himself)   
 4. [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verifies the reflection (spacious = resolved; tight = still broken)   
 5. [Journal](journal.md) records successful alpha elements (if needed, not in all sessions)   
-- The Test: A "Cognitive Repair" is only valid if it produces a "Somatic Release" (The Felt Shift). Thinking without feeling is rationalization ([False Self](false-self.md)); feeling without thinking is anxiety (Beta Flooding). The Third Intelligence is the integration of both.   
+- The Test: A "Cognitive Repair" is only valid if it produces a "Somatic Release" (The Felt Shift). Thinking without feeling is rationalization; feeling without thinking is anxiety (Beta Flooding). The [Third Intelligence](third-intelligence.md) is the integration of both.   
    
 Standard [metacognition](metacognition.md) research focuses on cognitive monitoring and control. This model extends that framework by integrating somatic metacognition—using the felt sense as the verification mechanism that cognitive metacognition alone cannot provide.   

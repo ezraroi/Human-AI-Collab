@@ -206,7 +206,7 @@ This recursive structure keeps Alpha-Function processing engaged live.
 - **Felt Sense** — *Relies On*
     Embodied knowing is the primary verification signal.
 - **Epistemological Humility** — *Requires*
-    Keeps the human in a non-defensive, non-omniscient posture.
+    Sustains willingness to doubt both AI output and one’s own self-perception during verification.
 - **PSB** — *Protects Against*
     Prevents ungrounded fluency from entering the symbolic system.
 - **External Alpha-Function** — *Defines Boundary With*
@@ -261,7 +261,7 @@ Implements the RRV Cycle micro-method with **continuous RPVL verification**.
 The RRV Cycle provides the dialogue structure; RPVL provides quality control throughout.
 **Operations (implemented by RRV Cycle):**
 1. **Externalize** – Speak/write raw thoughts, confusions, stakes to AI (Rubber Duck Debugging).
-2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence.
+2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence, and be willing to question your own first interpretation.
 3. **Validate** – Ask AI to summarize “what we’re doing” and check it against felt sense and task definition.
 
 **Cognitive role:**
@@ -315,7 +315,6 @@ This triggers Conflict Detection (Model Repair) (Mode B of Self-Explanation)
 ### Failure Modes / Diagnostics
 - **PSB**
 
-
 **Notes:** The flagship method integrating scaffolding, metabolism, and verification.
 
 ---
@@ -330,7 +329,7 @@ Reflective Prompting's RRV Cycle (Externalize → Refine → Validate) mirrors t
 RRV Cycle is the **dialogue structure** for Phase 2 co-articulation.
 **RPVL runs continuously DURING RRV as quality control:**
 - During Externalize: RPVL checks clarity, grounding, embodiment
-- During Refine: RPVL detects flattery, tests felt sense, checks grammar
+- During Refine: RPVL detects flattery, uses felt sense to verify internal persuasiveness, checks grammar
 - During Validate: RPVL performs final embodied verification
 
 **The distinction:**
@@ -366,7 +365,7 @@ Think of RRV as the assembly line, RPVL as quality control at each station.
 ## [METHOD] Self-Explanation
 [Literature] NoteBook 6 - Cognitive Mechanics, Domain: CognitiveScience, System Role: Method, Temporal: Dynamic
 
-An established cognitive learning mechanism where learners construct understanding by explaining material to themselves (or others), forcing explicit articulation and mental model repair. Operates through two distinct modes: Gap Filling (generating inferences) and Conflict Detection (repairing contradictions).
+An established cognitive learning mechanism where learners construct understanding by explaining material to themselves (or others), forcing explicit articulation and mental model repair. Operates through two distinct mechanisms: Gap Filling (generating inferences) and Conflict Detection (repairing contradictions).
 **Theoretical Origins:**
 Cognitive science / educational psychology literature on active learning. Well-documented as effective learning strategy—explaining concepts in own words produces deeper understanding than passive review.
 **How It's Used in Third Intelligence:**
@@ -409,7 +408,7 @@ Cognitive science / educational psychology literature on active learning. Well-d
 **Relations (Wiring):**
 - **Cognitive Equivalent Of:** Alpha-Function (functional parallel, different tradition)
 - **Core Mechanism Of:** Reflective Prompting (drives Phase 2)
-- **Has Two Modes:** Gap Filling (Mode A), Conflict Detection (Mode B)
+- **Has Two Mechanisms:** Gap Filling (generating inferences), Conflict Detection (repairing contradictions)
 - **Activated By:** Teaching stance, writing, articulation
 - **Prevents:** Passive consumption, PSB
 - **Enables:** Metabolic processing, genuine understanding

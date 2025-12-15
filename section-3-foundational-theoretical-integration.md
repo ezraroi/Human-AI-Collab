@@ -13,12 +13,14 @@ Links:
     - true-self.md
     - false-self.md
     - lev-vygotsky.md
+    - authoritative-discourse.md
     - wilfred-bion.md
     - alpha-function.md
     - beta-elements.md
     - alpha-elements.md
     - zpd.md
     - d-difficulty.md
+    - c-capacity.md
     - mko-more-knowledgeable-other.md
     - ai.md
     - functional-alterity.md
@@ -33,11 +35,11 @@ A Functional Model of Psychological Transformation: The [Third Intelligence](thi
 ## 3. Theoretical Foundations: The Synthesis   
 ### 3.1 The Foundational Synthesis: Vygotsky, Winnicott, and Bion   
 Our central thesis is that the theories of Vygotsky, Winnicott, and Bion are not independent frameworks but describe **complementary layers of a single developmental architecture**.   
-**[Winnicott](d-w-winnicott.md) provides the Outcome:**   
+**[Winnicott](d-w-winnicott.md) provides the developmental stakes:**   
 The distinction between the **[True Self](true-self.md)** (the spontaneous, authentic, integrated agent) and the **[False Self](false-self.md)** (a defensive structure organized around compliance) represents the developmental stakes of the system. The emergence of the True Self requires a psychological environment in which the individual’s experience can become thinkable and expressible without impingement.   
 **[Vygotsky](lev-vygotsky.md) provides the Social Mechanism:**   
 All higher psychological functions originate on the social plane before they are internalized.   
-- **False Self formation** arises from internalizing *Authoritative Discourse*—coercive, misattuned communication that bypasses genuine understanding.   
+- **False Self formation** arises from internalizing *[Authoritative Discourse](authoritative-discourse.md)*—coercive, misattuned communication that bypasses genuine understanding.   
 - **True Self formation** arises from internalizing *Internally Persuasive Discourse*—responsive, collaborative dialogue characterized by meaning-making rather than compliance.   
    
 Thus, the True Self is a **dialogical achievement**, not an isolated essence.   
@@ -48,12 +50,12 @@ Bion’s **[alpha-function](alpha-function.md)** transforms raw, unprocessed emo
 The alpha-function is the **bridge** between social experience and psychological outcome.   
 - **Successful Alpha-Function → True Self:**   
     When beta-elements can be processed into alpha-elements, the psyche gains internal coherence and reflective capacity. This stability allows genuinely responsive engagement with the social world, enabling True Self expression.   
-- **Failed Alpha-Function → False Self:**   
+- When [alpha-function](alpha-function.md) fails under insufficient holding, defensive compliance can dominate (Winnicott’s [False Self](false-self.md))   
     Without the capacity to metabolize experience, the psyche is overwhelmed by “nameless dread.” To survive, it constructs a compensatory shell—performative, compliant, and disconnected from spontaneous desire.   
    
 Thus, alpha-function is the *core metabolic engine* of psychological transformation.   
 ## 3.3 The [ZPD](zpd.md) in the Third Intelligence System   
-Vygotsky’s **Zone of Proximal Development (ZPD)** corresponds directly to the **\|D–C\| gap**—the optimal window of tension between [Difficulty (D)](d-difficulty.md) and Capacity (C) in which transformation can occur.   
+Vygotsky’s Zone of Proximal Development ([ZPD](zpd.md)) is the workable subset of the pre-existing \|D–C\| relation—the optimal window of experienced tension between [Difficulty (D)](d-difficulty.md) and [Capacity](c-capacity.md) (C) that becomes available when scaffolding is present.   
 In classical development, the **More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md))** temporarily performs cognitive work the learner cannot yet perform, even functioning at times as a temporary scaffold for meaning-making when the learner cannot yet process experience independently.   
 However, the architecture of the **[Third Intelligence](third-intelligence.md)** is fundamentally different:   
 - Adult users already possess an alpha-function.   
@@ -61,7 +63,7 @@ However, the architecture of the **[Third Intelligence](third-intelligence.md)**
 - It is a **catalyst** that repeatedly activates the user’s own alpha-function.   
    
 In the Tetrad:   
-- **[AI](ai.md)** provides *[functional alterity](functional-alterity.md)* — the structured difference that maintains the productive tension of the \|D–C\| gap.   
+- [AI](ai.md) provides [functional alterity](functional-alterity.md) — the turn-by-turn structured difference that preserves productive tension as the \|D–C\| relation is encountered inside the ZPD.   
 - The Journal serves as an external substrate for continuity — a place where metabolized alpha-elements are captured through writing.   
 - **The [Human](human.md)** provides the emotional substrate ([Sₑ](emotional-scaffolding-s_e.md)), functioning as the container that makes this metabolic work tolerable.   
    
@@ -70,7 +72,7 @@ Thus, the ZPD is recreated not by performing cognition for the user, but by **de
 Notebook 3’s core theorists—Winnicott, Bion, and Bollas—describe a **hierarchical prerequisite architecture** for psychological development. This is not a “production engine” in which each layer *creates* the next. Rather, it is an **obstacle-removal cascade** that enables latent potential to become articulated.   
 ### PRE-EXISTING POTENTIAL: The [Destiny Drive](destiny-drive.md) ([Bollas](christopher-bollas.md))   
 **What it is:**   
-The Destiny Drive is the innate, universal motive within each individual to articulate their unique idiom (True Self) through the use of objects and experiences.   
+The [Destiny Drive](destiny-drive.md) is the innate, universal urge within each individual to articulate their unique idiom (True Self) through the use of objects and experiences.   
 **Ontological status:**   
 - It is **always present** in latent form.   
 - It is **not produced** by the Holding Environment or the Alpha-Function.   
@@ -93,8 +95,8 @@ Psychic chaos and unthinkable experience (“nameless dread”).
 **What it enables:**   
 Internal coherence, thinkability, and the capacity to integrate experience meaningfully.   
 ### THE ARCHITECTURE AS A WHOLE   
-When both obstacles are removed—**sufficient safety** and **successful metabolic processing**—the latent Destiny Drive becomes **activated and phenomenologically available**.   
-This activation marks the shift:   
+When both obstacles are removed—sufficient safety and successful metabolic processing—the latent [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated and available as lived directionality.   
+This articulation marks the shift:   
 - from **fate** (reactive determination)   
 - to **destiny** (agentic self-authorship)   
    

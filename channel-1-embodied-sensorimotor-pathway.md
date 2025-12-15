@@ -17,7 +17,9 @@ Backlinks:
     - anterior-insular-cortex-aic.md
     - maurice-merleau-ponty.md
     - questions-your-synthesis-raises.md
+    - conflict-detection-model-repair.md
     - critical-connection-4-how-ai-dialogue-produces.md
+    - executive-summary.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - e.md
@@ -28,6 +30,8 @@ Backlinks:
     - recursive-metabolic-loop.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - pre-reflective-awareness.md
+    - section-6-the-complete-system-architecture.md
+    - section-8-the-recursive-loop-and-embodied-inte.md
     - is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - critical-connection-3-the-journal-as-embodied-.md
@@ -41,15 +45,19 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - integrated-synthesis-of-psychological-developm.md
+    - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
+    - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
+    - negative-capability.md
     - critical-connection-2-felt-sense-channel-1-ver.md
     - what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - synthesizing-notebook-1-and-notebook-2.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -58,10 +66,10 @@ Creation date: "2025-11-22T14:23:11Z"
 Created by:
     - Roi Ezra
 Links:
+    - felt-sense.md
     - channel-2-symbolic.md
     - alpha-function.md
     - eugene-gendlin.md
-    - felt-sense.md
     - e.md
     - antonio-damasio.md
     - somatic-marker-hypothesis.md
@@ -79,12 +87,12 @@ It provides **friction, pacing, and affective response** to symbolic material an
 - Supplies the **necessary friction** that prevents passive semantic consumption.   
 - Enables **metabolic digestion** of symbolic material through embodied response.   
 - Governs **ownership formation** (“does this integrate into my self-structure?”).   
-- Serves as the **verification layer** for transformation-related material (identity, meaning, coherence).   
+- Hosts the verification layer for transformation-related material via [Felt Sense](felt-sense.md) (identity, meaning, coherence).   
 - Works in **recursive oscillation** with [Channel 2](channel-2-symbolic.md) during [Alpha-Function](alpha-function.md) processing.   
    
 ### Wiring (Relations)   
 - **Theorists:** [Gendlin](eugene-gendlin.md) ([Felt Sense](felt-sense.md)); [Piaget](e.md) (Sensorimotor schema); [Damasio](antonio-damasio.md) ([Somatic Markers](somatic-marker-hypothesis.md) / [As-If Body Loop](as-if-body-loop.md)).   
-- **Biological Substrate:** [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md); Interoceptive network; Somatic Marker circuitry.   
+- Biological Correlates (hypothesized): [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md); interoceptive network; somatic marker circuitry.   
 - **Formula Link:**   
     - Supports **Sₑ** ([Emotional Scaffolding](emotional-scaffolding-s_e.md)) by enabling pacing and emotional containment.   
     - Influences [**C** (Capacity)](c-capacity.md) by determining when symbolic material becomes *owned meaning*.   

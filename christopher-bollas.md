@@ -30,10 +30,8 @@ Emoji: "\U0001F464"
 id: bafyreiclhptd42yxlcplpmfh3uojxkvfgvlayduiyvkyvenfsxgtdcoldy
 ---
 # Christopher Bollas   
-Provides the **Motive Force**.
-***[Destiny Drive](destiny-drive.md):** The innate urge of the [True Self](true-self.md) to articulate its potential.
-***Personal Effects:** The material output of the drive (e.g., the "43 notebooks").   
-   
+Provides the theoretical origin for the concept: [Destiny Drive](destiny-drive.md): The innate urge to articulate one’s unique idiom ([True Self](true-self.md)) through the active selection and use of objects.   
+Personal Effects: The material evidence of this articulation within the system (e.g., the "43 notebooks").   
 Christopher Bollas (born 1943) is a prominent American-born British psychoanalyst, writer, and cultural critic, known as a leading figure in contemporary psychoanalytic theory. He is particularly known for his innovative theoretical concepts that give language to subtle, non-verbal aspects of human experience and the unconscious mind.   
 Key Contributions   
 - ***The Unthought Known*:** His most famous theory, which suggests that people carry a vast amount of implicit knowledge and emotional truths derived from early life experiences that have been lived but not yet consciously processed or articulated.   

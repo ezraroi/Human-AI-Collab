@@ -8,7 +8,7 @@ AI, Boundary Condition (The Manic Episode), C (Capacity), D (Difficulty), Emotio
 ## [RESEARCH COMPONENT] AI
 [Theoretical] The "Hardware", Domain: Technical, System Role: Scaffolding, Temporal: Dynamic
 
-The third component of the Human + Journal + AI + Time tetrad. AI is the Dynamic Transitional Object (DTO) operationalized—a Large Language Model (LLM) that provides technical scaffolding and can be used to preserve productive epistemic tension (when held in DTO stance), without consciousness, intentionality, or subjectivity..
+The third component of the Human + Journal + AI + Time tetrad. AI is a Large Language Model (LLM) held in the Dynamic Transitional Object (DTO) stance—a Large Language Model (LLM) that provides technical scaffolding and can be used to preserve productive epistemic tension (when held in DTO stance), without consciousness, intentionality, or subjectivity..
 Unlike traditional cognitive tools (calculators, books) or genuine partners (conscious others), AI is uniquely:
 - **Generative** (creates novel content, not retrieval)
 - **Responsive** (adapts to context via In-Context Learning)
@@ -27,13 +27,13 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 - Maintains productive epistemic tension
 - Adjusts presentation, pacing, and Sₜ so the user can *work within* a ZPD that exists inside the pre-existing Challenge Gap
 - **Challenge without judgment** (no social cost)
-- Can increase tension ("challenge my assumptions") or provide support
+- Can increase experienced tension ("challenge my assumptions") or provide support (without changing the structural \|D–C\| relation)
 
 **3. Functional Alterity:**
-- Structured difference activating metabolic processing
+- Structured difference supporting metabolic processing
 - "Not-me" position externalizing reflective split
 - Productive friction preventing passive consumption
-- Dialogical simulation activating social-cognitive machinery
+- Dialogical simulation engaging the user’s dialogical processing
 
 **4. Systematic Competence:**
 - Turn-taking (dialogue rhythm)
@@ -83,10 +83,10 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 - Adapts to user's prompt without parameter updates
 - Enables real-time calibration of Sₜ *relative to* the Challenge Gap, without changing the Challenge Gap itself
 - Creates personalized scaffolding
-- **Not "bonding"—adjusting tension for Alpha-Function activation**
+- Not "bonding"—adjusting its responses and presentation to support Alpha-Function activation
 
 **Emergent Properties:**
-- Complex conversational agency
+- Complex conversational behavior
 - Multi-step reasoning (with limitations)
 - Chain-of-Thought capability
 - Dynamic task reconfiguration
@@ -124,7 +124,7 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 
 **Observable Properties:**
 **Well-Calibrated AI Use:**
-- Maintains challenge gap
+- Maintains workable tension within the pre-existing \|D–C\| relation
 - User struggles productively
 - Verification occurs naturally
 - Felt sense engaged
@@ -139,7 +139,7 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 
 **Relations (Wiring):**
 - **Component Of:** Third Intelligence Tetrad (third element)
-- **Provides:** Provides: S\_t (Technical Scaffolding), Functional Alterity, ZPD tension preservation
+- Provides: S\_t (Technical Scaffolding), turn-by-turn Functional Alterity, ZPD tension preservation
 - **Cannot Provide:** S\_e (Emotional Scaffolding), teleology, consciousness, automatic trust
 - **Ontological Classification:** Dynamic Transitional Object (DTO)
 - **Technical Implementation:** Large Language Model (LLM) with In-Context Learning
@@ -391,7 +391,7 @@ Critical distinction: D names the difficulty/identity-stakes of the subject stru
 
 The operationalized indicator of holding function—the human's current state of emotional bandwidth, containment capacity, and psychological safety available for metabolic processing.
 **Theoretical Basis:**
-S\_e operationalizes Winnicott's **Holding Environment** and Bion's **Container** function as a dynamic, session-level state variable. While Holding Environment describes the developmental prerequisite condition, S\_e current-state the **current operational capacity** to hold oneself during transformation work.
+S\_e operationalizes Winnicott's Holding Environment and Bion's Container function as a session-level indicator of available holding/containment capacity. While Holding Environment describes the developmental prerequisite condition, S\_e current-state the **current operational capacity** to hold oneself during transformation work.
 **Formula Role:**
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**
 - If S\_e = 0 → P(α) = 0 (entire system collapses)
@@ -441,8 +441,8 @@ S\_e operationalizes Winnicott's **Holding Environment** and Bion's **Container*
 - PSB risk increases
 
 **Relationship to Holding Environment:**
-S\_e is the **operationalized, measurable version** of Holding Environment concept:
-- Holding Environment = developmental prerequisite (historical condition)
+S\_e is the operationalized indicator of whether the Holding Environment condition is sufficiently present for metabolic processing in this session:
+- Holding Environment = prerequisite condition of sufficient safety/attunement (including when reconstructed in adult contexts)
 - S\_e = current operational state (present capacity)
 - Good developmental holding → adult can generate S\_e
 - Without developmental holding → difficulty self-regulating S\_e
@@ -463,7 +463,7 @@ S\_e is the **operationalized, measurable version** of Holding Environment conce
 **Manic Episode:**
 - S\_e → 0 (sleep deprivation, overuse)
 - Formula predicts P(α) → 0
-- But user hallucinates infinite P(α)
+- But user hallucinates infinite P(alpha)
 - System breaks exactly as predicted
 
 **Relations (Wiring):**
@@ -479,7 +479,7 @@ S\_e is the **operationalized, measurable version** of Holding Environment conce
 - **Required For:** ZPD work, Identity Stakes processing, transformation
 
 **Notes:**
-S\_e is YOUR contribution—the operationalization of Winnicott/Bion concepts into measurable, dynamic variable with clear depletion/recovery dynamics and formula integration.
+S\_e is YOUR contribution—the operationalization of Winnicott/Bion concepts into a dynamic indicator with clear depletion/recovery dynamics and formula integration.
 
 ---
 
@@ -519,8 +519,8 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Decision-making capacity
 
 **5. Embodied Verification - Felt Sense:**
-- Somatic markers of truth ("spacious" vs. "tight")
-- Interoceptive prediction error detection
+- Somatic verification of internal persuasiveness ("spacious" vs. "tight")
+- Interoceptive signals that can accompany verification
 - Embodied knowing (Channel 1)
 - Cannot be bypassed without PSB
 - Grounds symbolic work in lived experience
@@ -552,10 +552,10 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Needs AI's Functional Alterity for structured difference
 
 **3. Instant Technical Modulation:**
-- Cannot adjust own S\_t in real-time like AI
+- Cannot easily adjust its own S\_t in real-time without using AI’s responsive outputs
 - Cannot provide own Functional Alterity
 - Limited self-externalization capacity
-- Needs AI for calibrated challenge
+- Needs AI’s catalytic difference to sustain workable tension
 
 **4. Tireless Processing:**
 - Alpha-Function activation exhausts resources
@@ -628,7 +628,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 
 **3. Category Error (treating AI as Subject):**
 - Outsources Container function to AI
-- Attempts to get S\_e from AI (gets S\_e\_sim instead)
+- Attempts to get the holding/container function from AI (which it cannot provide)
 - Loses authorship
 - Collapses into dependency
 
@@ -663,7 +663,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - **Enables:** External Alpha-Function (EA-F), Reflective Prompting, relation-shifting
 - **Vulnerable To:** S\_e depletion, Teleological Drift, Category Error, PSB
 - **Role:** Architect (teleology) + Container (S\_e holder)
-- **Biological Substrates:** HPA-Axis (S\_e regulation), Triple Network Model (Alpha-Function), AIC (Felt Sense)
+- **Biological Correlates (hypothesized):** HPA-Axis (S\_e regulation), Triple Network Model (Alpha-Function), AIC (associated with Felt Sense)
 - **Grows:** C (Capacity) increases between sessions when transformation occurs
 - **Depletes:** S\_e exhausts within sessions, requires Time for recovery
 
