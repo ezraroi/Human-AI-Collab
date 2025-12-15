@@ -14,7 +14,6 @@ Backlinks:
     - what-this-means-for-your-paper.md
     - idiom-aligned-scaffolding.md
     - embodied-engagement-conditions.md
-    - 4ps-protocol.md
     - 1-the-core-hypothesis-practice-dependent-neuro.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - cognitive-debt-awareness.md
@@ -33,6 +32,7 @@ Backlinks:
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - rubber-duck-debugging.md
+    - technical-scaffolding-s_t.md
     - cognitive-debt.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
@@ -52,25 +52,24 @@ Created by:
 Links:
     - identity-stakes.md
     - alpha-function.md
-    - s_t-technical-scaffolding.md
-    - challenge-gap-d-c.md
+    - technical-scaffolding-s_t.md
+    - zpd.md
     - protein-shake-brain-psb.md
-    - bafyreia3wmi7tjo5amlc2zmf4fe4w7h25rvfeimsewovaevfppw5jy2lca
     - journal.md
     - productive-epistemic-tension.md
     - rrv-cycle-recursive-refine-validate.md
     - c-capacity.md
     - ai.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
     - metacognition.md
     - epistemological-humility.md
-    - d-difficulty.md
     - idiom-aligned-scaffolding.md
     - rubber-duck-debugging.md
     - external-alpha-function.md
     - beta-elements.md
     - functional-alterity.md
     - conflict-detection-model-repair.md
+    - self-explanation.md
     - judgment-expertise-boundary.md
     - iron-man-mentality.md
     - recursive-pattern-verification-loop.md
@@ -79,7 +78,7 @@ Emoji: "\U0001F6E0️"
 id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 ---
 # Reflective Prompting   
-A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](s_t-technical-scaffolding.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and preserves a productive **\|D–C\| [gap](challenge-gap-d-c.md)** by slowing work into recursive reflective loops. Its purpose is to prevent **[PSB](protein-shake-brain-psb.md)** and **[Cognitive Debt](bafyreia3wmi7tjo5amlc2zmf4fe4w7h25rvfeimsewova.md)** while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
+A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](technical-scaffolding-s_t.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the [ZPD](zpd.md)** by slowing work into recursive reflective loops (the structural Challenge Gap \|D–C\| remains pre-existing)..Its purpose is to prevent **[PSB](protein-shake-brain-psb.md) **while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
 ### System Role   
 - Converts AI interaction from **consumption** to **co-articulation**.   
 - Maintains the *conditions* for [Productive Epistemic Tension](productive-epistemic-tension.md)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
@@ -90,7 +89,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 **Use Reflective Prompting when:**   
 - The task has **identity or developmental stakes** (writing, life/role decisions, strategic thinking, deep self-understanding, complex design).   
 - The goal includes **growth of [Capacity (C)](c-capacity.md) over Time**, not just “get it done.”   
-- The [Journal](journal.md) and [AI](ai.md) are available and [Sₑ](s_e-emotional-scaffolding.md) is sufficiently stable to tolerate tension.   
+- The [Journal](journal.md) and [AI](ai.md) are available and [Sₑ](emotional-scaffolding-s_e.md) is sufficiently stable to tolerate tension.   
    
 **Transactional Mode (light or no RP) is acceptable when:**   
 - Tasks are **purely instrumental** (booking, quick queries, boilerplate).   
@@ -110,7 +109,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
    
 **Cognitive role:**   
 - Builds a **holding environment** before asking AI anything.   
-- Makes the initial **[D (Difficulty)](d-difficulty.md)** and current **C (Capacity)** explicit.   
+- Makes the initial D (Difficulty/Identity Stakes) and current C (Capacity) **explicit as a qualitative orientation**.   
    
 **Relations:**   
 - Supports → [Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md) (later in Phase 3).   
@@ -133,9 +132,9 @@ The RRV Cycle provides the dialogue structure; RPVL provides quality control thr
 Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation. When forced to teach/explain to the AI, users:   
 - Retrieve and organize knowledge   
 - Identify gaps in their own understanding   
-- Detect contradictions in their mental models   
+- Make tacit assumptions explicit (so contradictions in the mental model become visible)   
    
-This triggers [Conflict Detection (Model Repair).](conflict-detection-model-repair.md)   
+This triggers [Conflict Detection (Model Repair)](conflict-detection-model-repair.md) (Mode B of [Self-Explanation](self-explanation.md))   
 ### Phase 3 – Workflow Design & Delegation   
 **Function:** Turn clarified intention into an owned plan that respects the **[Judgment–Expertise Boundary](judgment-expertise-boundary.md)** and **[Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md)**.   
 **Operations:**   
@@ -156,7 +155,7 @@ This triggers [Conflict Detection (Model Repair).](conflict-detection-model-repa
 - Uses → [Iron Man Mentality](iron-man-mentality.md).   
    
 ### Phase 4 – Alignment Maintenance   
-**Function:** Maintain alignment between the work, the original D/C field, and embodied knowing as the task unfolds.   
+**Function:** Maintain alignment between the work and the **original challenge profile (D relative to C)**, and embodied knowing as the task unfolds.   
 **Operations:**   
 - **Periodic AI check-ins** – “Summarize where we are relative to the original goal / constraints / stakes.”   
 - **Checklist comparison** – Have AI compare the current direction against a short, explicit checklist you defined (goals, non-delegables, constraints).   

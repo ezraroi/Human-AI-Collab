@@ -8,12 +8,13 @@ Tag:
     - 'System Role: Output'
     - 'Temporal: Dynamic'
 Backlinks:
+    - dynamic-transitional-object-dto.md
     - 3-the-mechanism-catalytic-externalization.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Seed
+Research Status: Drafting
 Creation date: "2025-11-22T16:50:55Z"
 Created by:
     - Roi Ezra
@@ -33,3 +34,4 @@ id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 - Link to **[Catalytic Externalization](catalytic-externalization.md)** (Relation: `Outcome Of`).   
    
 **Notes:** Meaning-organizing insight precipitated by catalytic externalization.   
+   

@@ -18,7 +18,7 @@ Links:
     - felt-sense.md
     - hpa-axis.md
     - the-container.md
-    - s_e-emotional-scaffolding.md
+    - emotional-scaffolding-s_e.md
 id: bafyreibukkkkctkfeitzp3qurcabhku2ttxpjksv3fs3xwg6iptzcgtela
 ---
 # Executive Summary   
@@ -28,5 +28,5 @@ We hypothesize that the [Human](human.md) + [Journal](journal.md) + [AI](ai.md) 
 1. Leveraging practice-dependent neuroplasticity (the "flywheel") through specific, bundled techniques (metacognition, emotional processing).   
 2. Activating the [Triple Network Model](triple-network-model.md) (DMN, FPN, SN) as the neural basis for the [Alpha-Function](alpha-function.md).   
 3. Using the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md) as the biological hub for the [Felt Sense](felt-sense.md) (our feedback loop).   
-4. Engaging the full [HPA-Axis](hpa-axis.md) as the physiological basis for [the Container](the-container.md) ([S\_e](s_e-emotional-scaffolding.md)), explaining its depletion and your "mania" data.   
+4. Engaging the full [HPA-Axis](hpa-axis.md) as the physiological basis for [the Container](the-container.md) ([S\_e](emotional-scaffolding-s_e.md)), explaining its depletion and your "mania" data.   
 5. Driving Semantic and Procedural Consolidation (not just episodic) via sleep to create stable, long-term identity change.   

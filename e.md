@@ -13,6 +13,7 @@ Backlinks:
     - john-flavell.md
     - section-1-introduction-and-framework-positioning.md
     - conclusion-on-novelty-and-contribution.md
+    - the-core-parallel-two-descriptions-of-one-proc.md
     - recursive-metabolic-loop.md
     - critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
@@ -28,11 +29,10 @@ Created by:
     - Roi Ezra
 Links:
     - channel-1-embodied-sensorimotor-pathway.md
-    - protein-shake-brain-psb.md
 Emoji: "\U0001F464"
 id: bafyreic6d44k66yzsm2gaulge3x6xsmutwyxsx65nzopkqenlmo5os7tfu
 ---
-# Jean Piaget   
+# e   
 Provides the **"[Channel 1](channel-1-embodied-sensorimotor-pathway.md)" Distinction**.   
 - **Object vs. Subject:** Used to define the "Category Error." The AI is a Piagetian **Object** (tool) mistakenly treated as a Vygotskian **Subject**.   
    
@@ -47,6 +47,4 @@ Key Contributions
 - **Genetic Epistemology:** Piaget coined this term for the study of the origins of knowledge, bridging his interests in biology and philosophy to understand how knowledge develops across childhood.   
    
 His research and ideas continue to influence fields beyond psychology, including education, sociology, and philosophy, advocating for child-centered and discovery-based learning environments.   
-   
-[Protein Shake Brain (PSB)](protein-shake-brain-psb.md)    
    

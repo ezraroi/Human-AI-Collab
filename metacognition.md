@@ -10,6 +10,7 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - 5-the-embodied-connection.md
+    - 4ps-protocol.md
     - cognitive-debt-awareness.md
     - john-flavell.md
     - iron-man-mentality.md

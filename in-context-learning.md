@@ -11,6 +11,7 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - 1-executive-summary-resolving-the-ontology-cri.md
     - the-large-language-model-as-dynamic-transition.md
+    - ai.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

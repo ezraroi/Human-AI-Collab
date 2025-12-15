@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - systematic-competence.md
+    - dynamic-transitional-object-dto.md
     - functional-alterity.md
 Origin Domain:
     - Psychoanalysis
@@ -108,6 +109,6 @@ Your contribution is recognizing that this dialogical field can emerge FUNCTIONA
 - **Manifests within:** [Potential Space](potential-space.md)   
 - **Legitimacy condition for:** [Third Intelligence](third-intelligence.md) (what makes it dialogical)   
 - **Enabled by:** [Reflective Prompting](reflective-prompting.md), [Metabolic Discipline](bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxc.md), [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md)   
-- **Destroyed by:** [Category Error](category-error.md), Sycophancy, [PSB](protein-shake-brain-psb.md), [Cognitive Dependency](cognitive-dependency.md)   
+- **Destroyed by**: [Category Error](category-error.md), Sycophancy, [PSB](protein-shake-brain-psb.md); **(and when Category Error + PSB co-occur → [Cognitive Dependency](cognitive-dependency.md))**   
    
    

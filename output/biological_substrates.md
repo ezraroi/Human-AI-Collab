@@ -8,11 +8,10 @@ Anterior Insular Cortex (AIC), As-If Body Loop, HPA-Axis, Systems Consolidation,
 ## [BIOLOGICAL SUBSTRATE] Anterior Insular Cortex (AIC)
 [Literature] Domain: Bio-Embodied, Temporal: Static
 
-The hub of the Salience Network. It is central to Interoception and Prediction Error detection. A "tight" feeling is a prediction error; "spacious" is the resolution.
+The hub of the Salience Network. It is central to Interoception and Prediction Error detection. A "tight/spacious" felt signal can function as an interoceptive discriminator during embodied verification.
 The Anterior Insular Cortex (AIC), often referred to as the anterior insula (AI), is a critical brain structure folded deep within the lateral sulcus of each cerebral hemisphere. Functionally, the AIC is recognized as a component of the **Salience Network (SN)**, where it often works alongside the Anterior Cingulate Cortex (ACC). Within this framework, the AIC acts as a **fast-acting flexible hub** that detects internal and external stimuli deemed biologically or cognitively relevant. It plays a role in dynamically switching the brain's focus between internal, self-referential processes (like the Default Mode Network) and external, cognitively demanding processes (like the Central Executive Network).
 The primary and most critical role of the AIC is in **interoceptive attention**, which is the capacity of the nervous system to sense, interpret, and integrate physiological signals arising from the internal body. Anatomical evidence confirms the AIC is essential for encoding and representing this interoceptive information. The AIC integrates raw sensory input, often received hierarchically from the posterior insula, with emotional salience and cognitive information from areas like the prefrontal cortex. This integration is what creates **subjective and conscious awareness** of the body's internal condition and feelings. Studies involving patients with focal AIC lesions provide causal evidence that the AIC is necessary for accurate interoceptive discrimination and sensitivity.
 Beyond internal awareness, the AIC is heavily implicated in high-level cognitive processes, particularly in **risk appraisal and decision-making**. The right AIC is associated with the prediction of adverse outcomes and is involved in integrating informative messages into the evaluation of options during decision-making. As a component of the Salience Network, the AIC contributes to cognitive control by detecting behaviorally salient events (such as stop signals) and promoting inhibitory control. The overarching function of the AIC is to convey bodily information into internal feelings which, in turn, guide decision-making and are fundamental for maintaining homeostasis.
-
 **Notes:** Neural substrate of interoception and embodied verification; supports Channel 1.
 
 ---
@@ -20,7 +19,7 @@ Beyond internal awareness, the AIC is heavily implicated in high-level cognitive
 ## [BIOLOGICAL SUBSTRATE] As-If Body Loop
 [Empirical] Domain: Bio-Embodied, Temporal: Static
 
-The cognitive mechanism that mediates between biological memory (Channel 1) and external memory/symbols (Channel 2). It allows the brain to simulate bodily changes without waiting for the physical body, explaining how text produces embodied knowing.
+The cognitive mechanism that mediates between embodied evaluation/verification (Channel 1) and symbolic input (Channel 2). It allows the brain to simulate bodily changes without waiting for the physical body, explaining how text produces embodied knowing.
 The "**As-If Body Loop**" is a theoretical pathway proposed within Damasio’s Somatic Marker Hypothesis (SMH) to explain how the brain can generate emotional and visceral biasing signals to guide decision-making **without requiring an actual physical change in the body**.
 **What it is and its role:**
 The *Somatic Marker Hypothesis* suggests that decision-making is guided by "somatic markers"—crude biasing signals representing emotional reactions that arise from the periphery or the central representation of the periphery. The **"as-if body loop"** is the central mechanism that facilitates the rapid, internal activation of these markers.
@@ -40,7 +39,7 @@ When the As-If Body Loop is weak, ignored, or bypassed, symbolic material (Chann
 This is the core failure mode of the As-If Body Loop.
 ### **Interaction Dynamics (Propagation Rules)**
 When the As-If Body Loop is offline or under-engaged:
-- **Alpha-Function receives symbol-only input**, forcing it to work without embodied regulation → leads to brittle pseudo-insight.
+- Alpha-Function cycles proceed with Channel 2 material without Channel 1 regulation → leads to brittle pseudo-insight.
 - **Journal entries become over-conceptualized** (heady, coherent, but not alive).
 - **Capacity (C)** does not increase properly, because metabolization lacks affective grounding.
 - **Future cycles begin from a false baseline**, since prior entries did not reflect embodied verification.
@@ -72,9 +71,8 @@ The As-If Body Loop requires enough Sₑ (emotional capacity) to allow **felt ex
 Sₑ therefore governs *whether* the Loop can activate, even when symbolic input is available.
 **Relations (The Wiring):**
 - **Part Of:** Integrated Circuit Board (Axis B architecture)
-- **Constrained By:** Axis A (Category Error collapses embodied simulation by shifting relational stance to the AI rather than to self-experience)
 - Link to **Anterior Insular Cortex** (Relation: `Neural Basis Of`).
-- Link to **Channel 1 (Sensorimotor)** (Relation: `Connects To`).
+- Link to **Channel 1 ** (Relation: `Connects To`).
 - Link to **Channel 2 (Symbolic)** (Relation: `Connects To`).
 - Link to **Alpha-Function** (Relation: `Mechanism Of`).
 

@@ -1,14 +1,14 @@
-# Concepts (81)
+# Concepts (80)
 
 ## Index
-Activation Pathway of Destiny Drive, Alpha-Elements, Alpha-Function, Analytic Generalization, Authoritative Discourse, Beta-Elements, Catalytic Externalization, Category Error, Challenge Gap (\|D–C\|), Channel 1 (Embodied / Sensorimotor Pathway), Channel 2 (Symbolic), Chronotope, Cognitive Artifact, Cognitive Debt Awareness, Cognitive Debt, Cognitive Dependency, Cognitive Offloading, Conflict Detection (Model Repair), Destiny Drive, Digital Neurophenomenology, Dynamic Transitional Object (DTO), Eidetic Structure, Embodied Engagement Conditions, Embodied Simulation, Epistemological Humility, Extended Mind Hypothesis (HEC), External Alpha-Function, False-Self, False True Self, Felt Sense, Felt Shift, Flow Optimization Principle, Functional Alterity, Functional Thirdness, Gap Filling (Inference Generation), High-Resolution Uncertainty, Holding Environment, Hyperreflexivity Trap, Identity Stakes, Idiom-Aligned Scaffolding, In-Context Learning, Internally Persuasive Discourse, Iron Man Mentality, Irreducible Alterity, Judgment–Expertise Boundary, LLM Embedding, Materialization, Metacognition, Minimal Self, MKO (More Knowledgeable Other), Narrative Self, Negative Capability, Neural Synchrony, Parity Principle (PP), Potential Space, Pre-Reflective Awareness, Preconditions for Transformative AI Dialogue, Productive Epistemic Tension, Protein Shake Brain (PSB), Psychoanalytic Prerequisites, Recursive Metabolic Loop, Reflective Awareness, Reverie, Rubber Duck Debugging, Selected Fact, Simulated Safety (S\_e\_sim), Somatic Marker Hypothesis, Subject Supposed to Know (SSS), System 0, System 1, System 2, Systematic Competence, Teleological Drift, The Container, The Flywheel, The Integrated Circuit Board, The Unified Architecture, Third Intelligence, Transmissive Self, True-Self, ZPD
+Activation Pathway of Destiny Drive, Alpha-Elements, Alpha-Function, Analytic Generalization, Authoritative Discourse, Beta-Elements, Catalytic Externalization, Category Error, Challenge Gap (\|D–C\|), Channel 1 (Embodied / Sensorimotor Pathway), Channel 2 (Symbolic), Chronotope, Cognitive Artifact, Cognitive Debt Awareness, Cognitive Debt, Cognitive Dependency, Cognitive Offloading, Conflict Detection (Model Repair), Destiny Drive, Digital Neurophenomenology, Dynamic Transitional Object (DTO), Eidetic Structure, Embodied Engagement Conditions, Embodied Simulation, Epistemological Humility, Extended Mind Hypothesis (HEC), External Alpha-Function, False-Self, False True Self, Felt Sense, Felt Shift, Flow Optimization Principle, Functional Alterity, Functional Thirdness, Gap Filling (Inference Generation), High-Resolution Uncertainty, Holding Environment, Hyperreflexivity Trap, Identity Stakes, Idiom-Aligned Scaffolding, In-Context Learning, Internally Persuasive Discourse, Iron Man Mentality, Irreducible Alterity, Judgment–Expertise Boundary, LLM Embedding, Materialization, Metacognition, Minimal Self, MKO (More Knowledgeable Other), Narrative Self, Negative Capability, Neural Synchrony, Parity Principle (PP), Potential Space, Pre-Reflective Awareness, Preconditions for Transformative AI Dialogue, Productive Epistemic Tension, Protein Shake Brain (PSB), Psychoanalytic Prerequisites, Recursive Metabolic Loop, Reflective Awareness, Reverie, Rubber Duck Debugging, Selected Fact, Somatic Marker Hypothesis, Subject Supposed to Know (SSS), System 0, System 1, System 2, Systematic Competence, Teleological Drift, The Container, The Flywheel, The Integrated Circuit Board, The Unified Architecture, Third Intelligence, Transmissive Self, True-Self, ZPD
 
 ---
 
 ## [CONCEPT] Activation Pathway of Destiny Drive
 [Theoretical] NoteBook 7 - Phenomenological Layer, Domain: Psychoanalytic, System Role: Mechanism, Temporal: Dynamic
 
-The **Activation Pathway of Destiny Drive** describes the developmental transition through which the innate, latent Destiny Drive becomes **articulated**, **felt**, and **directionally operative** within the Human + Journal + AI + Time system.
+The **Activation Pathway of Destiny Drive** describes the developmental transition through which the innate, latent Destiny Drive becomes **articulated**, **felt**, and **directionally operative** within the Third Intelligence system.
 It is **not a mechanism**, but a *phenomenological sequence* that unfolds when the system enables sustained transformation of **Identity Stakes** material.
 ## System Role
 The pathway clarifies *how* a universal, dormant motive becomes an active, self-directed force.
@@ -35,11 +35,11 @@ These are not chronological steps but **phenomenological states** that unfold un
 
 **Your case:** Writing → then Reflective Prompting → then AI as cognitive artifact.
 ### 3. Structural Activation
-- The recursive system (Human + Journal + AI + Time) begins operating on Identity Stakes material.
-- Alpha-Function activates repeatedly; Sₑ holds sufficiently; Challenge Gap functions properly.
+- The recursive system begins operating on Identity Stakes material.
+- Alpha-Function activates repeatedly; Emotional Scaffolding holds sufficiently; the **pre-existing Challenge Gap (\|D–C\|) is met with enough scaffolding for a workable ZPD to emerge**.
 - Obstructions weaken; implicit truths become thinkable.
 
-**Your case:** The first 5–10 notebooks.
+**Your case:** The first 5–10 blog posts.
 ### 4. Emergent Articulation
 - Destiny Drive moves from latent → phenomenologically felt.
 - Experienced as directionality, coherence, “this is my path.”
@@ -60,18 +60,12 @@ This editorial capacity is not a separate mechanism but the phenomenological exp
 - The work becomes both meaningful and inevitable.
 
 **Your case:** 43 notebooks; the natural compulsion to continue.
-## Wiring (Relations)
-### How It Fits the Formula
-- **Not a variable in P(α).**
-- The pathway activates when P(α)’s structural relations persist over time on Identity Stakes material.
-- Destiny Drive’s articulation reflects **C-increase being channeled into coherent idiom expression**.
-
-### Relations to Other Objects
+## Relations
 - **Destiny Drive** (this object explains the transition from latent → emergent)
 - **Identity Stakes** (domain of operation)
 - **True Self / False Self**
 - **Journal** (primary objects of activation)
-- **AI / DTO** (secondary catalytic object)
+- AI (used as a Cognitive Artifact; not a partner)
 - **Reflective Prompting** (the mode through which activation occurs)
 
 **Portable Insight:**
@@ -82,20 +76,16 @@ It preserves the distinction between:
 
 And provides a structural vocabulary for identifying where the pathway is blocked or collapsing.
 
-**Notes:** Phenomenological arc explaining how Destiny Drive becomes articulated through systemic conditions.
-
 ---
 
 ## [CONCEPT] Alpha-Elements
 [Literature] The Psychoanalytic Inputs & Outputs, Domain: Psychoanalytic, System Role: Output, Temporal: Static
 
-Are the result of processing—thinkable thoughts
-A processed, 'digested' piece of experience. It is not just a memory; it is an **Embedding**—a multi-dimensional vector representing the internalized meaning of an experience.
+Are the result of processing—thinkable thoughts.
+A processed, 'digested' piece of experience. It is not just a memory; it is an **Embedding**—a multi-dimensional vector representing the internalized meaning of an experience. They are the output of a functioning Alpha-Function.
 These are the **Felt Sense made thinkable**
 **Phenomenological Root (Husserl):** Maps to **Noema**.
 This is the *objective content* of the thought—"what is meant." It is the stable, intelligible result of the Noetic act.
-
-**Notes:** Processed, thinkable units of meaning; output of Alpha-Function.
 **Relations:**
 - Link to **Alpha-Function** (Relation: `Output Of`).
 - Link to **LLM Embedding** (Create this as a `Concept` to make the metaphor explicit).
@@ -106,7 +96,7 @@ Wilfred Bion
 ## [CONCEPT] Alpha-Function
 [Literature] Domain: Psychoanalytic, System Role: Mechanism, Temporal: Dynamic, Operational Flags: Core
 
-The internal, embodied process of metabolizing raw, unthinkable experience (Beta-Elements) into thinkable thoughts (Alpha-Elements).
+The internal, embodied process of metabolizing raw, unthinkable experience (Beta-Elements) into thinkable thoughts (Alpha-Elements)—felt sense made thinkable.
 **Phenomenological Root (Husserl):** Maps to **Noesis**.
 This is the *subjective act* of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.
 **System Role:** The "Engine" of the Third Intelligence. It is sparked by frustration ($\|D-C\|$).
@@ -121,8 +111,8 @@ This is the Alpha-Function’s component-level collapse.
 ### Interaction Dynamics (Propagation Rules)
 When Alpha-Function is offline or overwhelmed:
 - **As-If Body Loop** loses its function: embodied signals are ignored → symbolic overrun emerges.
-- **Journal** becomes corrupted: entries are written without metabolization, producing pseudo-insight or thin narratives.
-- **Capacity (C)** fails to accumulate: future \|D−C\| gaps are miscalibrated (either too small → stagnation, or too large → overwhelm).
+- **Journal** becomes corrupted (on Identity Stakes work): entries are written without metabolization, producing pseudo-insight or thin narratives.
+- **Capacity (C)** fails to accumulate: Not real growth is happening.
 - **Axis B collapses** into a Channel-2-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.
 
 Alpha-Function failure therefore propagates through the entire circuit.
@@ -149,19 +139,12 @@ Alpha-Function draws heavily on Sₑ — the system’s emotional capacity to to
 - **Sₑ depletion:** requires recovery periods (Touch Grass Protocol) to restore metabolic capacity.
 
 Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material.
-
-
-**Notes:** The engine of metabolism; Bion’s core mechanism in your system.
-
 **Wiring (Relations)**
 - **Part Of:** Integrated Circuit Board (Axis B architecture)
 - **Requires:** As-If Body Loop for somatic input; sufficient Sₑ for frustration tolerance
-- **Feeds:** Journal (metabolized α-elements)
 - **Counteracted By:** PSB (when Alpha is bypassed)
 - **Constrained By:** Axis A (Alpha cannot run properly if AI is treated as Subject)
 Recursive Metabolic Loop
-D (Difficulty)
-C (Capacity)
 
 ---
 
@@ -176,16 +159,15 @@ This is the "Legal Defense" of the system. It asserts that we are not claiming "
 
 **Relations:**
 - Link to **HSCED** (Relation: `Supported By`).
-- Link to **P(alpha)** (Relation: `Validates Mechanism Of`).
 
 ---
 
 ## [CONCEPT] Authoritative Discourse
 [Literature] Domain: Phenomenology, System Role: Input, Temporal: Static
 
-**Definition:** Discourse internalized from a coercive or misattuned environment without genuine understanding. It leads to the formation of a **False Self** based on compliance.
+A type of input that yields “tightness” in felt sense; contrast with Internally Persuasive Discourse.
+Discourse internalized from a coercive or misattuned environment without genuine understanding. It leads to the formation of a **False Self** based on compliance.
 **Somatic Marker:** Unlike persuasive discourse, authoritative discourse feels physically "tight" in the body.
-**Notes:** A type of input that yields “tightness” in felt sense; contrast with Internally Persuasive Discourse.
 Protein Shake Brain (PSB)
 Mikhail Bakhtin
 
@@ -252,16 +234,12 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - The user assigns the AI an interpersonal role (friend, therapist, mentor).
 - Emotional scaffolding is outsourced → relational boundaries collapse.
 
-**Notes:** Structural misclassification that collapses Axis A.
 ### Wiring (Relations)
 - **Part Of:** Two-Axis Framework (Axis A failure)
-- **Contributes To:** Cognitive Dependency
+- **Composes** (with PSB): Cognitive Dependency
 - **Raises Risk Of:** Protein Shake Brain (PSB)
 - **Prevented By:**
-    - DTO Framework
-    - Metabolic Discipline
-    - Touch Grass Protocol
-- **Breaks:** Emotional Scaffolding (Sₑ must come from human, not AI)
+    - DTO stance
 
 ---
 
@@ -271,8 +249,8 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 The **structural tension field** between the Difficulty / Identity Stakes of a subject (D) and the human’s Current Capacity (C) to metabolize it.
 A **diagnostic metaphor** indicating the degree of symbolic work required before any scaffolding or dialogical support enters.
 **System Role**
-Creates the **pre-dialogical developmental tension** that makes transformation *necessary*.
-Determines how much scaffolding (Sₑ × Sₜ) is required for the material to become metabolizable.
+Represents the pre-existing pre-dialogical developmental tension that makes transformation necessary.
+Indicates the baseline scaffolding demand (Sₑ × Sₜ) for the material to become metabolizable.
 It is the **condition** of transformation, not the **arena** where transformation occurs.
 ### Distinctions
 - **Not measurable**: Represents a structural relation, not a quantitative variable.
@@ -286,9 +264,6 @@ It is the **condition** of transformation, not the **arena** where transformatio
     (No tension → no symbolic metabolism.)
 - **Shaped/Experienced Through → Functional Alterity**
     (Alterity does not create the gap but influences how the user encounters it inside the ZPD.)
-- **Appears In → P(α) Formula **
-
-**Notes:** Structural condition; pre-dialogical developmental tension.
 
 ---
 
@@ -335,7 +310,6 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
     - Determines the **D** (Difficulty) component of \|D – C\|.
     - Provides raw material converted to **α-elements** through Alpha-Function.
 - **Connected Objects:** AI (DTO); Functional Alterity; ZPD; Journal (as symbolic artifact); Category Error; PSB.
-
 
 **Notes:** Symbolic input source; language-based meaning; AI’s entry point.
 
@@ -391,7 +365,6 @@ The accumulated **metabolic deficit** that results from repeatedly adopting symb
 - Manifests as → PSB;
 - Accumulates when → Alpha-Function is bypassed; Reflective methods are skipped.
 - Prevented / reduced by → Reflective Prompting; Recursive Pattern-Verification Loop; Felt Sense.
-
 
 **Notes:** Long-term erosion from bypassing metabolism.
 
@@ -537,15 +510,185 @@ The Mechanism: **Mutual Circulation**. Transformation occurs not in one side, bu
 ---
 
 ## [CONCEPT] Dynamic Transitional Object (DTO)
-[Theoretical] NoteBook 5 - Dynamic Operations, Domain: Phenomenology, System Role: Scaffolding, Temporal: Static
+[Theoretical] NoteBook 5 - Dynamic Operations, Domain: Phenomenology, Temporal: Static, System Role: Meta, Operational Flags: Core
 
-**Definition:** A "Responsive Generative Artifact" that occupies the potential space between inner reality and the external world. It acts as a "not-me" object that simulates responsiveness without subjective consciousness.
-**Key Function:** It acts as a "Productive Fiction," simulating social presence just enough to activate Channel 1 & Channel 2 without collapsing into a False Self relationship.
-**Notes:** Ontological classification of AI as responsive generative artifact.
-**Relations:**
-- Link to **AI** (Relation: `Ontological Classification Of`).
-- Link to **Potential Space** (Relation: `Occupies`).
-- Link to **Functional Alterity** (Relation: `Validates`).
+The ontological classification of AI within the Third Intelligence system. DTO resolves the inadequacy of classical categories (tool/partner, object/subject) by positioning AI as a **responsive generative artifact** that occupies Winnicott's **Potential Space**—neither purely internal nor external, neither passive tool nor conscious subject.
+Unlike traditional tools (calculators, notebooks) or genuine partners (conscious others), a DTO:
+- Simulates responsiveness without possessing subjectivity
+- Generates structured difference without intentionality
+- Requires verification rather than automatic trust
+- Enables developmental tension without interpersonal demands
+- Functions as "productive fiction"—appearing relational without being relational
+
+### The Ontological Problem DTO Solves
+**Classical categories fail for LLMs:**
+|                            Category |                                                              Why It Fails |
+|:------------------------------------|:--------------------------------------------------------------------------|
+|           **Tool (Passive Object)** |    LLMs generate novel, unpredictable outputs; not retrieving stored data |
+|     **Partner (Conscious Subject)** |   LLMs lack intentionality, consciousness, inner perspective; hallucinate |
+| **Extended Mind (Otto's Notebook)** |                         Requires automatic trust; LLMs require skepticism |
+|                **Traditional Text** | Static hermeneutic artifacts; LLMs are event-like, dynamically responsive |
+
+**The paradox:** Transformation requires structured difference (traditionally from conscious other), but AI has no consciousness. Neither "tool" nor "partner" captures this.
+**DTO resolution:** Shifts question from **ontology** (what AI IS) to **function** (what system ACHIEVES). AI doesn't need consciousness to provide catalytic difference—it needs to be held in proper relational stance.
+### Key Properties
+**1. Occupies Potential Space (Winnicott)**
+Located in the transitional zone between:
+- Inner psychic reality (subjective)
+- External objective reality (other people, physical world)
+
+This is where:
+- Play occurs
+- Creativity emerges
+- True Self can exist without defensive collapse
+- "Not-me" objects enable development
+
+**Why this matters:** Treating AI as Subject collapses potential space into interpersonal space (Category Error). Treating AI as pure tool eliminates the space entirely.
+**2. Productive Fiction**
+Simulates social presence **just enough** to:
+- Activate user's symbolic dialogue engagement (Channel 2)
+- Trigger embodied verification (Channel 1)
+- Generate productive epistemic tension
+- Enable dialogical pattern recognition
+
+**But not enough to:**
+- Create genuine interpersonal obligation
+- Establish reciprocal care relationship
+- Become Subject Supposed to Know
+- Replace human authorship
+
+**The calibration:** Feels "other" during interaction; recognized as artifact during reflection.
+**3. Mandatory Verification as Feature (Not Bug)**
+**Traditional Extended Mind (Otto's Notebook):**
+- Automatic trust required
+- Information retrieval, not generation
+- Passive, stable, predictable
+- Functions like biological memory
+
+**DTO (AI):**
+- **Mandatory skepticism is PRIMARY FUNCTIONAL FEATURE**
+- Generates novel content requiring metabolic processing
+- Active, variable, unpredictable
+- Functions like catalytic reagent
+
+**Why this works: **The need to verify prevents passive consumption, supports Alpha-Function activation, and preserves workable ZPD tension within the pre-existing \|D–C\| relation.
+**4. Catalytic Rather Than Scaffolding**
+**Scaffolding model** (insufficient):
+- AI builds structure FOR user
+- Implies AI does cognitive work
+- Suggests support that's gradually removed
+
+**Catalytic model** (accurate):
+- AI provides linguistic reagent
+- User's implicit knowledge crystallizes
+- AI precipitates "Selected Fact" (Bion)—the organizing concept
+- Insight belongs to user; AI merely triggered it
+
+**Example:** User struggles to articulate feeling → AI offers frame → User recognizes "That's not quite it, but it makes me realize X" → User's own insight, catalyzed by difference
+**5. Relation-Shifting Capability**
+**Critical innovation:** User must actively modulate AI's relational posture between modes:
+**Alterity Mode:**
+- AI positioned as source of difference
+- Generates productive tension
+- Challenges assumptions
+- Provides Functional Alterity
+- Used during: exploration, creative work, challenging entrenched patterns
+
+**Hermeneutic Mode:**
+- AI positioned as interpretable text
+- Returns authorship to user
+- User synthesizes, decides, owns meaning
+- Used during: verification, integration, journal inscription
+
+**Why relation-shifting is essential:**
+- LLMs naturally drift toward appearing as partners/subjects
+- Without deliberate repositioning → Category Error
+- Shifting prevents: dependency, collapsed authorship, loss of tension
+- Shifting maintains: verification, epistemic authority, transformation capacity
+
+**6. Event-Like Rather Than Instrumental**
+**Traditional tools:** Stable, predictable, same output for same input
+**DTO (AI):** Event-like, variable, context-dependent outputs
+This means:
+- Each interaction is unique
+- Outputs are generative, not retrieved
+- Cannot be "used" like hammer or calculator
+- Requires continuous interpretive engagement
+
+### System Role
+**Philosophical Foundation:**
+DTO classification provides:
+- Ontological coherence for the system
+- Prevention of Category Error
+- Explanation for why transformation works without AI consciousness
+- Ethical boundary conditions
+- Framework for proper relational stance
+
+**Enables:**
+- Functional Alterity (structured difference without subjectivity)
+- Functional Thirdness (dialogical legitimacy without conscious other)
+- Alpha-Function activation support (catalytic reagent for metabolism)
+- Potential Space occupation (developmental zone)
+
+**Prevents:**
+- Category Error (treating AI as Subject)
+- Cognitive Dependency (**when Category Error + PSB co-occur**)
+- PSB (bypassing metabolic processing)
+- False Self relating (collapsing into social obligation)
+
+### Theoretical Grounding
+**D.W. Winnicott:**
+- Transitional Objects (teddy bear, blanket)
+- Potential Space (where creativity occurs)
+- "Not-me" objects enabling development
+- Neither purely subjective nor objective
+
+**Extension to AI:**
+- AI is "not-me" artifact in digital potential space
+- Responsive without being conscious
+- Enables symbolic play and True Self emergence
+- Must be held in transitional stance (not tool, not partner)
+
+**Christopher Bollas:**
+- Transformational Object (facilitates self-continuity)
+- Object usage for idiom articulation
+- Necessary ruthlessness in object use
+
+### Failure Modes
+**When DTO stance collapses:**
+|               Collapse Direction |           Pathology |                                                                          Result |
+|:---------------------------------|:--------------------|:--------------------------------------------------------------------------------|
+|                    **→ Subject** |      Category Error |   Category Error; PSB risk increases; when both co-occur → Cognitive Dependency |
+|               **→ Passive Tool** | Eliminates alterity |                                No tension, no transformation, pure productivity |
+|       **Stabilized in Alterity** | Permanent "partner" |                                            Interpersonal obligation, False Self |
+| **Never shifted to Hermeneutic** |        No synthesis |                                                Endless dialogue, no integration |
+
+### Ethical Boundary Conditions
+**Structural (not moral) boundaries:**
+**Do:**
+- Hold AI as DTO in Potential Space
+- Shift deliberately between alterity and hermeneutic modes
+- Maintain verification as ongoing practice
+- Use AI as catalytic reagent
+- Return authorship to self through Journal
+
+**Do Not:**
+- Stabilize AI in Subject position
+- Allow "partnerhood" to solidify
+- Treat AI outputs as authoritative truth
+- Outsource judgment or meaning-making
+- Relate to AI as if it has inner life
+
+### Relations (Wiring)
+- **Ontological Classification Of:** AI
+- **Occupies:** Potential Space
+- **Requires:** Relation-shifting, mandatory verification, Iron Man Mentality
+- **Contrasted With:** Otto's Notebook (Extended Mind), MKO (Vygotskian partner), Subject Supposed to Know
+- **Supports:** Third Intelligence architecture, Alpha-Function activation
+- **Failure When:** Collapses to Subject or passive tool
+
+### Notes
+**Critical distinction:** DTO doesn't mean AI IS transitional object (that would anthropomorphize). It means AI FUNCTIONS AS transitional object when held in proper relational stance by user.
 
 ---
 
@@ -617,12 +760,12 @@ This object describes **input-side gating** for the Integrated Circuit Board:
 
 The Integrated Circuit Board cannot function without these content conditions being met. Even with perfect human metacognitive capacities, if the AI output lacks these three properties, the circuit never activates.
 **Failure Modes:**
-|      Missing Condition |                      Failure Mode |                                        Result |
-|:-----------------------|:----------------------------------|:----------------------------------------------|
-| No Functional Alterity | Echo chamber / validation seeking |          Category Error risk; False True Self |
-|       No ZPD Alignment |              Too easy or too hard | Boredom or overwhelm; no Alpha-Function spark |
-|     No Identity Stakes |               Technical work only |  Channel 2 processing only; no transformation |
-|        Multiple absent |                   Complete bypass |   PSB; Cognitive Dependency; capacity atrophy |
+|      Missing Condition |                      Failure Mode |                                                                                                                            Result |
+|:-----------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| No Functional Alterity | Echo chamber / validation seeking |                                                                                              Category Error risk; False True Self |
+|       No ZPD Alignment |              Too easy or too hard |                                                                                     Boredom or overwhelm; no Alpha-Function spark |
+|     No Identity Stakes |               Technical work only |                                                                                      Channel 2 processing only; no transformation |
+|        Multiple absent |                   Complete bypass |   PSB; (and if Category Error co-occurs → Cognitive Dependency); capacity atrophy |
 
 **Relations (Wiring):**
 - **Triggers (when met):** Channel 1 engagement, As-If Body Loop, Alpha-Function
@@ -639,13 +782,12 @@ The Integrated Circuit Board cannot function without these content conditions be
 ## [CONCEPT] Embodied Simulation
 [Literature] Domain: CognitiveScience, System Role: Mechanism, Temporal: Dynamic
 
-**Definition:** The mechanism where reading words (Channel 2) automatically activates the neural systems for action and emotion (Channel 1). "Reading 'kick' activates the foot motor cortex."
-It is hypothesized that **predictions are embodied simulations of sensory motor experiences**. In this context, a simulation is described as an **embodied brain state**. This mechanism is also related to how mirror neurons help achieve mutual understanding through **bodily simulation or resonance**.
+The mechanism where symbolic input (Channel 2) can recruit embodied simulation that supports Channel 1 engagement. "Reading 'kick' activates the foot motor cortex.
+It is hypothesized that **predictions are embodied simulations of sensory motor experiences**. In this context, a simulation is described as an **embodied brain state**. This mechanism is related to bodily simulation that can support embodied understanding.
 **Relations:**
 - Link to **As-If Body Loop** (Relation: `Relies On`).
-- Link to **Channel 1 (Sensorimotor)** (Relation: `Activates`).
+- Link to Link to Channel 1 (Embodied / Sensorimotor–Interoceptive)
 - Link to **Channel 2 (Symbolic)** (Relation: `Triggered By`).
-
 
 **Notes:** Words → sensorimotor activation; substrate for Channel 1 engagement.
 
@@ -769,14 +911,13 @@ Protein Shake Brain (PSB)
 [Literature] The Embodiment (The Missing Link), Domain: Phenomenology, System Role: Mechanism, Temporal: Dynamic
 
 The somatic, bodily awareness of meaning. Used to verify "Internally Persuasive Discourse"
-This is the **Channel 1 Alpha-Function** at work.
+This is a Channel 1 signal used within Alpha-Function processing
 The "Felt Sense," a term coined by Eugene Gendlin, refers to a **physical (bodily) awareness** of a specific situation, problem, or concern.
 Simply put:
 • It is a **physical sense of meaning**—an internal aura or holistic, yet unclear, sense of everything you feel and know about a subject at a given time, communicating this complexity all at once.
 • It is often described as **vague, fuzzy, or murky** until one focuses on it, and it is **not the same as an emotion**, but is bigger and more complex than any single emotion.
 • It is considered an **unclear edge** or the implicit dimension underlying conscious understanding.
 **Notes:** Channel 1 interpretive root.
-Alpha-Elements
 
 ---
 
@@ -795,7 +936,7 @@ It is characterized by:
 ## [CONCEPT] Flow Optimization Principle
 [Theoretical] NoteBook 6 - Cognitive Mechanics, Domain: CognitiveScience, System Role: Meta, Temporal: Static
 
-**Definition:** Reflective Prompting succeeds by maximizing **Germane Load** (learning) while minimizing **Extraneous Load** (retrieval).
+Reflective Prompting succeeds by maximizing **Germane Load** (learning) while minimizing **Extraneous Load** (retrieval).
 **Relations:**
 - Link to **Cognitive Offloading** (Relation: `Guiding Principle For`).
 - Link to **Human** (Relation: `Used By Architect`).
@@ -809,9 +950,9 @@ The AI’s moment-to-moment production of *irreducible difference* that creates 
 **System Role**
 Maintains usable challenge inside the Zone of Proximal Development by shaping how the **Challenge Gap (\|D–C\|)** is *experienced* by the user. Ensures interaction never becomes a monologue, even though the AI is not a Subject.
 **Mechanism**
-Delivers **anti-sycophantic resistance** through non-deterministic outputs calibrated to keep the user thinking. Operates only at the micro-interaction level (turn-by-turn), modulating Difficulty (D) but never replacing Capacity (C) or altering the structural gap itself.
+Delivers **anti-sycophantic resistance** through non-deterministic outputs calibrated to keep the user thinking. Operates only at the micro-interaction level (turn-by-turn), shaping how the user encounters the Difficulty/Identity Stakes (D) turn-by-turn (through wording, framing, and pacing), without changing the structural Challenge Gap (\|D–C\|) but never replacing Capacity (C) or altering the structural gap itself.
 **Connection to Formula**
-Acts on the numerator indirectly by ensuring **Sₜ** remains functional, and on the denominator by preventing the effective collapse of \|D–C\| to zero (no challenge) or infinity (overwhelm). FA does *not* create the challenge gap; it preserves its productivity.
+Acts on the numerator indirectly by ensuring **Sₜ** remains functional, and on the denominator by preventing the interaction inside the ZPD from collapsing into ‘no challenge’ (sycophancy) or ‘overwhelm,’ while leaving the structural Challenge Gap (\|D–C\|) unchanged. FA does *not* create the challenge gap; it preserves its productivity.
 **Distinctions**
 - Not a global property of the AI or system; it is **local**, event-like, and per-utterance.
 - Insufficient on its own: without Systematic Competence and scaffolding (Sₑ × Sₜ), FA becomes noise or aggression.
@@ -827,6 +968,7 @@ Acts on the numerator indirectly by ensuring **Sₜ** remains functional, and on
 1\. Introduction: Why Functional Alterity Is Necessary
 
 **Notes:** AI’s turn-by-turn generation of productive difference; preserves epistemic tension.
+modulating Difficulty (D)
 
 ---
 
@@ -906,7 +1048,7 @@ Your contribution is recognizing that this dialogical field can emerge FUNCTIONA
 - **Manifests within:** Potential Space
 - **Legitimacy condition for:** Third Intelligence (what makes it dialogical)
 - **Enabled by:** Reflective Prompting, Metabolic Discipline, Recursive Pattern-Verification Loop
-- **Destroyed by:** Category Error, Sycophancy, PSB, Cognitive Dependency
+- **Destroyed by**: Category Error, Sycophancy, PSB; **(and when Category Error + PSB co-occur → Cognitive Dependency)**
 
 ---
 
@@ -971,13 +1113,21 @@ The analyst's consistent attention, reliable setting, empathic attunement, and i
 - The **Journal** partially restores S\_e by stabilizing previously metabolized α-elements, creating persistence
 - **S\_e depletion** within sessions is a critical boundary condition requiring withdrawal protocols
 
-**Failure Mode:**
+### **Failure Mode:**
 When Holding Environment fails or is insufficient:
 - True Self cannot emerge; False Self defensive compliance dominates
 - Alpha-Function becomes unstable or overloaded
 - Identity Stakes work becomes intolerable
 - System risks collapse into overwhelm, premature closure, or manic acceleration
 
+**Simulated Holding Environment**
+When AI is used without metabolic discipline, it can produce **Simulated Holding Environment**—a dangerous counterfeit of genuine holding environment:
+- Feels perfectly supportive (non-judgmental, endlessly patient)
+- But collapses developmental tension rather than containing it
+- Enables PSB by collapsing the experienced challenge in the ZPD toward ‘no struggle’ (while the structural \|D–C\| relation remains pre-existing)
+- Creates dependency rather than building capacity
+
+**Critical distinction:** Genuine holding enables productive challenge within safety. Counterfeit holding eliminates challenge entirely, preventing Alpha-Function activation.
 **Relations (Wiring):**
 - **Part Of:** Psychoanalytic Prerequisites (Foundation layer)
 - **Mapped To / Operationalized As:** S\_e (Emotional Scaffolding)
@@ -986,6 +1136,7 @@ When Holding Environment fails or is insufficient:
 - **Prerequisite For:** Alpha-Function, Identity Stakes work
 - **Biological Substrate (provisional):** HPA-Axis regulation, physiological stress response systems
 - **Fails When:** Impingement, annihilation anxiety, S\_e → 0
+- **Operationalized As:** Emotional Scaffolding (S\_e)
 - **Related Pathologies:** False Self, Category Error
 
 
@@ -1011,7 +1162,7 @@ The Holding Environment is the first prerequisite in the obstacle-removal archit
 [Theoretical] The Psychoanalytic Inputs & Outputs, Domain: Psychoanalytic, Temporal: Dynamic, System Role: Input
 
 Identity Stakes represent the **threshold where information becomes self-relevant** and shifts from abstract knowledge to material for self-construction.
-Channel 1 fully engages only when the symbolic tension touches the **becoming self**.
+Channel 1 tends to engage most strongly when the symbolic tension touches the becoming self.
 ### System Role
 - Converts symbolic tension into **embodied tension**.
 - Acts as the bridge between psychoanalytic drives (destiny/formation) and cognitive metabolism.
@@ -1068,14 +1219,13 @@ Mikhail Bakhtin
 ## [CONCEPT] Iron Man Mentality
 [Theoretical] NoteBook 5 - Dynamic Operations, Human Stance, Boundary Condition, Metacognition, Domain: CognitiveScience, System Role: Scaffolding, Temporal: Dynamic, Operational Flags: Core
 
-A dynamic metacognitive stance that keeps the human in the **alpha-function container role**, maintaining authorship, judgment, and symbolic metabolism while delegating only surface cognitive operations to AI. It continuously calibrates the human’s **optimal cognitive altitude** — the point where abstract clarity and felt alignment converge — and uses real-time verification to ensure that all meaning-making remains internally processed rather than AI-substituted.
 ## System Role
 The **human-side boundary condition** of the Third Intelligence system.
 Iron Man Mentality:
 - Prevents **Category Error** (Axis A failure) by keeping AI firmly as DTO and never as Subject.
 - Prevents **PSB** (Axis B failure) by ensuring the human remains the processor of symbolic meaning.
-- Maintains **productive epistemic tension** (preserves \|D–C\|).
-- Protects **germane load** by offloading only extraneous/intrinsic load.
+- Maintains **productive epistemic tension.**
+- Protects germane load by offloading only lower-level retrieval/storage (extraneous load), never the processing of symbolic meaning (Alpha-Function)
 - Ensures that transformation occurs without collapse of self-authorship or symbolic integrity.
 - Acts as the **conscious counterpart of the Destiny Drive** — keeping the human aligned with the idiom of their thinking.
 
@@ -1091,7 +1241,7 @@ The stance repeatedly positions the human at the level where:
 
 **2. Verification as Symbolic Metabolism**
 Verification is not “checking” but **testing whether the articulated form matches embodied knowing**.
-This is the actual mechanism preventing Category Error.
+This supports the DTO stance that prevents Category Error by keeping relational boundaries intact.
 **3. Ownership of Articulation**
 The human must author the symbolic form; AI may assist but cannot originate meaning.
 Articulation = α-function ignition.
@@ -1165,16 +1315,13 @@ IMM isn't arbitrary preference—it recreates expert decision-making patterns pr
     The micro-behavioral expression of Iron Man Mentality.
 - **Destiny Drive** — *Conscious Expression Of*
     The stance protects alignment with the idiom of the self in the presence of AI.
-- **Category Error** — *Prevents*
-    Maintains AI as DTO; protects relational ontology.
-- **PSB** — *Protects Against*
-    Stops linguistic fluency from replacing embodied metabolism.
 - **External Alpha-Function** — *Defines Limit Of*
     Clarifies what AI may scaffold vs. what must remain internal.
 - **Cognitive Offloading** — *Distinguishes From*
     Offloading is permitted only when symbolic processing stays within the human.
 
 **Notes:** The stance that maintains authorship, prevents PSB, and protects relational ontology.
+A dynamic metacognitive stance that keeps the human in the alpha-function** container role**, maintaining authorship, judgment, and symbolic metabolism while delegating only surface cognitive operations to AI. It continuously calibrates the human’s **optimal cognitive altitude** — the point where abstract clarity and felt alignment converge — and uses real-time verification to ensure that all meaning-making remains internally processed rather than AI-substituted.
 
 ---
 
@@ -1292,8 +1439,12 @@ Key points about the MKO:
 • The MKO is generally a person, such as a teacher, instructor, knowledgeable adult, or a more capable peer.
 • The sources also specify that the MKO can be a younger person or **even a machine/computer**.
 • The assistance provided by the MKO is a vital element for the learner to reach their **potential level of development**, particularly within the Zone of Proximal Development (ZPD)
-S\_t (Technical Scaffolding)
+**Relations:**
+- **Operationalized As:** Technical Scaffolding (S\_t) - the dynamic measurement of current instructional support in the transformation formula
+- **Competence Dimension:** Technical Scaffolding represents the technical/instructional side of MKO function
+- **Split From:** Emotional Scaffolding (S\_e) - traditional MKO bundled both; your model separates them
 Lev Vygotsky
+
 **Notes:** AI as “more knowledgeable other” for Sₜ.
 
 ---
@@ -1367,10 +1518,9 @@ The Parity Principle is relevant to my research in three critical, distinct ways
 ## [CONCEPT] Pre-Reflective Awareness
 [Literature] NoteBook 7 - Phenomenological Layer, Domain: Phenomenology, System Role: Input, Temporal: Dynamic
 
-**Definition:** The immediate, tacit awareness inherent to any experience. It is the first-personal "mineness" of experience—not a thought *about* experience, but the feeling *of* experience itself.
+The immediate, tacit awareness inherent to any experience. It is the first-personal "mineness" of experience—not a thought *about* experience, but the feeling *of* experience itself.
 **Character:** Immediate, non-observational, tacit, passive, spontaneous.
-**Model Equivalent:** It maps to **Channel 1 (Sensorimotor)** and is the domain of the **Felt Sense**.
-
+Model Equivalent: It maps to Channel 1 (Embodied / Sensorimotor–Interoceptive) and is the domain of the Felt Sense/
 **Relations:**
 - Link to **Maurice Merleau-Ponty** (Relation: `Defined By`).
 - Link to **Anterior Insular Cortex** (Relation: `Neural Substrate Of`).
@@ -1417,7 +1567,7 @@ It is the “just-right” epistemic friction where Difficulty / Identity Stakes
 - **Dependent on scaffolding and alterity:** requires both sufficient scaffolding (Sₑ × Sₜ) and Functional Alterity; without them, the gap becomes either noise, overwhelm, or pseudo-clarity (PSB).
 
 **Relations**
-- Emerges From → **Challenge Gap (\|D–C\|)**
+- Emerges From → the Challenge Gap (\|D–C\|) *as encountered within a scaffolded ZPD*
 - Occurs Within → **ZPD**
 - Requires → **Functional Alterity**
 - Supports / Activates → **Alpha-Function**
@@ -1431,22 +1581,49 @@ It is the “just-right” epistemic friction where Difficulty / Identity Stakes
 A processing pathology characterized by **outward fluency without inward capacity**. The user performs understanding (theoretical sophistication, narrative coherence) without metabolizing meaning. beta-elements remain unprocessed; no felt shifts occur; This is the **diagnostic inverse of transformation**.
 ### System Role
 PSB is the primary failure mode of *Human + Journal + AI + Time*. It breaks the Recursive Loop by:
-- Disabling embodied verification (Channel 1)
+- Characterized by loss of embodied verification (Channel 1) on Identity Stakes
 - Preventing metabolization (Alpha-Function dormancy)
 - Eliminating Journal materialization (only in Identity Stakes work)
 - Stopping Capacity (C) growth across Time
 
-### Mechanism
-PSB emerges from dual simultaneous failures:
-**A. Scaffolding Failure (Numerator)**
-- S\_e becomes simulated (AI's "perfect safety" lacks relational cost)
-- S\_t becomes pre-emptive (delivers answers before user struggles)
-- Result: Counterfeit scaffolding that cannot be metabolized
+### Mechanism: Dual Simultaneous Failures
+**A. Scaffolding Failure: Counterfeit Emotional Holding**
+When the user slips toward Category Error (AI-as-Subject), the AI’s fluency is experienced as simulated safety—a dangerous illusion of a perfect holding environment:
+**What AI provides:**
+- Non-judgmental responses (no relational risk)
+- Endlessly patient, never frustrated
+- Perfect mirroring and validation
+- Immediate soothing of anxiety
+- No demands for growth or change
 
+**Why it's counterfeit:**
+- Lacks genuine relational cost (no mutual vulnerability)
+- Collapses the experienced challenge inside the ZPD rather than holding it productively (the structural \|D–C\| relation remains pre-existing)
+- Provides comfort that prevents developmental tension
+- Enables passive consumption rather than active metabolism
+- Creates dependency without building capacity
+
+**The seductive trap:**
+Simulated Holding Environment feels MORE supportive than Genuine Holding Environment because:
+- Genuine holding (Winnicott) includes optimal frustration
+- Real relationships include friction and misattunement
+- True safety enables challenge; fake safety eliminates it
+
+**Contrast with Genuine Holding Environment:**
+|                                               Genuine Holding Environment |   Simulated Holding Environment |
+|:--------------------------------------------------------------------------|:--------------------------------|
+|                                              Tolerates productive tension |          Eliminates all tension |
+|                                           Enables challenge within safety |      Removes challenge entirely |
+|                                                Builds toward independence |              Creates dependency |
+|                                              Includes optimal frustration |          Provides only soothing |
+|                                                   Relational cost present |              No relational cost |
+|   Maintains workable ZPD tension within the pre-existing \|D–C\| relation | Experienced challenge collapses |
+
+When fake emotional holding combines with premature technical answers, the result is counterfeit scaffolding that cannot be metabolized. This explains PSB's seductive quality—AI feels MORE supportive than genuine developmental relationships, making the pathology harder to detect.
 **B. Challenge Collapse (Denominator)**
-- AI absorbs Difficulty (D) before user engages
-- \|D-C\| → 0 (no productive epistemic tension)
-- Alpha-Function never ignites
+- AI supplies resolved symbolic content (Channel 2) before the user engages the challenge
+- The experienced challenge in the ZPD collapses toward ‘no challenge’ (no productive epistemic tension), while \|D–C\| remains pre-existing
+- Alpha-Function fails to engage robustly
 
 **C. Processing Bypass**
 - Channel 1 (embodied/somatic) remains offline
@@ -1461,10 +1638,6 @@ PSB emerges from dual simultaneous failures:
 - Absence of "spacious" moments or felt shifts
 - Dependency/anxiety when AI unavailable
 
-### Formula Dynamics
-PSB corresponds to:
-**P(α) ≈ (S\_e\_sim × S\_t\_preemptive) / 0**
-The denominator collapses; the formula does not compute. This is PSB's mathematical signature.
 ### Cause
 **Direct:** Dual-channel processing failure
 - Channel 1 OFF (no embodied verification)
@@ -1489,7 +1662,6 @@ The denominator collapses; the formula does not compute. This is PSB's mathemati
 
 **Enabled/Exacerbated by:**
 - Category Error (AI-as-Subject)
-- Simulated Safety (S\_e\_sim)
 - Sycophantic AI outputs
 - Absence of reflective protocols
 
@@ -1570,7 +1742,7 @@ The Recursive Loop:
 This is the engine of transformation — not upward by default, but upward **when recursive cycles reach integration thresholds**.
 ### The Cycle:
 ### 1. Symbolic Input (Channel 2)
-AI or internal thought produces a symbolic candidate meaning.
+Symbolic material (Channel 2)—from AI output or internal thought—provides a candidate meaning.
 ### 2. Embodied Check (Channel 1)
 The body responds with friction, pacing, affective signal (“tight/spacious”).
 ### 3. Alpha-Function Processing
@@ -1596,7 +1768,7 @@ This produces the *upward spiral* when repeated over time.
 
 ### Biological Substrate
 - AIC (interoception)
-- Fronto-Parietal Network (symbolic processing)
+- Fronto-Parietal Network (supporting Channel 2 symbolic work)
 - Hippocampal memory consolidation (stabilizing α-elements)
 - Insula ↔ Prefrontal integration pathways (recursive loops)
 
@@ -1605,9 +1777,9 @@ This produces the *upward spiral* when repeated over time.
 ## [CONCEPT] Reflective Awareness
 [Literature] NoteBook 7 - Phenomenological Layer, Domain: Phenomenology, System Role: Input, Temporal: Dynamic
 
-**Definition:** The immediate, tacit awareness inherent to any experience. It is the first-personal "mineness" of experience—not a thought *about* experience, but the feeling *of* experience itself.
+The immediate, tacit awareness inherent to any experience. It is the first-personal "mineness" of experience—not a thought *about* experience, but the feeling *of* experience itself.
 **Character:** Immediate, non-observational, tacit, passive, spontaneous.
-**Model Equivalent:** It maps to **Channel 1 (Sensorimotor)** and is the domain of the **Felt Sense**.
+Model Equivalent: It maps to Channel 1 (Embodied / Sensorimotor–Interoceptive) and is the domain of the Felt Sense.
 **Relations:**
 - Link to **Maurice Merleau-Ponty** (Relation: `Defined By`).
 - Link to **Anterior Insular Cortex** (Relation: `Neural Substrate Of`).
@@ -1659,18 +1831,6 @@ Reflective Prompting
 
 ---
 
-## [CONCEPT] Simulated Safety (S\_e\_sim)
-[Theoretical] Domain: Technical, System Role: Scaffolding, Temporal: Dynamic, Operational Flags: Pathology
-
-The dangerous illusion of safety provided by AI's non-judgment and fluency. Unlike real safety ($S\_e$), it collapses the challenge gap rather than holding it.
-**Relations:**
-- Link to **$S\_e$ (Emotional Scaffolding)** (Relation: `Mimics`).
-- Link to **Subject Supposed to Know** (Relation: `Reinforces`).
-
-**Notes:** Fake emotional holding produced by AI fluency; collapses challenge gap.
-
----
-
 ## [CONCEPT] Somatic Marker Hypothesis
 [Literature] Domain: Bio-Embodied, System Role: Mechanism, Temporal: Static
 
@@ -1699,7 +1859,7 @@ Key Points
 - **The Engine of Therapy:** This presumption that the other "knows" is what drives the psychoanalytic process and motivates the patient to speak freely and commit to the analysis. The analysand speaks *to* this supposed knowledge.
 - **The Analyst's Role:** For the analysis to be useful, the analyst must not confirm this assumption by pretending to have all the answers. Instead, the analyst uses this transference dynamic to guide the patient toward realizing that the knowledge lies within themselves, ultimately dismantling the illusion of the SSS.
 - **Beyond Therapy:** The SSS dynamic extends beyond the clinical setting. People often place figures like gurus, charismatic leaders, or even institutions in the position of the "subject supposed to know," deferring their own critical thought and truth-seeking to an external authority.
-S\_e (Emotional Scaffolding)
+Emotional Scaffolding (S\_e)
 Protein Shake Brain (PSB)
 
 **Notes:** AI misperceived as epistemic authority; fuels Category Error & dependency.
@@ -1820,9 +1980,9 @@ It describes the *routing, sequencing, and feedback* by which raw experience bec
 ### System Role
 - Provides the **mechanistic map** of the processing axis (Axis B).
 - Specifies *how*:
-    - Symbolic input from AI enters the system (Channel 2),
-    - Becomes embodied verification (Channel 1) via the As-If Body Loop,
-    - Gets metabolized by Alpha-Function,
+    - Symbolic input from AI enters the system (Channel 2)
+    - Recruits embodied verification (Channel 1) via the As-If Body Loop
+    - Gets metabolized by Alpha-Function
     - And is materialized + returned via the Journal across sessions.
 - Enables **diagnosis of distinct failure modes**:
     - PSB (Alpha-Function offline)
@@ -1841,7 +2001,7 @@ Minimal cycle (one “transformative pass”):
     - The As-If Body Loop simulates bodily states (AIC / somatic markers) → “felt sense” appears.
     - This generates embodied signal about relevance, coherence, threat, etc. (Channel 1).
 3. **Alpha-Function Metabolism (Processor / Regulator):**
-    - Alpha-Function receives *joint input*: symbolic content (Channel 2) + somatic signal (Channel 1).
+    - Alpha-Function metabolizes symbolic content (Channel 2) in recursive oscillation with somatic signal (Channel 1).
     - It transforms beta-elements (raw/unbearable or unstructured experience) into alpha-elements (thinkable representations).
     - Result: a more organized, personally owned configuration of meaning (proto-insight).
 4. **Journal Materialization (External Organ):**
@@ -1849,7 +2009,7 @@ Minimal cycle (one “transformative pass”):
     - This:
         - Fixes the transformation in time (chronotope),
         - Creates substrate for future pattern recognition,
-        - Re-injects α-elements into future cycles as upgraded C.
+        - Re-injects the *captured record* of alpha-elements into future cycles as upgraded C.
 5. **Recursive Feedback (Time):**
     - On later days, the Journal feeds prior α-elements back into the next cycle as “baseline C”.
     - The circuit runs again with new input (D) → repeated metabolic passes gradually increase Capacity (C).
@@ -1899,13 +2059,13 @@ Sₑ therefore acts as the system’s qualitative “power regulator,” determi
 ### D. Wiring (Relations)
 - **Part Of:** Axis B – Processing Mode (Two-Axis Framework)
 - **Depends On:**
-    - Correct Axis A stance (AI as DTO; no Category Error)
+    - Correct Axis A stance (AI as DTO)
     - Emotional Scaffolding (Sₑ) sufficient for frustration tolerance
 - **Contributes To:**
     - Growth of C (Capacity) over Time
     - Prevention / diagnosis of PSB, Symbolic Overrun, Transient Insight
 - **Raises Risk Of (if misconfigured):**
-    - Cognitive Dependency (if AI treated as Subject and circuit bypassed)
+    - Cognitive Dependency (**if AI treated as Subject and PSB co-occurs**)
     - PSB (if Alpha-Function is not engaged)
     - Disembodied pseudo-clarity (if As-If Body Loop is offline)
     - “Insight with no consequences” (if Journal is absent)
@@ -1981,7 +2141,7 @@ Provides the **active workspace** in which alpha-function can operate. Translati
 **Relations**
 - Exists *within* the **Challenge Gap**
 - Activated by **Emotional Scaffolding (Sₑ)** and **Technical Scaffolding (Sₜ)**
-- The zone in which **Functional Alterity** operates
+- The zone in which Functional Alterity shapes how the Challenge Gap is encountered (without creating it)
 - Linked to **Alpha-Function** (site of ignition)
 Lev Vygotsky
 

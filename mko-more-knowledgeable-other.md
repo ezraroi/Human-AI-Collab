@@ -13,7 +13,7 @@ Backlinks:
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - section-2-the-core-formula-and-components.md
     - section-6-the-complete-system-architecture.md
-    - s_t-technical-scaffolding.md
+    - technical-scaffolding-s_t.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - dialogical-and-embodied-frameworks-an-integrat.md
 Origin Domain:
@@ -26,7 +26,8 @@ Created by:
 Links:
     - ai.md
     - zpd.md
-    - s_t-technical-scaffolding.md
+    - technical-scaffolding-s_t.md
+    - emotional-scaffolding-s_e.md
     - lev-vygotsky.md
 Emoji: "\U0001F4A1"
 id: bafyreiekm7dqoxyzzwby6whqgn5drsfuxq6fhxdvv3daqmpmfko4dfqjxm
@@ -38,6 +39,10 @@ Key points about the MKO:
 • The MKO is generally a person, such as a teacher, instructor, knowledgeable adult, or a more capable peer.   
 • The sources also specify that the MKO can be a younger person or **even a machine/computer**.   
 • The assistance provided by the MKO is a vital element for the learner to reach their **potential level of development**, particularly within the Zone of Proximal Development ([ZPD](zpd.md))   
-[S\_t (Technical Scaffolding)](s_t-technical-scaffolding.md)    
+**Relations:**   
+- **Operationalized As:** [Technical Scaffolding (S\_t)](technical-scaffolding-s_t.md) - the dynamic measurement of current instructional support in the transformation formula   
+- **Competence Dimension:** Technical Scaffolding represents the technical/instructional side of MKO function   
+- **Split From:** [Emotional Scaffolding (S\_e)](emotional-scaffolding-s_e.md) - traditional MKO bundled both; your model separates them   
 [Lev Vygotsky](lev-vygotsky.md)    
+   
 **Notes:** AI as “more knowledgeable other” for Sₜ.   

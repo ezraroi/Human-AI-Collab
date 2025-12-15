@@ -17,6 +17,7 @@ Backlinks:
     - somatic-marker-hypothesis.md
     - recursive-metabolic-loop.md
     - is-your-model-suggesting-something-new.md
+    - two-axis-framework.md
     - the-integrated-circuit-board.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
@@ -39,23 +40,21 @@ Creation date: "2025-11-22T13:36:23Z"
 Created by:
     - Roi Ezra
 Links:
-    - channel-2-symbolic.md
     - antonio-damasio.md
     - somatic-marker-hypothesis.md
+    - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
     - journal.md
     - c-capacity.md
     - the-integrated-circuit-board.md
-    - category-error.md
     - anterior-insular-cortex-aic.md
-    - bafyreidgbd4wmghbbphn6srb7qdoz5zx45cwmh34c5m3f4ke2gsceqglxi
     - felt-sense.md
 Emoji: "\U0001F9EC"
 id: bafyreif3nf5do4owsxhnt6riumtjpqe6rcfvncoc2v6d7kpzbetrm5v3fq
 ---
 # As-If Body Loop   
-The cognitive mechanism that mediates between biological memory (Channel 1) and external memory/symbols ([Channel 2](channel-2-symbolic.md)). It allows the brain to simulate bodily changes without waiting for the physical body, explaining how text produces embodied knowing.   
+The cognitive mechanism that mediates between embodied evaluation/verification (Channel 1) and symbolic input (Channel 2). It allows the brain to simulate bodily changes without waiting for the physical body, explaining how text produces embodied knowing.   
 The "**As-If Body Loop**" is a theoretical pathway proposed within [Damasio’s](antonio-damasio.md) [Somatic Marker Hypothesis](somatic-marker-hypothesis.md) (SMH) to explain how the brain can generate emotional and visceral biasing signals to guide decision-making **without requiring an actual physical change in the body**.   
 **What it is and its role:**   
 The *Somatic Marker Hypothesis* suggests that decision-making is guided by "somatic markers"—crude biasing signals representing emotional reactions that arise from the periphery or the central representation of the periphery. The **"as-if body loop"** is the central mechanism that facilitates the rapid, internal activation of these markers.   
@@ -75,7 +74,7 @@ When the As-If Body Loop is weak, ignored, or bypassed, symbolic material ([Chan
 This is the core failure mode of the As-If Body Loop.   
 ### **Interaction Dynamics (Propagation Rules)**   
 When the As-If Body Loop is offline or under-engaged:   
-- **[Alpha-Function](alpha-function.md) receives symbol-only input**, forcing it to work without embodied regulation → leads to brittle pseudo-insight.   
+- [Alpha-Function](alpha-function.md) cycles proceed with Channel 2 material without Channel 1 regulation → leads to brittle pseudo-insight.   
 - **[Journal](journal.md) entries become over-conceptualized** (heady, coherent, but not alive).   
 - **[Capacity (C)](c-capacity.md)** does not increase properly, because metabolization lacks affective grounding.   
 - **Future cycles begin from a false baseline**, since prior entries did not reflect embodied verification.   
@@ -107,11 +106,9 @@ The As-If Body Loop requires enough Sₑ (emotional capacity) to allow **felt ex
 Sₑ therefore governs *whether* the Loop can activate, even when symbolic input is available.   
 **Relations (The Wiring):**   
 - **Part Of:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture)   
-- **Constrained By:** Axis A ([Category Error](category-error.md) collapses embodied simulation by shifting relational stance to the AI rather than to self-experience)   
 - Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: `Neural Basis Of`).   
-- Link to **[Channel 1 (Sensorimotor)](bafyreidgbd4wmghbbphn6srb7qdoz5zx45cwmh34c5m3f.md)** (Relation: `Connects To`).   
+- Link to **[Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)** (Relation: `Connects To`).   
 - Link to **[Channel 2 (Symbolic)](channel-2-symbolic.md)** (Relation: `Connects To`).   
 - Link to **[Alpha-Function](alpha-function.md)** (Relation: `Mechanism Of`).   
    
 **Notes:** Mechanism for simulation of bodily states; underpins embodied simulation & felt sense.   
-   

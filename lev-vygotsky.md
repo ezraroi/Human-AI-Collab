@@ -14,11 +14,13 @@ Backlinks:
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - section-2-the-core-formula-and-components.md
     - conclusion-on-novelty-and-contribution.md
+    - d-difficulty.md
     - external-alpha-function.md
+    - the-core-parallel-two-descriptions-of-one-proc.md
     - recursive-metabolic-loop.md
     - mko-more-knowledgeable-other.md
     - critical-connection-5-why-psb-happens.md
-    - s_t-technical-scaffolding.md
+    - technical-scaffolding-s_t.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
@@ -39,7 +41,7 @@ Created by:
 Links:
     - zpd.md
     - mko-more-knowledgeable-other.md
-    - s_t-technical-scaffolding.md
+    - technical-scaffolding-s_t.md
     - c-capacity.md
     - d-difficulty.md
 Emoji: "\U0001F464"
@@ -48,7 +50,7 @@ id: bafyreiaklydmrc6g3ldyjpf62skiidkieqke5ichcx7vve6g5leusskvpi
 # Lev Vygotsky   
 Provides the **Social Mechanism**.
 ***Zone of Proximal Development ([ZPD](zpd.md)):** The arena where transformation occurs (mapped to the $\|D-C\|$ gap).
-***More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)):** The source of technical scaffolding ([$S\_t$](s_t-technical-scaffolding.md)).
+***More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)):** The source of technical scaffolding ([$S\_t$](technical-scaffolding-s_t.md)).
 ***General Genetic Law:** Higher functions appear first socially, then internally.
 ***Temporality:** Scaffolding must fade; the AI's contribution is ephemeral.   
    

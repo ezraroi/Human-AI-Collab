@@ -12,11 +12,11 @@ Links:
     - false-true-self.md
     - protein-shake-brain-psb.md
     - transmissive-self.md
-    - simulated-safety-s_e_sim.md
+    - bafyreicofgtyyw5zxwn7s63qlmwdl6di5m6xo3i4u6a4qfkbn6qmb5rb2i
     - p-alpha-probability-of-growth.md
     - zpd.md
-    - s_e-emotional-scaffolding.md
-    - s_t-technical-scaffolding.md
+    - emotional-scaffolding-s_e.md
+    - technical-scaffolding-s_t.md
     - reflective-prompting.md
     - true-self.md
 id: bafyreig5a4keporstp6mwzq447hquwj6nyoek7en3b24de3iqc6v2n2iru
@@ -31,13 +31,13 @@ Reflective prompting reconstructs the process that modern AI erodes.
     - [False True Self](false-true-self.md)   
     - [Protein Shake Brain](protein-shake-brain-psb.md)   
     - [Transmissive Self](transmissive-self.md)   
-    - [Simulated safety](simulated-safety-s_e_sim.md)   
+    - [Simulated safety](bafyreicofgtyyw5zxwn7s63qlmwdl6di5m6xo3i4u6a4q.md)   
     - Collapsed difficulty   
 2. The Model:   
     - [P(α)](p-alpha-probability-of-growth.md)   
     - [ZPD](zpd.md)   
     - Challenge gap   
-    - [S\_e](s_e-emotional-scaffolding.md) and [S\_t](s_t-technical-scaffolding.md)   
+    - [S\_e](emotional-scaffolding-s_e.md) and [S\_t](technical-scaffolding-s_t.md)   
     - Structural turn-taking   
 3. The Mechanism:   
     - AI as cognitive artifact   

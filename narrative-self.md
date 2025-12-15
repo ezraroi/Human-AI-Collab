@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Cumulative'
 Backlinks:
     - minimal-self.md
+    - activation-pathway-of-destiny-drive.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'

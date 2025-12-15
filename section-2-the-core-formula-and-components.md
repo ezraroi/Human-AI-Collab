@@ -10,8 +10,8 @@ Created by:
 Links:
     - alpha-function.md
     - p-alpha-probability-of-growth.md
-    - s_e-emotional-scaffolding.md
-    - s_t-technical-scaffolding.md
+    - emotional-scaffolding-s_e.md
+    - technical-scaffolding-s_t.md
     - d-difficulty.md
     - c-capacity.md
     - mko-more-knowledgeable-other.md
@@ -29,8 +29,8 @@ Full formula:
 P(α) = (S\_e × S\_t) / \|D-C\|   
 Where:   
 - [P(α)](p-alpha-probability-of-growth.md) = Probability/potential for alpha-function growth   
-- [S\_e](s_e-emotional-scaffolding.md) = Emotional scaffolding   
-- [S\_t](s_t-technical-scaffolding.md) = Technical scaffolding   
+- [S\_e](emotional-scaffolding-s_e.md) = Emotional scaffolding   
+- [S\_t](technical-scaffolding-s_t.md) = Technical scaffolding   
 - [D](d-difficulty.md) = Difficulty of task   
 - [C](c-capacity.md) = Capacity of subject   
 - \|D-C\| = Absolute value of difficulty-capacity mismatch   
@@ -54,12 +54,12 @@ Overwhelm (Anxiety): When the challenge gap \|D - C\| is too large for the avail
 Boredom (Stagnation): When the challenge gap \|D - C\| is near zero, the task is too easy and the [alpha-function](alpha-function.md) is not needed. [P(α)](p-alpha-probability-of-growth.md) is low.   
 ### Refining the Model: The Primacy of the Holding Environment   
 A crucial refinement is that Scaffolding (S) is not a monolithic variable. It is a product of two distinct components:   
-S = [S\_e](s_e-emotional-scaffolding.md) \* [S\_t](s_t-technical-scaffolding.md)   
+S = [S\_e](emotional-scaffolding-s_e.md) \* [S\_t](technical-scaffolding-s_t.md)   
 S\_e (Emotional Scaffolding): This represents the holding environment—the degree of safety, trust, and attuned containment in the relationship.   
-[S\_t](s_t-technical-scaffolding.md) (Technical Scaffolding): This represents the instructional, guiding, and structuring aspects of the support.   
-The multiplicative nature of this relationship is key. If the holding environment is compromised ([S\_e](s_e-emotional-scaffolding.md) = 0), the total value of Scaffolding becomes zero, regardless of the quality of the technical guidance. Safety is therefore a non-negotiable prerequisite for transformation.   
+[S\_t](technical-scaffolding-s_t.md) (Technical Scaffolding): This represents the instructional, guiding, and structuring aspects of the support.   
+The multiplicative nature of this relationship is key. If the holding environment is compromised ([S\_e](emotional-scaffolding-s_e.md) = 0), the total value of Scaffolding becomes zero, regardless of the quality of the technical guidance. Safety is therefore a non-negotiable prerequisite for transformation.   
 ### The Multiplicative Structure: S\_e × S\_t   
-Critical clarification: The formula includes [S\_e](s_e-emotional-scaffolding.md) × [S\_t](s_t-technical-scaffolding.md) (emotional scaffolding × technical scaffolding)   
+Critical clarification: The formula includes [S\_e](emotional-scaffolding-s_e.md) × [S\_t](technical-scaffolding-s_t.md) (emotional scaffolding × technical scaffolding)   
 What multiplication means theoretically:   
 - If either scaffold → 0, entire product collapses   
 - Neither is sufficient alone; both are necessary   
@@ -67,16 +67,16 @@ What multiplication means theoretically:
    
 This explains both failure modes elegantly:   
 Micromanager:   
-- [S\_e](s_e-emotional-scaffolding.md) → 0 (no emotional holding, only anxiety/control)   
-- Even with high [S\_t](s_t-technical-scaffolding.md), the product collapses   
+- [S\_e](emotional-scaffolding-s_e.md) → 0 (no emotional holding, only anxiety/control)   
+- Even with high [S\_t](technical-scaffolding-s_t.md), the product collapses   
    
 Too-far manager:   
-- [S\_t](s_t-technical-scaffolding.md) → 0 (absent when technically needed)   
-- Even with some [S\_e](s_e-emotional-scaffolding.md), the product collapses   
+- [S\_t](technical-scaffolding-s_t.md) → 0 (absent when technically needed)   
+- Even with some [S\_e](emotional-scaffolding-s_e.md), the product collapses   
    
 Theoretical grounding:   
-- [S\_t](s_t-technical-scaffolding.md) = technical/cognitive scaffolding (Vygotsky's competence-side ZPD)   
-- [S\_e](s_e-emotional-scaffolding.md) = affective/relational scaffolding (Winnicott's holding, Bion's container)   
+- [S\_t](technical-scaffolding-s_t.md) = technical/cognitive scaffolding (Vygotsky's competence-side ZPD)   
+- [S\_e](emotional-scaffolding-s_e.md) = affective/relational scaffolding (Winnicott's holding, Bion's container)   
    
 ### The Bridge Analogy   
 Imagine you need to build a bridge across a canyon.   

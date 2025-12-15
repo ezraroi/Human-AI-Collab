@@ -10,7 +10,7 @@ Created by:
 Links:
     - wilfred-bion.md
     - lev-vygotsky.md
-    - jean-piaget.md
+    - e.md
     - zpd.md
     - alpha-function.md
     - beta-elements.md
@@ -21,7 +21,7 @@ The sources provide direct commentary and supporting evidence regarding your mod
 Your model aims to resolve the long-standing debate between the Piagetian view (thought-first/schemas) and the Vygotskian view (language-first/social mediation) by synthesizing them.   
 The sources address your model in three key ways: by acknowledging the traditional conflict, by affirming the conceptual viability of the [Bion](wilfred-bion.md)/[Vygotsky](lev-vygotsky.md) synthesis, and by supporting the idea of a continuous, reciprocal dynamic.   
 ### 1. The Model's Position on the Piaget-Vygotsky Debate   
-Your premise that [Piaget](jean-piaget.md) and [Vygotsky](lev-vygotsky.md) describe opposing views is well-supported by the sources, which recognize an ongoing debate and controversy between their theoretical frameworks.   
+Your premise that [Piaget](e.md) and [Vygotsky](lev-vygotsky.md) describe opposing views is well-supported by the sources, which recognize an ongoing debate and controversy between their theoretical frameworks.   
 - Traditional Conflict: Piaget is known for his cognitive constructivist approach, focusing on the child as a rational inquirer who develops universal, logico-mathematical cognitive structures intrinsically (inside-out). Vygotsky, conversely, is the founder of sociocultural psychology, emphasizing social constructivism where development is driven by social interaction, culture, and language (outside-in). Vygotsky's theory, in its inception, was a response to the "crisis in psychology" and a penetrating critique of theories (like Piaget’s) that claimed intellectual functions arise from maturation alone or are preformed in the child.   
 - The Need for Synthesis: The ongoing prevalence of both Piagetian and Vygotskian concepts in modern research (such as the widespread critique and use of the Zone of Proximal Development, or [ZPD](zpd.md)) suggests a desire for the kind of synthesis your model proposes. One review notes that Vygotsky's theory in a certain period was "nearer than ever to Piaget" as he emphasized the importance of operations in psychological development and understood the link between external operations and psychical phenomena through the concept of internalization. Furthermore, scholarly work specifically aims for a reconciliation between Vygotskian psychology and contemporary cognitive science (sociocomputationalism).   
    

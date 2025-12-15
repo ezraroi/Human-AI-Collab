@@ -10,14 +10,16 @@ Tag:
     - 'Operational Flags: Pathology'
 Backlinks:
     - embodied-engagement-conditions.md
+    - ai.md
     - two-axis-framework.md
+    - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
     - category-error.md
     - functional-thirdness.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-06T09:14:29Z"
 Created by:
     - Roi Ezra

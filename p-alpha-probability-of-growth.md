@@ -16,15 +16,12 @@ Backlinks:
     - section-4-the-importance-of-s_e-emotional-scaf.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
-    - challenge-gap-d-c.md
+    - the-hidden-implications-youve-discovered.md
     - section-10-the-grand-unification.md
     - section-7-the-three-layer-architecture-tempora.md
-    - analytic-generalization.md
-    - s_t-technical-scaffolding.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - section-13-significance-and-forward-direction.md
-    - s_e-emotional-scaffolding.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
     - the-recursive-third-intelligence-system-archit.md
@@ -37,8 +34,8 @@ Creation date: "2025-11-22T10:04:43Z"
 Created by:
     - Roi Ezra
 Links:
-    - s_e-emotional-scaffolding.md
-    - s_t-technical-scaffolding.md
+    - emotional-scaffolding-s_e.md
+    - technical-scaffolding-s_t.md
     - d-difficulty.md
     - c-capacity.md
     - alpha-function.md
@@ -48,7 +45,7 @@ Emoji: "\U0001F9E9"
 id: bafyreiecuhkf3y6bmemvcmbber3v47cecswhrgd4bvmjeyxxu2n2nkjyza
 ---
 # P(alpha) (Probability of Growth)   
-**Full Formula:**P(alpha) = ([S\_e (Emotional Scaffolding)](s_e-emotional-scaffolding.md) \* [S\_t (Technical Scaffolding)](s_t-technical-scaffolding.md) ) /  \| [D (Difficulty)](d-difficulty.md)  - [C (Capacity)](c-capacity.md) \|.   
+**Full Formula:**P(alpha) = ([S\_e (Emotional Scaffolding)](emotional-scaffolding-s_e.md) \* [S\_t (Technical Scaffolding)](technical-scaffolding-s_t.md) ) /  \| [D (Difficulty)](d-difficulty.md)  - [C (Capacity)](c-capacity.md) \|.   
 **Definition:** The probability of successful [Alpha-Function](alpha-function.md) activation—the metabolic process of transforming raw experience into meaningful.   
 ### The "Mania" Boundary Condition (Mathematical Failure Mode)   
 The formula $P(\alpha) = (S\_e \times S\_t) / \|D - C\|$ successfully predicts the **Manic Episode** as a specific mathematical failure state.   

@@ -17,13 +17,16 @@ Creation date: "2025-12-06T09:16:29Z"
 Created by:
     - Roi Ezra
 Links:
+    - channel-2-symbolic.md
+    - channel-1-embodied-sensorimotor-pathway.md
+    - protein-shake-brain-psb.md
     - functional-alterity.md
     - zpd.md
     - productive-epistemic-tension.md
     - identity-stakes.md
     - the-integrated-circuit-board.md
     - preconditions-for-transformative-ai-dialogue.md
-    - protein-shake-brain-psb.md
+    - category-error.md
     - cognitive-dependency.md
     - reflective-prompting.md
     - felt-sense.md
@@ -31,7 +34,7 @@ Emoji: "\U0001F4A1"
 id: bafyreian45p6xubzvsjrpclvsie6gwcosvkbslizqnwgacihholkzzqhdi
 ---
 # Embodied Engagement Conditions   
-The three content-level prerequisites that determine whether symbolic AI output (Channel 2) successfully recruits embodied processing (Channel 1) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the Integrated Circuit Board engages; when absent, PSB pathology emerges.   
+The three content-level prerequisites that determine whether symbolic AI output [(Channel 2)](channel-2-symbolic.md) successfully recruits embodied processing [(Channel 1)](channel-1-embodied-sensorimotor-pathway.md) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the Integrated Circuit Board engages; when absent, [PSB](protein-shake-brain-psb.md) pathology emerges.   
 ## **System Role:**   
 Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether Channel 1 is recruited into the Recursive Metabolic Loop. They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, controlling whether Alpha-Function can engage in genuine transformation versus remaining offline.   
 This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces nothing—or worse, PSB.   
@@ -81,12 +84,12 @@ This object describes **input-side gating** for the [Integrated Circuit Board](t
    
 The Integrated Circuit Board cannot function without these content conditions being met. Even with perfect human metacognitive capacities, if the AI output lacks these three properties, the circuit never activates.   
 **Failure Modes:**   
-|      Missing Condition |                      Failure Mode |                                        Result |
-|:-----------------------|:----------------------------------|:----------------------------------------------|
-| No Functional Alterity | Echo chamber / validation seeking |          Category Error risk; False True Self |
-|       No ZPD Alignment |              Too easy or too hard | Boredom or overwhelm; no Alpha-Function spark |
-|     No Identity Stakes |               Technical work only |  Channel 2 processing only; no transformation |
-|        Multiple absent |                   Complete bypass |   PSB; Cognitive Dependency; capacity atrophy |
+|      Missing Condition |                      Failure Mode |                                                                                                                            Result |
+|:-----------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| No Functional Alterity | Echo chamber / validation seeking |                                                                                              Category Error risk; False True Self |
+|       No ZPD Alignment |              Too easy or too hard |                                                                                     Boredom or overwhelm; no Alpha-Function spark |
+|     No Identity Stakes |               Technical work only |                                                                                      Channel 2 processing only; no transformation |
+|        Multiple absent |                   Complete bypass |   PSB; (and if [Category Error](category-error.md) co-occurs → [Cognitive Dependency](cognitive-dependency.md)); capacity atrophy |
 
 **Relations (Wiring):**   
 - **Triggers (when met):** Channel 1 engagement, As-If Body Loop, Alpha-Function   

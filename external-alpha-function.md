@@ -14,14 +14,14 @@ Backlinks:
     - extended-mind-hypothesis-hec.md
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
+    - human.md
     - is-your-model-suggesting-something-new.md
     - recursive-pattern-verification-loop.md
-    - alpha-function-integrating-dialogical-and-embo.md
     - dialogical-and-embodied-frameworks-an-integrat.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Drafting
 Creation date: "2025-11-22T15:17:48Z"
 Created by:
     - Roi Ezra

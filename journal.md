@@ -16,7 +16,6 @@ Backlinks:
     - destiny-drive.md
     - what-this-means-for-your-paper.md
     - why-this-architecture-is-powerful.md
-    - 4ps-protocol.md
     - ai-project-claude-project-chatgpt-project.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
@@ -32,7 +31,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - section-3-foundational-theoretical-integration.md
+    - time.md
     - conclusion-on-novelty-and-contribution.md
     - the-hidden-implications-youve-discovered.md
     - critical-distinctions.md
@@ -42,6 +41,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - how-journal-entries-are-actually-created.md
+    - two-axis-framework.md
     - critical-connection-3-the-journal-as-embodied-.md
     - as-if-body-loop.md
     - hubert-hermans.md
@@ -61,7 +61,7 @@ Backlinks:
     - activation-pathway-of-destiny-drive.md
     - implementation-guidance.md
     - final-definition.md
-    - critical-connection-2-felt-sense-channel-1-alp.md
+    - critical-connection-2-felt-sense-channel-1-ver.md
     - chronotope.md
     - what-youve-actually-discovered-meta-level.md
     - mikhail-bakhtin.md
@@ -85,7 +85,6 @@ Links:
     - beta-elements.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
-    - category-error.md
     - chronotope.md
     - third-intelligence.md
     - ai-project-claude-project-chatgpt-project.md
@@ -112,7 +111,7 @@ When the Journal does not materialize metabolized [alpha-elements](alpha-element
 This is the Journal’s component-level collapse.   
 ### Interaction Dynamics (Propagation Rules)   
 When the Journal is missing, underused, or corrupted:   
-- **Capacity (C) cannot accumulate**, because alpha-elements have no stable external form.   
+- [Capacity (C)](c-capacity.md) cannot accumulate, because metabolized alpha-elements are not stably captured and revisitable over time.   
 - **Future \|D–C\| gaps become miscalibrated**, since the system loses track of what has already been metabolized.   
 - **[Alpha-Function](alpha-function.md) becomes overloaded**, forced to re-process the same [beta-elements](beta-elements.md) repeatedly.   
 - **The [As-If Body Loop](as-if-body-loop.md) weakens**, since embodied insight has no enduring anchor and somatic resonance decays between sessions.   
@@ -151,7 +150,6 @@ Thus, journaling is a qualitative regulator of emotional scaffolding.
 - **Feeds:** [Capacity (C)](c-capacity.md) through recursive materialization.   
 - **Depends On:** [Alpha-Function](alpha-function.md) for metabolized content; As-If Body Loop for embodied grounding.   
 - **Failure Mode Of:** Transient Insight / Pseudo-Integration   
-- **Constrained By:** Axis A ([Category Error](category-error.md) distorts journaling by shifting focus toward the AI’s “voice” rather than the user's experience)   
 - Link to **[Chronotope](chronotope.md)** (Relation: `Provides`).   
 - Link to **[Third Intelligence](third-intelligence.md)** (Relation: `Materializes`).   
 - Link to [**AI Project** ](ai-project-claude-project-chatgpt-project.md)(Relation: `Stored In`).   

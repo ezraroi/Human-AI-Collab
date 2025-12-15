@@ -9,6 +9,7 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - ai.md
     - functional-thirdness.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

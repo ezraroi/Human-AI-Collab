@@ -12,7 +12,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - felt-sense.md
-    - critical-connection-2-felt-sense-channel-1-alp.md
+    - critical-connection-2-felt-sense-channel-1-ver.md
     - the-unified-architecture.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

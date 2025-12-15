@@ -12,6 +12,7 @@ Backlinks:
     - document-abstract.md
     - 5-the-embodied-connection.md
     - what-this-means-for-your-paper.md
+    - embodied-engagement-conditions.md
     - section-5-the-category-error-relational-axis-f.md
     - maurice-merleau-ponty.md
     - questions-your-synthesis-raises.md
@@ -23,6 +24,7 @@ Backlinks:
     - recursive-metabolic-loop.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - is-your-model-suggesting-something-new.md
+    - two-axis-framework.md
     - critical-connection-3-the-journal-as-embodied-.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
@@ -45,7 +47,7 @@ Backlinks:
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T13:37:38Z"
 Created by:
     - Roi Ezra
@@ -56,11 +58,12 @@ Links:
     - alpha-function.md
     - lev-vygotsky.md
     - mikhail-bakhtin.md
-    - s_t-technical-scaffolding.md
+    - technical-scaffolding-s_t.md
     - d-difficulty.md
     - ai.md
     - zpd.md
     - journal.md
+    - category-error.md
     - protein-shake-brain-psb.md
 Emoji: "\U0001F4A1"
 id: bafyreiby6o26t6uomblugh2mgpj3j4pa2icjl7yxxhtcwxg6gj6nvub67q
@@ -78,10 +81,9 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
 - **Theorists:** [Vygotsky](lev-vygotsky.md) (Symbolic Mediation); [Bakhtin](mikhail-bakhtin.md) (Dialogism); Bruner (Narrative Thought).   
 - **Biological Substrate:** Fronto-Parietal Network (FPN); Language Networks; Working Memory Systems.   
 - **Formula Link:**   
-    - Primary driver of **Sₜ** ([Technical Scaffolding](s_t-technical-scaffolding.md) / Challenge input).   
+    - Primary driver of **Sₜ** ([Technical Scaffolding](technical-scaffolding-s_t.md) / Challenge input).   
     - Determines the[ **D** (Difficulty)](d-difficulty.md) component of \|D – C\|.   
     - Provides raw material converted to **α-elements** through Alpha-Function.   
-- **Connected Objects:** [AI](ai.md) (DTO); Functional Alterity; [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); Category Error; [PSB](protein-shake-brain-psb.md).   
-   
+- **Connected Objects:** [AI](ai.md) (DTO); Functional Alterity; [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md).   
    
 **Notes:** Symbolic input source; language-based meaning; AI’s entry point.   

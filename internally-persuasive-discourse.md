@@ -12,6 +12,7 @@ Backlinks:
     - felt-sense.md
     - alpha-function-integrating-dialogical-and-embo.md
     - mikhail-bakhtin.md
+    - synthesizing-notebook-1-and-notebook-2.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'

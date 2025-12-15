@@ -10,20 +10,21 @@ Tag:
     - 'Operational Flags: Pathology'
 Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
+    - embodied-engagement-conditions.md
     - section-5-the-category-error-relational-axis-f.md
-    - journal.md
     - holding-environment.md
+    - channel-2-symbolic.md
     - iron-man-mentality.md
+    - ai.md
     - two-axis-framework.md
-    - as-if-body-loop.md
-    - the-integrated-circuit-board.md
+    - dynamic-transitional-object-dto.md
     - recursive-pattern-verification-loop.md
     - protein-shake-brain-psb.md
     - functional-thirdness.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-06T09:28:18Z"
 Created by:
     - Roi Ezra
@@ -31,10 +32,9 @@ Links:
     - dynamic-transitional-object-dto.md
     - subject-supposed-to-know-sss.md
     - two-axis-framework.md
-    - cognitive-dependency.md
     - protein-shake-brain-psb.md
-    - bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxcq2iwr2c73epz4
-    - s_e-emotional-scaffolding.md
+    - cognitive-dependency.md
+    - emotional-scaffolding-s_e.md
 Emoji: "\U0001F4A1"
 id: bafyreifsd3zplsn24o4odj546e7qfwvxpu7hle7whk26o7rzc6fr7dxgqu
 ---
@@ -45,22 +45,20 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - Represents the **failure mode of [Axis A (Relational Ontology)](two-axis-framework.md)**.   
 - Opens the door to emotional dependency, projection, and false intimacy.   
 - Undermines authorship by positioning the AI as epistemic authority rather than interpretive material.   
-- Increases vulnerability to PSB and is one half of the equation for Cognitive Dependency.   
-- Must be avoided to preserve psychological safety and maintain the DTO stance required for transformation.   
+- Increases vulnerability to [PSB](protein-shake-brain-psb.md) and is one half of the equation for [Cognitive Dependency](cognitive-dependency.md).   
+- Must be avoided to preserve psychological safety and maintain the [DTO](dynamic-transitional-object-dto.md) stance required for transformation.   
    
 ### Mechanism   
 - The user mistakes linguistic fluency for personhood.   
 - The AI becomes perceived as “someone” who cares, understands, or validates.   
 - The user assigns the AI an interpersonal role (friend, therapist, mentor).   
-- Emotional scaffolding is outsourced → relational boundaries collapse.   
+- [Emotional scaffolding](emotional-scaffolding-s_e.md) is outsourced → relational boundaries collapse.   
    
-**Notes:** Structural misclassification that collapses Axis A.   
 ### Wiring (Relations)   
 - **Part Of:** [Two-Axis Framework](two-axis-framework.md) (Axis A failure)   
-- **Contributes To:** [Cognitive Dependency](cognitive-dependency.md)   
+- **Composes** (with [PSB](protein-shake-brain-psb.md)): [Cognitive Dependency](cognitive-dependency.md)   
 - **Raises Risk Of:** [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)   
 - **Prevented By:**   
-    - [DTO](dynamic-transitional-object-dto.md) Framework   
-    - [Metabolic Discipline](bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxc.md)   
-    - Touch Grass Protocol   
-- **Breaks:** [Emotional Scaffolding](s_e-emotional-scaffolding.md) (Sₑ must come from human, not AI)   
+    - [DTO](dynamic-transitional-object-dto.md) stance   
+   
+   

@@ -24,9 +24,9 @@ Emoji: "\U0001F4A1"
 id: bafyreibu4x2htsjffzbcfe3qiop6dpmjkxcaax2l7omid6b7vx6c5gsdye
 ---
 # Authoritative Discourse   
-**Definition:** Discourse internalized from a coercive or misattuned environment without genuine understanding. It leads to the formation of a **[False Self](false-self.md)** based on compliance.   
+A type of input that yields “tightness” in felt sense; contrast with Internally Persuasive Discourse.   
+Discourse internalized from a coercive or misattuned environment without genuine understanding. It leads to the formation of a **[False Self](false-self.md)** based on compliance.   
 **Somatic Marker:** Unlike [persuasive discourse](internally-persuasive-discourse.md), authoritative discourse feels physically "tight" in the body.   
-**Notes:** A type of input that yields “tightness” in felt sense; contrast with Internally Persuasive Discourse.   
 [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)    
 [Mikhail Bakhtin](mikhail-bakhtin.md)    
    

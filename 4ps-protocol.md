@@ -12,32 +12,71 @@ Backlinks:
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
-Research Status: Drafting
+Research Status: Evergreen
 Creation date: "2025-11-23T12:51:39Z"
 Created by:
     - Roi Ezra
 Links:
-    - reflective-prompting.md
-    - felt-sense.md
-    - journal.md
-    - hsced-hermeneutic-single-case-efficacy-design.md
+    - metacognition.md
+    - protein-shake-brain-psb.md
 Emoji: "\U0001F6E0️"
 id: bafyreiat4xbdomf4nfou7n2d5rcshasyqeviqh6rzvkzxth6fy7ziflhjm
 ---
 # 4Ps Protocol   
-**Definition:** A metacognitive loop: **Pause** (Inhibition), **Probe** (Monitoring), **Process** (Control/Self-Explanation), **Possess** (Evaluation/Verification) .   
-## Methodological Equivalent   
-This protocol serves as the **Phenomenological Validity Criteria** for the research. It translates subjective experience into rigorous data points:   
-1. **Pause (Inhibition):** Acts as **Methodological Control**. It prevents "System 1" automatic agreement (Confirmation Bias).   
-2. **Probe (Monitoring):** Acts as **Concurrent Validity Assessment**. checking the insight against other data sources.   
-3. **Process (Control):** Acts as **Process Tracing**. Documenting the steps of logic.   
-4. **Possess (Evaluation):** Acts as **Ecological Validity**. Checking if the insight holds up in "real life" (Concrete Grounding).   
+A four-step [metacognitive](metacognition.md) verification loop preventing passive consumption of AI outputs. Forces real-time metabolic processing by requiring explicit pause, questioning, articulation, and embodied verification before accepting insights.   
+**Purpose:**   
+**Primary:** Prevents [PSB](protein-shake-brain-psb.md) (Protein Shake Brain) by breaking automatic acceptance pattern
    
-**Notes:** A procedural, metacognitive cycle; used as a validity scaffold within sessions.   
-**Relations:**   
-- Link to **[Reflective Prompting](reflective-prompting.md)** (Relation: `Operational Steps Of`).   
-- Link to **[Felt Sense](felt-sense.md)** (Relation: `Used in 'Possess' Step`).   
-- Link to **[Journal](journal.md)** (Relation: `Might br Materialization of 'Possess'`).   
-- Link to **[HSCED](hsced-hermeneutic-single-case-efficacy-design.md)** (Relation: `Operational Steps Of`).   
+**The Four Steps:**   
+**1. Pause (Inhibition)**   
+- **Action:** Stop before accepting AI output   
+- **Function:** Interrupts System 1 automatic agreement   
+- **Prevents:** Confirmation bias, passive consumption   
+- **Observable:** Deliberate break in interaction flow   
+   
+**2. Probe (Monitoring)**   
+- **Action:** Question the insight actively   
+- **Function:** Tests against other knowledge/experience   
+- **Asks:** "Is this actually true? Does this match my experience?"   
+- **Observable:** Explicit questioning, seeking counterexamples   
+   
+**3. Process (Control/Self-Explanation)**   
+- **Action:** Articulate reasoning in own words   
+- **Function:** Forces explicit understanding, not borrowed fluency   
+- **Requires:** Can explain without reproducing AI language   
+- **Observable:** Rewriting, independent explanation   
+   
+**4. Possess (Evaluation/Verification)**   
+- **Action:** Check against felt sense and real-life grounding   
+- **Function:** Embodied verification + concrete examples   
+- **Tests:** "Spacious" vs. "tight" felt sense, real-world applicability   
+- **Observable:** Somatic checking, concrete grounding   
+   
+**Observable Markers:**   
+**4Ps Active (Healthy Processing):**   
+- Visible pauses between AI output and acceptance   
+- Active questioning of AI assertions   
+- Can explain concept independently   
+- References felt sense explicitly   
+- Provides concrete real-life examples   
+- Writing feels grounded, personal   
+   
+**4Ps Bypassed (PSB Risk):**   
+- Immediate acceptance without pause   
+- No questioning or challenge   
+- Reproduces AI phrasing verbatim   
+- No felt sense checking   
+- Abstract claims without concrete grounding   
+- High velocity, minimal processing time   
+   
+**Relations (Wiring):**   
+- **Component Of:** Reflective Prompting   
+- **Prevents:** PSB, passive consumption   
+- **Uses:** Felt Sense (in Possess step for embodied verification)   
+- **Enables:** Metabolic processing, genuine ownership   
+- **Alternative To:** Automatic acceptance, passive reception   
    
    
+**Notes:**   
+4Ps is the **micro-method** preventing PSB at moment-to-moment level. While Reflective Prompting provides macro-structure (phases), 4Ps provides micro-discipline (verification steps). Simple 4-step sequence, but consistency determines whether transformation or consumption occurs.   
+Critical: Not a one-time checklist—must be applied **repeatedly throughout session** whenever accepting AI output. The protocol is simple; the discipline is hard.   

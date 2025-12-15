@@ -9,6 +9,8 @@ Tag:
 Backlinks:
     - 6-final-conclusion.md
     - jim-collins.md
+    - time.md
+    - c-capacity.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Literature: Established academic fact'

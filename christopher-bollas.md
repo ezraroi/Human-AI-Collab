@@ -11,6 +11,7 @@ Backlinks:
     - identity-stakes.md
     - section-3-foundational-theoretical-integration.md
     - transmissive-self.md
+    - dynamic-transitional-object-dto.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md

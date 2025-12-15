@@ -8,9 +8,8 @@ Creation date: "2025-11-22T15:36:44Z"
 Created by:
     - Roi Ezra
 Links:
-    - channel-1-embodied-sensorimotor-pathway.md
     - channel-2-symbolic.md
-    - recursive-metabolic-loop.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - reflective-prompting.md
@@ -19,13 +18,13 @@ id: bafyreiairwpdksmfvq7f43zbvusjw7sd355kmom2diyei2zd3ezd5nwygy
 ---
 # WHAT THIS MEANS FOR YOUR PAPER   
 ### Your Central Claim (Refined)   
-"Transformative dialogue does not require a conscious other. It requires a properly structured system that engages both channels of the alpha function - sensorimotor ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) and symbolic ([Channel 2](channel-2-symbolic.md)) - in [recursive loops](recursive-metabolic-loop.md) that materialize in stable inscriptions."   
+"Transformative dialogue does not require a conscious other. It requires a properly structured system that engages [Channel 2](channel-2-symbolic.md) (symbolic) material and [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied verification) in recursive Alpha-Function cycles that materialize in stable inscriptions."   
 ### The Evidence   
 Neurobiological (NoteBook 2):   
-- Reading activates embodied simulation (Channel 1 + 2 together)   
+- Reading symbolic text (Channel 2) can recruit embodied simulation supporting Channel 1 engagement.   
 - Felt sense emerges from interoceptive processing (Channel 1)   
 - Dialogue format triggers anticipatory body states (Channel 1)   
-- Meaning requires somatic markers (Channel 1 → 2 integration)   
+- Meaning is stabilized through somatic markers (Channel 1 verification informing Channel 2 articulation).   
    
 Psychological (NoteBook 1):   
 - [Alpha function](alpha-function.md) requires both channels to transform beta → alpha   

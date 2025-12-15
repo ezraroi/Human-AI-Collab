@@ -16,7 +16,7 @@ Links:
     - protein-shake-brain-psb.md
 id: bafyreiheycz3a23l3djbgyja6at6l7opyxzip6toh44r2i6fehrvrg6wvi
 ---
-# CRITICAL CONNECTION #2: "Felt Sense" = Channel 1 Alpha Function   
+# CRITICAL CONNECTION #2: "Felt Sense" = Channel 1 Verification Signal   
 ### [Gendlin's](eugene-gendlin.md) [Felt Sense](felt-sense.md) (from NoteBook 2)   
 - Pre-verbal bodily awareness   
 - "Something" you know before you can articulate it   
@@ -25,11 +25,11 @@ id: bafyreiheycz3a23l3djbgyja6at6l7opyxzip6toh44r2i6fehrvrg6wvi
    
 ### [Alpha Function](alpha-function.md) in [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (from NoteBook 1)   
 - Transforms raw beta elements (unprocessed sensation) into thinkable thoughts   
-- Operates through sensorimotor schemas   
+- Operates through embodied sensorimotor/interoceptive evaluation   
 - Creates the affective coherence needed for genuine understanding   
 - Pre-verbal processing that makes symbolic processing possible   
    
-THE CONNECTION: The "felt sense" IS your Channel 1 alpha function doing its work. When you describe checking if something feels "spacious" or "tight" in your body, you're describing the alpha function operating through interoceptive awareness.   
+THE CONNECTION: The "felt sense" is the [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal used within [Alpha-Function](alpha-function.md) processing. When you describe checking if something feels "spacious" or "tight" in your body, you're describing the alpha function operating through interoceptive awareness.   
 This explains why:   
 - You can tell when AI responses feel "off" before analyzing them logically   
 - The [journal](journal.md) helps - it engages both channels (writing = motor + semantic)   
