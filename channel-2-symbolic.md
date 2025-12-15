@@ -53,7 +53,8 @@ Created by:
     - Roi Ezra
 Links:
     - functional-alterity.md
-    - productive-epistemic-tension.md
+    - zpd.md
+    - challenge-gap-d-c.md
     - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
     - lev-vygotsky.md
@@ -61,7 +62,6 @@ Links:
     - technical-scaffolding-s_t.md
     - d-difficulty.md
     - ai.md
-    - zpd.md
     - journal.md
     - category-error.md
     - protein-shake-brain-psb.md
@@ -72,8 +72,8 @@ id: bafyreiby6o26t6uomblugh2mgpj3j4pa2icjl7yxxhtcwxg6gj6nvub67q
 Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which meaning arrives from outside the body—via language, concepts, theory, discourse, and AI output.   
 ### System Role   
 - Provides **symbolic material** that the system must metabolize.   
-- Carries **[Functional Alterity](functional-alterity.md)**—difference, challenge, novelty.   
-- Initializes **[productive tension](productive-epistemic-tension.md)** and cognitive dissonance essential for transformation.   
+- Is the channel within which [Functional Alterity](functional-alterity.md) operates turn-by-turn (in AI utterances) as difference and challenge.   
+- Can trigger the experience of productive tension essential for transformation when encountered within a scaffolded [ZPD](zpd.md) (without creating the [Challenge Gap](challenge-gap-d-c.md))   
 - Works in **recursive oscillation** with [Channel 1](channel-1-embodied-sensorimotor-pathway.md) during [Alpha-Function](alpha-function.md) cycles.   
 - Is the **sole channel of AI input** into the human mind.   
    
@@ -84,6 +84,6 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
     - Primary driver of **Sₜ** ([Technical Scaffolding](technical-scaffolding-s_t.md) / Challenge input).   
     - Determines the[ **D** (Difficulty)](d-difficulty.md) component of \|D – C\|.   
     - Provides raw material converted to **α-elements** through Alpha-Function.   
-- **Connected Objects:** [AI](ai.md) (DTO); Functional Alterity; [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md).   
+- **Connected Objects:** [AI](ai.md) (DTO); [Functional Alterity](functional-alterity.md); [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md).   
    
 **Notes:** Symbolic input source; language-based meaning; AI’s entry point.   

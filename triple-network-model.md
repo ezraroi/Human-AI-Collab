@@ -7,6 +7,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - executive-summary.md
+    - human.md
     - external-alpha-function.md
     - the-doing-both-hypothesis.md
     - neuroscience-of-transformation.md

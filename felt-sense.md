@@ -8,7 +8,6 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
-    - section-12-resolution-of-theoretical-contradic.md
     - alpha-elements.md
     - minimal-self.md
     - embodied-engagement-conditions.md
@@ -28,14 +27,12 @@ Backlinks:
     - pre-reflective-awareness.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - is-your-model-suggesting-something-new.md
     - as-if-body-loop.md
     - critical-connection-6-my-method-works-because-.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
-    - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
-    - 3-the-felt-sense-as-the-insula-the-feedback-loop.md
+    - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
     - neuroscience-of-transformation.md
@@ -44,11 +41,11 @@ Backlinks:
     - critical-connection-2-felt-sense-channel-1-ver.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
-    - synthesizing-notebook-1-and-notebook-2.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:56:48Z"
 Created by:
     - Roi Ezra
@@ -69,3 +66,4 @@ Simply put:
 • It is often described as **vague, fuzzy, or murky** until one focuses on it, and it is **not the same as an emotion**, but is bigger and more complex than any single emotion.   
 • It is considered an **unclear edge** or the implicit dimension underlying conscious understanding.   
 **Notes:** Channel 1 interpretive root.   
+   

@@ -34,6 +34,7 @@ Backlinks:
     - time.md
     - conclusion-on-novelty-and-contribution.md
     - the-hidden-implications-youve-discovered.md
+    - 7-final-conclusion-the-third-intelligence.md
     - critical-distinctions.md
     - d-w-winnicott.md
     - section-7-the-three-layer-architecture-tempora.md

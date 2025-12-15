@@ -20,7 +20,7 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Drafting
 Creation date: "2025-11-22T13:01:32Z"
 Created by:
     - Roi Ezra
@@ -39,6 +39,3 @@ It is defined as the **False Self wearing the mask of the True**, and it emerges
 - Link to **[False Self](false-self.md)** (Relation: `Variant Of`).   
 - Link to **[Protein Shake Brain](protein-shake-brain-psb.md)** (Relation: `Result Of`).   
 - Link to **[AI](ai.md)** (Relation: `Facilitated By`).   
-[Protein Shake Brain (PSB)](protein-shake-brain-psb.md)    
-   
-   

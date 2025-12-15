@@ -12,7 +12,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-06T09:16:29Z"
 Created by:
     - Roi Ezra
@@ -24,12 +24,13 @@ Links:
     - zpd.md
     - productive-epistemic-tension.md
     - identity-stakes.md
+    - felt-sense.md
+    - alpha-function.md
     - the-integrated-circuit-board.md
     - preconditions-for-transformative-ai-dialogue.md
     - category-error.md
     - cognitive-dependency.md
     - reflective-prompting.md
-    - felt-sense.md
 Emoji: "\U0001F4A1"
 id: bafyreian45p6xubzvsjrpclvsie6gwcosvkbslizqnwgacihholkzzqhdi
 ---
@@ -40,8 +41,8 @@ Embodied Engagement Conditions function as the **input filter** for the transfor
 This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces nothing—or worse, PSB.   
 ### **The Three Conditions:**   
 **1. [Functional Alterity](functional-alterity.md)**   
-- The symbolic content must feel like it originates from a genuinely different mind   
-- Creates productive disorientation and epistemic tension   
+- The symbolic content must register as irreducibly different turn-by-turn (without implying AI subjectivity)   
+- Preserves productive disorientation and epistemic tension as the pre-existing challenge is encountered   
 - Prevents mere reflection/echo which collapses into monologue   
 - **Without this:** AI output feels like user's own thoughts; no tension generated; Channel 1 remains dormant   
    
@@ -49,7 +50,7 @@ This object explains **differential outcomes**: why some AI output produces insi
 - The difficulty level must fall within the user's Zone of Proximal Development   
 - Too easy → boredom, no metabolic demand   
 - Too hard → overwhelm, defensive shutdown   
-- Optimal \|D-C\| gap creates [productive epistemic friciton](productive-epistemic-tension.md)   
+- A workable subset of the pre-existing \|D–C\| relation supports [productive epistemic tension](productive-epistemic-tension.md)   
 - **Without this:** Material either bypasses Alpha-Function (too easy) or exceeds emotional scaffolding capacity (too hard)   
    
 **3. [Identity Stakes](identity-stakes.md)**   
@@ -62,12 +63,12 @@ All three conditions must be present simultaneously.
 **How It Works:**
 When all three conditions align:   
 1. Symbolic material enters system through Channel 2   
-2. Functional Alterity creates productive tension (prevents immediate assimilation)   
+2. [Functional Alterity](functional-alterity.md) preserves productive tension turn-by-turn (prevents immediate assimilation)   
 3. ZPD Alignment ensures material is metabolizable (not too easy/hard)   
 4. Identity Stakes activates somatic relevance detection   
 5. → As-If Body Loop engages, routing symbolic content through embodied simulation   
-6. → Channel 1 produces felt-sense verification signal   
-7. → Alpha-Function receives joint input (symbolic + somatic) and can metabolize   
+6. [Felt Sense](felt-sense.md) becomes salient as the [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal   
+7. → [Alpha-Function](alpha-function.md) receives joint input (symbolic + somatic) and can metabolize   
 8. → Transformation pathway activated   
    
 When conditions are absent:   
@@ -99,4 +100,4 @@ The Integrated Circuit Board cannot function without these content conditions be
     - Preconditions for Transformative AI Dialogue   
     - Psychoanalytic Prerequisites (developmental architecture)   
 - **Operationalized By:** [Reflective Prompting](reflective-prompting.md)    
-- **Verified Through:** [Felt Sense](felt-sense.md)    
+- **Engages:** [Felt Sense](felt-sense.md) (Channel 1 verification signal)   

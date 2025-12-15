@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - self-explanation.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Cognitive Science & Embodied Cognition
@@ -34,7 +35,7 @@ Reflective Prompting's RRV Cycle (Externalize → Refine → Validate) mirrors t
 RRV Cycle is the **dialogue structure** for Phase 2 co-articulation.   
 **RPVL runs continuously DURING RRV as quality control:**   
 - During Externalize: RPVL checks clarity, grounding, embodiment   
-- During Refine: RPVL detects flattery, tests felt sense, checks grammar   
+- During Refine: RPVL detects flattery, uses felt sense to verify internal persuasiveness, checks grammar   
 - During Validate: RPVL performs final embodied verification   
    
 **The distinction:**   

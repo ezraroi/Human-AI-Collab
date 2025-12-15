@@ -30,7 +30,7 @@ Your model proposes that the As-If Body Loop is the key mechanism linking Channe
 ### 2. The AI as Functional Alterity and Cognitive Preprocessor   
 Your incorporation of AI into the architecture moves the conversation from ontological debate to functional utility.   
 - [System 0](system-0.md) and Pre-processing: The AI supplies symbolic material (Channel 2) that shapes what the user brings into Alpha-Function processing. This active role directly challenges the limitations of traditional cognitive tools, which are seen as merely passive repositories.   
-- [Functional Alterity](functional-alterity.md): Your model shifts the criteria for a "dialogical partner" from the AI's ontological consciousness ([Bakhtin's](mikhail-bakhtin.md) high bar) to its "functional alterity"—its engineered ability to create "productive epistemic tension". This makes the AI a necessary component in the system for growth.   
+- [Functional Alterity](functional-alterity.md): Your model shifts the criteria for a "dialogical partner" from the AI's ontological consciousness ([Bakhtin's](mikhail-bakhtin.md) high bar) to its "functional alterity"—its turn-by-turn resistance function that preserves "productive epistemic tension". This makes the AI a generative component only when integrated with adequate scaffolding.   
    
 ### 3. The [Journal](journal.md) as an External [Alpha Function](alpha-function.md) and [Chronotope](chronotope.md)   
 The role of the [journal](journal.md) is redefined from a mere memory aid into a constitutive element of psychological functioning, a concept supported by the extension of cognitive theories.   

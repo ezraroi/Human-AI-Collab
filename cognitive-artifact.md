@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Dynamic'
 Backlinks:
+    - section-5-the-category-error-relational-axis-f.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - activation-pathway-of-destiny-drive.md
 Origin Domain:

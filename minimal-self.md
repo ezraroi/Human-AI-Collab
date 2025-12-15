@@ -22,7 +22,7 @@ Emoji: "\U0001F4A1"
 id: bafyreiajosdubxldaf7l5yzn4hwpw6icikhxg6j7lugkofd57wuewu3ps4
 ---
 # Minimal Self   
-**Definition:** The most basic, instantaneous experience of being a subject. The "I can" that is simply given in any experience.
+The most basic, instantaneous experience of being a subject. The "I can" that is simply given in any experience.
 **System Role:** This is the entity that *uses* the system. It is the source of **[Felt Sense](felt-sense.md)** verification.
 **Distinction:** Unlike the **[Narrative Self](narrative-self.md)**, it is not constructed; it is immediate and present-moment.   
 **Relations:**   

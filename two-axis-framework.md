@@ -15,7 +15,7 @@ Backlinks:
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Sealed
+Research Status: Evergreen
 Creation date: "2025-12-06T09:24:09Z"
 Created by:
     - Roi Ezra

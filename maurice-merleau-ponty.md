@@ -32,6 +32,6 @@ Provides the **Phenomenological Ground**.
 Maurice Merleau-Ponty (1908–1961) was a French phenomenological philosopher who emphasized the body as the primary site of knowing the world. Unlike the intellectual "I think" of Descartes, Merleau-Ponty posited that our primary relationship to the world is bodily and practical.   
 **Relevance to Model:**   
 - His distinction between [Pre-Reflective](pre-reflective-awareness.md) and [Reflective awareness](reflective-awareness.md) aligns with [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied signal) and [Channel 2](channel-2-symbolic.md) (symbolic articulation).   
-- His concept of the "Lived Body" validates the **[Felt Sense](felt-sense.md)** as a form of knowledge, not just a feeling.   
+- His concept of the "Lived Body" supports [Felt Sense](felt-sense.md) as a somatic awareness of meaning that can be used for verification, not just an emotion   
    
    

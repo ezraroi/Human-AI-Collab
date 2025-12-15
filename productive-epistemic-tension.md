@@ -10,11 +10,13 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - embodied-engagement-conditions.md
-    - channel-2-symbolic.md
+    - dialogical-knowing.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - ai.md
     - section-10-the-grand-unification.md
+    - section-8-the-recursive-loop-and-embodied-inte.md
+    - protein-shake-brain-psb.md
     - functional-thirdness.md
     - functional-alterity.md
 Origin Domain:

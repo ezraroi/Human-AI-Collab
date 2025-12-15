@@ -57,6 +57,7 @@ Links:
     - protein-shake-brain-psb.md
     - journal.md
     - productive-epistemic-tension.md
+    - mko-more-knowledgeable-other.md
     - rrv-cycle-recursive-refine-validate.md
     - c-capacity.md
     - ai.md
@@ -82,7 +83,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 ### System Role   
 - Converts AI interaction from **consumption** to **co-articulation**.   
 - Maintains the *conditions* for [Productive Epistemic Tension](productive-epistemic-tension.md)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
-- Ensures AI remains a **Piagetian Tool (Object)** serving the human container, rather than a pseudo-MKO doing the alpha-function for the user.   
+- Ensures AI remains a **Piagetian Tool (Object)** serving the human container, rather than a pseudo-[MKO](mko-more-knowledgeable-other.md) doing the alpha-function for the user.   
 - Provides the **session-level protocol** that operates inside the [Recursive–Refine–Validate Cycle](rrv-cycle-recursive-refine-validate.md).   
    
 ### Scope & Preconditions   
@@ -120,7 +121,7 @@ Implements the RRV Cycle micro-method with **continuous RPVL verification**.
 The RRV Cycle provides the dialogue structure; RPVL provides quality control throughout.   
 **Operations (implemented by RRV Cycle):**   
 1. **Externalize** – Speak/write raw thoughts, confusions, stakes to AI ([Rubber Duck Debugging](rubber-duck-debugging.md)).   
-2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence.   
+2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence, and be willing to question your own first interpretation.   
 3. **Validate** – Ask AI to summarize “what we’re doing” and check it against felt sense and task definition.   
    
 **Cognitive role:**   
@@ -173,6 +174,5 @@ This triggers [Conflict Detection (Model Repair)](conflict-detection-model-repai
    
 ### Failure Modes / Diagnostics   
 - **[PSB](protein-shake-brain-psb.md)**   
-   
    
 **Notes:** The flagship method integrating scaffolding, metabolism, and verification.   

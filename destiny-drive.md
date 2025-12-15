@@ -15,6 +15,7 @@ Backlinks:
     - iron-man-mentality.md
     - christopher-bollas.md
     - section-3-foundational-theoretical-integration.md
+    - the-hidden-implications-youve-discovered.md
     - section-6-the-complete-system-architecture.md
     - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md
@@ -24,7 +25,7 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:50:45Z"
 Created by:
     - Roi Ezra
@@ -49,7 +50,7 @@ Destiny Drive is **not a mechanism** in the [Third Intelligence](third-intellige
 It is an **emergent experiential outcome** that appears when:   
 - the [recursive loop](recursive-metabolic-loop.md) is operating effectively on **[Identity Stakes](identity-stakes.md)** material   
 - [Alpha-Function](alpha-function.md) is repeatedly activated through structured tension + support   
-- the [False-Self](false-self.md) defensive structures weaken   
+- Winnicottian [False Self](false-self.md) defensive compliance weakens as sufficient holding makes spontaneity safer   
 - transformation becomes self-sustaining   
    
 When articulated, Destiny Drive is **felt** as:   
@@ -72,7 +73,7 @@ Destiny Drive explains the **vector** of transformation—*where the increased [
    
 ### Relations to Other Objects   
 - **[True Self ](true-self.md)/ Idiom** (articulates)   
-- **[False Self](false-self.md)** (remains dominant when Destiny Drive is latent/unarticulated)   
+- [False Self](false-self.md) (can remain dominant when Destiny Drive is latent/unarticulated under failed holding)   
 - **[Identity Stakes](identity-stakes.md)** (domain where Destiny Drive becomes relevant)   
 - **[Journal](journal.md)** (primary objects supporting articulation)   
 - **AI / DTO** (secondary catalytic object)   

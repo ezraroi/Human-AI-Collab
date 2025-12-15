@@ -22,14 +22,15 @@ Created by:
 Links:
     - protein-shake-brain-psb.md
     - felt-sense.md
+    - channel-1-embodied-sensorimotor-pathway.md
 Emoji: "\U0001F4A1"
 id: bafyreih7e2heitdehp3spw7pztcfoiuxh2cqx3waykxvnizccmgvua7j3u
 ---
 # Negative Capability   
-**Definition:** The operational metric of genuine growth. The ability to sustain uncertainty, hold partial answers, and tolerate the "tightness" of the unready-to-hand state without rushing to resolution.   
+The operational capacity underlying genuine growth. The ability to sustain uncertainty, hold partial answers, and tolerate the "tightness" of the unready-to-hand state without rushing to resolution.   
 **Relations:**   
 - Link to **[Protein Shake Brain](protein-shake-brain-psb.md)** (Relation: `Antidote To` - PSB is "Low Negative Capability" ).   
-- Link to **[Felt Sense](felt-sense.md)** (Relation: `Relies On` - tolerating the "tightness" ).   
+- Link to **[Felt Sense](felt-sense.md)** (Relation: Relies On - tolerating difficult [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)signals such as "tightness").   
    
 **Notes:** Central developmental operator in your system.   
    

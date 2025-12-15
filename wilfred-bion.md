@@ -11,13 +11,15 @@ Backlinks:
     - alpha-elements.md
     - document-abstract.md
     - beta-elements.md
+    - conflict-detection-model-repair.md
     - selected-fact.md
     - section-3-foundational-theoretical-integration.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - the-container.md
     - d-difficulty.md
     - external-alpha-function.md
     - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-mechanism-the-dual-process-of-self-.md
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
@@ -29,6 +31,7 @@ Backlinks:
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - the-unified-architecture.md
     - dialogical-and-embodied-frameworks-an-integrat.md
+    - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Psychoanalysis

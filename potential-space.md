@@ -8,8 +8,10 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Static'
 Backlinks:
+    - 7-final-conclusion-the-third-intelligence.md
     - dynamic-transitional-object-dto.md
     - functional-thirdness.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

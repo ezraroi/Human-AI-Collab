@@ -14,7 +14,7 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T13:24:04Z"
 Created by:
     - Roi Ezra
@@ -44,9 +44,9 @@ Functional Thirdness resolves this by shifting from **ontology** (what AI IS) to
 **Three Constituent Conditions:**   
 Functional Thirdness emerges when—and only when—all three conditions are present simultaneously:   
 **1. [Functional Alterity](functional-alterity.md) (Productive Difference)**   
-- AI generates irreducible difference that maintains [productive epistemic tension](productive-epistemic-tension.md)   
+- AI generates irreducible difference turn-by-turn that maintains [productive epistemic tension](productive-epistemic-tension.md)   
 - Prevents collapse into echo chamber or sycophancy   
-- Creates the challenge necessary for [Alpha-Function](alpha-function.md) activation   
+- Preserves the productivity of the pre-existing challenge necessary for [Alpha-Function](alpha-function.md) activation (without changing the structural \|D–C\| gap)   
 - **Without this:** Dialogue flattens into monologue; no developmental pressure   
    
 **2. [Systematic Competence](systematic-competence.md) (Structural Reliability)**   

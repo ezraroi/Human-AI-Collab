@@ -94,7 +94,7 @@ This recursive structure keeps Alpha-Function processing engaged live.
 - **[Felt Sense](felt-sense.md)** — *Relies On*   
     Embodied knowing is the primary verification signal.   
 - **[Epistemological Humility](epistemological-humility.md)** — *Requires*   
-    Keeps the human in a non-defensive, non-omniscient posture.   
+    Sustains willingness to doubt both AI output and one’s own self-perception during verification.   
 - **[PSB](protein-shake-brain-psb.md)** — *Protects Against*   
     Prevents ungrounded fluency from entering the symbolic system.   
 - **[External Alpha-Function](external-alpha-function.md)** — *Defines Boundary With*   

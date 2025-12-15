@@ -19,7 +19,7 @@ Beyond internal awareness, the AIC is heavily implicated in high-level cognitive
 ## [BIOLOGICAL SUBSTRATE] As-If Body Loop
 [Empirical] Domain: Bio-Embodied, Temporal: Static
 
-The cognitive mechanism that mediates between embodied evaluation/verification (Channel 1) and symbolic input (Channel 2). It allows the brain to simulate bodily changes without waiting for the physical body, explaining how text produces embodied knowing.
+A hypothesized mechanism by which symbolic input (Channel 2) can recruit embodied simulation (Channel 1), supporting the availability of Felt Sense as a Channel 1 verification signal without requiring overt physical change.
 The "**As-If Body Loop**" is a theoretical pathway proposed within Damasio’s Somatic Marker Hypothesis (SMH) to explain how the brain can generate emotional and visceral biasing signals to guide decision-making **without requiring an actual physical change in the body**.
 **What it is and its role:**
 The *Somatic Marker Hypothesis* suggests that decision-making is guided by "somatic markers"—crude biasing signals representing emotional reactions that arise from the periphery or the central representation of the periphery. The **"as-if body loop"** is the central mechanism that facilitates the rapid, internal activation of these markers.
@@ -31,15 +31,15 @@ The concept of the "as-if loop" extends and specifies earlier accounts of how an
 The "as-if body loop" contrasts with the **"body loop,"** where physical changes are actually transmitted to the brain to directly induce emotions, typically triggered by primary inducers (innate or learned sensory stimuli) through the amygdala and vmPFC, which stimulate the body and generate a specific somatic state.
 ### Local Failure Mode: Symbolic Overrun
 When the As-If Body Loop is weak, ignored, or bypassed, symbolic material (Channel 2) fails to trigger embodied simulation (Channel 1). This produces a flattening of experience where:
-- ideas feel clear but ungrounded,
-- insights appear instantly “true” without somatic resonance,
-- thinking becomes abstracted, polished, and brittle,
-- the user loses access to the “tight vs. spacious” felt-sense discriminator.
+- ideas feel clear but ungrounded
+- insights appear instantly “right” without Felt Sense verification
+- thinking becomes abstracted, polished, and brittle
+- the user loses access to the “tight vs. spacious” felt-sense discriminator
 
 This is the core failure mode of the As-If Body Loop.
 ### **Interaction Dynamics (Propagation Rules)**
 When the As-If Body Loop is offline or under-engaged:
-- Alpha-Function cycles proceed with Channel 2 material without Channel 1 regulation → leads to brittle pseudo-insight.
+- Alpha-Function cycles proceed with Channel 2 material without Channel 1 verification (via Felt Sense) → leads to brittle pseudo-insight.
 - **Journal entries become over-conceptualized** (heady, coherent, but not alive).
 - **Capacity (C)** does not increase properly, because metabolization lacks affective grounding.
 - **Future cycles begin from a false baseline**, since prior entries did not reflect embodied verification.
@@ -66,15 +66,15 @@ The As-If Body Loop requires enough Sₑ (emotional capacity) to allow **felt ex
 - The user unconsciously avoids embodied signals (too intense or disruptive).
 - Processing shifts into pure abstraction (Channel 2 dominance).
 - The felt-sense becomes inaccessible or muted.
-- Somatic markers cannot regulate Alpha-Function.
+- Felt Sense verification becomes harder to access during Alpha-Function processing.
 
 Sₑ therefore governs *whether* the Loop can activate, even when symbolic input is available.
 **Relations (The Wiring):**
 - **Part Of:** Integrated Circuit Board (Axis B architecture)
-- Link to **Anterior Insular Cortex** (Relation: `Neural Basis Of`).
+- Link to **Anterior Insular Cortex** (Relation: Associated With).
 - Link to **Channel 1 ** (Relation: `Connects To`).
 - Link to **Channel 2 (Symbolic)** (Relation: `Connects To`).
-- Link to **Alpha-Function** (Relation: `Mechanism Of`).
+- Link to **Alpha-Function** (Relation: Supports).
 
 **Notes:** Mechanism for simulation of bodily states; underpins embodied simulation & felt sense.
 

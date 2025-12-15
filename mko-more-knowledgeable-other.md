@@ -8,11 +8,11 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Static'
 Backlinks:
+    - reflective-prompting.md
     - lev-vygotsky.md
     - section-3-foundational-theoretical-integration.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
-    - section-6-the-complete-system-architecture.md
     - technical-scaffolding-s_t.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - dialogical-and-embodied-frameworks-an-integrat.md

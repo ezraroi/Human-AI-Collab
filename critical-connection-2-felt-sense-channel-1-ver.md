@@ -29,7 +29,7 @@ id: bafyreiheycz3a23l3djbgyja6at6l7opyxzip6toh44r2i6fehrvrg6wvi
 - Creates the affective coherence needed for genuine understanding   
 - Pre-verbal processing that makes symbolic processing possible   
    
-THE CONNECTION: The "felt sense" is the [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal used within [Alpha-Function](alpha-function.md) processing. When you describe checking if something feels "spacious" or "tight" in your body, you're describing the alpha function operating through interoceptive awareness.   
+THE CONNECTION: The "felt sense" is the [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal used within [Alpha-Function](alpha-function.md) processing. When you describe checking if something feels "spacious" or "tight" in your body, you're using [Felt Sense](felt-sense.md) as a [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal within Alpha-Function processing.   
 This explains why:   
 - You can tell when AI responses feel "off" before analyzing them logically   
 - The [journal](journal.md) helps - it engages both channels (writing = motor + semantic)   

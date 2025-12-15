@@ -11,7 +11,6 @@ Links:
     - as-if-body-loop.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - alpha-function.md
     - felt-sense.md
     - anterior-insular-cortex-aic.md
     - c-capacity.md
@@ -26,7 +25,7 @@ For your model: Is this how [Channel 2](channel-2-symbolic.md) (symbolic) input 
 When you read AI text:   
 1. Symbolic input (Channel 2) is processed semantically   
 2. [As-if body](as-if-body-loop.md) loop supports embodied response (Channel 2 input recruits Channel 1)   
-3. Felt sense emerges from simulation (Channel 1)   
+3. [Felt sense](felt-sense.md) becomes available as a [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal (possibly supported by simulation)   
 4. Verification check (Channel 1 → Channel 2)   
 5. Integration (both channels)   
    
@@ -34,8 +33,8 @@ Question: Does this as-if loop explain why disembodied text can produce embodied
 My Answer: Yes, the same as when you read or think on something the brain simulate it, the same when we are in a conversation with AI.   
 ### Question 2: Does Channel 1 Have Veto Power?   
 Observation from your work: You describe checking AI responses against "spacious vs tight" feeling. If it feels "tight," you reject it even if logically sound.   
-Question: Is Channel 1 (felt sense) the final arbiter of truth? Can Channel 2 override Channel 1, or is Channel 1 foundational?   
-Hypothesis: The [alpha function](alpha-function.md) STARTS in Channel 1. If Channel 1 says "no," transformation cannot occur. Channel 2 can refine, but not override.   
+Question: Is Channel 1 (felt sense) the final arbiter of internal persuasiveness? Can Channel 2 override Channel 1, or is Channel 1 foundational?   
+Hypothesis: [Channel 1](channel-1-embodied-sensorimotor-pathway.md) can veto discourse that is not internally persuasive; without Channel 1 verification, transformation is unlikely to stabilize. Channel 2 can refine, but not override.   
 My Answer: So I think at the end the user is deciding what to do and if to listen to the body or not, the same way we do in our daily life. I am not sure that no transformation will occur as the conversation itself is an iterative process, some answers you go with your [felt sense](felt-sense.md), some you don’t have and some you go against. It is not a single time… But in my deep work and conversation, I felt in my body that something happened at the end.   
 ### Question 3: Is Interoceptive Attention Trainable = Alpha Function Trainable?   
 From NoteBook 2: The [anterior insular cortex (AIC)](anterior-insular-cortex-aic.md) processes interoceptive awareness. Studies show focal brain damage to AIC impairs interoceptive attention.   

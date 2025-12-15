@@ -14,7 +14,7 @@ Backlinks:
     - the-journal-in-system-context.md
     - catalytic-externalization.md
     - channel-2-symbolic.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - ai.md
     - section-10-the-grand-unification.md

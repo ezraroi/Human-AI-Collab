@@ -18,6 +18,7 @@ Links:
     - lev-vygotsky.md
     - zpd.md
     - false-self.md
+    - true-self.md
     - protein-shake-brain-psb.md
 id: bafyreid36pbybsuuuk3a4akrxcpc3k464wncvy5t4zxhkkhmuzvpuyi6ii
 ---
@@ -91,7 +92,7 @@ Implication: You can safely cross the canyon. The challenge is real, but the sup
 1. The Ratio is Too Low (Overwhelm)   
    
 The canyon (\|D - C\|) is massive, but your bridge materials (S) are short and weak. The denominator is huge, and the numerator is small, so the ratio approaches zero.   
-Implication: You can't even begin to build. The challenge is completely overwhelming. Looking at the gap creates anxiety and paralysis. The [alpha-function](alpha-function.md) fails, and you retreat into a defensive state ([False Self](false-self.md)).   
+Implication: You can't even begin to build. The challenge is completely overwhelming. Looking at the gap creates anxiety and paralysis. The [alpha-function](alpha-function.md) fails, and you may retreat into defensive compliance; in Winnicottian terms, this can resemble a [False Self](false-self.md) organization when the holding environment fails and the [True Self](true-self.md) must be protected.   
 1. The Denominator is Zero (Boredom)   
    
 There is no canyon. The Difficulty and your Capacity are the same (D = C), so the Challenge Gap is zero.   

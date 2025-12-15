@@ -29,7 +29,7 @@ Emoji: "\U0001F4A1"
 id: bafyreih3x3hul3wuaplbsiirhmwhkiwuxrhgsdiihtkxevbyzw4qvozlwi
 ---
 # Internally Persuasive Discourse   
-**Definition:** Information or guidance that is internalized through genuine understanding and responsive collaboration, rather than coercion. It is the linguistic building block of the **[True Self](true-self.md)**.   
+Information or guidance that is internalized through genuine understanding and ownership, rather than coercion. It can serve as linguistic material for the [True Self](true-self.md) when verified through [Felt Sense](felt-sense.md).   
 **Verification:** You know discourse is "internally persuasive" when it resonates with the **[Felt Sense](felt-sense.md)**, causing a "[Felt Shift](felt-shift.md)"   
 **Notes:** AI/human articulation that resonates with Felt Sense.   
 [Mikhail Bakhtin](mikhail-bakhtin.md)    

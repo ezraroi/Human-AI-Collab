@@ -52,7 +52,7 @@ Iron Man Mentality:
 - Maintains **[productive epistemic tension.](productive-epistemic-tension.md)**   
 - Protects germane load by offloading only lower-level retrieval/storage (extraneous load), never the processing of symbolic meaning ([Alpha-Function](alpha-function.md))   
 - Ensures that transformation occurs without collapse of self-authorship or symbolic integrity.   
-- Acts as the **conscious counterpart of the [Destiny Driv](destiny-drive.md)e** — keeping the human aligned with the idiom of their thinking.   
+- Acts as the conscious protective stance that keeps the human aligned with their idiom as [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated.   
    
 This stance is **necessary but not sufficient** for transformation: it enables [Reflective Prompting](reflective-prompting.md), [External Alpha-Function](external-alpha-function.md), and the [Journal](journal.md) to function as designed.   
 ## Mechanisms   

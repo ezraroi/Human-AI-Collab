@@ -12,22 +12,22 @@ Links:
     - ai.md
     - journal.md
     - time.md
-    - emotional-scaffolding-s_e.md
     - technical-scaffolding-s_t.md
     - c-capacity.md
+    - emotional-scaffolding-s_e.md
     - jim-collins.md
     - destiny-drive.md
     - alpha-function.md
     - wilfred-bion.md
     - felt-sense.md
     - eugene-gendlin.md
-    - d-difficulty.md
+    - zpd.md
     - chronotope.md
     - third-intelligence.md
     - reflective-prompting.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - hubert-hermans.md
     - functional-alterity.md
-    - mko-more-knowledgeable-other.md
     - recursive-metabolic-loop.md
 id: bafyreieuegca6opje7elswx5unm4izyr4jkgizrma7ymfcktfyi25f46uq
 ---
@@ -35,7 +35,7 @@ id: bafyreieuegca6opje7elswx5unm4izyr4jkgizrma7ymfcktfyi25f46uq
 ## 6. The Complete System: Human + Journal + AI + Time   
 ### The Complete System Architecture   
 [Human](human.md) + [AI](ai.md) + [Journal](journal.md) + [Time](time.md) enables cumulative transformation through:   
-1. AI: Provides dynamic scaffolding ([S\_e](emotional-scaffolding-s_e.md), [S\_t](technical-scaffolding-s_t.md)) adjustable in real-time   
+1. AI: Provides [technical scaffolding (S\_t)](technical-scaffolding-s_t.md) adjustable in real-time   
 - Before AI: Fixed scaffolding from mentor/context   
 - With AI: Can modulate "explain like I'm 5" vs "technical depth", "challenge me" vs "support me"   
 - Challenge Without Judgment.   
@@ -57,12 +57,12 @@ Our [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md) sy
 ### The Updated, Unified Model   
 This synthesis gives us our most robust model yet.   
 The System: [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md)   
-The Goal: To enable authentic psychological transformation by removing the developmental obstacles that prevent the **latent** [Destiny Drive](destiny-drive.md) from becoming phenomenologically articulated as lived idiom expression.   
+The Goal: To enable authentic psychological transformation by removing the developmental obstacles that block **idiom (True Self) articulation**, such that [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated as lived idiom expression.   
 The Engine: The [Alpha-Function](alpha-function.md) ([Bion](wilfred-bion.md)), which is the internal, embodied process of the Human component.   
 The Feedback: The [Felt Sense](felt-sense.md) ([Gendlin](eugene-gendlin.md)), which is the embodied UI for the Alpha-Function.   
 The Conditions: The system must be structured to provide all the psychoanalytic prerequisites:   
 - The Human provides the Holding ([S\_e](emotional-scaffolding-s_e.md)) and manages its depletion ([S\_e](emotional-scaffolding-s_e.md)).   
-- The AI provides the Challenge (\|[D](d-difficulty.md)-[C](c-capacity.md)\|) and Scaffolding ([S\_t](technical-scaffolding-s_t.md)).   
+- The [AI](ai.md) provides [technical scaffolding (S\_t](technical-scaffolding-s_t.md)) and preserves productive epistemic tension as the pre-existing (\|D–C\|) relation is encountered inside the [ZPD](zpd.md).   
 - The Journal provides the Proof of Survival and Continuity ([Chronotope](chronotope.md)).   
 - Time provides the Iteration (Flywheel) and Recovery (Rest).   
    
@@ -82,7 +82,7 @@ What's being measured: Not the system's capacity (AI has infinite capacity), but
 The solution to the paradox is not to prove the AI is a partner, but to resituate it within a correctly structured system. Your "[Reflective Prompting](reflective-prompting.md)" method is not just a prompt; it's an operational procedure for building this system.   
 The "[Third Intelligence](third-intelligence.md)" is a Human + Journal + AI + Time System where each component has a non-negotiable role.   
 ### System Component Roles   
-The Human: Provides the emotional scaffolding, holding environment, and container ([S\_e](emotional-scaffolding-s_e.md)), performing Bion's [alpha-function](alpha-function.md) to metabolize raw experience, which is validated through the embodied felt sense.   
+The Human: Provides the emotional scaffolding, holding environment, and container, performing Bion's [alpha-function](alpha-function.md) to metabolize raw experience, with discourse verified through [Felt Sense](felt-sense.md) as a [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)signal.   
 The [Journal](journal.md): Provides the [Chronotope](chronotope.md) (Bakhtin's stable time-space) and Continuity/Memory ([Hermans](hubert-hermans.md)), materializing the integration of symbolic and sensorimotor channels through the act of writing and serving as the record of accumulated transformation across iterations.   
-The AI: provides a Vygotskian technical tool ([S\_t](technical-scaffolding-s_t.md)) and, crucially, generates optimal challenge or productive tension (\|D-C\|)—acting as a 'Productive Fiction' or '[Functional Alterity](functional-alterity.md)' mirror to activate the user's [alpha-function](alpha-function.md) and provide scaffolding ([S\_t](technical-scaffolding-s_t.md) as [MKO](mko-more-knowledgeable-other.md)).
+The AI: provides a Vygotskian technical tool (S\_t) and, crucially, preserves optimal productive tension as the pre-existing (\|D–C\|) relation is encountered—acting as a 'Productive Fiction' via turn-by-turn [Functional Alterity](functional-alterity.md) to support activation of the user's [alpha-function](alpha-function.md) while providing scaffolding (S\_t).
 The Time: Provides the time for digestion, rest, not being overwhelmed and in mania. Enables the [Recursive Loop](recursive-metabolic-loop.md) and Accumulation. Transformation occurs through repeated iterations of the cycle, strengthening capacity ([C](c-capacity.md)) over time.   

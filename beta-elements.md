@@ -14,7 +14,9 @@ Backlinks:
     - edmund-husserl.md
     - system-0.md
     - journal.md
+    - conflict-detection-model-repair.md
     - self-explanation.md
+    - the-large-language-model-as-dynamic-transition.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -30,6 +32,7 @@ Backlinks:
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
+    - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md

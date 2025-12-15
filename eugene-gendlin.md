@@ -8,9 +8,7 @@ Tag:
 Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - external-alpha-function.md
-    - somatic-marker-hypothesis.md
     - section-6-the-complete-system-architecture.md
-    - section-8-the-recursive-loop-and-embodied-inte.md
     - felt-sense.md
     - critical-connection-2-felt-sense-channel-1-ver.md
     - the-unified-architecture.md
@@ -30,9 +28,8 @@ id: bafyreicwlzvnukn2xwuxtrzhoz6yzcrj77ubfdomfv7ukoeox4wt7bqxqe
 ---
 # Eugene Gendlin   
 Provides the **Embodied Feedback (UI)**.
-***[Felt Sense](felt-sense.md):** The somatic feedback mechanism for the [Alpha-Function](alpha-function.md).
-***Resonation:** How we verify if an AI-generated insight is true ("internally persuasive")   
-   
+[Felt Sense](felt-sense.md): The somatic, Channel 1 verification signal used within [Alpha-Function](alpha-function.md) processing.*
+***Resonation:** Attending to Felt Sense to verify whether an AI-generated discourse is internally persuasive.   
 Eugene Gendlin (1926–2017) was an Austrian-born American **philosopher and psychologist** best known for developing the therapeutic practice called **Focusing** and the "Philosophy of the Implicit".   
 Key Contributions   
 - **Focusing:** A body-oriented, experiential method that helps individuals access their "felt sense"—a subtle, non-verbal bodily awareness of a situation or problem—to generate new insights, emotional healing, and personal development. This practice originated from his research which found that successful therapy clients were those who could attend to this inner, bodily experience.   

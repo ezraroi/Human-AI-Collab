@@ -15,6 +15,7 @@ Links:
     - bafyreicofgtyyw5zxwn7s63qlmwdl6di5m6xo3i4u6a4qfkbn6qmb5rb2i
     - p-alpha-probability-of-growth.md
     - zpd.md
+    - challenge-gap-d-c.md
     - emotional-scaffolding-s_e.md
     - technical-scaffolding-s_t.md
     - reflective-prompting.md
@@ -27,7 +28,7 @@ The danger is not AI itself, but the collapse of internal process.
 Reflective prompting reconstructs the process that modern AI erodes.   
 ### 1. The Full Loop   
 1. The Risk:   
-    - [False Self](false-self.md)   
+    - [False Self](false-self.md) patterns (Winnicottian defensive compliance that can be reinforced under failed holding)   
     - [False True Self](false-true-self.md)   
     - [Protein Shake Brain](protein-shake-brain-psb.md)   
     - [Transmissive Self](transmissive-self.md)   
@@ -36,7 +37,7 @@ Reflective prompting reconstructs the process that modern AI erodes.
 2. The Model:   
     - [P(α)](p-alpha-probability-of-growth.md)   
     - [ZPD](zpd.md)   
-    - Challenge gap   
+    - [Challenge gap](challenge-gap-d-c.md)   
     - [S\_e](emotional-scaffolding-s_e.md) and [S\_t](technical-scaffolding-s_t.md)   
     - Structural turn-taking   
 3. The Mechanism:   

@@ -27,9 +27,9 @@ id: bafyreiemum6lmncpex4tvibg3e5pefh3grk2xkhdjmwe5dfybzbcdfjzqa
 # Pre-Reflective Awareness   
 The immediate, tacit awareness inherent to any experience. It is the first-personal "mineness" of experience—not a thought *about* experience, but the feeling *of* experience itself.
 **Character:** Immediate, non-observational, tacit, passive, spontaneous.
-Model Equivalent: It maps to [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (Embodied / Sensorimotor–Interoceptive) and is the domain of the [Felt Sense/](felt-sense.md)   
+Model Equivalent: It maps to [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (Embodied / Sensorimotor–Interoceptive), within which [Felt Sense](felt-sense.md) functions as a somatic meaning-verification signal.   
 **Relations:**   
 - Link to **[Maurice Merleau-Ponty](maurice-merleau-ponty.md)** (Relation: `Defined By`).   
-- Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: `Neural Substrate Of`).   
+- Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: Associated With).   
    
 **Notes:** Immediate tacit awareness; maps to Channel 1.   

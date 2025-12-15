@@ -16,6 +16,7 @@ Creation date: "2025-12-08T17:48:45Z"
 Created by:
     - Roi Ezra
 Links:
+    - alpha-function.md
     - protein-shake-brain-psb.md
     - epistemological-humility.md
     - idiom-aligned-scaffolding.md
@@ -30,7 +31,7 @@ Emoji: "\U0001F4A1"
 id: bafyreiahfmjeygqjg3tmerhudzy4mnup6te7qdt5f4ixx47dypmekuqqmu
 ---
 # Preconditions for Transformative AI Dialogue   
-The minimal set of cognitive capacities and relational stances required for AI-mediated dialogue to function as **transformative** (activating alpha-function and C growth) rather than merely **productive** (instrumental output). These preconditions distinguish a safe, developmental use of AI from Candy House / [PSB](protein-shake-brain-psb.md) patterns   
+The minimal set of cognitive capacities and relational stances required for AI-mediated dialogue to function as transformative **(enabling [alpha-function](alpha-function.md) engagement and capacity growth)** rather than merely productive (instrumental output). These preconditions distinguish a safe, developmental use of AI from Candy House / [PSB](protein-shake-brain-psb.md) patterns   
 ### Components   
 Includes at least:   
 - [Epistemological Humility](epistemological-humility.md)   

@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Meta'
     - 'Temporal: Static'
 Backlinks:
+    - 5-the-embodied-connection.md
     - destiny-drive.md
     - journal.md
     - questions-your-synthesis-raises.md
@@ -26,9 +27,11 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - two-axis-framework.md
+    - dynamic-transitional-object-dto.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-doing-both-hypothesis.md
     - alpha-function.md
+    - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
     - activation-pathway-of-destiny-drive.md
     - section-13-significance-and-forward-direction.md

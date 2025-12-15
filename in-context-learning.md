@@ -12,7 +12,6 @@ Backlinks:
     - 1-executive-summary-resolving-the-ontology-cri.md
     - the-large-language-model-as-dynamic-transition.md
     - ai.md
-    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Literature: Established academic fact'

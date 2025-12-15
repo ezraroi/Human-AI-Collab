@@ -11,9 +11,8 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - executive-summary.md
     - human.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - hpa-axis.md
-    - emotional-scaffolding-s_e.md
     - wilfred-bion.md
 Origin Domain:
     - Psychoanalysis

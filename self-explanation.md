@@ -14,6 +14,7 @@ Backlinks:
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - gap-filling-inference-generation.md
+    - 3-the-metric-of-growth-high-resolution-uncerta.md
 Epistemic Status: 'Literature: Established academic fact'
 Origin Domain:
     - Developmental Psychology & Learning Theory
@@ -24,16 +25,18 @@ Created by:
 Links:
     - gap-filling-inference-generation.md
     - conflict-detection-model-repair.md
+    - reflective-prompting.md
+    - rrv-cycle-recursive-refine-validate.md
+    - 4ps-protocol.md
     - beta-elements.md
     - alpha-elements.md
     - alpha-function.md
-    - reflective-prompting.md
     - protein-shake-brain-psb.md
 Emoji: "\U0001F6E0️"
 id: bafyreibwo7drufttsu3vw26hdquhv2g4tbl2qb7j5gz7eoqzwsmsb7rbgi
 ---
 # Self-Explanation   
-An established cognitive learning mechanism where learners construct understanding by explaining material to themselves (or others), forcing explicit articulation and mental model repair. Operates through two distinct modes[: Gap Filling](gap-filling-inference-generation.md) (generating inferences) and [Conflict Detection](conflict-detection-model-repair.md) (repairing contradictions).   
+An established cognitive learning mechanism where learners construct understanding by explaining material to themselves (or others), forcing explicit articulation and mental model repair. Operates through two distinct mechanisms: [Gap Filling (generating inferences)](gap-filling-inference-generation.md) and [Conflict Detection](conflict-detection-model-repair.md) (repairing contradictions).   
 **Theoretical Origins:**   
 Cognitive science / educational psychology literature on active learning. Well-documented as effective learning strategy—explaining concepts in own words produces deeper understanding than passive review.   
 **How It's Used in Third Intelligence:**   
@@ -43,9 +46,9 @@ Cognitive science / educational psychology literature on active learning. Well-d
 - Teaching stance triggers explanatory mode   
    
 **As Deliberate Method:**   
-- Reflective Prompting Phase 2 explicitly uses it   
-- RRV Cycle relies on self-explanation mechanism   
-- 4Ps "Process" step requires explicit self-explanation   
+- [Reflective Prompting](reflective-prompting.md) Phase 2 explicitly uses it   
+- [RRV Cycle](rrv-cycle-recursive-refine-validate.md) relies on self-explanation mechanism   
+- [4P](4ps-protocol.md)s "Process" step requires explicit self-explanation   
    
 **Relationship to Alpha-Function:**   
 **Parallel but distinct concepts from different traditions:**   
@@ -76,7 +79,7 @@ Cognitive science / educational psychology literature on active learning. Well-d
 **Relations (Wiring):**   
 - **Cognitive Equivalent Of:** [Alpha-Function](alpha-function.md) (functional parallel, different tradition)   
 - **Core Mechanism Of:** [Reflective Prompting](reflective-prompting.md) (drives Phase 2)   
-- **Has Two Modes:** Gap Filling (Mode A), Conflict Detection (Mode B)   
+- **Has Two Mechanisms:** Gap Filling (generating inferences), Conflict Detection (repairing contradictions)   
 - **Activated By:** Teaching stance, writing, articulation   
 - **Prevents:** Passive consumption, [PSB](protein-shake-brain-psb.md)   
 - **Enables:** Metabolic processing, genuine understanding   

@@ -15,17 +15,19 @@ Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - section-5-the-category-error-relational-axis-f.md
     - holding-environment.md
+    - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
     - ai.md
     - challenge-gap-d-c.md
     - section-10-the-grand-unification.md
     - mko-more-knowledgeable-other.md
+    - section-6-the-complete-system-architecture.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - recursive-pattern-verification-loop.md
@@ -34,7 +36,9 @@ Backlinks:
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - section-13-significance-and-forward-direction.md
+    - emotional-scaffolding-s_e.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
+    - unified-architecture-neurobiological-resolutio.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - functional-alterity.md
     - section-9-pathology-explained-protein-shake-br.md
@@ -63,7 +67,7 @@ The dynamically negotiated **subset of the Challenge Gap** where [Difficulty](d-
 Provides the **active workspace** in which alpha-function can operate. Translation layer connecting your model to learning theory. Only exists when both scaffolds (Sₑ, Sₜ) are sufficient.   
 **Relations**   
 - Exists *within* the **[Challenge Gap](challenge-gap-d-c.md)**   
-- Activated by **[Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ)** and **[Technical Scaffolding](technical-scaffolding-s_t.md) (Sₜ)**   
+- Becomes workable in the presence of [Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ) and [Technical Scaffolding](technical-scaffolding-s_t.md) (Sₜ)   
 - The zone in which [Functional Alterity](functional-alterity.md) shapes how the [Challenge Gap](challenge-gap-d-c.md) is encountered (without creating it)   
 - Linked to **[Alpha-Function](alpha-function.md)** (site of ignition)   
 [Lev Vygotsky](lev-vygotsky.md)    

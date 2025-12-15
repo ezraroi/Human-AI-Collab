@@ -8,11 +8,13 @@ Tag:
     - 'System Role: Output'
     - 'Temporal: Dynamic'
 Backlinks:
+    - section-8-the-recursive-loop-and-embodied-inte.md
+    - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - internally-persuasive-discourse.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-23T07:57:56Z"
 Created by:
     - Roi Ezra

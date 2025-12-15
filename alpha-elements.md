@@ -13,6 +13,7 @@ Backlinks:
     - beta-elements.md
     - edmund-husserl.md
     - journal.md
+    - conflict-detection-model-repair.md
     - self-explanation.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
@@ -31,6 +32,7 @@ Backlinks:
     - c-capacity.md
     - integrated-synthesis-of-psychological-developm.md
     - alpha-function-integrating-dialogical-and-embo.md
+    - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
     - ii-the-novelty-of-the-specific-mechanisms.md
@@ -52,8 +54,8 @@ id: bafyreiaal6aimixoiyzr3o5hpdtqxriy44k5iqeogrxeuqxhvvpjtrbolm
 ---
 # Alpha-Elements   
 Are the result of processing—thinkable thoughts.   
-A processed, 'digested' piece of experience. It is not just a memory; it is an **Embedding**—a multi-dimensional vector representing the internalized meaning of an experience. They are the output of a functioning [Alpha-Function](alpha-function.md).   
-These are the **[Felt Sense](felt-sense.md) made thinkable**   
+A processed, 'digested' piece of experience. It is not just a memory; it is an internalized, structured meaning of an experience. They are the output of a functioning [Alpha-Function](alpha-function.md).   
+These are experiences made thinkable, verified through [Felt Sense](felt-sense.md) during [Alpha-Function](alpha-function.md) processing.   
 **Phenomenological Root ([Husserl](edmund-husserl.md)):** Maps to **Noema**.
 This is the *objective content* of the thought—"what is meant." It is the stable, intelligible result of the Noetic act.   
 **Relations:**   

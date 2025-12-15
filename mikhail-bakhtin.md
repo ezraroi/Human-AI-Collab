@@ -38,8 +38,7 @@ id: bafyreihj27l3day24meghm2jwu3difn4fms4wrvpm2awc5uufceksnzpse
 Provides the **Time-Space Context**.
 ***[Chronotope](chronotope.md):** The stable time-space provided by the **[Journal](journal.md)**.
 ***[Internally Persuasive Discourse:](internally-persuasive-discourse.md)** The goal of the system (vs. [Authoritative Discourse](authoritative-discourse.md)).
-**Alterity:** The "otherness" required for dialogue, simulated by the AI as "[Functional Alterity](functional-alterity.md)"   
-   
+Alterity: The "otherness" required for dialogue, addressed functionally by the AI’s turn-by-turn "[Functional Alterity](functional-alterity.md)" (productive difference without conscious otherness).   
 Mikhail Bakhtin (1895–1975) was a Russian philosopher, literary critic, and scholar who became one of the most influential thinkers of the 20th century in literary theory, ethics, and the philosophy of language. His work emphasizes that all language and meaning are social and produced through dynamic interaction, not static systems.   
 Key Contributions and Concepts   
 - **Dialogism:** This central concept argues that all discourse is fundamentally an ongoing, responsive exchange, where meaning is generated only through the interaction of different voices and contexts, not in isolation. "To be means to be for another, and through the other for oneself".   

@@ -12,16 +12,19 @@ Tag:
 Backlinks:
     - kurt-lewin.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - holding-environment.md
     - section-1-introduction-and-framework-positioning.md
-    - section-4-the-importance-of-s_e-emotional-scaf.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
     - the-hidden-implications-youve-discovered.md
     - section-10-the-grand-unification.md
     - section-7-the-three-layer-architecture-tempora.md
+    - psychoanalytic-integration.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - section-13-significance-and-forward-direction.md
+    - emotional-scaffolding-s_e.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
     - the-recursive-third-intelligence-system-archit.md

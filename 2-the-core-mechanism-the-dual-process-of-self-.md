@@ -11,13 +11,15 @@ Created by:
     - Roi Ezra
 Links:
     - self-explanation.md
+    - wilfred-bion.md
+    - alpha-function.md
     - gap-filling-inference-generation.md
     - conflict-detection-model-repair.md
     - reflective-prompting.md
 id: bafyreie3efvupjxwmsp7gztydn3lhxdnsze6d4ddcmxnitfy3pcc4jtx5q
 ---
 # 2. The Core Mechanism: The Dual-Process of Self-Explanation   
-The research validates that "[Self-Explanation](self-explanation.md)" is the cognitive equivalent of Bion's Alpha Function. It operates through two distinct mechanisms:   
+The research validates that [Self-Explanation](self-explanation.md) operates through mechanisms that correspond to modes of [Bion’s](wilfred-bion.md) [Alpha Function](alpha-function.md). It operates through two distinct mechanisms:   
 1. [Gap Filling](gap-filling-inference-generation.md) (Inference Generation): Constructing new knowledge to bridge missing links.   
 2. Model Repair ([Conflict Detection](conflict-detection-model-repair.md)): Identifying where the internal mental model contradicts reality (or the AI's feedback) and fixing it.   
    
