@@ -8,7 +8,7 @@
 ## [METHOD] 4Ps Protocol
 [Theoretical] NoteBook 6 - Cognitive Mechanics, Domain: Methodology, System Role: Method, Temporal: Dynamic
 
-A four-step metacognitive verification loop preventing passive consumption of AI outputs. Forces real-time metabolic processing by requiring explicit pause, questioning, articulation, and embodied verification before accepting insights.
+A four-step verification protocol that operationalizes metacognitive monitoring and consequent regulation to prevent passive consumption of AI outputs. It does this by requiring explicit pause, questioning, articulation, and embodied verification before accepting insights.
 **Purpose:**
 **Primary:** Prevents PSB (Protein Shake Brain) by breaking automatic acceptance pattern
 
@@ -219,7 +219,7 @@ Why It Works: Verification Built Into Creation
 ## [METHOD] Reflective Prompting
 [Theoretical] The AI-Specific Roles, Domain: Technical, System Role: Method, Temporal: Dynamic, Operational Flags: Core
 
-A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **alpha-function** with the human, organizes **technical scaffolding (Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the ZPD** by slowing work into recursive reflective loops (the structural Challenge Gap \|D–C\| remains pre-existing)..Its purpose is to prevent **PSB **while feeding the Journal with metabolized, owned insights (Journal relevant only in Identity Stakes work).
+A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **alpha-function** with the human, organizes **technical scaffolding (Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the ZPD** by slowing work into recursive reflective loops (the structural Challenge Gap \|D–C\| remains pre-existing).Its purpose is to prevent **PSB **while feeding the Journal with metabolized, owned insights (Journal relevant only in Identity Stakes work).
 ### System Role
 - Converts AI interaction from **consumption** to **co-articulation**.
 - Maintains the *conditions* for Productive Epistemic Tension—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.
@@ -237,8 +237,9 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - The conscious tradeoff is **speed over depth**, and transformation is not the aim.
 
 **Requires:**
-- MetaCognition.
+- Metacognition (active monitoring and consequent regulation of cognition in service of the goal).
 - Epistemological Humility.
+- Iron Man Mentality.
 
 ## Four-Phase Protocol
 ### Phase 1 – Preparation (“Cognitive Canvas”)
@@ -246,7 +247,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 **Operations:**
 - **Goal articulation** – What am I actually trying to do? What would count as a real shift?
 - **Resource inventory** – Gather notes, past Journal entries, prior documents, constraints.
-- **Strengths & delegation boundaries** – Clarify: What do *I* own (judgment, meaning, narrative)? What can be delegated to AI (enumeration, editing, code, formatting)?
+- **Idiom & delegation boundaries** – Clarify your cognitive style/strengths and what you own (judgment, meaning, narrative) vs. what can be delegated to AI (enumeration, editing, code, formatting).
 
 **Cognitive role:**
 - Builds a **holding environment** before asking AI anything.
@@ -287,7 +288,7 @@ This triggers Conflict Detection (Model Repair) (Mode B of Self-Explanation)
     - AI-assist (editing, refactoring, syntax, formatting)
 
 **Cognitive role:**
-- Operationalizes the **Iron Man Mentality**: AI as suit, not pilot.
+- Applies the Iron Man Mentality: AI as suit, not pilot.
 - Aligns scaffolding with your **idiom** so the system bends around you, not vice versa.
 
 **Relations:**
@@ -357,7 +358,7 @@ Think of RRV as the assembly line, RPVL as quality control at each station.
 **Notes:** A cognitive micro-loop (externalize → refine → validate), but *operationalized* as a method.
 ### Relations
 - Embedded in → Reflective Prompting.
-- Uses → Rubber Duck Debugging, MetaCognition, Felt Sense.
+- Uses → Rubber Duck Debugging, MetaCognitive monitoring and consequent regulation, Felt Sense.
 - Supports → External Alpha-Function, Alpha-Function ignition.
 
 ---

@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - section-3-foundational-theoretical-integration.md
+    - section-8-the-recursive-loop-and-embodied-inte.md
     - mikhail-bakhtin.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics

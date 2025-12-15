@@ -31,7 +31,7 @@ I proposed a refinement: S = [S\_e](emotional-scaffolding-s_e.md) \* [S\_t](tech
 This[ S\_e](emotional-scaffolding-s_e.md) variable is not just a tweak. It is the Rosetta Stone that translates all my theorists into a single language and completes my model. The entire generative process is multiplicatively dependent on psychological safety.   
 Let's write out the Final, Unified Formula based on all my documents:   
 P(Growth) = [S\_e](emotional-scaffolding-s_e.md) \* [S\_t](technical-scaffolding-s_t.md) / \|D-C\|   
-- [P(alpha)](p-alpha-probability-of-growth.md) = The probability of generative psychological growth (i.e., metabolizable development via [alpha-function](alpha-function.md) in [Identity Stakes](identity-stakes.md) work).”   
+- [P(alpha)](p-alpha-probability-of-growth.md) = The probability of generative psychological growth (i.e., metabolizable development via [alpha-function](alpha-function.md) **when the work carries [Identity Stakes](identity-stakes.md)**)   
 - [S\_e](emotional-scaffolding-s_e.md) = Emotional Scaffolding (Safety)   
 - [S\_t](technical-scaffolding-s_t.md) = Technical Scaffolding (Guidance)   
 - \|D - C\| = The Challenge Gap   
@@ -39,7 +39,7 @@ P(Growth) = [S\_e](emotional-scaffolding-s_e.md) \* [S\_t](technical-scaffolding
 Now, look how [S\_e](emotional-scaffolding-s_e.md) connects everyone:   
 - [Winnicott](d-w-winnicott.md): [Emotional Scaffolding](emotional-scaffolding-s_e.md) operationalizes the [Holding Environment](holding-environment.md) (a prerequisite condition of safety/attunement).. Without it, the [True Self ](true-self.md)cannot emerge.   
 - [Bion](wilfred-bion.md): [S\_e](emotional-scaffolding-s_e.md) is [the "container"](the-container.md) functioning in a state of "reverie" (attuned responsiveness). Without [S\_e](emotional-scaffolding-s_e.md), the container fails, and you get "nameless dread".   
-- [Vygotsky](lev-vygotsky.md): [S\_e](emotional-scaffolding-s_e.md) is the trust required for a learner to be vulnerable with the "More Knowledgeable Other" ([MKO](mko-more-knowledgeable-other.md)) in the [ZPD](zpd.md).   
+- [Vygotsky](lev-vygotsky.md): [Emotional Scaffolding](emotional-scaffolding-s_e.md) is the trust required for a learner to remain vulnerable **while receiving technical guidance ([S\_t](technical-scaffolding-s_t.md))** from the "More Knowledgeable Other" ([MKO](mko-more-knowledgeable-other.md)) in the [ZPD](zpd.md).   
 - Bakhtin/Hermans: S\_e is the "trust" and "recognition" that acts as "stabilizers" for the self to emerge in dialogue.   
 - AI Research: S\_e is "warmth" and "integrity trust," which are just as important as "competence" for AI adoption.   
    

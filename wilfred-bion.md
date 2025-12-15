@@ -15,6 +15,7 @@ Backlinks:
     - selected-fact.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
+    - section-2-the-core-formula-and-components.md
     - the-container.md
     - d-difficulty.md
     - external-alpha-function.md

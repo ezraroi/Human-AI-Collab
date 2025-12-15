@@ -24,6 +24,7 @@ Links:
     - protein-shake-brain-psb.md
     - challenge-gap-d-c.md
     - reflective-prompting.md
+    - zpd.md
     - chronotope.md
     - c-capacity.md
 id: bafyreic6bl5ru5cc4635qu7nif6trsu5ma2ogifrxe2scjnoecbg4haxz4
@@ -62,8 +63,8 @@ Functional Alterity defines the AI's role by its deliberate dissimilarity—its 
 ### B. Operationalization via Reflective Prompting and ICL   
 [Reflective Prompting](reflective-prompting.md) (RP) is thallowing the system to observe change across time through the journal recorde operational procedure that manages this tension, ensuring the dynamic coupling is productive and transformative.   
 1. Mandatory Criticality: RP mandates Purposeful Judgment and Active Skepticism, ensuring the human mind stays firmly in the loop to metabolize the generated concepts. This deliberate strategy maximizes germane load (productive effort) and prevents passive cognitive offloading.   
-2. Adaptive Calibration: The LLM's technical property of [In-Context Learning](in-context-learning.md) (ICL) is utilized as the servomechanism for Adaptive Calibration. This dynamic adaptation allows the interaction to be calibrated in real time so tension remains workable within the pre-existing \|D–C\| relation based on the user's inputs, maintaining the optimal tension required for growth (the Zone of Proximal Development, or ZPD).   
-3. Accumulation of Growth: The Journal component ensures that the successful transformation (the insight/[Alpha Element](alpha-elements.md)) is inscribed into a material record. This materialization provides persistence ([Chronotope](chronotope.md)) and acts as the computational substrate for cross-temporal pattern recognition, allowing the system to track the human user's increasing [Capacity](c-capacity.md) (C) over time through the [journal](journal.md) record.   
+2. Adaptive Calibration: The LLM's technical property of [In-Context Learning](in-context-learning.md) (ICL) is utilized as the servomechanism for Adaptive Calibration. This dynamic adaptation allows the interaction to be calibrated in real time so tension remains workable within the pre-existing \|D–C\| relation based on the user's inputs, helping keep the exchange within a workable [ZPD](zpd.md).   
+3. Accumulation of Growth: The Journal component ensures that the successful transformation (the insight/[Alpha Element](alpha-elements.md)) is inscribed into a material record. This materialization provides persistence ([Chronotope](chronotope.md)) and acts as the computational substrate for cross-temporal pattern recognition, allowing the system to observe changes in the human user's [Capacity](c-capacity.md) (C) over time through the journal record.   
    
 In summary, the LLM transitions from a simple tool to a component of a cognitive system because its unique properties—Generativity and Dynamic Adaptation—allow it to be leveraged through [Reflective Prompting](reflective-prompting.md) to instantiate [Functional Alterity](functional-alterity.md) turn-by-turn, preserving the conditions under which the human user performs the internal work of transformation (the Alpha-Function), the results of which are then stabilized by the Journal and Time.   
  --- 

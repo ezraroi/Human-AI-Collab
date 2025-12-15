@@ -9,7 +9,7 @@ Tag:
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T14:42:17Z"
 Created by:
     - Roi Ezra

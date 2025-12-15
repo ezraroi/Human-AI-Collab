@@ -20,6 +20,7 @@ Backlinks:
     - the-hidden-implications-youve-discovered.md
     - section-10-the-grand-unification.md
     - section-7-the-three-layer-architecture-tempora.md
+    - technical-scaffolding-s_t.md
     - psychoanalytic-integration.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md

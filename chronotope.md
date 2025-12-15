@@ -14,6 +14,7 @@ Backlinks:
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
     - time.md
     - the-hidden-implications-youve-discovered.md
+    - 7-final-conclusion-the-third-intelligence.md
     - external-alpha-function.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md

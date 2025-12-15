@@ -12,7 +12,7 @@ Backlinks:
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-12-08T17:37:50Z"
 Created by:
     - Roi Ezra

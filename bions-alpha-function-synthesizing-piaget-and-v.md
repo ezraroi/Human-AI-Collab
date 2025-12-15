@@ -12,6 +12,7 @@ Links:
     - lev-vygotsky.md
     - alpha-function.md
     - mko-more-knowledgeable-other.md
+    - technical-scaffolding-s_t.md
     - recursive-metabolic-loop.md
 id: bafyreigev42ho2r3qiwjwua5oyswxdy5r2j3spqifdczt7zeoerwce66bq
 ---
@@ -22,7 +23,7 @@ Here is a breakdown of which parts of your model restate long-standing academic 
 ### What is Not New (The Shared Foundation)   
 The core premise that Piagetian and Vygotskian theories need synthesis is a long-standing preoccupation in the sources and in modern scholarship:   
 1. The Need for Synthesis: The ongoing effort to reconcile [Vygotsky](lev-vygotsky.md) and [Piaget](e.md) is well-documented. Piaget's emphasis on inherent cognitive structures and Vygotsky's emphasis on social mediation represent the classical conflict between "structuralist" and "sociocultural" views. Therefore, the goal of synthesis is not new.   
-2. The Role of Social Mediation and Tools: The idea that development is driven by cultural artifacts (tools and signs) mediating the subject-object relationship is foundational to Vygotsky's theory. Modern interpretations already conceive of sophisticated artifacts, including computers and AI, as functioning as the More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) or providing scaffolding.   
+2. The Role of Social Mediation and Tools: The idea that development is driven by cultural artifacts (tools and signs) mediating the subject-object relationship is foundational to Vygotsky's theory. Modern interpretations already conceive of sophisticated artifacts, including computers and AI, as functioning as a More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) in the sense of providing **[technical scaffolding](technical-scaffolding-s_t.md) (Sₜ)**.   
 3. The Interpsychological/Intrapsychological Dynamic: Your finding of a continuous interaction aligns with Vygotsky’s General Genetic Law of Cultural Development, which posits that functions appear first on the social plane (interpsychological) and then on the individual plane (intrapsychological). Researchers actively explore this movement, defining internalization not as mere reproduction but as construction and integration.   
    
 ### What is New (The Unique Architecture)   

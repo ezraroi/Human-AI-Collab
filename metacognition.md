@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - preconditions-for-transformative-ai-dialogue.md
     - 5-the-embodied-connection.md
     - 4ps-protocol.md
     - cognitive-debt-awareness.md
@@ -22,7 +23,7 @@ Backlinks:
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-23T10:33:00Z"
 Created by:
     - Roi Ezra
@@ -34,7 +35,7 @@ id: bafyreibsg6y3s756pln7ot3zg3vmabrz4or45py2slxbejrz2w3ejiysai
 ---
 # Metacognition   
 The concept of metacognition was introduced by the developmental psychologist [John H. Flavell](john-flavell.md) in the 1970s. He originally used the term metamemory in 1971, concerning an individual's ability to manage and monitor the input, storage, search, and retrieval of memory contents.   
-### Flavell's Definition of Metacognition   
+### [Flavell](john-flavell.md)'s Definition of Metacognition   
 Metacognition is commonly defined colloquially as "thinking about thinking" or cognitions about cognitions.   
 Flavell’s formal definition emphasizes its active, dual nature:   
 "Metacognition refers, among other things, to the active monitoring and consequent regulation and orchestration of these cognitive processes in relation to the cognitive objects or data on which they bear, usually in service of some concrete goal or objective".   

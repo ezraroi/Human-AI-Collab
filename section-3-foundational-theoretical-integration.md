@@ -22,8 +22,10 @@ Links:
     - d-difficulty.md
     - c-capacity.md
     - mko-more-knowledgeable-other.md
-    - ai.md
     - functional-alterity.md
+    - technical-scaffolding-s_t.md
+    - productive-epistemic-tension.md
+    - challenge-gap-d-c.md
     - human.md
     - emotional-scaffolding-s_e.md
     - destiny-drive.md
@@ -56,14 +58,14 @@ The alpha-function is the **bridge** between social experience and psychological
 Thus, alpha-function is the *core metabolic engine* of psychological transformation.   
 ## 3.3 The [ZPD](zpd.md) in the Third Intelligence System   
 Vygotsky’s Zone of Proximal Development ([ZPD](zpd.md)) is the workable subset of the pre-existing \|D–C\| relation—the optimal window of experienced tension between [Difficulty (D)](d-difficulty.md) and [Capacity](c-capacity.md) (C) that becomes available when scaffolding is present.   
-In classical development, the **More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md))** temporarily performs cognitive work the learner cannot yet perform, even functioning at times as a temporary scaffold for meaning-making when the learner cannot yet process experience independently.   
+In classical development, the More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) provides task-specific guidance the learner cannot yet generate independently, functioning as temporary scaffolding within the [ZPD](zpd.md).   
 However, the architecture of the **[Third Intelligence](third-intelligence.md)** is fundamentally different:   
 - Adult users already possess an alpha-function.   
 - The system is not a substitute processor.   
 - It is a **catalyst** that repeatedly activates the user’s own alpha-function.   
    
 In the Tetrad:   
-- [AI](ai.md) provides [functional alterity](functional-alterity.md) — the turn-by-turn structured difference that preserves productive tension as the \|D–C\| relation is encountered inside the ZPD.   
+- AI provides [functional alterity](functional-alterity.md) — the turn-by-turn structured difference through its [technical scaffolding (Sₜ)](technical-scaffolding-s_t.md) that preserves [productive epistemic tension](productive-epistemic-tension.md) as the \|[D–C](challenge-gap-d-c.md)\| relation is encountered inside the [ZPD.](zpd.md)   
 - The Journal serves as an external substrate for continuity — a place where metabolized alpha-elements are captured through writing.   
 - **The [Human](human.md)** provides the emotional substrate ([Sₑ](emotional-scaffolding-s_e.md)), functioning as the container that makes this metabolic work tolerable.   
    

@@ -37,6 +37,6 @@ Offloading is not inherently good or bad; it depends on *what* is offloaded.
 Use AI when you have [High-Resolution Uncertainty](high-resolution-uncertainty.md) (granular awareness of what you know/don’t know) so offloading supports germane work rather than replacing it. Avoid AI when uncertainty is low-resolution (‘I’m lost/overwhelmed’) until you regain granularity, or when in False Certainty (use AI as challenger).   
 **🔗 Relations (The Wiring):   
 - **Link to:** `[Extended Mind Hypothesis (HEC)](extended-mind-hypothesis-hec.md)` (Relation: Theoretical Basis For).   
-- **Link to:** `[Iron Man Mentality](iron-man-mentality.md)` (Relation: *Optimizes*).   
+- **Link to:** `[Iron Man Mentality](iron-man-mentality.md)` (Relation: Distinguishes From).   
    
 **Notes:** Offloading reduces extraneous load; dangerous if metabolization is offloaded.   

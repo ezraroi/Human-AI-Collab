@@ -30,7 +30,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - 5-the-operational-metric-negative-capability.md
+    - 5-the-operational-capacity-negative-capability.md
     - human.md
     - hyperreflexivity-trap.md
     - section-2-the-core-formula-and-components.md
@@ -49,6 +49,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
+    - technical-scaffolding-s_t.md
     - alpha-function.md
     - category-error.md
     - cognitive-debt.md
@@ -75,6 +76,7 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
     - identity-stakes.md
     - alpha-function.md
+    - journal.md
     - c-capacity.md
     - category-error.md
     - zpd.md
@@ -94,9 +96,9 @@ id: bafyreig4ybiodgihe6qb62lnoajvvs7givjha5jgneoaasgkq6lanlxjmy
 A processing pathology characterized by **outward fluency without inward capacity**. The user performs understanding (theoretical sophistication, narrative coherence) without metabolizing meaning. [beta-elements](beta-elements.md) remain unprocessed; no felt shifts occur; This is the **diagnostic inverse of transformation**.   
 ### System Role   
 PSB is the primary failure mode of *the [Third Intelligence](third-intelligence.md)*. It breaks the Recursive Loop by:   
-- Characterized by loss of embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) on [Identity Stakes](identity-stakes.md)   
+- Characterized by loss of embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) **when the work carries [Identity Stakes](identity-stakes.md)**   
 - Preventing metabolization ([Alpha-Function](alpha-function.md) dormancy)   
-- Eliminating Journal materialization (only in [Identity Stakes](identity-stakes.md) work)   
+- Eliminating [Journal](journal.md) materialization (**relevant only when the work carries [Identity Stakes](identity-stakes.md)**)   
 - Stopping [Capacity (C) ](c-capacity.md)growth across Time   
    
 ### Mechanism: Dual Simultaneous Failures   

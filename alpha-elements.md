@@ -53,14 +53,14 @@ Emoji: "\U0001F4A1"
 id: bafyreiaal6aimixoiyzr3o5hpdtqxriy44k5iqeogrxeuqxhvvpjtrbolm
 ---
 # Alpha-Elements   
-Are the result of processing—thinkable thoughts.   
+Are the result of processing—thinkable units of meaning (not raw memory), i.e., experience made symbolically usable.   
 A processed, 'digested' piece of experience. It is not just a memory; it is an internalized, structured meaning of an experience. They are the output of a functioning [Alpha-Function](alpha-function.md).   
 These are experiences made thinkable, verified through [Felt Sense](felt-sense.md) during [Alpha-Function](alpha-function.md) processing.   
 **Phenomenological Root ([Husserl](edmund-husserl.md)):** Maps to **Noema**.
 This is the *objective content* of the thought—"what is meant." It is the stable, intelligible result of the Noetic act.   
 **Relations:**   
 - Link to **[Alpha-Function](alpha-function.md)** (Relation: `Output Of`).   
-- Link to **[LLM Embedding](llm-embedding.md)** (Create this as a `Concept` to make the metaphor explicit).   
+- Link to [LLM Embedding](llm-embedding.md) (Relation: Analogy For — model-side vector form used strictly as an analogy for alpha-elements)   
 [Wilfred Bion](wilfred-bion.md)    
    
    

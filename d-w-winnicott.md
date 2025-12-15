@@ -14,6 +14,7 @@ Backlinks:
     - human.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
+    - section-2-the-core-formula-and-components.md
     - true-self.md
     - dynamic-transitional-object-dto.md
     - section-11-the-dialogical-illusion-as-producti.md

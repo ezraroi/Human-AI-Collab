@@ -8,14 +8,14 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
-    - 5-the-operational-metric-negative-capability.md
+    - 5-the-operational-capacity-negative-capability.md
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T16:51:57Z"
 Created by:
     - Roi Ezra

@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
+    - section-2-the-core-formula-and-components.md
     - d-w-winnicott.md
     - psychoanalytic-integration.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

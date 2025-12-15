@@ -20,7 +20,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T17:17:34Z"
 Created by:
     - Roi Ezra
@@ -39,7 +39,6 @@ Links:
     - recursive-pattern-verification-loop.md
     - cognitive-offloading.md
     - metacognition.md
-    - human.md
 Emoji: "\U0001F4A1"
 id: bafyreic5pzgmiar564ghmupdoitpzmymz4tmg3tzumw3kzfwgijxejxyyu
 ---
@@ -146,4 +145,4 @@ IMM isn't arbitrary preference—it recreates expert decision-making patterns pr
     Offloading is permitted only when symbolic processing stays within the human.   
    
 **Notes:** The stance that maintains authorship, prevents PSB, and protects relational ontology.   
-A dynamic [metacognitive](metacognition.md) stance that keeps the [human](human.md) in the [alpha-function](alpha-function.md)** container role**, maintaining authorship, judgment, and symbolic metabolism while delegating only surface cognitive operations to AI. It continuously calibrates the human’s **optimal cognitive altitude** — the point where abstract clarity and felt alignment converge — and uses real-time verification to ensure that all meaning-making remains internally processed rather than AI-substituted.   
+A dynamic stance that relies on [metacognitive](metacognition.md) monitoring and consequent regulation to keep the human in the alpha-function container role, maintaining authorship, judgment, and symbolic metabolism while delegating only surface cognitive operations to AI. It continuously calibrates the human’s **optimal cognitive altitude** — the point where abstract clarity and felt alignment converge — and uses real-time verification to ensure that all meaning-making remains internally processed rather than AI-substituted.   

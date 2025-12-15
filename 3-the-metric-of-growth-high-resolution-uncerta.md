@@ -13,6 +13,7 @@ Links:
     - high-resolution-uncertainty.md
     - negative-capability.md
     - protein-shake-brain-psb.md
+    - human.md
     - metacognition.md
     - flow-optimization-principle.md
     - self-explanation.md
@@ -24,12 +25,12 @@ id: bafyreiepapqtj556popoy2c2agkow6zhzou2kvl5s4ce5tv2bcoboescqa
 # 3. The Metric of Growth: High-Resolution Uncertainty   
 The research identifies the Underconfidence-with-Practice (UWP) Effect: as expertise grows, confidence (Calibration) often drops while accuracy improves.   
 - Implication for our model: We must distinguish Productive Doubt (High Resolution: "I see the nuance") from Destructive Doubt (Low Resolution: "I am lost").   
-- The Goal: The system aims for [High-Resolution Uncertainty](high-resolution-uncertainty.md)—the state of "[Negative Capability](negative-capability.md)" where the user can sustain the tension of complex, unresolved ambiguity without collapsing into the "False Certainty" of the [Protein Shake Brain](protein-shake-brain-psb.md).   
+- The Goal: The system aims for [High-Resolution Uncertainty](high-resolution-uncertainty.md)—supported by [Negative Capability](negative-capability.md), the capacity to sustain uncertainty, hold partial answers, and tolerate the "tightness" of the unready-to-hand state without rushing to resolution or collapsing into the "False Certainty" of the [Protein Shake Brain.](protein-shake-brain-psb.md)   
    
 ### 3.1 Metacognitive Control: When to Offload vs. Hold   
 The research on cognitive offloading reveals that external tools can either augment capacity (productive) or create dependency (destructive). The difference lies in whether the offloading reduces extraneous load (freeing resources for learning) or germane load (bypassing the learning itself).   
 The Decision Mechanism:   
-The Human Architect uses [metacognitive](metacognition.md) monitoring as the control signal:   
+The [Human](human.md) Architect uses [metacognitive](metacognition.md) monitoring and consequent regulation as the control process:   
 1. [High Resolution Uncertainty](high-resolution-uncertainty.md) (know what you don't know):   
     - Safe to engage AI for structured exploration   
     - Use Mode B (Novice) to force articulation   

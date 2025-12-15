@@ -11,7 +11,6 @@ Backlinks:
     - authoritative-discourse.md
     - channel-2-symbolic.md
     - external-alpha-function.md
-    - section-8-the-recursive-loop-and-embodied-inte.md
     - section-11-the-dialogical-illusion-as-producti.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
@@ -29,6 +28,8 @@ Links:
     - chronotope.md
     - journal.md
     - internally-persuasive-discourse.md
+    - felt-sense.md
+    - felt-shift.md
     - authoritative-discourse.md
     - functional-alterity.md
 Emoji: "\U0001F464"
@@ -37,7 +38,7 @@ id: bafyreihj27l3day24meghm2jwu3difn4fms4wrvpm2awc5uufceksnzpse
 # Mikhail Bakhtin   
 Provides the **Time-Space Context**.
 ***[Chronotope](chronotope.md):** The stable time-space provided by the **[Journal](journal.md)**.
-***[Internally Persuasive Discourse:](internally-persuasive-discourse.md)** The goal of the system (vs. [Authoritative Discourse](authoritative-discourse.md)).
+*[Internally Persuasive Discourse](internally-persuasive-discourse.md): **A desired form of discourse within the system—internalized through genuine understanding and ownership and verified by [Felt Sense](felt-sense.md) ([Felt Shift](felt-shift.md))—in contrast to [Authoritative Discourse](authoritative-discourse.md).**
 Alterity: The "otherness" required for dialogue, addressed functionally by the AI’s turn-by-turn "[Functional Alterity](functional-alterity.md)" (productive difference without conscious otherness).   
 Mikhail Bakhtin (1895–1975) was a Russian philosopher, literary critic, and scholar who became one of the most influential thinkers of the 20th century in literary theory, ethics, and the philosophy of language. His work emphasizes that all language and meaning are social and produced through dynamic interaction, not static systems.   
 Key Contributions and Concepts   
