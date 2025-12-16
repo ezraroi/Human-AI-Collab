@@ -11,6 +11,7 @@ Tag:
 Backlinks:
     - idiom-aligned-scaffolding.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
@@ -37,8 +38,6 @@ The **Transmissive Self** is a self that **adapts to a demanding world of transm
 - Link to **[Alpha-Function](alpha-function.md)** (Relation: `Lack Of` or `Bypasses`).   
 - Link to **[False True Self](false-true-self.md)** (Relation: `Precursor To`).   
 [False-Self](false-self.md)    
-[False True Self](false-true-self.md)    
 [Christopher Bollas](christopher-bollas.md)    
-[Protein Shake Brain (PSB)](protein-shake-brain-psb.md)    
    
-**Notes:** Fluent but unowned self-state; byproduct of PSB + simulacrum.   
+**Notes:** Fluent but unowned self-state; byproduct of [PSB](protein-shake-brain-psb.md) + simulacrum.   

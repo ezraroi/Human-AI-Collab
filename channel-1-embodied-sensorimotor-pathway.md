@@ -22,14 +22,18 @@ Backlinks:
     - executive-summary.md
     - identity-stakes.md
     - channel-2-symbolic.md
+    - productive-epistemic-tension.md
+    - iron-man-mentality.md
     - e.md
     - human.md
     - the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
     - the-core-parallel-two-descriptions-of-one-proc.md
+    - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - pre-reflective-awareness.md
+    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - is-your-model-suggesting-something-new.md
@@ -44,6 +48,7 @@ Backlinks:
     - felt-sense.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
+    - c-capacity.md
     - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
@@ -51,6 +56,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
+    - functional-thirdness.md
     - emotional-scaffolding-s_e.md
     - negative-capability.md
     - critical-connection-2-felt-sense-channel-1-ver.md

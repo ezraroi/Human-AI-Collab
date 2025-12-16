@@ -14,7 +14,6 @@ Backlinks:
     - embodied-engagement-conditions.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - section-5-the-category-error-relational-axis-f.md
-    - holding-environment.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -31,12 +30,15 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
+    - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
+    - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - section-13-significance-and-forward-direction.md
+    - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - unified-architecture-neurobiological-resolutio.md

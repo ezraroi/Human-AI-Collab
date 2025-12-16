@@ -35,6 +35,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
+    - psychoanalytic-prerequisites.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - the-recursive-third-intelligence-system-archit.md

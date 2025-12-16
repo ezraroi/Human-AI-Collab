@@ -16,7 +16,11 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - d-difficulty.md
     - 7-final-conclusion-the-third-intelligence.md
+    - section-7-the-three-layer-architecture-tempora.md
+    - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - the-integrated-circuit-board.md
     - alpha-function.md
+    - c-capacity.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
     - emotional-scaffolding-s_e.md

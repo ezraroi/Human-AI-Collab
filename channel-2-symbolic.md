@@ -18,6 +18,8 @@ Backlinks:
     - questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - critical-connection-4-how-ai-dialogue-produces.md
+    - productive-epistemic-tension.md
+    - iron-man-mentality.md
     - the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
     - the-core-parallel-two-descriptions-of-one-proc.md
@@ -40,6 +42,7 @@ Backlinks:
     - alpha-function-integrating-dialogical-and-embo.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
+    - functional-thirdness.md
     - what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - dialogical-and-embodied-frameworks-an-integrat.md
@@ -82,7 +85,7 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
 - **Biological Substrate:** Fronto-Parietal Network (FPN); Language Networks; Working Memory Systems.   
 - **Formula Link:**   
     - Primary driver of **Sₜ** ([Technical Scaffolding](technical-scaffolding-s_t.md) / Challenge input).   
-    - Determines the[ **D** (Difficulty)](d-difficulty.md) component of \|D – C\|.   
+    - Contributes symbolic material that is experienced as [difficulty](d-difficulty.md) within the pre-existing \|[D – C](challenge-gap-d-c.md)\| relation.   
     - Provides raw material converted to **α-elements** through Alpha-Function.   
 - **Connected Objects:** [AI](ai.md) (DTO); [Functional Alterity](functional-alterity.md); [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md).   
    

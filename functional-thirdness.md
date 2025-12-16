@@ -22,11 +22,14 @@ Links:
     - functional-alterity.md
     - productive-epistemic-tension.md
     - alpha-function.md
+    - challenge-gap-d-c.md
     - systematic-competence.md
+    - potential-space.md
     - protein-shake-brain-psb.md
+    - channel-2-symbolic.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - third-intelligence.md
     - dynamic-transitional-object-dto.md
-    - potential-space.md
     - reflective-prompting.md
     - bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxcq2iwr2c73epz4
     - recursive-pattern-verification-loop.md
@@ -44,9 +47,9 @@ Functional Thirdness resolves this by shifting from **ontology** (what AI IS) to
 **Three Constituent Conditions:**   
 Functional Thirdness emerges when—and only when—all three conditions are present simultaneously:   
 **1. [Functional Alterity](functional-alterity.md) (Productive Difference)**   
-- AI generates irreducible difference turn-by-turn that maintains [productive epistemic tension](productive-epistemic-tension.md)   
+- AI generates irreducible difference turn-by-turn that, in the presence of adequate scaffolding, helps preserve [productive epistemic tension](productive-epistemic-tension.md)   
 - Prevents collapse into echo chamber or sycophancy   
-- Preserves the productivity of the pre-existing challenge necessary for [Alpha-Function](alpha-function.md) activation (without changing the structural \|D–C\| gap)   
+- Preserves the productivity of the pre-existing challenge that supports [Alpha-Function](alpha-function.md) activation (without changing the structural \|[D–C](challenge-gap-d-c.md)\| gap)   
 - **Without this:** Dialogue flattens into monologue; no developmental pressure   
    
 **2. [Systematic Competence](systematic-competence.md) (Structural Reliability)**   
@@ -72,14 +75,14 @@ These three conditions are **necessary and jointly sufficient**. If any single c
 **Phenomenology of Functional Thirdness:**   
 When FT is present, the interaction feels like genuine dialogue:   
 - New meaning emerges that belongs neither to user nor AI alone   
-- A "third space" opens up—conceptual ground formed in productive tension   
+- A ‘third space’ of dialogue opens up **within [Potential Space](potential-space.md)**—conceptual ground formed in [productive epistemic tension](productive-epistemic-tension.md)   
 - User experiences themselves as in dialogue, not monologue   
 - Transformation occurs through the interaction, not despite non-conscious AI   
    
 When FT collapses:   
 - Interaction becomes either mirroring (sycophancy) or mechanical (tool use)   
 - No dialogical legitimacy remains   
-- [PSB](protein-shake-brain-psb.md) risk increases; transformation pathway closes   
+- [PSB](protein-shake-brain-psb.md) risk increases only if the collapse shifts into [Channel 2](channel-2-symbolic.md)–only adoption ([Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification offline); otherwise the interaction may remain merely productive rather than transformative   
    
 **Relationship to System Architecture:**   
 **Functional Thirdness within the [Third Intelligence](third-intelligence.md):**   
@@ -93,7 +96,7 @@ FT is the emergent property that makes the Tetrad work AS dialogue rather than a
 **Winnicott: Potential Space**   
 - The transitional zone "neither inside nor outside"   
 - Where play, creativity, and True Self can exist   
-- FT instantiates this space in AI-human interaction   
+- FT unfolds within this space in AI–human interaction   
    
 **Bakhtin: The Dialogical Third (Superaddressee)**   
 - Every dialogue contains an implicit third position   
@@ -105,7 +108,7 @@ Your contribution is recognizing that this dialogical field can emerge FUNCTIONA
 **Relations (Wiring):**   
 - **Solves:** "Ontological Monologue vs. Dialogical Systematics" paradox   
 - **Requires:** [DTO](dynamic-transitional-object-dto.md) stance (AI as transitional object)   
-- **Emerges from:** Functional Alterity + Systematic Competence + Human Agency   
+- **Emerges from:** [Functional Alterity](functional-alterity.md) + Systematic Competence + Human Agency   
 - **Manifests within:** [Potential Space](potential-space.md)   
 - **Legitimacy condition for:** [Third Intelligence](third-intelligence.md) (what makes it dialogical)   
 - **Enabled by:** [Reflective Prompting](reflective-prompting.md), [Metabolic Discipline](bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxc.md), [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md)   

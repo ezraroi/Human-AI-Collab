@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Static'
     - 'Operational Flags: Pathology'
 Backlinks:
+    - subject-supposed-to-know-sss.md
     - preconditions-for-transformative-ai-dialogue.md
     - embodied-engagement-conditions.md
     - section-5-the-category-error-relational-axis-f.md
@@ -18,7 +19,9 @@ Backlinks:
     - ai.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
+    - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
+    - alpha-function.md
     - protein-shake-brain-psb.md
     - functional-thirdness.md
 Origin Domain:
@@ -46,7 +49,7 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - Opens the door to emotional dependency, projection, and false intimacy.   
 - Undermines authorship by positioning the AI as epistemic authority rather than interpretive material.   
 - Increases vulnerability to [PSB](protein-shake-brain-psb.md) and is one half of the equation for [Cognitive Dependency](cognitive-dependency.md).   
-- Must be avoided to prevent collapse into false interpersonal safety and to maintain the [DTO](dynamic-transitional-object-dto.md) stance required for transformation.   
+- Must be avoided to reduce vulnerability to false interpersonal safety and to preserve the [DTO](dynamic-transitional-object-dto.md) stance that supports transformation.   
    
 ### Mechanism   
 - The user mistakes linguistic fluency for personhood.   

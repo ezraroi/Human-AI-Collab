@@ -15,6 +15,7 @@ Links:
     - c-capacity.md
     - protein-shake-brain-psb.md
     - journal.md
+    - identity-stakes.md
 id: bafyreiedu7hwzdqk4k2nzam4zzpririqr2yhvkbqaqz5j4ora7vwqlvcpa
 ---
 # Section 7 - The Three-Layer Architecture (Temporal Dynamics)   
@@ -36,7 +37,7 @@ Recovery: Time, breaks, sleep, rituals restore [S\_e](emotional-scaffolding-s_e.
 ### Layer 3: Between-Session Dynamics (Growth/Atrophy)   
 Principle: [C (Capacity)](c-capacity.md) evolves based on whether transformation occurred   
 Growth trajectory:   
-- If P(α) exceeded threshold → C increases   
+- If [P(alpha)](p-alpha-probability-of-growth.md) conditions are sufficiently met → [Capacity](c-capacity.md) increases   
 - Subject can handle more complexity next session   
 - Creates FlyWheel effect: higher C → tackle higher D → deeper P(α) → even higher C   
    
@@ -45,10 +46,10 @@ Atrophy trajectory:
 - Demoralization, confusion, regression   
 - Capacity actually diminishes   
    
-Critical enabling condition - The [Journal](journal.md) (J): Without Journal, C growth cannot accumulate because:   
+Critical enabling condition - The [Journal](journal.md) (when the work carries[ Identity Stakes](identity-stakes.md)): Without Journal, [Capacity](c-capacity.md) growth cannot reliably accumulate because:   
 - No evidence that growth occurred   
 - No pattern recognition across sessions   
-- Start from zero each time   
+- You risk restarting without durable carryover each time   
 - Regression invisible   
    
    

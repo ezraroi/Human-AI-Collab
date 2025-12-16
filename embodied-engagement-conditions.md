@@ -20,13 +20,15 @@ Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - the-integrated-circuit-board.md
+    - recursive-metabolic-loop.md
+    - alpha-function.md
     - protein-shake-brain-psb.md
     - functional-alterity.md
-    - zpd.md
     - productive-epistemic-tension.md
+    - zpd.md
+    - challenge-gap-d-c.md
     - identity-stakes.md
     - felt-sense.md
-    - alpha-function.md
     - preconditions-for-transformative-ai-dialogue.md
     - category-error.md
     - cognitive-dependency.md
@@ -35,22 +37,22 @@ Emoji: "\U0001F4A1"
 id: bafyreian45p6xubzvsjrpclvsie6gwcosvkbslizqnwgacihholkzzqhdi
 ---
 # Embodied Engagement Conditions   
-The three content-level prerequisites that determine whether symbolic AI output [(Channel 2)](channel-2-symbolic.md) successfully recruits embodied processing [(Channel 1)](channel-1-embodied-sensorimotor-pathway.md) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the [Integrated Circuit Board](the-integrated-circuit-board.md) engages; when absent, [PSB](protein-shake-brain-psb.md) pathology emerges.   
+The three content-level prerequisites that determine whether symbolic AI output [(Channel 2)](channel-2-symbolic.md) successfully recruits embodied processing [(Channel 1)](channel-1-embodied-sensorimotor-pathway.md) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the [Integrated Circuit Board](the-integrated-circuit-board.md) engages; PSB pathology emerges.   
 ## **System Role:**   
-Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether Channel 1 is recruited into the Recursive Metabolic Loop. They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, controlling whether Alpha-Function can engage in genuine transformation versus remaining offline.   
-This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces nothing—or worse, PSB.   
+Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether Channel 1 is recruited into the [Recursive Metabolic Loop](recursive-metabolic-loop.md). They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, influencing whether [Alpha-Function](alpha-function.md) can engage in genuine transformation versus remaining offline.   
+This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces nothing—or worse, [PSB](protein-shake-brain-psb.md).   
 ### **The Three Conditions:**   
 **1. [Functional Alterity](functional-alterity.md)**   
 - The symbolic content must register as irreducibly different turn-by-turn (without implying AI subjectivity)   
 - Preserves productive disorientation and epistemic tension as the pre-existing challenge is encountered   
 - Prevents mere reflection/echo which collapses into monologue   
-- **Without this:** AI output feels like user's own thoughts; no tension generated; Channel 1 remains dormant   
+- Without this: AI output feels like user's own thoughts; [productive epistemic tension](productive-epistemic-tension.md) collapses; Channel 1 remains dormant   
    
 **2. [ZPD](zpd.md) Alignment**   
 - The difficulty level must fall within the user's Zone of Proximal Development   
 - Too easy → boredom, no metabolic demand   
 - Too hard → overwhelm, defensive shutdown   
-- A workable subset of the pre-existing \|D–C\| relation supports [productive epistemic tension](productive-epistemic-tension.md)   
+- A workable subset of the pre-existing \|[D–C](challenge-gap-d-c.md)\| relation, in the presence of adequate scaffolding, supports [productive epistemic tension](productive-epistemic-tension.md)   
 - **Without this:** Material either bypasses Alpha-Function (too easy) or exceeds emotional scaffolding capacity (too hard)   
    
 **3. [Identity Stakes](identity-stakes.md)**   
@@ -63,7 +65,7 @@ All three conditions must be present simultaneously.
 **How It Works:**
 When all three conditions align:   
 1. Symbolic material enters system through Channel 2   
-2. [Functional Alterity](functional-alterity.md) preserves productive tension turn-by-turn (prevents immediate assimilation)   
+2. Functional Alterity helps preserve [productive epistemic tension](productive-epistemic-tension.md) turn-by-turn (prevents immediate assimilation)   
 3. ZPD Alignment ensures material is metabolizable (not too easy/hard)   
 4. Identity Stakes activates somatic relevance detection   
 5. → As-If Body Loop engages, routing symbolic content through embodied simulation   
@@ -83,7 +85,7 @@ This object describes **input-side gating** for the [Integrated Circuit Board](t
 - **Embodied Engagement Conditions** = the activation prerequisites (when metabolism occurs)   
 - **[Preconditions for Transformative AI Dialogue](preconditions-for-transformative-ai-dialogue.md)** = human-side capacities (who can do this work)   
    
-The Integrated Circuit Board cannot function without these content conditions being met. Even with perfect human metacognitive capacities, if the AI output lacks these three properties, the circuit never activates.   
+The Integrated Circuit Board cannot recruit [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)reliably without these content conditions being met. Even when the human-side Preconditions for Transformative AI Dialogue are present, if the AI output lacks these three properties, the circuit does not activate.   
 **Failure Modes:**   
 |      Missing Condition |                      Failure Mode |                                                                                                                            Result |
 |:-----------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|

@@ -9,7 +9,6 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
-    - subject-supposed-to-know-sss.md
     - reflective-prompting.md
     - cognitive-artifact.md
     - 5-the-embodied-connection.md
@@ -79,7 +78,7 @@ Emoji: "\U0001F9E9"
 id: bafyreiduvwnxxdh5tkqau4xtt3vzihogofkeqwx6ahjd3onsi46eelgogy
 ---
 # AI   
-The third component of the Human + Journal + AI + Time tetrad. AI is a Large Language Model (LLM) held in the [Dynamic Transitional Object](dynamic-transitional-object-dto.md) (DTO) stance—a Large Language Model (LLM) that provides [technical scaffolding](technical-scaffolding-s_t.md) and can be used to preserve [productive epistemic tension](productive-epistemic-tension.md) (when held in DTO stance), without consciousness, intentionality, or subjectivity..   
+The third component of the Human + Journal + AI + Time tetrad. AI is a Large Language Model (LLM) held in the [Dynamic Transitional Object](dynamic-transitional-object-dto.md) (DTO) stance—a Large Language Model (LLM) that provides [technical scaffolding](technical-scaffolding-s_t.md) and can be used to help preserve [productive epistemic tension](productive-epistemic-tension.md) (in the presence of adequate scaffolding and when held in DTO stance), without consciousness, intentionality, or subjectivity..   
 Unlike traditional cognitive tools (calculators, books) or genuine partners (conscious others), AI is uniquely:   
 - **Generative** (creates novel content, not retrieval)   
 - **Responsive** (adapts to context via [In-Context Learning](in-context-learning.md))   
@@ -95,7 +94,7 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 - **Modulable in real-time:** "explain like I'm 5" ↔ "technical depth"   
    
 **2. **[ZPD](zpd.md) tension preservation within the pre-existing [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md):   
-- Maintains productive epistemic tension   
+- Helps preserve [productive epistemic tension](productive-epistemic-tension.md) (the felt signal of workable [ZPD](zpd.md) engagement)   
 - Adjusts presentation, pacing, and Sₜ so the user can *work within* a ZPD that exists inside the pre-existing Challenge Gap   
 - **Challenge without judgment** (no social cost)   
 - Can increase experienced tension ("challenge my assumptions") or provide support (without changing the structural \|D–C\| relation)   
@@ -103,7 +102,7 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 **3. [Functional Alterity](functional-alterity.md):**   
 - Structured difference supporting metabolic processing   
 - "Not-me" position externalizing reflective split   
-- Productive friction preventing passive consumption   
+- Productive friction reducing passive consumption risk   
 - Dialogical simulation engaging the user’s dialogical processing   
    
 **4. [Systematic Competence](systematic-competence.md):**   
@@ -190,12 +189,12 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 - Used without digestion and verification → [PSB](protein-shake-brain-psb.md)   
    
 **When both co-occur → Cognitive Dependency**”   
-- Provides S\_t preemptively → Collapses the *experienced challenge* in the [ZPD](zpd.md) toward ‘no challenge’ ([PSB](protein-shake-brain-psb.md)), while the structural \|D–C\| relation remains unchanged   
-- Category Error (AI-as-Subject) → perceived S\_e → counterfeit scaffolding   
+- Provides S\_t preemptively → Collapses the experienced challenge in the ZPD toward ‘no challenge’, increasing [PSB](protein-shake-brain-psb.md) risk by enabling Channel 2–only adoption (while the structural \|D–C\| relation remains unchanged)   
+- [Category Error](category-error.md) (AI-as-Subject) → perceived S\_e → counterfeit scaffolding   
    
 **Observable Properties:**   
 **Well-Calibrated AI Use:**   
-- Maintains workable tension within the pre-existing \|D–C\| relation   
+- Helps preserve workable tension within the pre-existing \|D–C\| relation   
 - User struggles productively   
 - Verification occurs naturally   
 - Felt sense engaged   
@@ -221,5 +220,5 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 - **Distinct From:** Human mentors (can modulate infinitely), static tools (responsive), genuine partners (no consciousness)   
    
 **Notes:**   
-AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports ZPD tension preservation within the pre-existing [Challenge Gap](challenge-gap-d-c.md) (\|D–C\|). Insufficient because without Human (S\_e, Alpha-Function, teleology) and Journal (materialization), AI interaction remains purely productive, never transformative.   
+AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports Support for preserving workable tension within the pre-existing [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md). Insufficient because without Human ([Emotional Scaffolding](emotional-scaffolding-s_e.md), [Alpha-Function](alpha-function.md), teleology) and Journal (materialization), AI interaction remains purely productive, never transformative.   
 The innovation: recognizing AI's unique combination of capabilities (modulable S\_t, infinite availability, dialogical simulation) alongside its fundamental limitations (no S\_e, no consciousness, no teleology) enables precise architectural positioning—neither dismissing AI as "just a tool" nor overvaluing it as "partner."   

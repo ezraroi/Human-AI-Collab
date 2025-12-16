@@ -9,6 +9,7 @@ Backlinks:
     - executive-summary.md
     - human.md
     - external-alpha-function.md
+    - 2-the-alpha-function-as-the-triple-network-the.md
     - the-doing-both-hypothesis.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

@@ -55,7 +55,9 @@ Links:
     - emotional-scaffolding-s_e.md
     - alpha-function.md
     - c-capacity.md
+    - the-container.md
     - d-w-winnicott.md
+    - time.md
     - beta-elements.md
     - alpha-elements.md
     - external-alpha-function.md
@@ -64,7 +66,9 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
     - protein-shake-brain-psb.md
     - teleological-drift.md
-    - the-container.md
+    - p-alpha-probability-of-growth.md
+    - negative-capability.md
+    - technical-scaffolding-s_t.md
     - hpa-axis.md
     - triple-network-model.md
     - anterior-insular-cortex-aic.md
@@ -75,13 +79,13 @@ id: bafyreicolvewu7y75zcgmpsylxokmfgroiuqnojk3vyisim4ikuajmeqcu
 The first and central component of the Human + Journal + AI + Time tetrad. The Human is the **embodied subject** who provides the Container function ([Emotional Scaffolding](emotional-scaffolding-s_e.md)), performs metabolic processing ([Alpha-Function](alpha-function.md)), holds teleological awareness, and is the site where [Capacity](c-capacity.md) (C) actually grows.   
 Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **finite, depletable, and vulnerable**—yet only the Human can provide consciousness, intentionality, and the metabolic transformation that makes the system developmental rather than merely productive.   
 **What Human Provides (Unique Contributions):**   
-1. **Emotional Scaffolding  - The Container:**   
+1. **Emotional Scaffolding  - [The Container](the-container.md):**   
 - Provides holding environment ([Winnicott](d-w-winnicott.md))   
 - Ontological security enabling transformation   
 - Psychic stability for metabolic processing   
 - Self-regulation capacity   
 - Embodied resilience   
-- **Depletes during sessions** (requires recovery via Time)   
+- **Depletes during sessions** (requires recovery via [Time](time.md))   
    
 **2. Alpha-Function - Metabolic Processor:**   
 - Transforms [beta-elements ](beta-elements.md)(raw experience) → [alpha-elements](alpha-elements.md) (thinkable thoughts)   
@@ -157,7 +161,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Detects and corrects drift   
 - Makes strategic decisions   
 - Manages system components   
-- Maintains DTO stance toward AI   
+- Maintains [DTO](dynamic-transitional-object-dto.md) stance toward AI   
    
 **B. [Container](the-container.md) (Holding Function):**   
 - Provides S\_e (emotional scaffolding)   
@@ -171,7 +175,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - S\_e exhausts during sessions   
 - Needs recovery via Time   
 - Cannot process continuously   
-- Risk of collapse when S\_e → 0 (Manic Episode)   
+- Risk of collapse when [Emotional Scaffolding](emotional-scaffolding-s_e.md) is severely depleted (Manic Episode)   
    
 **Observable Depletion Markers:**   
 - Increasing tightness in felt sense   
@@ -181,30 +185,30 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Difficulty maintaining complexity   
    
 **Developmental (Not Static):**   
-- C grows between sessions (if P(α) occurred)   
+- C grows between sessions (if [P(alpha)](p-alpha-probability-of-growth.md) occurred)   
 - Increased complexity tolerance over Time   
 - Enhanced metabolic capacity   
-- Deepening Negative Capability   
+- Deepening [Negative Capability](negative-capability.md)   
 - Identity-level transformation   
    
 **Complementarity with AI:**   
-|         Function |                        Human |                              AI |
-|:-----------------|:-----------------------------|:--------------------------------|
-|  **Scaffolding** |    S\_e (emotional) - FINITE |     S\_t (technical) - INFINITE |
-|   **Processing** | Alpha-Function - METABOLIZES | Pattern recognition - ORGANIZES |
-|    **Awareness** |     Teleological - FORESIGHT |             Myopic - NEXT TOKEN |
-|     **Capacity** |         C grows - TRANSFORMS |                   No C - STATIC |
-| **Availability** |        Depletes - NEEDS REST |             Infinite - TIRELESS |
-| **Verification** |        Embodied - FELT SENSE | Unreliable - NEEDS VERIFICATION |
+|         Function |                        Human |                                                          AI |
+|:-----------------|:-----------------------------|:------------------------------------------------------------|
+|  **Scaffolding** |    S\_e (emotional) - FINITE | [S\_t](technical-scaffolding-s_t.md) (technical) - INFINITE |
+|   **Processing** | Alpha-Function - METABOLIZES |                             Pattern recognition - ORGANIZES |
+|    **Awareness** |     Teleological - FORESIGHT |                                         Myopic - NEXT TOKEN |
+|     **Capacity** |         C grows - TRANSFORMS |                                               No C - STATIC |
+| **Availability** |        Depletes - NEEDS REST |                                         Infinite - TIRELESS |
+| **Verification** |        Embodied - FELT SENSE |                             Unreliable - NEEDS VERIFICATION |
 
 **Neither sufficient alone; both necessary together.**   
 **Failure Modes:**   
 **When Human Function Compromised:**   
-**1. S\_e Depletion (S\_e → 0):**   
+1. **S\_e Depletion (severe depletion):**   
 - Manic acceleration   
 - Loss of containment   
 - System collapse   
-- Formula breaks: P(α) → 0   
+- The recursive loop cannot run safely; transformation fails to occur   
    
 **2. Teleological Drift:**   
 - Loss of global goals   

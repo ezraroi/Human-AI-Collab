@@ -55,7 +55,7 @@ This directly maps to [Vygotsky's](lev-vygotsky.md) [ZPD](zpd.md): Transformatio
 ### Interpreting the Outcomes   
 Optimal Activation ([ZPD](zpd.md)): When Scaffolding (S) is sufficient to bridge the challenge gap (\|D - C\|), P(α) is high. The task is challenging but achievable with support.   
 Overwhelm (Anxiety): When the challenge gap \|D - C\| is too large for the available Scaffolding (S), the denominator overwhelms the numerator. P(α) is low.   
-Boredom (Stagnation): When the challenge gap \|D - C\| is near zero, the task is too easy and the [alpha-function](alpha-function.md) is not needed. [P(α)](p-alpha-probability-of-growth.md) is low.   
+Boredom (Stagnation): When the task demands do not meaningfully exceed current capacity, the experienced challenge is minimal and [alpha-function](alpha-function.md) engagement is unlikely.   
 ### Refining the Model: The Primacy of the Holding Environment   
 A crucial refinement is that Scaffolding (S) is not a monolithic variable. It is a product of two distinct components:   
 S = [S\_e](emotional-scaffolding-s_e.md) \* [S\_t](technical-scaffolding-s_t.md)   
@@ -90,19 +90,19 @@ The formula S\_e \* S\_t / \|D - C\| now becomes a simple question: Is the bridg
 This creates three clear scenarios:   
 1. The Ratio is Optimal (The [ZPD](zpd.md))   
    
-The bridge materials (S) are perfectly suited to the canyon's width (\|D - C\|). The ratio is healthy (e.g., around 1 or greater).   
+The bridge materials (S) are perfectly suited to the canyon's width (\|[D - C](challenge-gap-d-c.md)\|). The ratio is healthy (qualitatively: support is sufficient for the challenge).   
 Implication: You can safely cross the canyon. The challenge is real, but the support is adequate. You feel a sense of thrill and accomplishment. The [alpha-function](alpha-function.md) is activated, and you successfully turn the experience into learning.   
 1. The Ratio is Too Low (Overwhelm)   
    
-The canyon (\|D - C\|) is massive, but your bridge materials (S) are short and weak. The denominator is huge, and the numerator is small, so the ratio approaches zero.   
+The canyon (\|D - C\|) is massive, but your bridge materials (S) are short and weak. The denominator is huge, and the numerator is small, so engagement collapses into overwhelm.   
 Implication: You can't even begin to build. The challenge is completely overwhelming. Looking at the gap creates anxiety and paralysis. The [alpha-function](alpha-function.md) fails, and you may retreat into defensive compliance; in Winnicottian terms, this can resemble a [False Self](false-self.md) organization when the holding environment fails and the [True Self](true-self.md) must be protected.   
-1. The Denominator is Zero (Boredom)   
+1. Minimal Challenge (Boredom)   
    
-There is no canyon. The Difficulty and your Capacity are the same (D = C), so the Challenge Gap is zero.   
+There is no canyon. The Difficulty and your Capacity are the same the experienced challenge is minimal.   
 Implication: You don't need a bridge at all. You can just walk across. There is no challenge, no struggle, and therefore no growth. The formula breaks because the entire process is irrelevant. The alpha-function is not needed and remains dormant.   
 ### What This Division Explains   
 The division operation is what makes the model dynamic and useful. It explains that:   
 Growth is Relational: Success is not about having the most support or the biggest challenge. It's about the relationship between them. A great leader or teacher is a master of this ratio, providing just enough support for that specific challenge.   
-Why "Too Much Help" is Harmful: The formula shows why the "[Protein Shake Brain](protein-shake-brain-psb.md)" is so damaging. It's a situation where the Scaffolding (S) is infinite, but it's applied to a Challenge Gap (\|D - C\|) of zero. The result is a system that never learns to build its own bridges.   
+Why "Too Much Help" is Harmful: The formula shows why the "[Protein Shake Brain](protein-shake-brain-psb.md)" is so damaging. It’s a situation where scaffolding becomes pre-emptive, collapsing the experienced challenge and bypassing embodied verification, so the system never engages metabolization. The result is a system that never learns to build its own bridges.   
 It Defines the Task of the "Gardener": The job of a "Gardener Leader" or a good therapist is to constantly assess this ratio. They ask: "Is the challenge I'm giving this person appropriate for their capacity? And is the support I'm providing sufficient to make that challenge feel achievable rather than terrifying?"   
 By making the relationship between support and challenge a ratio, the formula captures the delicate, dynamic balance that is the true engine of all learning and growth.   

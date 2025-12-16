@@ -8,19 +8,22 @@ Creation date: "2025-11-22T15:30:25Z"
 Created by:
     - Roi Ezra
 Links:
+    - category-error.md
     - lev-vygotsky.md
     - e.md
+    - zpd.md
+    - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
-    - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
+    - channel-2-symbolic.md
     - alpha-function.md
 id: bafyreiffltozrj5jdurh2xnn3dvnkwejo573rbtcb53f7rdr7bmtcuoasi
 ---
 # CRITICAL CONNECTION #5: Why PSB Happens   
-### NoteBook 1: The Category Error   
+### NoteBook 1: The [Category Error](category-error.md)   
 - Treating AI as [Vygotskian](lev-vygotsky.md) Subject instead of [Piagetian](e.md) Object   
 - AI provides permanent scaffolding instead of temporary   
-- Collapses \|D-C\| to zero   
+- Collapses the experienced challenge inside the [ZPD](zpd.md) (while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing)   
 - Creates False Container   
    
 ### NoteBook 2: The Embodiment Failure   
@@ -30,7 +33,7 @@ id: bafyreiffltozrj5jdurh2xnn3dvnkwejo573rbtcb53f7rdr7bmtcuoasi
 - Body-mind integration short-circuited   
    
 THE UNIFIED DIAGNOSIS:   
-[PSB](protein-shake-brain-psb.md) happens when Channel 1 is completely bypassed:   
+[PSB](protein-shake-brain-psb.md) happens when [Channel 1](channel-1-embodied-sensorimotor-pathway.md) is bypassed and simulated safety enables passive consumption:   
 1. User asks question   
 2. AI provides symbolic content ([Channel 2](channel-2-symbolic.md)), and the user treats it as sufficient without engaging Channel 1.   
 3. User passively consumes (no embodied verification engaged)   

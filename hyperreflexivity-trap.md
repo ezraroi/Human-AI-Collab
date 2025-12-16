@@ -26,6 +26,6 @@ Also known as "Map Addiction." A failure mode where the user stays in the reflec
 **Prevention:** Tethering reflection to  (lived life) and Embodied Verification.   
 **Notes:** Over-reflection preventing return to lived experience.   
 **Relations:**   
-- Link to [PSB](protein-shake-brain-psb.md)  (Relation: `Opposite Failure Mode`).   
+- Link to [PSB](protein-shake-brain-psb.md) (Relation: Related Failure Mode)   
    
    

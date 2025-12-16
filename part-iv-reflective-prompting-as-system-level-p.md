@@ -12,14 +12,12 @@ Links:
     - false-true-self.md
     - protein-shake-brain-psb.md
     - transmissive-self.md
-    - bafyreicofgtyyw5zxwn7s63qlmwdl6di5m6xo3i4u6a4qfkbn6qmb5rb2i
+    - challenge-gap-d-c.md
     - p-alpha-probability-of-growth.md
     - zpd.md
-    - challenge-gap-d-c.md
     - emotional-scaffolding-s_e.md
     - technical-scaffolding-s_t.md
     - reflective-prompting.md
-    - true-self.md
 id: bafyreig5a4keporstp6mwzq447hquwj6nyoek7en3b24de3iqc6v2n2iru
 ---
 # Part IV – Reflective Prompting as System-Level Practice   
@@ -32,8 +30,7 @@ Reflective prompting reconstructs the process that modern AI erodes.
     - [False True Self](false-true-self.md)   
     - [Protein Shake Brain](protein-shake-brain-psb.md)   
     - [Transmissive Self](transmissive-self.md)   
-    - [Simulated safety](bafyreicofgtyyw5zxwn7s63qlmwdl6di5m6xo3i4u6a4q.md)   
-    - Collapsed difficulty   
+    - Collapsed experienced challenge (while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing)   
 2. The Model:   
     - [P(α)](p-alpha-probability-of-growth.md)   
     - [ZPD](zpd.md)   
@@ -56,4 +53,4 @@ Reflective prompting reconstructs the process that modern AI erodes.
    
 ### 2. The Operating Principle   
 [Reflective prompting](reflective-prompting.md) is not about using AI to generate answers.
-It is about using AI to amplify the internal process of becoming—to strengthen the [True Self](true-self.md) by restoring difficulty, restoring digestion, restoring symbolic integrity, and restoring the rhythm of reflective thought.   
+It is about using AI to amplify the internal process of becoming—to strengthen the True Self by restoring the experienced challenge, restoring digestion, restoring symbolic integrity, and restoring the rhythm of reflective thought.   

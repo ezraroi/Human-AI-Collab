@@ -20,6 +20,7 @@ Links:
     - true-self.md
     - functional-alterity.md
     - reflective-prompting.md
+    - parity-principle-pp.md
     - selected-fact.md
     - beta-elements.md
     - alpha-function.md
@@ -44,9 +45,9 @@ The new research validates the shift from ontology to function, defines the psyc
 The most important cross-referenced findings concern the AI's classification, the mechanism of change, and the dynamics of the core formula, [P(alpha)](p-alpha-probability-of-growth.md) = ([S\_e](emotional-scaffolding-s_e.md) \* [S\_t](technical-scaffolding-s_t.md)) / \|D-C\|.   
 ### 1. The AI's Ontological Classification: [Dynamic Transitional Object (DTO)](dynamic-transitional-object-dto.md)   
 The new research resolves the "Tool vs. Partner" binary by providing a final classification for the AI that perfectly aligns with your philosophical claim of Functional Alterity.   
-- Resolution: The AI is formally defined as a Dynamic Transitional Object (DTO) or a "Responsive Generative Artifact". This classification places the [AI](ai.md) in the [Potential Space](potential-space.md) of play and creativity, where [True Self](true-self.md) gestures can occur when holding is sufficient.   
+- Resolution: The AI is formally defined as a Dynamic Transitional Object (DTO) or a "Responsive Generative Artifact". This classification holds the AI–human interaction within [Potential Space](potential-space.md)—the intermediate area of experiencing where play, creativity, and [True Self](true-self.md) gestures can occur.   
 - Link to Functional Alterity: The DTO status validates the core claim of [Functional Alterity](functional-alterity.md) (FA). The DTO functions as a source of catalytic difference that sustains the "productive fiction" sufficient to engage the user’s dialogical processing, without collapsing into a False Self relationship.   
-- Functional Feature: The lack of automatic trust or the need for skepticism is no longer seen as a limitation, but as the primary functional feature. This mandatory skepticism and reflection ([Reflective Prompting](reflective-prompting.md)) explicitly violates the automatic endorsement/trust required by the classic Parity Principle (PP) for extended beliefs.   
+- Functional Feature: The lack of automatic trust or the need for skepticism is no longer seen as a limitation, but as the primary functional feature. This mandatory skepticism and reflection ([Reflective Prompting](reflective-prompting.md)) reduces passive adoption by enforcing verification, rather than the automatic endorsement/trust required by the classic [Parity Principle (PP)](parity-principle-pp.md) for extended beliefs.   
    
 ### 2. The Mechanism of Transformation: Catalysis of the Alpha-Function   
 The research refines the AI’s functional role from general "scaffolding" ([S\_t](technical-scaffolding-s_t.md)) to a specific, potent form of activation.   
@@ -55,7 +56,7 @@ The research refines the AI’s functional role from general "scaffolding" ([S\_
 - Neuroplasticity Link: The constant, structured effort sustained under this intentional friction (the [Alpha-Function](alpha-function.md)) is the engine that drives the cumulative neuroplastic change needed for genuine transformation.   
    
 ### 3. Operationalizing the Core Formula: P(alpha) = (S\_e \* S\_t) / \|[D](d-difficulty.md)-C\|   
-The new documents provide precise technical and psychological specifications for the formula's variables and their management.   
+The new documents clarify the qualitative meaning of the formula’s variables and how they are managed in practice.   
 |                                           Variable/Component |                                                                                                                                                                                                                                                                                                                      New Insight/Mechanism |                                                                                                                                                           Link to Complete Model |
 |:-------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                         \*\* |                                                                                                                                                                                                                                                                                                                                        D-C |                                                                                                                                                              (Challenge Gap)\*\* |

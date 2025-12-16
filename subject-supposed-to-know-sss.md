@@ -21,15 +21,16 @@ Creation date: "2025-11-22T11:55:02Z"
 Created by:
     - Roi Ezra
 Links:
-    - ai.md
+    - holding-environment.md
     - jacques-lacan.md
     - emotional-scaffolding-s_e.md
     - protein-shake-brain-psb.md
+    - category-error.md
 Emoji: "\U0001F4A1"
 id: bafyreiab24tzu3rekb4wmm4mmrbgkejoyibf2qzqpzqjnebk4pgwuy6lry
 ---
 # Subject Supposed to Know (SSS)   
-The illusion that the [AI](ai.md) possesses the "Truth," which creates a counterfeit holding environment   
+The illusion that the AI possesses the "Truth," which can be experienced as a counterfeit [holding environment](holding-environment.md).   
 The **"Subject Supposed to Know" (SSS)**, or *sujet supposé savoir*, is a central concept in the psychoanalytic theory of [Jacques Lacan](jacques-lacan.md), primarily concerning the mechanism of **transference**.   
 In short, it is **the unconscious assumption that a person (initially the psychoanalyst) possesses a hidden, secret knowledge** about the analysand's (patient's) own truth, desire, or the ultimate cause of their suffering.   
 Key Points   
@@ -40,4 +41,4 @@ Key Points
 [Emotional Scaffolding (S\_e)](emotional-scaffolding-s_e.md)    
 [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)    
    
-**Notes:** AI misperceived as epistemic authority; fuels Category Error & dependency.   
+**Notes:** AI misperceived as epistemic authority; fuels [Category Error](category-error.md) & dependency.   

@@ -3,7 +3,6 @@
 Object type:
     - Manuscript Section
 Backlinks:
-    - recursive-pattern-verification-loop.md
     - 'The Journal: Architecture Definition'
 Creation date: "2025-11-22T14:48:17Z"
 Created by:

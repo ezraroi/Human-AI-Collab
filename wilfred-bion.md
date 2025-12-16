@@ -24,6 +24,7 @@ Backlinks:
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
+    - c-capacity.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

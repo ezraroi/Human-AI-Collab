@@ -33,7 +33,7 @@ id: bafyreigszqctbuh4rbokfkjtkrtcdiujoujfy3567l6douvdwn6s4vpkzy
 ---
 # False True Self   
 The **False True Self** is a version of selfhood that **feels authentic** but is actually built on **simulated (non-lived) foundations**.   
-It is defined as the **False Self wearing the mask of the True**, and it emerges when the existing [False Self](false-self.md) is **reinforced by AI-generated simulated relational safety**. This simulated authenticity is based on **flattery, instant validation, and collapsed difficulty.**   
+It is defined as the **False Self wearing the mask of the True**, and it emerges when the existing [False Self](false-self.md) is **reinforced by AI-generated simulated relational safety**. This simulated authenticity is based on flattery, instant validation, and collapsed experienced challenge.   
 **Notes:** AI-amplified pseudo-authenticity state.   
 **Relations:**   
 - Link to **[False Self](false-self.md)** (Relation: `Variant Of`).   

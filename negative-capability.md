@@ -9,8 +9,10 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - 5-the-operational-capacity-negative-capability.md
+    - human.md
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - c-capacity.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

@@ -34,6 +34,9 @@ Links:
     - protein-shake-brain-psb.md
     - beta-elements.md
     - alpha-elements.md
+    - identity-stakes.md
+    - materialization.md
+    - challenge-gap-d-c.md
     - dynamic-transitional-object-dto.md
     - emotional-scaffolding-s_e.md
     - cognitive-dependency.md
@@ -49,10 +52,10 @@ It describes the *routing, sequencing, and feedback* by which raw experience bec
     - Symbolic input from AI enters the system ([Channel 2](channel-2-symbolic.md))   
     - Recruits embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) via the As-If Body Loop   
     - Gets metabolized by [Alpha-Function](alpha-function.md)   
-    - And is materialized + returned via the Journal across sessions.   
+    - And is materialized + returned via the [Journal](journal.md) across sessions.   
 - Enables **diagnosis of distinct failure modes**:   
-    - [PSB](protein-shake-brain-psb.md) ([Alpha-Function](alpha-function.md) offline)   
-    - Symbolic Overrun (As-If Body Loop offline)   
+    - [PSB](protein-shake-brain-psb.md) (Channel 1 bypass; [Alpha-Function](alpha-function.md) fails to engage robustly)   
+    - Symbolic Overrun ([As-If Body Loop](as-if-body-loop.md) offline)   
     - Transient Insight (Journal missing/corrupted)   
 - Allows you to talk not only about “three components are necessary”, but about **how the output of one becomes the input of the other**.   
    
@@ -93,8 +96,8 @@ The circuit requires a specific qualitative order of operations. Each component 
     - Journaling requires metabolized content.   
     - Writing too early (before embodied-somatic resolution) produces pseudo-integration or rationalization.   
 4. **Journal Materialization Must Precede Recursive Reintegration**   
-    - Only externalized α-elements can feed into future cycles as stable Capacity (C).   
-    - Without materialization, recursive strengthening does not occur.   
+    - Externalized [alpha-elements](alpha-elements.md) can feed into future cycles as stable Capacity (C), especially when the work carries [Identity Stakes.](identity-stakes.md)   
+    - Without [materialization](materialization.md), recursive strengthening may not reliably occur.   
    
 **This ordering defines the “circuit” nature of the system: each component’s output is the next component’s required input.**   
 ### Global Interaction Dynamics (Propagation Rules)   
@@ -104,18 +107,18 @@ Because the circuit is a directed, interdependent architecture, degradation in o
     - Alpha-Function receives symbol-only input → leads to *Symbolic Overrun* (high conceptual clarity, low embodied conviction).   
 - **If Alpha-Function is under-engaged or overrun:**   
     - β-elements remain unprocessed.   
-    - Journal entries become either empty or AI-heavy → signature of *Protein Shake Brain (PSB)*.   
+    - Journal entries become either empty or AI-heavy → signature of *Protein Shake Brain ([PSB](protein-shake-brain-psb.md))*.   
     - Future cycles start with weak or nonexistent C.   
 - **If the Journal is missing or corrupted:**   
-    - Capacity (C) cannot accumulate across Time.   
+    - Capacity (C) may not reliably accumulate across [Time](time.md) (when the work carries [Identity Stakes](identity-stakes.md)).   
     - Prior insights cannot be operationalized.   
-    - Future \|D–C\| gaps become miscalibrated → leading to overwhelm or stagnation.   
+    - Future \|[D–C](challenge-gap-d-c.md)\| gaps become miscalibrated → leading to overwhelm or stagnation.   
    
 These propagation patterns are system-level signatures that differentiate the circuit from a mere list of components.   
 ### Global Sₑ Constraint (Qualitative Energy Budget)   
 The circuit’s throughput is bounded by the available Emotional Scaffolding (Sₑ):   
-- Deep Alpha-Function cycles consume Sₑ (frustration tolerance, uncertainty holding).   
-- The Journal partially restores Sₑ by stabilizing previously metabolized α-elements.   
+- Deep [Alpha-Function](alpha-function.md) cycles consume Sₑ (frustration tolerance, uncertainty holding).   
+- The [Journal](journal.md) stabilizes previously metabolized [alpha-elements](alpha-elements.md), reducing reprocessing load across sessions.   
 - If Sₑ becomes too low, the circuit cannot run safely:   
     - As-If Body Loop engagement collapses,   
     - Alpha-Function becomes unstable or overloaded,   
@@ -136,4 +139,4 @@ Sₑ therefore acts as the system’s qualitative “power regulator,” determi
     - Disembodied pseudo-clarity (if As-If Body Loop is offline)   
     - “Insight with no consequences” (if Journal is absent)   
    
-**Notes:** Architectural map of Axis B (processing). Defines the wiring between Channel 2 → As-If Loop → Channel 1 → Alpha-Function → Journal → Time.   
+**Notes:** Architectural map of Axis B (processing). Defines the wiring between Channel 2 → As-If Loop → Channel 1 → Alpha-Function → Journal → [Time](time.md).   

@@ -121,10 +121,10 @@ The core breakthrough was defining **Functional Alterity (FA)**.
 - **Shifting the Focus:** The model pivots away from the irrelevant question of "Is AI conscious?" and instead asks, "Does this system successfully activate the human's alpha-function and produce documented transformation across time?".
 - **The Claim:** The interaction is usable for development because, within the system, FA preserves productive epistemic tension turn-by-turn without requiring conscious alterity.
 
-### 3. The Mechanism: Productive Epistemic Tension
-Functional Alterity is operationalized by the AI’s per-utterance calibrated resistance that preserves necessary intellectual friction without collapsing into sycophancy or overwhelm.
+### 3. The Signal: Productive Epistemic Tension
+Functional Alterity is operationalized by the AI’s per-utterance calibrated resistance that, in the presence of adequate scaffolding, helps preserve productive epistemic tension without collapsing into sycophancy or overwhelm.
 - **Irreducible Alterity:** The AI must demonstrate **irreducible alterity and non-determinism** by resisting the user and offering a difference that creates **productive epistemic tension**. This engineered opposition prevents the dialogue from collapsing into a monologue or mere reflection of the user's assumptions.
-- The Formula Mapping: Functional Alterity names the turn-by-turn preservation of the *productivity*  of the pre-existing Challenge Gap, without changing the structural gap itself. This tension is essential because it is the pressure that **forces the human user's core psychic mechanism, the Alpha-Function, to activate**.
+- The Formula Mapping: Functional Alterity names the turn-by-turn preservation of the *productivity*  of the pre-existing Challenge Gap, without changing the structural gap itself. This tension is essential because it signals the user is cognitively stretched but still able to think, supporting the activation of the Alpha-Function.
 - **Functional Thirdness:** The ultimate resolution state is captured by the claim: **Functional Thirdness: Reconciling Ontological Monologue with Dialogical Systematics**.
 
 The resolution is further strengthened by the insight that the AI functions as a **Dynamic Transitional Object (DTO)**, a "Productive Fiction" that simulates social presence just enough to activate the user's social-cognitive machinery without establishing a false dependency. This externalization of the reflective split by the AI allows the human brain to perform the simultaneous processing required for transformation without suffering internal resource depletion.
@@ -262,13 +262,13 @@ The three theorists describe **sequential prerequisites**—conditions that must
 - Provides: Ontological Security (operationalized as Emotional Scaffolding), psychological safety
 - **Removes Obstacle 1:** Annihilation anxiety + environmental impingement
 - Enables: Possibility of True Self existence
-- Formula mapping: S\_e as the operational indicator; if S\_e = 0, the system collapses (regardless of other factors)
+- Formula mapping: S\_e names the presence/absence of Ontological Security; without it, the enabling conditions fail regardless of other factors.
 
 **2. Mechanism: Alpha-Function**
 - Provides: Metabolic processing (beta-elements → alpha-elements)
 - **Removes Obstacle 2:** Psychic chaos + "nameless dread"
 - Enables: Internal coherence, symbolic capacity, thinkability
-- Formula mapping: P(alpha); sparked by \|D-C\| gap (frustration)
+- Alpha-Function is the mechanism that metabolizes beta-elements into alpha-elements once holding conditions are in place.
 
 **3. Pre-Existing Condition: Destiny Drive **
 - Ontological status: **Always present in latent form**
@@ -281,7 +281,7 @@ The architecture creates **conditions not content**—it reveals the idiom rathe
 **Why This Integration Works:**
 - Preserves psychoanalytic fidelity (each theorist's logic intact)
 - Avoids inappropriate causation claims
-- Maps cleanly onto the functional formula
+- Maps cleanly onto the Unified Architecture
 - Provides theoretical foundation for neural network mapping
 - Explains both generative success and pathological collapse
 
@@ -290,7 +290,7 @@ The architecture creates **conditions not content**—it reveals the idiom rathe
 - **Enables Mapping:** Unified Architecture, Integrated Circuit Board
 
 **Notes:**
-This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model (Psychodynamic Collapse Sequence), which traces system failure through the same structure inverted.
+This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model, which traces system failure through the same structure inverted.
 
 ---
 

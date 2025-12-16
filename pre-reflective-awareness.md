@@ -12,7 +12,7 @@ Backlinks:
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-28T11:35:18Z"
 Created by:
     - Roi Ezra
@@ -32,4 +32,4 @@ Model Equivalent: It maps to [Channel 1](channel-1-embodied-sensorimotor-pathway
 - Link to **[Maurice Merleau-Ponty](maurice-merleau-ponty.md)** (Relation: `Defined By`).   
 - Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: Associated With).   
    
-**Notes:** Immediate tacit awareness; maps to Channel 1.   
+**Notes:** Immediate tacit awareness; maps to [Channel 1](channel-1-embodied-sensorimotor-pathway.md).   

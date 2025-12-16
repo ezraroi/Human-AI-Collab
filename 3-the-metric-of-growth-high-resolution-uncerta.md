@@ -17,9 +17,12 @@ Links:
     - metacognition.md
     - flow-optimization-principle.md
     - self-explanation.md
+    - journal.md
+    - identity-stakes.md
     - cognitive-offloading.md
     - alpha-function.md
     - reflective-prompting.md
+    - channel-1-embodied-sensorimotor-pathway.md
 id: bafyreiepapqtj556popoy2c2agkow6zhzou2kvl5s4ce5tv2bcoboescqa
 ---
 # 3. The Metric of Growth: High-Resolution Uncertainty   
@@ -54,7 +57,7 @@ The Anti-Otto Safeguard:
 Unlike Otto’s notebook (which can be treated as reliable storage), AI cannot be treated as an automatically trusted cognitive extension; it must be used with verification, as a catalyst for the user’s own processing. The system prevents dependency through:   
 1. Mandatory verification (felt sense check prevents blind acceptance)   
 2. Resolution monitoring (awareness of what you do/don't understand)   
-3. Journal requirement (externalization proves understanding)   
+3. [Journal](journal.md) materialization (when the work carries [Identity Stakes](identity-stakes.md)) (externalization proves understanding)   
    
 The goal is not efficiency but capacity growth. [Cognitive offloading](cognitive-offloading.md) is productive when it offloads retrieval/storage while preserving internal processing ([Alpha-Function](alpha-function.md)); it becomes destructive when it offloads the processing itself, risking [Protein Shake Brain.](protein-shake-brain-psb.md)   
 ### 3.2 How This Strengthens Your Model   
@@ -79,7 +82,7 @@ This integrates three established literatures:
 ### 4. Makes Falsifiable Predictions   
 This framework predicts:   
 - High resolution + AI Mode B = learning (testable via journal analysis)   
-- Low resolution + AI use = PSB (testable via dependency measures)   
+- Low resolution + unverified AI use increases [PSB](protein-shake-brain-psb.md) risk (testable via markers of [Channel 1](channel-1-embodied-sensorimotor-pathway.md) bypass and adoption)   
 - False certainty + AI Mode A = reinforcement of error (testable via outcome)   
    
 ### Potential Challenge: Measurement   

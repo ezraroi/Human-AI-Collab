@@ -14,8 +14,8 @@ Links:
     - beta-elements.md
     - ai.md
     - journal.md
-    - technical-scaffolding-s_t.md
     - functional-alterity.md
+    - challenge-gap-d-c.md
     - alpha-function.md
     - emotional-scaffolding-s_e.md
     - alpha-elements.md
@@ -31,11 +31,11 @@ id: bafyreievm644uha3oyndszobe5n3xxsztaaidv35lj6mqpf7z6hiqautwi
 # Section 8 - The Recursive Loop & Embodied Integration   
 ## 9. The Final Unified Model: The "[Recursive Loop](recursive-metabolic-loop.md)" & Embodied Integration   
 The final insight is that this system is not static; it is a dynamic, recursive process where Time is the fourth, critical component. The "[Third Intelligence](third-intelligence.md)" is this loop.   
-The "[Productive Epistemic Tension](productive-epistemic-tension.md)": The AI's "dialogical illusion" is not a bug; it's a feature. It simulates social interaction just enough to activate our human social-cognitive machinery, forcing us to externalize, clarify, and defend our thinking in a way a static tool (like a notebook alone) cannot.   
+The "[Productive Epistemic Tension](productive-epistemic-tension.md)": The AI's "dialogical illusion" is not a bug; it's a feature. It simulates social interaction just enough to activate our human social-cognitive machinery, inviting us to externalize, clarify, and defend our thinking in a way a static tool (like a notebook alone) cannot.   
 ### The "Recursive Loop": The process is an upward spiral:   
 1. Raw experience ([beta-element](beta-elements.md)): The user has raw, unprocessed sensory-emotional experience that is not yet thinkable.   
 2. Externalize: The user engages the system ([AI](ai.md) + [Journal](journal.md)).   
-3. Challenge: The AI provides [technical scaffolding](technical-scaffolding-s_t.md) and [Functional Alterity](functional-alterity.md), preserving productive tension as the pre-existing \|D–C\| relation is encountered, acting as a mirror/challenger.   
+3. Challenge: The AI provides technical scaffolding and [Functional Alterity](functional-alterity.md), helping preserve [productive epistemic tension](productive-epistemic-tension.md) (in the presence of adequate scaffolding) as the pre-existing \|[D–C](challenge-gap-d-c.md)\| relation is encountered, acting as a mirror/challenger.   
 4. Internalize ([α-function](alpha-function.md)): The Human, acting as the [S\_e](emotional-scaffolding-s_e.md) Container, performs the transformative work and inscribes the resulting insight ([alpha-element](alpha-elements.md)) into the Journal.   
 5. New Capacity: The [C](c-capacity.md) in the formula increases.   
 6. Repeat ([Time](time.md)): The accumulation of these loops across time (e.g., your 43 notebooks) is what creates the documented transformation.   
