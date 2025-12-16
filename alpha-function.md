@@ -19,6 +19,7 @@ Backlinks:
     - destiny-drive.md
     - what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
+    - dialogical-knowing.md
     - triple-network-model.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - beta-elements.md
@@ -54,7 +55,6 @@ Backlinks:
     - ai.md
     - challenge-gap-d-c.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
-    - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - p-alpha-probability-of-growth.md
     - gap-filling-inference-generation.md
@@ -75,6 +75,7 @@ Backlinks:
     - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - felt-sense.md
+    - technical-scaffolding-s_t.md
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
@@ -117,6 +118,7 @@ Links:
     - felt-sense.md
     - edmund-husserl.md
     - third-intelligence.md
+    - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
     - as-if-body-loop.md
     - journal.md
@@ -125,6 +127,7 @@ Links:
     - channel-2-symbolic.md
     - emotional-scaffolding-s_e.md
     - the-integrated-circuit-board.md
+    - category-error.md
     - recursive-metabolic-loop.md
 Emoji: "\U0001F4A1"
 id: bafyreifo53w4l4yis2pviyq3di4j2jmlznc4l2cy5ks5fltatd7e5sdlwy
@@ -133,7 +136,7 @@ id: bafyreifo53w4l4yis2pviyq3di4j2jmlznc4l2cy5ks5fltatd7e5sdlwy
 The internal, embodied process of metabolizing raw, unthinkable experience ([Beta-Elements](beta-elements.md)) into thinkable thoughts ([Alpha-Elements](alpha-elements.md))—[felt sense](felt-sense.md) made thinkable.   
 **Phenomenological Root ([Husserl](edmund-husserl.md)):** Maps to **Noesis**.
 This is the *subjective act* of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.   
-**System Role:** The "Engine" of the [Third Intelligence](third-intelligence.md). It is sparked by frustration ($\|D-C\|$).   
+**System Role: **The "Engine" of the [Third Intelligence](third-intelligence.md). It is sparked when the experienced challenge is held long enough for metabolization (while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing)   
 ### Local Failure Mode ([PSB](protein-shake-brain-psb.md) – Protein Shake Brain)   
 When the Alpha-Function is bypassed or under-engaged, symbolic material is taken in without metabolic processing. AI outputs or abstractions are “consumed” directly, producing:   
 - outward fluency without inward transformation,   
@@ -177,5 +180,5 @@ Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha
 - **Part Of:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture)   
 - **Requires:**[ As-If Body Loop](as-if-body-loop.md) for somatic input; sufficient Sₑ for frustration tolerance   
 - **Counteracted By:** [PSB](protein-shake-brain-psb.md) (when Alpha is bypassed)   
-- **Constrained By:** Axis A (Alpha cannot run properly if AI is treated as Subject)   
+- **Constrained By:** Axis A ([Category Error](category-error.md) increases vulnerability by weakening interpretation and embodied checking)   
 [Recursive Metabolic Loop](recursive-metabolic-loop.md)    

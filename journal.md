@@ -31,6 +31,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - section-3-foundational-theoretical-integration.md
     - time.md
     - conclusion-on-novelty-and-contribution.md
     - the-hidden-implications-youve-discovered.md
@@ -38,6 +39,7 @@ Backlinks:
     - critical-distinctions.md
     - d-w-winnicott.md
     - section-7-the-three-layer-architecture-tempora.md
+    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -56,6 +58,7 @@ Backlinks:
     - the-journals-three-essential-functions.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
+    - c-capacity.md
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md

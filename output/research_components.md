@@ -8,7 +8,7 @@ AI, Boundary Condition (The Manic Episode), C (Capacity), D (Difficulty), Emotio
 ## [RESEARCH COMPONENT] AI
 [Theoretical] The "Hardware", Domain: Technical, System Role: Scaffolding, Temporal: Dynamic
 
-The third component of the Human + Journal + AI + Time tetrad. AI is a Large Language Model (LLM) held in the Dynamic Transitional Object (DTO) stance—a Large Language Model (LLM) that provides technical scaffolding and can be used to preserve productive epistemic tension (when held in DTO stance), without consciousness, intentionality, or subjectivity..
+The third component of the Human + Journal + AI + Time tetrad. AI is a Large Language Model (LLM) held in the Dynamic Transitional Object (DTO) stance—a Large Language Model (LLM) that provides technical scaffolding and can be used to help preserve productive epistemic tension (in the presence of adequate scaffolding and when held in DTO stance), without consciousness, intentionality, or subjectivity..
 Unlike traditional cognitive tools (calculators, books) or genuine partners (conscious others), AI is uniquely:
 - **Generative** (creates novel content, not retrieval)
 - **Responsive** (adapts to context via In-Context Learning)
@@ -24,7 +24,7 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 - **Modulable in real-time:** "explain like I'm 5" ↔ "technical depth"
 
 **2. **ZPD tension preservation within the pre-existing Challenge Gap (\|D–C\|):
-- Maintains productive epistemic tension
+- Helps preserve productive epistemic tension (the felt signal of workable ZPD engagement)
 - Adjusts presentation, pacing, and Sₜ so the user can *work within* a ZPD that exists inside the pre-existing Challenge Gap
 - **Challenge without judgment** (no social cost)
 - Can increase experienced tension ("challenge my assumptions") or provide support (without changing the structural \|D–C\| relation)
@@ -32,7 +32,7 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 **3. Functional Alterity:**
 - Structured difference supporting metabolic processing
 - "Not-me" position externalizing reflective split
-- Productive friction preventing passive consumption
+- Productive friction reducing passive consumption risk
 - Dialogical simulation engaging the user’s dialogical processing
 
 **4. Systematic Competence:**
@@ -119,12 +119,12 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 - Used without digestion and verification → PSB
 
 **When both co-occur → Cognitive Dependency**”
-- Provides S\_t preemptively → Collapses the *experienced challenge* in the ZPD toward ‘no challenge’ (PSB), while the structural \|D–C\| relation remains unchanged
+- Provides S\_t preemptively → Collapses the experienced challenge in the ZPD toward ‘no challenge’, increasing PSB risk by enabling Channel 2–only adoption (while the structural \|D–C\| relation remains unchanged)
 - Category Error (AI-as-Subject) → perceived S\_e → counterfeit scaffolding
 
 **Observable Properties:**
 **Well-Calibrated AI Use:**
-- Maintains workable tension within the pre-existing \|D–C\| relation
+- Helps preserve workable tension within the pre-existing \|D–C\| relation
 - User struggles productively
 - Verification occurs naturally
 - Felt sense engaged
@@ -150,7 +150,7 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 - **Distinct From:** Human mentors (can modulate infinitely), static tools (responsive), genuine partners (no consciousness)
 
 **Notes:**
-AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports ZPD tension preservation within the pre-existing Challenge Gap (\|D–C\|). Insufficient because without Human (S\_e, Alpha-Function, teleology) and Journal (materialization), AI interaction remains purely productive, never transformative.
+AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports Support for preserving workable tension within the pre-existing Challenge Gap (\|D–C\|). Insufficient because without Human (Emotional Scaffolding, Alpha-Function, teleology) and Journal (materialization), AI interaction remains purely productive, never transformative.
 The innovation: recognizing AI's unique combination of capabilities (modulable S\_t, infinite availability, dialogical simulation) alongside its fundamental limitations (no S\_e, no consciousness, no teleology) enables precise architectural positioning—neither dismissing AI as "just a tool" nor overvaluing it as "partner."
 
 ---
@@ -237,7 +237,7 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 
 **Atrophy Dynamics:**
 **C Decreases/Stagnates When:**
-**PSB pattern sustained (\|D-C\| → 0 repeatedly):**
+PSB pattern sustained (experienced challenge collapses repeatedly while \|D–C\| remains pre-existing):
 - No productive struggle → α-function dormant
 - Challenge gap consistently removed
 - Passive consumption instead of metabolization
@@ -259,11 +259,11 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - β-elements → α-elements transformation
 - Cannot be bypassed (PSB prevents growth)
 
-**2. Journal Materialization:**
+**2. Journal Materialization **(when the work carries Identity Stakes)**:**
 - Insights inscribed, not ephemeral
 - Prevents regression to baseline
 - Enables pattern recognition across Time
-- Without Journal: C growth doesn't accumulate
+- Without Journal: C growth may not reliably accumulate
 
 **3. Time/Consolidation:**
 - Between-session spacing for integration
@@ -304,7 +304,7 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - **Enables:** Flywheel effect, upward developmental spiral, tackling higher D
 - **Measured By:** Complexity tolerance, Negative Capability, self-explanation fluency
 - **Requires:** Journal (prevents regression), Time (consolidation), sufficient S (bridging)
-- **Theoretical Basis:** Vygotsky (ZPD learner capacity), Bion (store of α-elements), developmental psychology (schema formation)
+- **Theoretical Basis:** Vygotsky (ZPD learner capacity), Bion (store of alpha-elements), developmental psychology (schema formation)
 
 **Notes:**
 C is the **ONLY variable that actually grows**—it's what transformation MEANS. Everything else in the system exists to enable C growth:
@@ -315,7 +315,7 @@ C is the **ONLY variable that actually grows**—it's what transformation MEANS.
 - But **C is what changes** in the Human
 
 Critical insight: Your 43 notebooks over 8 months = documentary evidence of C growth. The ratio 43:1 (transformative vs. productive) shows which sessions produced C increase vs. which didn't.
-The tragedy of PSB: high activity (many sessions) + zero C growth (all \|D-C\| → 0) = appearance of learning without substance. The Transmissive Self: fluent performance, hollow capacity.
+The tragedy of PSB: high activity (many sessions) + zero C growth (experienced challenge collapses; Channel 1 stays offline) = appearance of learning without substance. The Transmissive Self: fluent performance, hollow capacity.
 
 ---
 
@@ -585,7 +585,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - S\_e exhausts during sessions
 - Needs recovery via Time
 - Cannot process continuously
-- Risk of collapse when S\_e → 0 (Manic Episode)
+- Risk of collapse when Emotional Scaffolding is severely depleted (Manic Episode)
 
 **Observable Depletion Markers:**
 - Increasing tightness in felt sense
@@ -595,30 +595,30 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Difficulty maintaining complexity
 
 **Developmental (Not Static):**
-- C grows between sessions (if P(α) occurred)
+- C grows between sessions (if P(alpha) occurred)
 - Increased complexity tolerance over Time
 - Enhanced metabolic capacity
 - Deepening Negative Capability
 - Identity-level transformation
 
 **Complementarity with AI:**
-|         Function |                        Human |                              AI |
-|:-----------------|:-----------------------------|:--------------------------------|
-|  **Scaffolding** |    S\_e (emotional) - FINITE |     S\_t (technical) - INFINITE |
-|   **Processing** | Alpha-Function - METABOLIZES | Pattern recognition - ORGANIZES |
-|    **Awareness** |     Teleological - FORESIGHT |             Myopic - NEXT TOKEN |
-|     **Capacity** |         C grows - TRANSFORMS |                   No C - STATIC |
-| **Availability** |        Depletes - NEEDS REST |             Infinite - TIRELESS |
-| **Verification** |        Embodied - FELT SENSE | Unreliable - NEEDS VERIFICATION |
+|         Function |                        Human |                                                          AI |
+|:-----------------|:-----------------------------|:------------------------------------------------------------|
+|  **Scaffolding** |    S\_e (emotional) - FINITE | S\_t (technical) - INFINITE |
+|   **Processing** | Alpha-Function - METABOLIZES |                             Pattern recognition - ORGANIZES |
+|    **Awareness** |     Teleological - FORESIGHT |                                         Myopic - NEXT TOKEN |
+|     **Capacity** |         C grows - TRANSFORMS |                                               No C - STATIC |
+| **Availability** |        Depletes - NEEDS REST |                                         Infinite - TIRELESS |
+| **Verification** |        Embodied - FELT SENSE |                             Unreliable - NEEDS VERIFICATION |
 
 **Neither sufficient alone; both necessary together.**
 **Failure Modes:**
 **When Human Function Compromised:**
-**1. S\_e Depletion (S\_e → 0):**
+1. **S\_e Depletion (severe depletion):**
 - Manic acceleration
 - Loss of containment
 - System collapse
-- Formula breaks: P(α) → 0
+- The recursive loop cannot run safely; transformation fails to occur
 
 **2. Teleological Drift:**
 - Loss of global goals
@@ -767,13 +767,13 @@ The Formula: Architecture Definition
 ## [RESEARCH COMPONENT] Technical Scaffolding (S\_t)
 [Theoretical] Domain: Technical, System Role: Scaffolding, Temporal: Dynamic
 
-The operationalized measurement of instructional support—the quality and appropriateness of **current technical guidance** provided by AI for bridging the challenge gap. S\_t is the formula variable representing how much competence-based scaffolding the AI offers during developmental work.
+The operationalized dimension of instructional support—the quality and appropriateness of current technical guidance provided by AI for bridging the challenge gap. S\_t is the formula variable representing how much competence-based scaffolding the AI offers during developmental work.
 **Theoretical Basis:**
-S\_t operationalizes Vygotsky's **More Knowledgeable Other (MKO)** as a dynamic, measurable, and modulable variable. While MKO describes the concept of a competent guide, S\_t measures the **current quality and calibration** of that guidance.
+S\_t operationalizes Vygotsky's More Knowledgeable Other (MKO) as a dynamic and modulable variable. While MKO describes the concept of a competent guide, S\_t measures the **current quality and calibration** of that guidance.
 **Formula Role:**
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**
 - Multiplicative with S\_e (emotional scaffolding)
-- If S\_t = 0 → P(alpha) = 0 (no technical guidance)
+- If S\_t is absent → transformation cannot be supported by technical guidance
 - Must be calibrated to \|D-C\| gap
 - Cannot substitute for S\_e (multiplication, not addition)
 
@@ -809,7 +809,7 @@ Unlike human MKOs, AI-provided S\_t can be:
 **Preemptive Technical Scaffolding (component of PSB):**
 - Delivers complete answers before user struggles
 - Removes the learner’s engagement with difficulty prematurely rather than bridging it
-- Collapses \|D-C\| challenge gap prematurely
+- Collapses the experienced challenge prematurely (while \|D–C\| remains pre-existing)
 - Enables passive consumption
 - Prevents Alpha-Function activation
 
@@ -821,15 +821,15 @@ Observable Markers of Counterfeit Technical Scaffolding:
 - No felt shift or metabolic processing
 
 **Contrast: Genuine vs. Counterfeit**
-|              Genuine S\_t | Counterfeit S\_t (S\_t\_preemptive) |
-|:--------------------------|:------------------------------------|
-| Hints, guides, structures |                  Complete solutions |
-|       Maintains challenge |                   Removes challenge |
-|          Enables struggle |                 Eliminates struggle |
-|           ZPD-appropriate |                    Too easy (D → 0) |
-|          Fades as C grows |                      Always maximum |
-|  Activates Alpha-Function |             Bypasses Alpha-Function |
-|      User authors meaning |                  AI authors meaning |
+|                                  Genuine S\_t |         Counterfeit S\_t (S\_t\_preemptive) |
+|:----------------------------------------------|:--------------------------------------------|
+|                     Hints, guides, structures |                          Complete solutions |
+|                           Maintains challenge |                           Removes challenge |
+|                              Enables struggle |                         Eliminates struggle |
+|                     ZPD-appropriate | Too easy (experienced difficulty collapses) |
+|                              Fades as C grows |                              Always maximum |
+| Activates Alpha-Function |                     Bypasses Alpha-Function |
+|                          User authors meaning |                          AI authors meaning |
 
 **Dynamic Properties:**
 **Within-Session:**

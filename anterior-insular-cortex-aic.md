@@ -18,6 +18,7 @@ Backlinks:
     - somatic-marker-hypothesis.md
     - recursive-metabolic-loop.md
     - pre-reflective-awareness.md
+    - 2-the-alpha-function-as-the-triple-network-the.md
     - as-if-body-loop.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md

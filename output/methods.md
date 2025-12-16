@@ -212,8 +212,6 @@ This recursive structure keeps Alpha-Function processing engaged live.
 - **External Alpha-Function** — *Defines Boundary With*
     Ensures scaffolding never replaces internal metabolism.
 
-Why It Works: Verification Built Into Creation
-
 ---
 
 ## [METHOD] Reflective Prompting
@@ -222,7 +220,7 @@ Why It Works: Verification Built Into Creation
 A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **alpha-function** with the human, organizes **technical scaffolding (Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the ZPD** by slowing work into recursive reflective loops (the structural Challenge Gap \|D–C\| remains pre-existing).Its purpose is to prevent **PSB **while feeding the Journal with metabolized, owned insights (Journal relevant only in Identity Stakes work).
 ### System Role
 - Converts AI interaction from **consumption** to **co-articulation**.
-- Maintains the *conditions* for Productive Epistemic Tension—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.
+- Helps preserve the conditions for Productive Epistemic Tension (in the presence of adequate scaffolding and Functional Alterity)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.
 - Ensures AI remains a **Piagetian Tool (Object)** serving the human container, rather than a pseudo-MKO doing the alpha-function for the user.
 - Provides the **session-level protocol** that operates inside the Recursive–Refine–Validate Cycle.
 
@@ -250,7 +248,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - **Idiom & delegation boundaries** – Clarify your cognitive style/strengths and what you own (judgment, meaning, narrative) vs. what can be delegated to AI (enumeration, editing, code, formatting).
 
 **Cognitive role:**
-- Builds a **holding environment** before asking AI anything.
+- Stabilizes emotional scaffolding and establishes the conditions of a holding environment before asking AI anything.
 - Makes the initial D (Difficulty/Identity Stakes) and current C (Capacity) **explicit as a qualitative orientation**.
 
 **Relations:**
@@ -391,7 +389,7 @@ Cognitive science / educational psychology literature on active learning. Well-d
 |                                                                 Container's function |                         Learner's active process |
 
 **Both describe transformation of raw/incoherent material into organized understanding, but through different theoretical lenses.**
-**Critical distinction:** They are **functionally equivalent** (both produce metabolic transformation) but **not identical** (different theoretical frameworks, different domains).
+**Critical distinction:** They are functionally parallel (both can produce organized understanding) but not identical (different theoretical frameworks, different domains).
 **Observable When Active:**
 - User can explain concept without reproducing AI language
 - Articulates reasoning steps explicitly

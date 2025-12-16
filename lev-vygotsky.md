@@ -20,7 +20,6 @@ Backlinks:
     - recursive-metabolic-loop.md
     - mko-more-knowledgeable-other.md
     - critical-connection-5-why-psb-happens.md
-    - technical-scaffolding-s_t.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
@@ -30,7 +29,6 @@ Backlinks:
     - ii-the-novelty-of-the-specific-mechanisms.md
     - dialogical-and-embodied-frameworks-an-integrat.md
     - zpd.md
-    - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
     - Dialogical Self Theory & Linguistics

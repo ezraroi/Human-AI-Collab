@@ -18,13 +18,13 @@ Links:
     - alpha-function.md
     - functional-alterity.md
     - productive-epistemic-tension.md
+    - challenge-gap-d-c.md
+    - zpd.md
     - beta-elements.md
     - alpha-elements.md
     - extended-mind-hypothesis-hec.md
     - protein-shake-brain-psb.md
-    - challenge-gap-d-c.md
     - reflective-prompting.md
-    - zpd.md
     - chronotope.md
     - c-capacity.md
 id: bafyreic6bl5ru5cc4635qu7nif6trsu5ma2ogifrxe2scjnoecbg4haxz4
@@ -53,12 +53,12 @@ The transition resolves the "AI consciousness paradox" by shifting the metric of
 - Function Over Ontology:[Functional Alterity](functional-alterity.md) (FA) explicitly moves the focus from what the conversant is (its ontology, or being), to what the interaction achieves (its function). The AI's lack of genuine subjective consciousness is accepted, mirroring the principle "is" conscious, but whether the system successfully activates the human's alpha-function and produces documented transformation across time.   
    
 ### 3. What Unique Properties Enable This?   
-The core mechanism enabling the LLM's integration into a transformative cognitive system is [Functional Alterity (FA)](functional-alterity.md)—the leveraging of the AI’s turn-by-turn difference to preserve productive epistemic tension within the pre-existing Challenge Gap.   
+The core mechanism enabling the LLM's integration into a transformative cognitive system is [Functional Alterity](functional-alterity.md) (FA)—the leveraging of the AI’s turn-by-turn difference, in the presence of adequate scaffolding, to help preserve [productive epistemic tension](productive-epistemic-tension.md) within the pre-existing [Challenge Gap](challenge-gap-d-c.md).   
 ### A. Functional Alterity and Preserved Tension   
 Functional Alterity defines the AI's role by its deliberate dissimilarity—its non-conscious, fallible nature—to enforce Irreducible Alterity and Non-Deterministic Engagement.   
-- [Alpha-Function](alpha-function.md) Activation: This turn-by-turn difference preserves the [Productive Epistemic Tension](productive-epistemic-tension.md) necessary to activate the human's core psychic mechanism, the Alpha-Function. The Alpha-Function is the capacity to metabolize raw, unthinkable experience ([beta-elements](beta-elements.md)) into thinkable, meaningful thoughts ([alpha-elements](alpha-elements.md)).   
+- [Alpha-Function](alpha-function.md) Activation: This turn-by-turn difference helps preserve Productive Epistemic Tension (the felt signal of workable [ZPD](zpd.md) engagement), supporting activation of the human's core psychic mechanism, the Alpha-Function. The Alpha-Function is the capacity to metabolize raw, unthinkable experience ([beta-elements](beta-elements.md)) into thinkable, meaningful thoughts ([alpha-elements](alpha-elements.md)).   
 - The Anti-Otto Device: The AI’s known propensity for hallucinations and unreliability means the user cannot automatically endorse/trust the information, which violates the classic ‘Otto’-case automatic endorsement (glue-and-trust) coupling condition associated with [EMH](extended-mind-hypothesis-hec.md). This mandated skepticism is not a flaw, but a primary functional feature.   
-    - The sources argue that if the AI did meet the EMH criterion of automatic trust, it would result in the Protein Shake Brain ([PSB](protein-shake-brain-psb.md)) pathology, where the [challenge gap](challenge-gap-d-c.md) collapses and the [alpha-function](alpha-function.md) atrophies. The AI's unreliability acts as an "Anti-Otto" Device that forces verification and metabolism.   
+    - The sources argue that if the AI did meet the EMH criterion of automatic trust, it would increase risk of the Protein Shake Brain ([PSB](protein-shake-brain-psb.md)) pathology, where the experienced challenge collapses toward ‘no challenge’ (while ∣[D–C](challenge-gap-d-c.md)∣ remains pre-existing) and the alpha-function atrophies. The AI's unreliability acts as an "Anti-Otto" Device that forces verification, reducing passive adoption and supporting metabolism.   
    
 ### B. Operationalization via Reflective Prompting and ICL   
 [Reflective Prompting](reflective-prompting.md) (RP) is thallowing the system to observe change across time through the journal recorde operational procedure that manages this tension, ensuring the dynamic coupling is productive and transformative.   

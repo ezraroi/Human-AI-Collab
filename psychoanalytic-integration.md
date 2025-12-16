@@ -23,10 +23,10 @@ Links:
     - destiny-drive.md
     - holding-environment.md
     - emotional-scaffolding-s_e.md
+    - p-alpha-probability-of-growth.md
     - alpha-function.md
     - beta-elements.md
     - alpha-elements.md
-    - p-alpha-probability-of-growth.md
     - the-unified-architecture.md
     - the-integrated-circuit-board.md
 Emoji: ❓
@@ -44,13 +44,13 @@ The three theorists describe **sequential prerequisites**—conditions that must
 - Provides: Ontological Security (operationalized as [Emotional Scaffolding](emotional-scaffolding-s_e.md)), psychological safety   
 - **Removes Obstacle 1:** Annihilation anxiety + environmental impingement   
 - Enables: Possibility of True Self existence   
-- Formula mapping: S\_e as the operational indicator; if S\_e = 0, the system collapses (regardless of other factors)   
+- [Formula](p-alpha-probability-of-growth.md) mapping: S\_e names the presence/absence of Ontological Security; without it, the enabling conditions fail regardless of other factors.   
    
 **2. Mechanism: [Alpha-Function](alpha-function.md)**   
 - Provides: Metabolic processing ([beta-elements](beta-elements.md) → [alpha-elements](alpha-elements.md))   
 - **Removes Obstacle 2:** Psychic chaos + "nameless dread"   
 - Enables: Internal coherence, symbolic capacity, thinkability   
-- Formula mapping: [P(alpha);](p-alpha-probability-of-growth.md) sparked by \|D-C\| gap (frustration)   
+- [Alpha-Function](alpha-function.md) is the mechanism that metabolizes [beta-elements](beta-elements.md) into [alpha-elements](alpha-elements.md) once holding conditions are in place.   
    
 **3. Pre-Existing Condition: [Destiny Drive ](destiny-drive.md)**   
 - Ontological status: **Always present in latent form**   
@@ -63,7 +63,7 @@ The architecture creates **conditions not content**—it reveals the idiom rathe
 **Why This Integration Works:**   
 - Preserves psychoanalytic fidelity (each theorist's logic intact)   
 - Avoids inappropriate causation claims   
-- Maps cleanly onto the functional formula   
+- Maps cleanly onto the [Unified Architecture](the-unified-architecture.md)   
 - Provides theoretical foundation for neural network mapping   
 - Explains both generative success and pathological collapse   
    
@@ -72,4 +72,4 @@ The architecture creates **conditions not content**—it reveals the idiom rathe
 - **Enables Mapping:** [Unified Architecture](the-unified-architecture.md), [Integrated Circuit Board](the-integrated-circuit-board.md)   
    
 **Notes:**   
-This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model (Psychodynamic Collapse Sequence), which traces system failure through the same structure inverted.   
+This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model, which traces system failure through the same structure inverted.   

@@ -14,6 +14,7 @@ Backlinks:
     - the-journal-in-system-context.md
     - catalytic-externalization.md
     - channel-2-symbolic.md
+    - human.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
@@ -23,11 +24,11 @@ Backlinks:
     - section-7-the-three-layer-architecture-tempora.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
-    - section-8-the-recursive-loop-and-embodied-inte.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - dialogical-and-embodied-frameworks-an-integrat.md
+    - functional-alterity.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
@@ -39,26 +40,25 @@ Creation date: "2025-11-22T10:03:55Z"
 Created by:
     - Roi Ezra
 Links:
-    - lev-vygotsky.md
     - mko-more-knowledgeable-other.md
-    - p-alpha-probability-of-growth.md
+    - challenge-gap-d-c.md
     - zpd.md
     - protein-shake-brain-psb.md
-    - challenge-gap-d-c.md
+    - alpha-function.md
     - reflective-prompting.md
     - emotional-scaffolding-s_e.md
 Emoji: "\U0001F9E9"
 id: bafyreiflk4z2eiffb32oncmi2w3nn4i2mjqgnebw67pf5dapqubxgxejmy
 ---
 # Technical Scaffolding (S\_t)   
-The operationalized measurement of instructional support—the quality and appropriateness of **current technical guidance** provided by AI for bridging the challenge gap. S\_t is the formula variable representing how much competence-based scaffolding the AI offers during developmental work.   
+The operationalized dimension of instructional support—the quality and appropriateness of current technical guidance provided by AI for bridging the challenge gap. S\_t is the formula variable representing how much competence-based scaffolding the AI offers during developmental work.   
 **Theoretical Basis:**   
-S\_t operationalizes [Vygotsky's](lev-vygotsky.md) **More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md))** as a dynamic, measurable, and modulable variable. While MKO describes the concept of a competent guide, S\_t measures the **current quality and calibration** of that guidance.   
+S\_t operationalizes Vygotsky's More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) as a dynamic and modulable variable. While [MKO](mko-more-knowledgeable-other.md) describes the concept of a competent guide, S\_t measures the **current quality and calibration** of that guidance.   
 **Formula Role:**   
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**   
 - Multiplicative with S\_e (emotional scaffolding)   
-- If S\_t = 0 → [P(alpha)](p-alpha-probability-of-growth.md) = 0 (no technical guidance)   
-- Must be calibrated to \|D-C\| gap   
+- If S\_t is absent → transformation cannot be supported by technical guidance   
+- Must be calibrated to \|[D-C](challenge-gap-d-c.md)\| gap   
 - Cannot substitute for S\_e (multiplication, not addition)   
    
 **System Role:**   
@@ -93,7 +93,7 @@ Unlike human MKOs, AI-provided S\_t can be:
 **Preemptive Technical Scaffolding (component of [PSB](protein-shake-brain-psb.md)):**   
 - Delivers complete answers before user struggles   
 - Removes the learner’s engagement with difficulty prematurely rather than bridging it   
-- Collapses \|D-C\| [challenge gap](challenge-gap-d-c.md) prematurely   
+- Collapses the experienced challenge prematurely (while \|D–C\| remains pre-existing)   
 - Enables passive consumption   
 - Prevents Alpha-Function activation   
    
@@ -105,15 +105,15 @@ Observable Markers of Counterfeit Technical Scaffolding:
 - No felt shift or metabolic processing   
    
 **Contrast: Genuine vs. Counterfeit**   
-|              Genuine S\_t | Counterfeit S\_t (S\_t\_preemptive) |
-|:--------------------------|:------------------------------------|
-| Hints, guides, structures |                  Complete solutions |
-|       Maintains challenge |                   Removes challenge |
-|          Enables struggle |                 Eliminates struggle |
-|           ZPD-appropriate |                    Too easy (D → 0) |
-|          Fades as C grows |                      Always maximum |
-|  Activates Alpha-Function |             Bypasses Alpha-Function |
-|      User authors meaning |                  AI authors meaning |
+|                                  Genuine S\_t |         Counterfeit S\_t (S\_t\_preemptive) |
+|:----------------------------------------------|:--------------------------------------------|
+|                     Hints, guides, structures |                          Complete solutions |
+|                           Maintains challenge |                           Removes challenge |
+|                              Enables struggle |                         Eliminates struggle |
+|                     [ZPD](zpd.md)-appropriate | Too easy (experienced difficulty collapses) |
+|                              Fades as C grows |                              Always maximum |
+| Activates [Alpha-Function](alpha-function.md) |                     Bypasses Alpha-Function |
+|                          User authors meaning |                          AI authors meaning |
 
 **Dynamic Properties:**   
 **Within-Session:**   

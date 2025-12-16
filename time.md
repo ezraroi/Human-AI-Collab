@@ -14,6 +14,7 @@ Backlinks:
     - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - human.md
     - conclusion-on-novelty-and-contribution.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
@@ -23,6 +24,7 @@ Backlinks:
     - third-intelligence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
+    - c-capacity.md
     - alpha-function-integrating-dialogical-and-embo.md
     - emotional-scaffolding-s_e.md
     - what-youve-actually-discovered-meta-level.md

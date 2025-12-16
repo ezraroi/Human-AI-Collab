@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - embodied-engagement-conditions.md
     - dialogical-knowing.md
     - in-context-learning.md
     - 4-the-system-architecture-v2-0.md
@@ -19,13 +20,23 @@ Backlinks:
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
     - ai.md
+    - section-10-the-grand-unification.md
+    - section-8-the-recursive-loop-and-embodied-inte.md
+    - the-integrated-circuit-board.md
+    - critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
+    - alpha-function.md
+    - c-capacity.md
+    - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
+    - functional-thirdness.md
+    - part-i-false-self-false-true-self-and-ai-as-ac.md
     - functional-alterity.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
+    - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

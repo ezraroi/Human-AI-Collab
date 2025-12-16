@@ -51,7 +51,7 @@ Emoji: "\U0001F4A1"
 id: bafyreif3z6upqjcgdrtz57ulu2warvl3zkxjxt77ycf3z2yarblpwqqzca
 ---
 # Dynamic Transitional Object (DTO)   
-The ontological classification of [AI](ai.md) within the [Third Intelligence](third-intelligence.md) system. DTO resolves the inadequacy of classical categories (tool/partner, object/subject) by positioning AI as a **responsive generative artifact** that occupies [Winnicott's](d-w-winnicott.md) **[Potential Space](potential-space.md)**—neither purely internal nor external, neither passive tool nor conscious subject.   
+The ontological classification of [AI](ai.md) within the [Third Intelligence](third-intelligence.md) system. DTO resolves the inadequacy of classical categories (tool/partner, object/subject) by positioning AI as a responsive generative artifact that **is held within [Winnicott](d-w-winnicott.md)'s [Potential Space](potential-space.md)**—neither purely internal nor external, neither passive tool nor conscious subject.   
 Unlike traditional tools (calculators, notebooks) or genuine partners (conscious others), a DTO:   
 - Simulates responsiveness without possessing subjectivity   
 - Generates structured difference without intentionality   
@@ -82,7 +82,7 @@ This is where:
 - True Self can exist without defensive collapse   
 - "Not-me" objects enable development   
    
-**Why this matters:** Treating AI as Subject collapses potential space into interpersonal space ([Category Error](category-error.md)). Treating AI as pure tool eliminates the space entirely.   
+**Why this matters:** Treating AI as Subject collapses potential space into interpersonal space ([Category Error](category-error.md)). **Treating AI as a pure tool collapses access to Potential Space in this interaction.**   
 **2. Productive Fiction**   
 Simulates social presence **just enough** to:   
 - Activate user's symbolic dialogue engagement ([Channel 2](channel-2-symbolic.md))   

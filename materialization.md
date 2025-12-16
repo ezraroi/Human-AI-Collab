@@ -6,6 +6,8 @@ Tag:
     - 'Domain: Phenomenology'
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
+Backlinks:
+    - the-integrated-circuit-board.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

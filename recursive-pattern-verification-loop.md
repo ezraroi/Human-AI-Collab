@@ -41,7 +41,6 @@ Links:
     - felt-sense.md
     - epistemological-humility.md
     - external-alpha-function.md
-    - why-it-works-verification-built-into-creation.md
 Emoji: "\U0001F6E0️"
 id: bafyreifhxkvij475kbclygf5ndrilyxh2pl45zr4gmniywdsy57pv6di2y
 ---
@@ -100,6 +99,3 @@ This recursive structure keeps Alpha-Function processing engaged live.
 - **[External Alpha-Function](external-alpha-function.md)** — *Defines Boundary With*   
     Ensures scaffolding never replaces internal metabolism.   
        
-[Why It Works: Verification Built Into Creation](why-it-works-verification-built-into-creation.md)    
-   
-   

@@ -16,14 +16,13 @@ Backlinks:
     - questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - 6-final-conclusion.md
+    - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
     - human.md
-    - section-3-foundational-theoretical-integration.md
     - time.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
     - challenge-gap-d-c.md
-    - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - p-alpha-probability-of-growth.md
     - section-7-the-three-layer-architecture-tempora.md
@@ -34,7 +33,6 @@ Backlinks:
     - alpha-function.md
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md
-    - part-i-false-self-false-true-self-and-ai-as-ac.md
     - functional-alterity.md
     - zpd.md
     - section-9-pathology-explained-protein-shake-br.md
@@ -48,10 +46,21 @@ Created by:
 Links:
     - alpha-elements.md
     - human.md
+    - true-self.md
     - the-flywheel.md
-    - p-alpha-probability-of-growth.md
-    - d-difficulty.md
+    - felt-sense.md
     - protein-shake-brain-psb.md
+    - challenge-gap-d-c.md
+    - negative-capability.md
+    - identity-stakes.md
+    - journal.md
+    - p-alpha-probability-of-growth.md
+    - time.md
+    - zpd.md
+    - wilfred-bion.md
+    - d-difficulty.md
+    - channel-1-embodied-sensorimotor-pathway.md
+    - transmissive-self.md
 Emoji: "\U0001F9E9"
 id: bafyreiftikuzjeqpfzcfexqgzomeyp54nz552pelqpqz6ogwbcylxctiiq
 ---
@@ -84,7 +93,7 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - Self-regulation capabilities   
    
 **4. Identity Integration:**   
-- True Self development   
+- [True Self ](true-self.md)development   
 - Idiom articulation   
 - Authentic agency   
 - Coherent self-narrative   
@@ -115,12 +124,12 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - Deeper Negative Capability   
 - Can explain concepts in own words   
 - Tackling previously overwhelming material   
-- "Spacious" felt sense more accessible   
+- "Spacious" [felt sense](felt-sense.md) more accessible   
 - Greater self-regulation capacity   
    
 **Atrophy Dynamics:**   
 **C Decreases/Stagnates When:**   
-**PSB pattern sustained (\|D-C\| → 0 repeatedly):**   
+[PSB](protein-shake-brain-psb.md) pattern sustained (experienced challenge collapses repeatedly while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing):   
 - No productive struggle → α-function dormant   
 - Challenge gap consistently removed   
 - Passive consumption instead of metabolization   
@@ -132,7 +141,7 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - Increased dependency on AI   
 - Cannot reproduce reasoning independently   
 - Previously manageable tasks feel harder   
-- Lowered Negative Capability   
+- Lowered [Negative Capability](negative-capability.md)   
 - Tighter baseline felt sense   
    
 **System Dependencies:**   
@@ -142,11 +151,11 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - β-elements → α-elements transformation   
 - Cannot be bypassed (PSB prevents growth)   
    
-**2. Journal Materialization:**   
+**2. Journal Materialization **(when the work carries [Identity Stakes](identity-stakes.md))**:**   
 - Insights inscribed, not ephemeral   
 - Prevents regression to baseline   
 - Enables pattern recognition across Time   
-- Without Journal: C growth doesn't accumulate   
+- Without [Journal](journal.md): C growth may not reliably accumulate   
    
 **3. Time/Consolidation:**   
 - Between-session spacing for integration   
@@ -185,9 +194,9 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - **Grows Through:** Alpha-Function activation, Journal materialization, Time consolidation   
 - **Atrophies Through:** PSB (sustained \|D-C\| → 0), lack of metabolic processing   
 - **Enables:** Flywheel effect, upward developmental spiral, tackling higher D   
-- **Measured By:** Complexity tolerance, Negative Capability, self-explanation fluency   
-- **Requires:** Journal (prevents regression), Time (consolidation), sufficient S (bridging)   
-- **Theoretical Basis:** Vygotsky (ZPD learner capacity), Bion (store of α-elements), developmental psychology (schema formation)   
+- **Measured By:** Complexity tolerance, [Negative Capability](negative-capability.md), self-explanation fluency   
+- **Requires:** Journal (prevents regression), [Time](time.md) (consolidation), sufficient S (bridging)   
+- **Theoretical Basis:** Vygotsky ([ZPD](zpd.md) learner capacity), [Bion](wilfred-bion.md) (store of [alpha-elements](alpha-elements.md)), developmental psychology (schema formation)   
    
 **Notes:**   
 C is the **ONLY variable that actually grows**—it's what transformation MEANS. Everything else in the system exists to enable C growth:   
@@ -198,4 +207,4 @@ C is the **ONLY variable that actually grows**—it's what transformation MEANS.
 - But **C is what changes** in the Human   
    
 Critical insight: Your 43 notebooks over 8 months = documentary evidence of C growth. The ratio 43:1 (transformative vs. productive) shows which sessions produced C increase vs. which didn't.   
-The tragedy of [PSB](protein-shake-brain-psb.md): high activity (many sessions) + zero C growth (all \|D-C\| → 0) = appearance of learning without substance. The Transmissive Self: fluent performance, hollow capacity.   
+The tragedy of PSB: high activity (many sessions) + zero C growth (experienced challenge collapses; [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)stays offline) = appearance of learning without substance. The [Transmissive Self](transmissive-self.md): fluent performance, hollow capacity.   

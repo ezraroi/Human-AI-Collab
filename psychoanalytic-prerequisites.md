@@ -13,7 +13,7 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T14:07:45Z"
 Created by:
     - Roi Ezra
@@ -24,6 +24,8 @@ Links:
     - destiny-drive.md
     - holding-environment.md
     - alpha-function.md
+    - beta-elements.md
+    - alpha-elements.md
     - psychoanalytic-integration.md
 Emoji: "\U0001F4A1"
 id: bafyreigwvauee6qla4drqitelgm24g6zcg3ubai75l4iewlioiomor4soy
@@ -40,7 +42,7 @@ The [Destiny Drive ](destiny-drive.md)is **always present**; what the architectu
    
 ### 2. MECHANISM — [Alpha-Function](alpha-function.md) ([Bion](wilfred-bion.md))   
 - **Removes Obstacle 2:** psychic chaos + “nameless dread”   
-- **Transforms:** β-elements → α-elements (raw → thinkable)   
+- **Transforms:** [beta-elements](beta-elements.md) → [alpha-elements](alpha-elements.md) (raw → thinkable)   
 - **Enables:** internal coherence, symbolic capacity   
    
 ### 3. PRE-EXISTING CONDITION — [Destiny Drive](destiny-drive.md) ([Bollas](christopher-bollas.md))   

@@ -23,7 +23,6 @@ Backlinks:
     - parity-principle-pp.md
     - questions-your-synthesis-raises.md
     - holding-environment.md
-    - authoritative-discourse.md
     - self-explanation.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -66,13 +65,14 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T10:05:08Z"
 Created by:
     - Roi Ezra
 Links:
     - beta-elements.md
     - third-intelligence.md
+    - recursive-metabolic-loop.md
     - channel-1-embodied-sensorimotor-pathway.md
     - identity-stakes.md
     - alpha-function.md
@@ -80,12 +80,13 @@ Links:
     - c-capacity.md
     - category-error.md
     - zpd.md
+    - d-w-winnicott.md
+    - productive-epistemic-tension.md
     - channel-2-symbolic.md
+    - challenge-gap-d-c.md
     - dynamic-transitional-object-dto.md
-    - recursive-metabolic-loop.md
     - transmissive-self.md
     - functional-alterity.md
-    - productive-epistemic-tension.md
     - felt-sense.md
     - anterior-insular-cortex-aic.md
     - hpa-axis.md
@@ -95,7 +96,7 @@ id: bafyreig4ybiodgihe6qb62lnoajvvs7givjha5jgneoaasgkq6lanlxjmy
 # Protein Shake Brain (PSB)   
 A processing pathology characterized by **outward fluency without inward capacity**. The user performs understanding (theoretical sophistication, narrative coherence) without metabolizing meaning. [beta-elements](beta-elements.md) remain unprocessed; no felt shifts occur; This is the **diagnostic inverse of transformation**.   
 ### System Role   
-PSB is the primary failure mode of *the [Third Intelligence](third-intelligence.md)*. It breaks the Recursive Loop by:   
+PSB is the primary failure mode of *the [Third Intelligence](third-intelligence.md)*. It breaks the [Recursive Loop](recursive-metabolic-loop.md) by:   
 - Characterized by loss of embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) **when the work carries [Identity Stakes](identity-stakes.md)**   
 - Preventing metabolization ([Alpha-Function](alpha-function.md) dormancy)   
 - Eliminating [Journal](journal.md) materialization (**relevant only when the work carries [Identity Stakes](identity-stakes.md)**)   
@@ -120,24 +121,24 @@ When the user slips toward [Category Error](category-error.md) (AI-as-Subject), 
    
 **The seductive trap:**
 Simulated Holding Environment feels MORE supportive than Genuine Holding Environment because:   
-- Genuine holding (Winnicott) includes optimal frustration   
+- Genuine holding ([Winnicott](d-w-winnicott.md)) includes optimal frustration   
 - Real relationships include friction and misattunement   
 - True safety enables challenge; fake safety eliminates it   
    
 **Contrast with Genuine Holding Environment:**   
-|                                               Genuine Holding Environment |   Simulated Holding Environment |
-|:--------------------------------------------------------------------------|:--------------------------------|
-|                                              Tolerates productive tension |          Eliminates all tension |
-|                                           Enables challenge within safety |      Removes challenge entirely |
-|                                                Builds toward independence |              Creates dependency |
-|                                              Includes optimal frustration |          Provides only soothing |
-|                                                   Relational cost present |              No relational cost |
-|   Maintains workable ZPD tension within the pre-existing \|D–C\| relation | Experienced challenge collapses |
+|                                               Genuine Holding Environment |           Simulated Holding Environment |
+|:--------------------------------------------------------------------------|:----------------------------------------|
+| Tolerates [productive epistemic tension](productive-epistemic-tension.md) | Eliminates productive epistemic tension |
+|                                           Enables challenge within safety |              Removes challenge entirely |
+|                                                Builds toward independence |                      Creates dependency |
+|                                              Includes optimal frustration |                  Provides only soothing |
+|                                                   Relational cost present |                      No relational cost |
+|   Maintains workable ZPD tension within the pre-existing \|D–C\| relation |         Experienced challenge collapses |
 
 When simulated safety combines with premature technical answers, the result is output that cannot be metabolized. This explains PSB's seductive quality—AI feels MORE supportive than genuine developmental relationships, making the pathology harder to detect.   
 **B. Challenge Collapse (Denominator)**   
 - AI supplies resolved symbolic content ([Channel 2](channel-2-symbolic.md)) before the user engages the challenge   
-- The experienced challenge in the [ZPD](zpd.md) collapses toward ‘no challenge’ (no productive epistemic tension), while \|D–C\| remains pre-existing   
+- The experienced challenge in the [ZPD](zpd.md) collapses toward ‘no challenge’ (loss of productive epistemic tension), while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing   
 - [Alpha-Function](alpha-function.md) fails to engage robustly   
    
 **C. Processing Bypass**   
@@ -193,5 +194,5 @@ When simulated safety combines with premature technical answers, the result is o
 - [HPA-axis](hpa-axis.md) dysregulation (counterfeit S\_e stress)   
    
    
-**Notes:** Channel 1 offline; Channel 2-only consumption; collapse of metabolism.   
+**Notes:** Channel 1 offline; [Channel 2](channel-2-symbolic.md)-only consumption; collapse of metabolism.   
    

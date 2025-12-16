@@ -10,6 +10,7 @@ Tag:
 Backlinks:
     - alpha-elements.md
     - 5-the-embodied-connection.md
+    - what-this-means-for-your-paper.md
     - minimal-self.md
     - embodied-engagement-conditions.md
     - reflective-awareness.md
@@ -33,6 +34,7 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - alpha-function.md
     - cognitive-debt.md
+    - c-capacity.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md

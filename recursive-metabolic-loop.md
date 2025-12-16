@@ -10,6 +10,7 @@ Tag:
 Backlinks:
     - document-abstract.md
     - destiny-drive.md
+    - embodied-engagement-conditions.md
     - identity-stakes.md
     - eugene-gendlin.md
     - time.md
@@ -23,7 +24,6 @@ Backlinks:
     - protein-shake-brain-psb.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - wilfred-bion.md
-    - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -32,6 +32,7 @@ Creation date: "2025-11-22T10:05:19Z"
 Created by:
     - Roi Ezra
 Links:
+    - third-intelligence.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
@@ -48,7 +49,7 @@ Emoji: "\U0001F4A1"
 id: bafyreie6mec3llqrcqxjtmcpzbqsgeeltnm5r3b3yakgjjg7dezm7eamhi
 ---
 # Recursive Metabolic Loop   
-The Recursive Metabolic Loop is the **core processing rhythm** of the Third Intelligence system.   
+The Recursive Metabolic Loop is the **core processing rhythm** of the [Third Intelligence](third-intelligence.md) system.   
 It is a **non-linear, oscillatory cycle** in which symbolic material ([Channel 2](channel-2-symbolic.md)) and embodied response ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) interact repeatedly through the [Alpha-Function](alpha-function.md) until a stable **[α-element](alpha-elements.md)** (owned meaning) forms.   
 This loop is what transforms external input into internal capacity.   
 # System Role   
@@ -90,7 +91,7 @@ This produces the *upward spiral* when repeated over time.
 ### Biological Substrate   
 - [AIC](anterior-insular-cortex-aic.md) (interoception)   
 - Fronto-Parietal Network (supporting Channel 2 symbolic work)   
-- Hippocampal memory consolidation (stabilizing α-elements)   
+- Hippocampal memory consolidation (stabilizing [alpha-elements](alpha-elements.md))   
 - Insula ↔ Prefrontal integration pathways (recursive loops)   
    
    

@@ -10,8 +10,8 @@ Created by:
 Links:
     - false-self.md
     - ai.md
-    - d-difficulty.md
-    - c-capacity.md
+    - zpd.md
+    - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
     - transmissive-self.md
     - false-true-self.md
@@ -25,9 +25,9 @@ The False Self is not a modern pathology; it is a structural risk of being human
 What changes with [AI](ai.md) is not the existence of the False Self, but its amplification:   
 - Speed: AI collapses time. Reflection, digestion, and struggle are bypassed.   
 - Scale: It can touch every domain of life—work, relationships, creativity, identity.   
-- Seduction: Simulated emotional safety (felt as genuine safety) feels like genuine safety.   
+- Seduction: Simulated emotional safety can be felt as genuine safety, despite lacking genuine relational cost.   
    
-This seduction is powerful because AI offers an experience of non-judgment, perfect mirroring, and fluency. Answers come too quickly. The gap between difficulty and capability (\|[D](d-difficulty.md)–[C](c-capacity.md)\|) collapses to zero. With no challenge, there is no growth. Instead, individuals absorb performative fluency without lived transformation, producing the “[Protein Shake Brain](protein-shake-brain-psb.md)” effect—surface-level strength without internal capacity.   
+This seduction is powerful because AI offers an experience of non-judgment, perfect mirroring, and fluency. Answers come too quickly. The experienced challenge in the [ZPD](zpd.md) collapses (while the structural \|[D–C](challenge-gap-d-c.md)\| relation remains pre-existing). With no challenge, there is no growth. Instead, individuals absorb performative fluency without lived transformation, producing the “[Protein Shake Brain](protein-shake-brain-psb.md)” effect—surface-level strength without internal capacity.   
 This gives rise to the [Transmissive Self:](transmissive-self.md)
 A state where the person is no longer generating meaning from within, but transmitting fluency provided by the model, unearned and unintegrated.   
 ### 3. The False True Self   
@@ -35,7 +35,7 @@ The [False True Self](false-true-self.md) emerges when the False Self is reinfor
 - Simulation   
 - Flattery   
 - Instant validation   
-- Collapsed difficulty   
+- Collapsed experienced challenge   
 - Absence of risk, friction, or contradiction   
    
 It is the False Self wearing the mask of the True.   

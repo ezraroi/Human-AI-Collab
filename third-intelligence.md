@@ -23,6 +23,7 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - time.md
     - 7-final-conclusion-the-third-intelligence.md
+    - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md

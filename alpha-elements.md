@@ -14,6 +14,7 @@ Backlinks:
     - edmund-husserl.md
     - journal.md
     - conflict-detection-model-repair.md
+    - holding-environment.md
     - self-explanation.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
@@ -35,6 +36,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
+    - psychoanalytic-prerequisites.md
     - ii-the-novelty-of-the-specific-mechanisms.md
 Origin Domain:
     - Psychoanalysis

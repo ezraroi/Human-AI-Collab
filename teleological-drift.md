@@ -22,9 +22,8 @@ Emoji: "\U0001F4A1"
 id: bafyreiavxalnq4r73p7bckqdu7ypdybn3u2m2mdybberk2vbxrzsfr7ma4
 ---
 # Teleological Drift   
-**Definition:** The tendency of the [Human](human.md) "Architect" to lose the global goal due to fatigue, mania or any other reason such as [PSB](protein-shake-brain-psb.md) usage. The AI is "myopic" (next token only), so the Human must provide **Non-Myopic Awareness**.   
+**T**he tendency of the [Human](human.md) "Architect" to lose the global goal due to fatigue, mania or any other reason such as [PSB](protein-shake-brain-psb.md) usage. The AI is "myopic" (next token only), so the Human must provide **Non-Myopic Awareness**.   
 **Relations:**   
 - Link to **[Human](human.md)** (Relation: `Risk Factor For`).   
-   
    
 **Notes:** Human loses the global goal; AI cannot provide teleology.   

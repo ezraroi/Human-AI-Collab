@@ -30,12 +30,13 @@ Links:
     - ai.md
     - dynamic-transitional-object-dto.md
     - protein-shake-brain-psb.md
-    - productive-epistemic-tension.md
+    - channel-2-symbolic.md
     - alpha-function.md
     - destiny-drive.md
     - reflective-prompting.md
     - external-alpha-function.md
     - journal.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - recursive-pattern-verification-loop.md
     - cognitive-offloading.md
     - metacognition.md
@@ -48,7 +49,7 @@ The **human-side boundary condition** of the [Third Intelligence](third-intellig
 Iron Man Mentality:   
 - Prevents **[Category Error](category-error.md)** (Axis A failure) by keeping [AI](ai.md) firmly as [DTO](dynamic-transitional-object-dto.md) and never as Subject.   
 - Prevents **[PSB](protein-shake-brain-psb.md)** (Axis B failure) by ensuring the human remains the processor of symbolic meaning.   
-- Maintains **[productive epistemic tension.](productive-epistemic-tension.md)**   
+- Helps preserve productive epistemic tension by preventing premature collapse into sycophancy and [Channel 2](channel-2-symbolic.md)–only adoption ([PSB](protein-shake-brain-psb.md) risk) while the human remains the active driver of meaning-making   
 - Protects germane load by offloading only lower-level retrieval/storage (extraneous load), never the processing of symbolic meaning ([Alpha-Function](alpha-function.md))   
 - Ensures that transformation occurs without collapse of self-authorship or symbolic integrity.   
 - Acts as the conscious protective stance that keeps the human aligned with their idiom as [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated.   
@@ -63,8 +64,8 @@ The stance repeatedly positions the human at the level where:
 - symbolic integrity remains intact.   
     This altitude is discovered and maintained through ongoing articulation.   
    
-**2. Verification as Symbolic Metabolism**   
-Verification is not “checking” but **testing whether the articulated form matches embodied knowing**.   
+**2. Verification in Support of Symbolic Metabolism**   
+Verification is not “checking” but testing whether the articulated form matches embodied knowing, so symbolic material is not adopted with [Channel 1](channel-1-embodied-sensorimotor-pathway.md) offline.   
 This supports the [DTO](dynamic-transitional-object-dto.md) stance that prevents [Category Error](category-error.md) by keeping relational boundaries intact.   
 **3. Ownership of Articulation**   
 The human must author the symbolic form; AI may assist but cannot originate meaning.   

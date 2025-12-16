@@ -61,7 +61,7 @@ Cognitive science / educational psychology literature on active learning. Well-d
 |                                                                 Container's function |                         Learner's active process |
 
 **Both describe transformation of raw/incoherent material into organized understanding, but through different theoretical lenses.**   
-**Critical distinction:** They are **functionally equivalent** (both produce metabolic transformation) but **not identical** (different theoretical frameworks, different domains).   
+**Critical distinction:** They are functionally parallel (both can produce organized understanding) but not identical (different theoretical frameworks, different domains).   
 **Observable When Active:**   
 - User can explain concept without reproducing AI language   
 - Articulates reasoning steps explicitly   

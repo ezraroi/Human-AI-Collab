@@ -66,6 +66,7 @@ Links:
     - metacognition.md
     - epistemological-humility.md
     - iron-man-mentality.md
+    - holding-environment.md
     - idiom-aligned-scaffolding.md
     - rubber-duck-debugging.md
     - external-alpha-function.md
@@ -83,7 +84,7 @@ id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **[alpha-function](alpha-function.md)** with the human, organizes **[technical scaffolding ](technical-scaffolding-s_t.md)(Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the [ZPD](zpd.md)** by slowing work into recursive reflective loops (the structural [Challenge Gap](challenge-gap-d-c.md) \|D–C\| remains pre-existing).Its purpose is to prevent **[PSB](protein-shake-brain-psb.md) **while feeding the [Journal](journal.md) with metabolized, owned insights (Journal relevant only in [Identity Stakes](identity-stakes.md) work).   
 ### System Role   
 - Converts AI interaction from **consumption** to **co-articulation**.   
-- Maintains the *conditions* for [Productive Epistemic Tension](productive-epistemic-tension.md)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
+- Helps preserve the conditions for [Productive Epistemic Tension](productive-epistemic-tension.md) (in the presence of adequate scaffolding and Functional Alterity)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
 - Ensures AI remains a **Piagetian Tool (Object)** serving the human container, rather than a pseudo-[MKO](mko-more-knowledgeable-other.md) doing the alpha-function for the user.   
 - Provides the **session-level protocol** that operates inside the [Recursive–Refine–Validate Cycle](rrv-cycle-recursive-refine-validate.md).   
    
@@ -111,7 +112,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 - **Idiom & delegation boundaries** – Clarify your cognitive style/strengths and what you own (judgment, meaning, narrative) vs. what can be delegated to AI (enumeration, editing, code, formatting).   
    
 **Cognitive role:**   
-- Builds a **holding environment** before asking AI anything.   
+- Stabilizes [emotional scaffolding](emotional-scaffolding-s_e.md) and establishes the conditions of a [holding environment](holding-environment.md) before asking AI anything.   
 - Makes the initial D (Difficulty/Identity Stakes) and current C (Capacity) **explicit as a qualitative orientation**.   
    
 **Relations:**   
