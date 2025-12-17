@@ -22,7 +22,7 @@ Backlinks:
     - critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
@@ -32,12 +32,13 @@ Backlinks:
 Origin Domain:
     - Developmental Psychology & Learning Theory
     - Dialogical Self Theory & Linguistics
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:08:32Z"
 Created by:
     - Roi Ezra
 Links:
     - zpd.md
+    - challenge-gap-d-c.md
     - mko-more-knowledgeable-other.md
     - technical-scaffolding-s_t.md
     - c-capacity.md
@@ -46,8 +47,8 @@ Emoji: "\U0001F464"
 id: bafyreiaklydmrc6g3ldyjpf62skiidkieqke5ichcx7vve6g5leusskvpi
 ---
 # Lev Vygotsky   
-Provides the **Social Mechanism**.
-***Zone of Proximal Development ([ZPD](zpd.md)):** The arena where transformation occurs (mapped to the $\|D-C\|$ gap).
+Provides the Social Mechanism (guidance/collaboration that makes the Challenge Gap workable as ZPD).   
+**Zone of Proximal Development ([ZPD](zpd.md)):** The workspace defined by the distance between independent performance (C) and assisted performance under guidance/collaboration; it is the workable subset of the pre-existing \|[D-C](challenge-gap-d-c.md)\| gap when scaffolding is present.*
 ***More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)):** The source of technical scaffolding ([$S\_t$](technical-scaffolding-s_t.md)).
 ***General Genetic Law:** Higher functions appear first socially, then internally.
 ***Temporality:** Scaffolding must fade; the AI's contribution is ephemeral.   

@@ -13,16 +13,22 @@ Links:
     - ai.md
     - subject-supposed-to-know-sss.md
     - dynamic-transitional-object-dto.md
+    - mko-more-knowledgeable-other.md
     - protein-shake-brain-psb.md
     - zpd.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - channel-2-symbolic.md
     - cognitive-artifact.md
+    - reflective-prompting.md
+    - 4ps-protocol.md
+    - alpha-function.md
+    - challenge-gap-d-c.md
 id: bafyreiayyzk2yjtmm7cnpxuradcuyzgfwe7ucuv2lzhznad62bdzms6lgu
 ---
 # Section 5 - The Category Error (Relational Axis Failure)   
 ### 5.1. The First Relational Insight: Misclassifying the AI   
 The [Category Error](category-error.md) is the relational misclassification of [AI](ai.md) as a [SSS](subject-supposed-to-know-sss.md) who knows, understands, or cares—rather than as a Dynamic Transitional Object ([DTO](dynamic-transitional-object-dto.md)).
-This mistake assigns the AI an interpersonal role it cannot occupy. The user begins to treat the AI as a Vygotskian partner, a figure of social knowing, rather than as a cognitive artifact whose outputs must be interpreted and metabolized.   
+This mistake assigns the AI an interpersonal role it cannot occupy.The user begins to treat the AI as a Vygotskian **guide/collaborator ([MKO](mko-more-knowledgeable-other.md)-function)**—a figure of social knowing—rather than as a cognitive artifact whose outputs must be interpreted and metabolized.   
 This is the failure mode of Axis A (Relational Ontology).   
 ### 5.2. What the Category Error Does   
 When the AI is treated as a Subject, several distortions occur simultaneously:   
@@ -56,7 +62,7 @@ AI cannot supply this.
 Only the human nervous system can.   
 ### 5.5. The Updated Explanation of PSB in Relation to the Category Error   
 PSB is not caused by misclassifying the AI as a Subject.
-PSB arises when the user processes AI output exclusively through Channel 2, bypassing the embodied friction of Channel 1 and preventing the Alpha-Function from transforming symbolic material into owned meaning.   
+PSB arises when the user processes AI output exclusively through Channel 2, bypassing the embodied friction of [Channel 1](channel-1-embodied-sensorimotor-pathway.md) and preventing the Alpha-Function from transforming symbolic material into owned meaning.   
 The Category Error sets the stage:   
 - If the AI is perceived as a Subject, its words are granted unearned authority.   
 - If its authority is assumed, the user is less likely to run the Recursive Loop.   
@@ -74,12 +80,12 @@ AI = [DTO](dynamic-transitional-object-dto.md) (Dynamic Transitional Object)
 a [cognitive artifact](cognitive-artifact.md) that produces difference, not a Subject that provides truth.   
 This preserves authorship, the necessary distance for interpretation, and protects the user from collapsing into false interpersonal safety.   
 ### 5.7. Using AI Correctly: Supporting, Not Replacing, Internal Dialogue   
-Reflective methods succeed—such as Reflective Prompting, the 4Ps, and the Recursive Loop—because they:   
+Reflective methods succeed—such as [Reflective Prompting](reflective-prompting.md), the [4Ps](4ps-protocol.md), and the Recursive Loop—because they:   
 - preserve the DTO stance (Axis A remains healthy),   
 - enforce recursive oscillation between channels (Axis B remains metabolic),   
 - prevent Channel 2–only consumption,   
-- keep the Alpha-Function active and embodied,   
-- sustain the \|D–C\| gap that drives growth.   
+- keep the [Alpha-Function](alpha-function.md) active and embodied,   
+- sustain the \|[D–C](challenge-gap-d-c.md)\| gap that drives growth.   
    
 The guiding question shifts from:   
 - “Can AI be my Vygotskian partner?”   

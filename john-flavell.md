@@ -10,7 +10,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
     - Developmental Psychology & Learning Theory
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-23T10:10:51Z"
 Created by:
     - Roi Ezra

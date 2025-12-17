@@ -12,7 +12,7 @@ Backlinks:
     - document-abstract.md
     - reverie.md
     - edmund-husserl.md
-    - system-0.md
+    - 4-the-system-architecture-v2-0.md
     - journal.md
     - conflict-detection-model-repair.md
     - self-explanation.md
@@ -29,7 +29,7 @@ Backlinks:
     - alpha-function.md
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
     - neuroscience-of-transformation.md

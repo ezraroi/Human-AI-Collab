@@ -7,14 +7,12 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Static'
 Backlinks:
-    - channel-1-embodied-sensorimotor-pathway.md
     - as-if-body-loop.md
     - antonio-damasio.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T13:54:40Z"
 Created by:
     - Roi Ezra

@@ -15,7 +15,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
     - Philosophy of Technology & Phenomenology
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:15:59Z"
 Created by:
     - Roi Ezra

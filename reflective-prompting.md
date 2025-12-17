@@ -17,6 +17,7 @@ Backlinks:
     - 1-the-core-hypothesis-practice-dependent-neuro.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - cognitive-debt-awareness.md
+    - section-5-the-category-error-relational-axis-f.md
     - metacognition.md
     - self-explanation.md
     - iron-man-mentality.md
@@ -42,6 +43,7 @@ Backlinks:
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md
+    - section-9-pathology-explained-protein-shake-br.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
@@ -67,13 +69,14 @@ Links:
     - epistemological-humility.md
     - iron-man-mentality.md
     - holding-environment.md
+    - d-difficulty.md
     - idiom-aligned-scaffolding.md
     - rubber-duck-debugging.md
+    - self-explanation.md
     - external-alpha-function.md
     - beta-elements.md
     - functional-alterity.md
     - conflict-detection-model-repair.md
-    - self-explanation.md
     - judgment-expertise-boundary.md
     - recursive-pattern-verification-loop.md
     - 4ps-protocol.md
@@ -113,7 +116,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
    
 **Cognitive role:**   
 - Stabilizes [emotional scaffolding](emotional-scaffolding-s_e.md) and establishes the conditions of a [holding environment](holding-environment.md) before asking AI anything.   
-- Makes the initial D (Difficulty/Identity Stakes) and current C (Capacity) **explicit as a qualitative orientation**.   
+- Makes the initial D ([Difficulty](d-difficulty.md)/Identity Stakes) and current C ([Capacity](c-capacity.md)) **explicit as a qualitative orientation**.   
    
 **Relations:**   
 - Supports → [Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md) (later in Phase 3).   
@@ -123,7 +126,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 Implements the RRV Cycle micro-method with **continuous RPVL verification**.   
 The RRV Cycle provides the dialogue structure; RPVL provides quality control throughout.   
 **Operations (implemented by RRV Cycle):**   
-1. **Externalize** – Speak/write raw thoughts, confusions, stakes to AI ([Rubber Duck Debugging](rubber-duck-debugging.md)).   
+1. Externalize – Speak/write raw thoughts, confusions, stakes to AI; often using [Rubber Duck Debugging](rubber-duck-debugging.md) as a step-by-step [self-explanation](self-explanation.md) aid.   
 2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence, and be willing to question your own first interpretation.   
 3. **Validate** – Ask AI to summarize “what we’re doing” and check it against felt sense and task definition.   
    
@@ -133,7 +136,7 @@ The RRV Cycle provides the dialogue structure; RPVL provides quality control thr
 - Keeps AI in **[Functional Alterity](functional-alterity.md)** (difference, resistance), not in “perfect agreement” mode.   
    
 **Teaching as Verification:**   
-Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation. When forced to teach/explain to the AI, users:   
+Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation (distinct from Rubber Duck Debugging). When forced to teach/explain to the AI, users:   
 - Retrieve and organize knowledge   
 - Identify gaps in their own understanding   
 - Make tacit assumptions explicit (so contradictions in the mental model become visible)   

@@ -10,6 +10,7 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - alpha-elements.md
     - document-abstract.md
+    - reverie.md
     - beta-elements.md
     - conflict-detection-model-repair.md
     - selected-fact.md
@@ -24,9 +25,10 @@ Backlinks:
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
+    - psychoanalytic-integration.md
     - c-capacity.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md
@@ -37,7 +39,7 @@ Backlinks:
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Psychoanalysis
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:12:09Z"
 Created by:
     - Roi Ezra
@@ -55,7 +57,7 @@ id: bafyreihmpfz2slhtskuvsli2sv4attqcivvpx3iigcrlfcfmk6boavyovi
 Provides the **Psychic Mechanism (The Engine)**.
 ***[Alpha-Function](alpha-function.md):** The metabolic process of thinking ([$P(\alpha)$](p-alpha-probability-of-growth.md)).
 ***Container/Contained:** The [Human](human.md) acts as [the Container](the-container.md); the AI is a "False Container".
-**Nameless Dread:** The result of a failed container (or [$S\_e=0$](emotional-scaffolding-s_e.md)).   
+**Nameless Dread:** The result of a failed container (often when [Emotional Scaffolding](emotional-scaffolding-s_e.md) is insufficient).   
    
 Wilfred Bion (1897-1979) was an influential English psychoanalyst, considered by some to be "possibly the greatest psychoanalytic thinker…after Freud". A decorated war veteran of WWI, he made significant contributions t**o group dynami**cs and developed a highly origina**l theory of thinki**ng based on emotional experience.   
 Key Contributions   

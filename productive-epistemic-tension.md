@@ -29,9 +29,9 @@ Created by:
 Links:
     - d-difficulty.md
     - c-capacity.md
-    - zpd.md
     - alpha-function.md
     - challenge-gap-d-c.md
+    - zpd.md
     - functional-alterity.md
     - channel-2-symbolic.md
     - protein-shake-brain-psb.md
@@ -43,13 +43,13 @@ id: bafyreibyr6i7bt3andluk2ykljpujw54u3fwj46knhpvmygwgh435je7ei
 The **felt state of being cognitively stretched but still able to think**.   
 It is the ‘just-right’ epistemic friction where **[Difficulty](d-difficulty.md) (D)** slightly exceeds [Capacity](c-capacity.md) (C) in the presence of adequate scaffolding, so the human remains the active driver of meaning-making.   
 **System Role**   
-- Marks that the system is operating inside a **workable [ZPD](zpd.md)** rather than in collapse (too little tension) or overwhelm (too much).   
+- Marks that the pre-existing \|D-C\| relation is being encountered **within a scaffolded ZPD (independent → assisted performance)** rather than collapsing into ‘no challenge’ or overwhelm.   
 - Signals that the human, not the AI, is doing the core symbolic work (authorship preserved).   
 - Supports the activation and *sustained* operation of the [Alpha-Function](alpha-function.md) by keeping the material challenging enough to require metabolization, but not so challenging that thinking shuts down.   
    
 **Distinctions**   
 - **Not synonymous with the [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md):** the gap is structural; Productive Epistemic Tension is the *experienced* quality of that gap when it is in a growth-conducive range.   
-- **Not identical to [ZPD](zpd.md):** ZPD is the **arena**; Productive Epistemic Tension is the **felt signal** that you are in the “right band” of that arena.   
+- Not identical to ZPD: [ZPD](zpd.md) is the arena; Productive Epistemic Tension is the felt signal that the encounter with \|D-C\| remains metabolizable under scaffolding (neither collapse nor overwhelm).   
 - Dependent on scaffolding and alterity: requires both sufficient scaffolding (Sₑ × Sₜ) and [Functional Alterity](functional-alterity.md); without them, the encounter with the gap becomes either noise/overwhelm, or it collapses into [Channel 2](channel-2-symbolic.md)–only adoption ([PSB](protein-shake-brain-psb.md)) when [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification goes offline.   
    
 **Relations**   

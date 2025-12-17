@@ -18,22 +18,22 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T13:02:52Z"
 Created by:
     - Roi Ezra
 Links:
+    - christopher-bollas.md
     - alpha-function.md
     - false-true-self.md
     - false-self.md
-    - christopher-bollas.md
     - protein-shake-brain-psb.md
 Emoji: "\U0001F4A1"
 id: bafyreiehj3vxxhirxact6f2qcohypxjhcupwrf2jeyzxr7c77zsbskwkhi
 ---
 # Transmissive Self   
-A state where the person is no longer generating meaning but "transmitting" fluency provided by the model. Unearned and unintegrated.   
-The **Transmissive Self** is a self that **adapts to a demanding world of transmissive objects**. This adaptation causes the self to **make all speakers and discourses interchangeable**, leading to what was once meaningful reflection ("food for thought") becoming **"mere fast food for thought"**   
+A concept articulated by [Christopher Bollas](christopher-bollas.md): a self-state where the person is no longer generating meaning but ‘transmitting’ externally provided fluency—unearned and unintegrated—formed as an adaptation to a demanding, intrusive environment.   
+The Transmissive Self is a self that adapts to a demanding world of transmissive objects (e.g., smartphones and social networking sites). This adaptation causes the self to **make all speakers and discourses interchangeable**, leading to what was once meaningful reflection ("food for thought") becoming **"mere fast food for thought"**   
 **Relations:**   
 - Link to **[Alpha-Function](alpha-function.md)** (Relation: `Lack Of` or `Bypasses`).   
 - Link to **[False True Self](false-true-self.md)** (Relation: `Precursor To`).   

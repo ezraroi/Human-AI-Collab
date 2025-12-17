@@ -15,6 +15,7 @@ Backlinks:
     - holding-environment.md
     - cognitive-style-bias.md
     - 6-final-conclusion.md
+    - jim-collins.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
@@ -22,6 +23,7 @@ Backlinks:
     - digital-neurophenomenology.md
     - section-3-foundational-theoretical-integration.md
     - time.md
+    - the-container.md
     - 7-final-conclusion-the-third-intelligence.md
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -38,6 +40,7 @@ Backlinks:
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - unified-architecture-neurobiological-resolutio.md
+    - ii-the-novelty-of-the-specific-mechanisms.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

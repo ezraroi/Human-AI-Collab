@@ -17,16 +17,18 @@ Backlinks:
     - section-2-the-core-formula-and-components.md
     - true-self.md
     - dynamic-transitional-object-dto.md
+    - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
     - protein-shake-brain-psb.md
     - potential-space.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
+    - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:10:16Z"
 Created by:
     - Roi Ezra

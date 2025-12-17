@@ -8,9 +8,12 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - lev-vygotsky.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
     - in-context-learning.md
+    - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - section-5-the-category-error-relational-axis-f.md
     - 4-the-system-architecture-v2-0.md
     - parity-principle-pp.md
     - channel-2-symbolic.md
@@ -21,6 +24,7 @@ Backlinks:
     - d-difficulty.md
     - ai.md
     - section-10-the-grand-unification.md
+    - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - the-integrated-circuit-board.md
     - critical-connection-5-why-psb-happens.md
@@ -31,6 +35,7 @@ Backlinks:
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
+    - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - functional-alterity.md

@@ -8,7 +8,6 @@ Tag:
     - 'System Role: Meta'
     - 'Temporal: Static'
 Backlinks:
-    - systematic-competence.md
     - dynamic-transitional-object-dto.md
     - functional-alterity.md
 Origin Domain:

@@ -34,7 +34,6 @@ Backlinks:
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md
     - functional-alterity.md
-    - zpd.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
@@ -46,12 +45,12 @@ Created by:
 Links:
     - alpha-elements.md
     - human.md
+    - negative-capability.md
     - true-self.md
     - the-flywheel.md
     - felt-sense.md
     - protein-shake-brain-psb.md
     - challenge-gap-d-c.md
-    - negative-capability.md
     - identity-stakes.md
     - journal.md
     - p-alpha-probability-of-growth.md
@@ -59,7 +58,6 @@ Links:
     - zpd.md
     - wilfred-bion.md
     - d-difficulty.md
-    - channel-1-embodied-sensorimotor-pathway.md
     - transmissive-self.md
 Emoji: "\U0001F9E9"
 id: bafyreiftikuzjeqpfzcfexqgzomeyp54nz552pelqpqz6ogwbcylxctiiq
@@ -71,7 +69,7 @@ The user's current psychic structure, cognitive skills, and accumulated store of
 C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:   
 - C is what you **currently can handle** alone   
 - D is what the **task demands**   
-- \|D-C\| is the **gap requiring scaffolding**   
+- \|D-C\| is the mismatch that may require scaffolding when D exceeds what the person can do independently (C); the workable band becomes the ZPD under guidance.   
    
 **What C Comprises:**   
 **1. Psychic Structure:**   
@@ -87,13 +85,13 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - Integrated, owned knowledge   
    
 **3. Skills & Capacities:**   
-- Ability to hold ambiguity (Negative Capability)   
+- Ability to hold ambiguity ([Negative Capability](negative-capability.md))   
 - Metabolic processing efficiency   
 - Pattern recognition across domains   
 - Self-regulation capabilities   
    
 **4. Identity Integration:**   
-- [True Self ](true-self.md)development   
+- [True Self](true-self.md) emergence   
 - Idiom articulation   
 - Authentic agency   
 - Coherent self-narrative   
@@ -108,7 +106,7 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 **Cumulative, Not Dynamic:**   
 - **Within session:** C is relatively stable (doesn't change moment-to-moment)   
 - **Between sessions:** C either grows or atrophies based on what happened   
-- **Across time:** C compounds through [flywheel](the-flywheel.md) effect   
+- **Across time:** C increases through the system’s [flywheel](the-flywheel.md) effect   
    
 **Growth Dynamics:**   
 **C Increases When:**   
@@ -193,7 +191,7 @@ C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
 - **Resides In:** Human component (only location where C can exist/grow)   
 - **Grows Through:** Alpha-Function activation, Journal materialization, Time consolidation   
 - **Atrophies Through:** PSB (sustained \|D-C\| → 0), lack of metabolic processing   
-- **Enables:** Flywheel effect, upward developmental spiral, tackling higher D   
+- **Manifests in:** Flywheel effect (cumulative momentum), upward developmental spiral, tackling higher D   
 - **Measured By:** Complexity tolerance, [Negative Capability](negative-capability.md), self-explanation fluency   
 - **Requires:** Journal (prevents regression), [Time](time.md) (consolidation), sufficient S (bridging)   
 - **Theoretical Basis:** Vygotsky ([ZPD](zpd.md) learner capacity), [Bion](wilfred-bion.md) (store of [alpha-elements](alpha-elements.md)), developmental psychology (schema formation)   
@@ -207,4 +205,4 @@ C is the **ONLY variable that actually grows**—it's what transformation MEANS.
 - But **C is what changes** in the Human   
    
 Critical insight: Your 43 notebooks over 8 months = documentary evidence of C growth. The ratio 43:1 (transformative vs. productive) shows which sessions produced C increase vs. which didn't.   
-The tragedy of PSB: high activity (many sessions) + zero C growth (experienced challenge collapses; [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)stays offline) = appearance of learning without substance. The [Transmissive Self](transmissive-self.md): fluent performance, hollow capacity.   
+The tragedy of PSB: high activity (many sessions) + zero capacity growth (experienced challenge collapses) = appearance of learning without substance. This can manifest as the [Transmissive Self](transmissive-self.md): transmitting externally provided fluency without owned meaning.   

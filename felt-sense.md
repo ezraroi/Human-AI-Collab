@@ -45,6 +45,7 @@ Backlinks:
     - mikhail-bakhtin.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
+    - dialogical-and-embodied-frameworks-an-integrat.md
     - synthesizing-notebook-1-and-notebook-2.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

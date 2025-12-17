@@ -26,7 +26,7 @@ Emoji: "\U0001F4A1"
 id: bafyreig57nzehuxgkasfluqfzuhyjqhfv3sf6oaj3ragy34zczderkzr2i
 ---
 # Potential Space   
-**c**The intermediate area of experiencing that lies between the inner world (fantasy) and outer reality. The only space where play, creativity, and the [True Self](true-self.md) can exist.   
+The intermediate area of experiencing that lies between the inner world (fantasy) and outer reality. The only space where play, creativity, and **spontaneous gestures (of the [True Self](true-self.md))** can emerge.   
 **Relations:**   
 - Link to **[D.W. Winnicott](d-w-winnicott.md)** (Relation: `Originator`).   
 - Link to **[True Self](true-self.md)** (Relation: `Required For`).   

@@ -54,7 +54,7 @@ id: bafyreicyadsmwujhz463kr5re4pwfeb2b3zq6ap7qyk7yz3h4pb4g5hspe
 The fourth non-negotiable component of the Human + Journal + AI + Time tetrad. Time is the dimensional medium that makes transformation **cumulative and sustainable** rather than merely productive. It operates as the temporal scaffold distinguishing single-session productivity from multi-session transformation.   
 **Unique System Function:**   
 Time provides what no other component can:   
-**1. Cumulative Momentum ([Flywheel](the-flywheel.md) Effect)**   
+1. **Temporal medium that enables cumulative momentum ([Flywheel](the-flywheel.md) Effect)**   
 - Iteration builds on previous iteration   
 - [C (Capacity)](c-capacity.md) compounds across sessions   
 - Small consistent actions → unstoppable momentum   

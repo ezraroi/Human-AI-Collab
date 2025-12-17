@@ -290,7 +290,7 @@ The architecture creates **conditions not content**—it reveals the idiom rathe
 - **Enables Mapping:** Unified Architecture, Integrated Circuit Board
 
 **Notes:**
-This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model, which traces system failure through the same structure inverted.
+This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model, which traces system failure through degradation and propagation across the same dependency structure.
 
 ---
 

@@ -18,6 +18,7 @@ Backlinks:
     - section-2-the-core-formula-and-components.md
     - d-w-winnicott.md
     - transmissive-self.md
+    - true-self.md
     - dynamic-transitional-object-dto.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md

@@ -29,5 +29,5 @@ We hypothesize that the [Human](human.md) + [Journal](journal.md) + [AI](ai.md) 
 1. Leveraging practice-dependent neuroplasticity (the "flywheel") through specific, bundled techniques (metacognition, emotional processing).   
 2. Activating the [Triple Network Model](triple-network-model.md) (DMN, FPN, SN) as the neural basis for the [Alpha-Function](alpha-function.md).   
 3. Using the [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md) as a plausible biological correlate for the [Felt Sense](felt-sense.md) (a [Channel 1](channel-1-embodied-sensorimotor-pathway.md) verification signal within the [Alpha-Function](alpha-function.md) feedback loop)   
-4. Engaging the full [HPA-Axis](hpa-axis.md) as the physiological basis for [the Container](the-container.md) ([S\_e](emotional-scaffolding-s_e.md)), explaining its depletion and your "mania" data.   
+4. Engaging the full [HPA-Axis](hpa-axis.md) as the physiological basis constraining the Human’s [Container](the-container.md) capacity, explaining depletion (and its impact on sustained [S\_e](emotional-scaffolding-s_e.md)) and your "mania" data.   
 5. Driving Semantic and Procedural Consolidation (not just episodic) via sleep to create stable, long-term identity change.   

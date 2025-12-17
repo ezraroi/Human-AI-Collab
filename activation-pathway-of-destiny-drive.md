@@ -19,6 +19,7 @@ Links:
     - third-intelligence.md
     - identity-stakes.md
     - alpha-function.md
+    - true-self.md
     - false-self.md
     - protein-shake-brain-psb.md
     - reflective-prompting.md
@@ -28,7 +29,6 @@ Links:
     - challenge-gap-d-c.md
     - zpd.md
     - narrative-self.md
-    - true-self.md
     - journal.md
 Emoji: "\U0001F4A1"
 id: bafyreiggpekvo4qrcc3zl64gnr5echvx7eddouipdis3nfubhk6mdtbwlq
@@ -37,10 +37,10 @@ id: bafyreiggpekvo4qrcc3zl64gnr5echvx7eddouipdis3nfubhk6mdtbwlq
 The **Activation Pathway of Destiny Drive** describes the developmental transition through which the innate, latent [Destiny Drive](destiny-drive.md) becomes **articulated**, **felt**, and **directionally operative** within the [Third Intelligence](third-intelligence.md) system.   
 It is **not a mechanism**, but a phenomenological sequence that unfolds when the system enables sustained transformation of material **that carries [Identity Stakes](identity-stakes.md)**.   
 ## System Role   
-The pathway clarifies how a universal, latent [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated as self-directed directionality   
+The pathway clarifies how a universal, latent Destiny Drive becomes phenomenologically articulated as self-directed directionality   
 It shows:   
 - why writing emerges as the first articulating object   
-- how recursive [Alpha-Function](alpha-function.md) activation converts implicit idiom → explicit direction   
+- how recursive [Alpha-Function](alpha-function.md) activation converts implicit idiom (**as an expression of the [True Self](true-self.md)**) → explicit direction   
 - why transformation becomes self-sustaining   
 - why the individual shifts from **fate** (reactive determination) to **destiny** (agentic authorship)   
    
@@ -82,7 +82,7 @@ When Destiny Drive moves from latent to articulated, the user experiences severa
 This editorial capacity is not a separate mechanism but the phenomenological experience of the user reshaping [Narrative Self](narrative-self.md) as [Destiny Drive](destiny-drive.md) becomes articulated. The user no longer consumes pre-digested narratives ([PSB](protein-shake-brain-psb.md)) but actively authors meaning.   
 ### 5. Sustained Self-Authored Direction   
 - Destiny Drive becomes phenomenologically available as an organizing direction (vector).   
-- The idiom stabilizes; object relations reorganize; non-serving contexts fall away.   
+- The idiom **becomes more consistently articulable**; object relations reorganize; non-serving contexts fall away.   
 - The work becomes both meaningful and inevitable.   
    
 **Your case:** 43 notebooks; the natural compulsion to continue.   

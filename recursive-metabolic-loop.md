@@ -20,14 +20,14 @@ Backlinks:
     - critical-connection-6-my-method-works-because-.md
     - third-intelligence.md
     - alpha-function.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - protein-shake-brain-psb.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - wilfred-bion.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Drafting
 Creation date: "2025-11-22T10:05:19Z"
 Created by:
     - Roi Ezra

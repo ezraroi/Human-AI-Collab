@@ -20,9 +20,9 @@ Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - the-integrated-circuit-board.md
+    - protein-shake-brain-psb.md
     - recursive-metabolic-loop.md
     - alpha-function.md
-    - protein-shake-brain-psb.md
     - functional-alterity.md
     - productive-epistemic-tension.md
     - zpd.md
@@ -30,6 +30,7 @@ Links:
     - identity-stakes.md
     - felt-sense.md
     - preconditions-for-transformative-ai-dialogue.md
+    - as-if-body-loop.md
     - category-error.md
     - cognitive-dependency.md
     - reflective-prompting.md
@@ -37,7 +38,7 @@ Emoji: "\U0001F4A1"
 id: bafyreian45p6xubzvsjrpclvsie6gwcosvkbslizqnwgacihholkzzqhdi
 ---
 # Embodied Engagement Conditions   
-The three content-level prerequisites that determine whether symbolic AI output [(Channel 2)](channel-2-symbolic.md) successfully recruits embodied processing [(Channel 1)](channel-1-embodied-sensorimotor-pathway.md) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the [Integrated Circuit Board](the-integrated-circuit-board.md) engages; PSB pathology emerges.   
+The three content-level prerequisites that determine whether symbolic AI output [(Channel 2)](channel-2-symbolic.md) successfully recruits embodied processing [(Channel 1)](channel-1-embodied-sensorimotor-pathway.md) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the [Integrated Circuit Board](the-integrated-circuit-board.md) engages; **when they are absent, [PSB](protein-shake-brain-psb.md) pathology emerges**.   
 ## **System Role:**   
 Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether Channel 1 is recruited into the [Recursive Metabolic Loop](recursive-metabolic-loop.md). They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, influencing whether [Alpha-Function](alpha-function.md) can engage in genuine transformation versus remaining offline.   
 This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces nothing—or worse, [PSB](protein-shake-brain-psb.md).   
@@ -49,9 +50,9 @@ This object explains **differential outcomes**: why some AI output produces insi
 - Without this: AI output feels like user's own thoughts; [productive epistemic tension](productive-epistemic-tension.md) collapses; Channel 1 remains dormant   
    
 **2. [ZPD](zpd.md) Alignment**   
-- The difficulty level must fall within the user's Zone of Proximal Development   
-- Too easy → boredom, no metabolic demand   
-- Too hard → overwhelm, defensive shutdown   
+- The difficulty level must fall within the user's Zone of Proximal Development—the distance between what they can do independently and what becomes possible with guidance/collaboration under scaffolding   
+- Too easy → the assisted workspace collapses into ‘no challenge’ (boredom, no metabolic demand)   
+- Too hard → the assisted workspace becomes unworkable (overwhelm, defensive shutdown)   
 - A workable subset of the pre-existing \|[D–C](challenge-gap-d-c.md)\| relation, in the presence of adequate scaffolding, supports [productive epistemic tension](productive-epistemic-tension.md)   
 - **Without this:** Material either bypasses Alpha-Function (too easy) or exceeds emotional scaffolding capacity (too hard)   
    
@@ -85,7 +86,7 @@ This object describes **input-side gating** for the [Integrated Circuit Board](t
 - **Embodied Engagement Conditions** = the activation prerequisites (when metabolism occurs)   
 - **[Preconditions for Transformative AI Dialogue](preconditions-for-transformative-ai-dialogue.md)** = human-side capacities (who can do this work)   
    
-The Integrated Circuit Board cannot recruit [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)reliably without these content conditions being met. Even when the human-side Preconditions for Transformative AI Dialogue are present, if the AI output lacks these three properties, the circuit does not activate.   
+**Channel 1 cannot be recruited reliably (via the [As-If Body Loop](as-if-body-loop.md))** without these content conditions being met. Even when the human-side Preconditions for Transformative AI Dialogue are present, if the AI output lacks these three properties, the circuit does not activate.   
 **Failure Modes:**   
 |      Missing Condition |                      Failure Mode |                                                                                                                            Result |
 |:-----------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|

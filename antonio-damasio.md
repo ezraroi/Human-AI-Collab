@@ -14,7 +14,7 @@ Backlinks:
 Origin Domain:
     - Neurobiology & Neuroscience
     - Cognitive Science & Embodied Cognition
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T13:55:43Z"
 Created by:
     - Roi Ezra

@@ -10,7 +10,7 @@ Backlinks:
 Origin Domain:
     - Qualitative Research Methodology
     - Developmental Psychology & Learning Theory
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:18:27Z"
 Created by:
     - Roi Ezra

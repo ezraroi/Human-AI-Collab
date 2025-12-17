@@ -28,6 +28,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
     - the-recursive-third-intelligence-system-archit.md
+    - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

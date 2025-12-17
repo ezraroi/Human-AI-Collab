@@ -10,7 +10,7 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
     - Dialogical Self Theory & Linguistics
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-23T08:03:22Z"
 Created by:
     - Roi Ezra

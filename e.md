@@ -9,7 +9,6 @@ Tag:
 Backlinks:
     - cognitive-artifact.md
     - document-abstract.md
-    - channel-1-embodied-sensorimotor-pathway.md
     - john-flavell.md
     - section-1-introduction-and-framework-positioning.md
     - conclusion-on-novelty-and-contribution.md
@@ -17,13 +16,13 @@ Backlinks:
     - recursive-metabolic-loop.md
     - critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
     - Cognitive Science & Embodied Cognition
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:17:23Z"
 Created by:
     - Roi Ezra

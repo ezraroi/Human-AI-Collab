@@ -19,6 +19,9 @@ Creation date: "2025-11-22T14:03:00Z"
 Created by:
     - Roi Ezra
 Links:
+    - d-w-winnicott.md
+    - wilfred-bion.md
+    - christopher-bollas.md
     - psychoanalytic-prerequisites.md
     - destiny-drive.md
     - holding-environment.md
@@ -34,7 +37,7 @@ id: bafyreifpdtjfnqvxensdvwkmqojfnle2onl7xvxh4phivwvz65aif7qdhm
 ---
 # Psychoanalytic Integration   
 **The Problem:**   
-How to integrate Winnicott, Bion, and Bollas into a unified, coherent system without forcing inappropriate alignments or violating the internal logic of each theorist's framework.   
+How to integrate [Winnicott](d-w-winnicott.md), [Bion](wilfred-bion.md), and [Bollas](christopher-bollas.md) into a unified, coherent system without forcing inappropriate alignments or violating the internal logic of each theorist's framework.   
 **The Resolution:**   
 Solved by constructing the **[Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md)** as an obstacle-removal architecture rather than a causal production chain.   
 **Key Theoretical Move:**   
@@ -72,4 +75,5 @@ The architecture creates **conditions not content**—it reveals the idiom rathe
 - **Enables Mapping:** [Unified Architecture](the-unified-architecture.md), [Integrated Circuit Board](the-integrated-circuit-board.md)   
    
 **Notes:**   
-This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model, which traces system failure through the same structure inverted.   
+This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model, which traces system failure through degradation and propagation across the same dependency structure.   
+   

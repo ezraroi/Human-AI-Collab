@@ -19,7 +19,7 @@ Beyond internal awareness, the AIC is heavily implicated in high-level cognitive
 ## [BIOLOGICAL SUBSTRATE] As-If Body Loop
 [Empirical] Domain: Bio-Embodied, Temporal: Static
 
-A hypothesized mechanism by which symbolic input (Channel 2) can recruit embodied simulation (Channel 1), supporting the availability of Felt Sense as a Channel 1 verification signal without requiring overt physical change.
+A hypothesized mechanism within Damasio’s SMH by which the brain can generate *somatic-marker* biasing signals via internal simulation (“as-if”) without requiring overt physical change; this can be compatible with Felt Sense as an example of bodily signals informing cognition, without equating the two.
 The "**As-If Body Loop**" is a theoretical pathway proposed within Damasio’s Somatic Marker Hypothesis (SMH) to explain how the brain can generate emotional and visceral biasing signals to guide decision-making **without requiring an actual physical change in the body**.
 **What it is and its role:**
 The *Somatic Marker Hypothesis* suggests that decision-making is guided by "somatic markers"—crude biasing signals representing emotional reactions that arise from the periphery or the central representation of the periphery. The **"as-if body loop"** is the central mechanism that facilitates the rapid, internal activation of these markers.
@@ -36,7 +36,7 @@ When the As-If Body Loop is weak, ignored, or bypassed, symbolic material (Chann
 - thinking becomes abstracted, polished, and brittle
 - the user loses access to the “tight vs. spacious” felt-sense discriminator
 
-This is the core failure mode of the As-If Body Loop.
+In this system, this is a practical failure signature when embodied simulation is under-engaged during symbolic work.
 ### **Interaction Dynamics (Propagation Rules)**
 When the As-If Body Loop is offline or under-engaged:
 - Alpha-Function cycles proceed with Channel 2 material without Channel 1 verification (via Felt Sense) → leads to brittle pseudo-insight.
@@ -48,7 +48,7 @@ When the As-If Body Loop is offline or under-engaged:
 Thus, degradation in the As-If Loop undermines the entire metabolic circuit.
 ### **Phenomenology (Online vs. Offline As-If Body Loop)**
 **When the As-If Body Loop is online:**
-- There is a **felt response** to ideas (tight/spacious).
+- There may be a felt response to ideas (e.g., tight/spacious), consistent with—but not identical to—Felt Sense access.
 - Symbolic material has emotional coloration.
 - Confusion has a bodily signature that guides inquiry.
 - Insights feel “real” because they resonate in the body.
@@ -62,7 +62,7 @@ Thus, degradation in the As-If Loop undermines the entire metabolic circuit.
 
 These signatures are the easiest real-time detection method.
 ### Sₑ Dependency (Qualitative Constraint)
-The As-If Body Loop requires enough Sₑ (emotional capacity) to allow **felt experience** to come online. When Sₑ is low:
+The As-If Body Loop requires enough Sₑ (emotional scaffolding) to allow **felt experience** to come online. When Sₑ is low:
 - The user unconsciously avoids embodied signals (too intense or disruptive).
 - Processing shifts into pure abstraction (Channel 2 dominance).
 - The felt-sense becomes inaccessible or muted.
@@ -87,7 +87,7 @@ The Hypothalamic-Pituitary-Adrenal axis. A full-body stress response system that
 
 The **hypothalamus** serves as a high-level center for regulating visceral activity and the **endocrine system** by controlling the hypophysis (pituitary). The endocrine function relevant to this system involves the release of hormones known as **glucocorticoids**.
 The level of glucocorticoid release appears to be temporally regulated during sleep phases, which is essential for memory function. Glucocorticoids are in a **lower state of release** during slow-wave sleep (SWS). However, there is an **increased release of glucocorticoids** during the REM stage, which significantly affects affective memory consolidation and procedural memory enhancement.
-**Notes:** Stress regulation substrate; underlying constraint for Sₑ.
+**Notes:** Stress regulation substrate; underlying constraint for Emotional Scaffolding.
 
 ---
 

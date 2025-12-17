@@ -18,7 +18,7 @@ Backlinks:
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Drafting
 Creation date: "2025-11-22T13:40:28Z"
 Created by:
     - Roi Ezra
@@ -44,6 +44,7 @@ Emoji: "\U0001F4A1"
 id: bafyreifcwkg3udzmdnghxr6votkkuow4ejbo7eo4nivcznk22hkyvxadi4
 ---
 # The Integrated Circuit Board   
+NOT SURE THIS IS A GRAPH,NEED TO CHECK AGAINST OTHER IDEAS AND REFLCT WITH THE AI.   
 A systemic architecture that specifies how [Alpha-Function](alpha-function.md), the [As-If Body Loop](as-if-body-loop.md), and the [Journal](journal.md) operate as a single metabolic unit inside Axis B of the [Two-Axis Framework](two-axis-framework.md).   
 It describes the *routing, sequencing, and feedback* by which raw experience becomes verified, symbolically articulated, and stabilized as [Capacity (C)](c-capacity.md) over [Time](time.md).   
 ### System Role   
