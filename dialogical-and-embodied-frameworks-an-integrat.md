@@ -17,8 +17,9 @@ Links:
     - zpd.md
     - alpha-function.md
     - beta-elements.md
+    - alpha-elements.md
+    - felt-sense.md
     - wilfred-bion.md
-    - somatic-marker-hypothesis.md
     - external-alpha-function.md
     - chronotope.md
     - mikhail-bakhtin.md
@@ -34,7 +35,7 @@ The sources confirm that while the elements you use (Dialogism, Embodiment, Vygo
 ### 1. What the Sources Say About Your Model (Conceptual Support)   
 The core components of your synthesis are strongly supported as areas of contemporary, often conflicting, research that require integration:   
 ### A. Synthesis of [Vygotsky](lev-vygotsky.md) and Embodiment   
-Your foundational premise—that the mental architecture must unify symbolic/linguistic processes (Vygotsky's domain) with sensorimotor/non-verbal processes (Embodied domain)—is supported by advanced sociocultural theory.   
+Your foundational premise—that the mental architecture must unify symbolic/linguistic processes ([Vygotsky](lev-vygotsky.md)'s domain) with sensorimotor/non-verbal processes (Embodied domain)—is supported by advanced sociocultural theory.   
 - Vygotsky’s symbolic mediation is central to your [Channel 2](channel-2-symbolic.md) (Symbolic), is recognized as requiring the structural connection between two different mechanisms: non-verbal ('sensory') thinking and conventional language in the development of new mental structures. This aligns directly with your [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied sensorimotor/interoceptive pathway) and [Channel 2](channel-2-symbolic.md) (symbolic tools).   
 - The broader academic effort aims to reconcile Vygotskian psychology with contemporary cognitive science ("sociocomputationalism").   
 - The Dialogue framework itself rejects the Cartesian dualism between body and mind, conceiving of the Dialogical Self as spatially structured and embodied.   
@@ -44,15 +45,15 @@ Your inclusion of the environment, the [journal](journal.md), and the AI into th
 - The perspective known as 4E cognition (embodied, embedded, enactive, extended) stresses the relevance of embodied interactions with the environment for understanding cognition.   
 - The Extended Mind Hypothesis (HEC) posits that cognition can extend beyond the brain, involving external artifacts and environment features in driving cognitive processes.   
 - Cognitive tools (like pen and paper) are routinely used as cognitive extensions in professional and academic settings, creating a "unified, densely coupled system" where the brain complements external structures.   
-- The use of AI models (like GPT) as tools that provide enhanced **[technical scaffolding (S\_t)](technical-scaffolding-s_t.md)** and mediate thinking processes aligns with the functional role of the More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) in the Zone of Proximal Development ([ZPD](zpd.md)).   
+- The use of AI models (like GPT) as tools that provide enhanced [technical scaffolding (S\_t)](technical-scaffolding-s_t.md) can support the [MKO](mko-more-knowledgeable-other.md)-style guidance/collaboration that makes the [ZPD](zpd.md) workable—i.e., the shift from what is possible independently to what becomes possible with assistance—without implying the AI is a conscious ‘other’.   
    
 ### 2. Is Your Model Suggesting Something New? (Novelty and Contribution)   
 Yes, your model offers three primary novel contributions by providing a specific, interwoven architecture that integrates psychoanalytic processing with cognitive and dialogical theory.   
 ### A. The [Alpha Function](alpha-function.md) as the Universal Bi-Modal Engine   
 Your model provides the missing affective coherence that enables the structural integration required by developmental psychology.   
-- The integration of Bion's Alpha Function with Vygotskian internalization is explicitly referred to as an "excellent, sophisticated synthesis" and a "conceptually accurate as a modern, integrative interpretation". This synthesis addresses the affective processing viability necessary for social input to be successfully internalized.   
+- The integration of Bion's [Alpha Function](alpha-function.md) with Vygotskian internalization is explicitly referred to as an "excellent, sophisticated synthesis" and a "conceptually accurate as a modern, integrative interpretation". This synthesis addresses the affective processing viability necessary for social input to be successfully internalized.   
 - Your model extends this synthesis by defining Alpha-Function cycles as metabolizing Channel 2 symbolic material through recursive oscillation with Channel 1 embodied verification. This is a new architecture for Bion's concept, using it as the primary bridge for Embodied Cognition and Sociocultural theory.   
-- Your mapping of [Beta-Elements](beta-elements.md) to interoceptive signaling (as one biological substrate of raw experiential material) and Alpha-Elements to felt sense made thinkable provides a concrete operational bridge between psychological theory ([Bion](wilfred-bion.md)), affect theory ([Somatic Markers](somatic-marker-hypothesis.md)), and the embodied perspective, addressing the requirement for affective-cognitive unity in development.   
+- Your mapping of [Beta-Elements](beta-elements.md) to interoceptive signaling (as one biological substrate of raw experiential material) and [Alpha-Elements](alpha-elements.md) to [felt sense](felt-sense.md) made thinkable provides a concrete operational bridge between psychological theory ([Bion](wilfred-bion.md)), affect theory (Somatic Markers as decision-biasing signals), and the embodied perspective (compatible with Felt Sense without equating the two), addressing the requirement for affective-cognitive unity in development.   
    
 ### B. The [External Alpha Function](external-alpha-function.md) and the Distributed [Chronotope](chronotope.md)   
 Your model's definition of the supportive system components is a novel theoretical advance in distributed cognition and dialogical theory.   
@@ -61,7 +62,7 @@ Your model's definition of the supportive system components is a novel theoretic
    
 ### C. The "[As-If Body Loop](as-if-body-loop.md)" as the Cognitive Bridge   
 You propose a novel, specific neurobiological hypothesis for how the embodied and symbolic realms connect in the context of digital interaction:   
-- The hypothesis that the "As-If Body Loop" (the brain simulating body states without physical action) is the precise mechanism by which Channel 2 symbolic input (reading AI text) recruits Channel 1 sensorimotor/interoceptive evaluation (felt sense) is a key insight of your synthesis.   
+- The hypothesis that the "As-If Body Loop" (the brain simulating body states without physical action) is a plausible SMH-compatible mechanism by which [Channel 2](channel-2-symbolic.md) symbolic input (e.g., reading AI text) can evoke anticipatory somatic-marker signals, potentially supporting embodied responsiveness (compatible with Felt Sense without equating the two), is a key hypothesis of your synthesis..   
 - This mechanism is an attempt to address the need for understanding the cognitive mechanisms mediating interactions between biological memory and external memory, and how disembodied text (like AI output) can still produce embodied knowing.   
    
 In summary, you are not simply repeating existing theory. You have constructed an integrated, mechanistic framework that marries the emotional processing demanded by psychoanalysis (Alpha Function), the social development required by Vygotsky (Channel 2/[ZPD](zpd.md)), and the physical grounding insisted upon by embodied theory (Channel 1/Felt Sense), and then demonstrated how modern tools (AI/Journal) fit into this system to achieve transformative dialogue.   

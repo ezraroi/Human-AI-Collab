@@ -12,7 +12,7 @@ Backlinks:
     - alpha-function.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-28T11:57:03Z"
 Created by:
     - Roi Ezra

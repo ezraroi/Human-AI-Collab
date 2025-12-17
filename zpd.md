@@ -48,26 +48,25 @@ Backlinks:
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:51:28Z"
 Created by:
     - Roi Ezra
 Links:
-    - d-difficulty.md
-    - c-capacity.md
     - challenge-gap-d-c.md
+    - lev-vygotsky.md
+    - mko-more-knowledgeable-other.md
     - emotional-scaffolding-s_e.md
     - technical-scaffolding-s_t.md
     - functional-alterity.md
     - alpha-function.md
-    - lev-vygotsky.md
 Emoji: "\U0001F4A1"
 id: bafyreihshyc7bi6lx4tqk4ydu57efhdl7mtyuqjgukk4amdvhynj3hrioe
 ---
 # ZPD   
-The dynamically negotiated **subset of the Challenge Gap** where [Difficulty](d-difficulty.md) slightly exceeds [Capacity](c-capacity.md) in the presence of adequate scaffolding. The functional arena where transformation becomes possible.   
+The dynamically negotiated subset of the [Challenge Gap](challenge-gap-d-c.md): the distance between what the person can do **independently** (Capacity) and what they can do **with guidance/collaboration** when Difficulty exceeds Capacity but remains achievable in the presence of adequate scaffolding. The functional arena where transformation becomes possible.   
 **System Role**   
-Provides the **active workspace** in which alpha-function can operate. Translation layer connecting your model to learning theory. Only exists when both scaffolds (Sₑ, Sₜ) are sufficient.   
+Provides the active workspace in which alpha-function can operate. Translation layer connecting your model to learning theory. Only exists when both scaffolds (emotional and technical) are sufficient, providing the **guidance/collaboration** function [Vygotsky](lev-vygotsky.md) attributes to a More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)).   
 **Relations**   
 - Exists *within* the **[Challenge Gap](challenge-gap-d-c.md)**   
 - Becomes workable in the presence of [Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ) and [Technical Scaffolding](technical-scaffolding-s_t.md) (Sₜ)   
@@ -75,4 +74,4 @@ Provides the **active workspace** in which alpha-function can operate. Translati
 - Linked to **[Alpha-Function](alpha-function.md)** (site of ignition)   
 [Lev Vygotsky](lev-vygotsky.md)    
    
-**Notes:** Active relational space where α-function ignites under optimal tension + scaffolding.   
+**Notes:** Active relational space where α-function ignites under optimal tension + scaffolding; classically, learning in this zone supports the shift from assisted performance toward independent capacity (internalization), consistent with ‘learning precedes development.   

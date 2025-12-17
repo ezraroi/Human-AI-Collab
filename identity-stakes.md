@@ -49,7 +49,7 @@ Identity Stakes represent the **threshold where information becomes self-relevan
 [Channel 1](channel-1-embodied-sensorimotor-pathway.md) tends to engage most strongly when the symbolic tension touches the becoming self.   
 ### System Role   
 - Marks symbolic material as self-relevant so embodied processing can engage *(when paired with [Functional Alterity](functional-alterity.md) and [ZPD](zpd.md) Alignment)*   
-- Acts as the bridge between psychoanalytic development (idiom/[True Self](true-self.md) articulation) and cognitive metabolism.   
+- Acts as the bridge between psychoanalytic development (**idiom articulation as an expression of the [True Self](true-self.md)**) and cognitive metabolism.   
 - Helps determine whether AI output enters the transformation pathway (as one of the three [Embodied Engagement Conditions](embodied-engagement-conditions.md)) or remains purely intellectual.   
 - Explains why reflective writing, leadership questions, and meaning-making activate the body more reliably than technical tasks.   
    

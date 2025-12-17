@@ -32,4 +32,4 @@ The design principle that **scaffolding structures** (AI workflows, prompts, pro
 ### Relations   
 - Operationalized in → [Reflective Prompting](reflective-prompting.md) (Phase 3).   
 - Supports → [Destiny Drive](destiny-drive.md)   
-- Prevents → Generic productivity colonization; [Transmissive Self](transmissive-self.md) .   
+- Helps prevent → Generic productivity colonization; [Transmissive Self](transmissive-self.md) (i.e., transmitting externally provided fluency without owned meaning).   

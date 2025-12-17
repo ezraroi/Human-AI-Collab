@@ -52,20 +52,21 @@ Creation date: "2025-11-22T11:41:49Z"
 Created by:
     - Roi Ezra
 Links:
+    - the-container.md
     - emotional-scaffolding-s_e.md
     - alpha-function.md
     - c-capacity.md
-    - the-container.md
+    - journal.md
     - d-w-winnicott.md
     - time.md
     - beta-elements.md
     - alpha-elements.md
     - external-alpha-function.md
+    - teleological-drift.md
     - dynamic-transitional-object-dto.md
     - felt-sense.md
     - channel-1-embodied-sensorimotor-pathway.md
     - protein-shake-brain-psb.md
-    - teleological-drift.md
     - p-alpha-probability-of-growth.md
     - negative-capability.md
     - technical-scaffolding-s_t.md
@@ -76,10 +77,10 @@ Emoji: "\U0001F9E9"
 id: bafyreicolvewu7y75zcgmpsylxokmfgroiuqnojk3vyisim4ikuajmeqcu
 ---
 # Human   
-The first and central component of the Human + Journal + AI + Time tetrad. The Human is the **embodied subject** who provides the Container function ([Emotional Scaffolding](emotional-scaffolding-s_e.md)), performs metabolic processing ([Alpha-Function](alpha-function.md)), holds teleological awareness, and is the site where [Capacity](c-capacity.md) (C) actually grows.   
-Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **finite, depletable, and vulnerable**—yet only the Human can provide consciousness, intentionality, and the metabolic transformation that makes the system developmental rather than merely productive.   
+The first and central component of the Human + Journal + AI + Time tetrad. The Human is the embodied subject who provides the [Container](the-container.md) function (supported by [Emotional Scaffolding](emotional-scaffolding-s_e.md)), performs metabolic processing ([Alpha-Function](alpha-function.md)), holds teleological awareness, and is the site where [Capacity](c-capacity.md) (C) actually grows.   
+Unlike AI (infinite, tireless) or [Journal](journal.md) (stable, persistent), the Human is **finite, depletable, and vulnerable**—yet only the Human can provide consciousness, intentionality, and the metabolic transformation that makes the system developmental rather than merely productive.   
 **What Human Provides (Unique Contributions):**   
-1. **Emotional Scaffolding  - [The Container](the-container.md):**   
+1. **Emotional Scaffolding - Support for the Container:**   
 - Provides holding environment ([Winnicott](d-w-winnicott.md))   
 - Ontological security enabling transformation   
 - Psychic stability for metabolic processing   
@@ -96,7 +97,7 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
    
 **3. Teleology - Non-Myopic Awareness:**   
 - Holds global goals across sessions   
-- Detects Teleological Drift (when goals get lost)   
+- Detects [Teleological Drift](teleological-drift.md) (when goals get lost); AI may be instructed (via the system prompt) to flag it by detecting contradictions against the Human’s stated trajectory.   
 - Provides directionality AI cannot generate   
 - Maintains project coherence over Time   
 - **AI is myopic (next-token only); Human provides foresight**   
@@ -158,13 +159,13 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 **Human's Dual Role:**   
 **A. Architect (Executive Function):**   
 - Holds teleological awareness (global goals)   
-- Detects and corrects drift   
+- Detects and corrects drift; AI may be instructed (via the system prompt) to flag drift by detecting contradictions against the Human’s stated trajectory.   
 - Makes strategic decisions   
 - Manages system components   
 - Maintains [DTO](dynamic-transitional-object-dto.md) stance toward AI   
    
 **B. [Container](the-container.md) (Holding Function):**   
-- Provides S\_e (emotional scaffolding)   
+- Operates as the Human’s receptive/metabolizing function; supported by S\_e ([emotional scaffolding](emotional-scaffolding-s_e.md))   
 - Holds metabolic processing space   
 - Tolerates productive tension   
 - Survives transformative "destruction"   

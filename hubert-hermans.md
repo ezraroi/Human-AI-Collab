@@ -12,7 +12,7 @@ Backlinks:
     - section-11-the-dialogical-illusion-as-producti.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:15:38Z"
 Created by:
     - Roi Ezra

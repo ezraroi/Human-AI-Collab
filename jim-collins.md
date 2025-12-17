@@ -10,17 +10,17 @@ Backlinks:
     - the-flywheel.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:19:11Z"
 Created by:
     - Roi Ezra
 Links:
     - the-flywheel.md
+    - third-intelligence.md
 Emoji: "\U0001F464"
 id: bafyreic5g7x5ua3mtpexpkhpxhfdxjpog5yaq3223b27nfbhhchl2izxnq
 ---
 # Jim Collins   
-Jim Collins is an American researcher, author, and speaker who studies what makes great companies successful. He founded a management laboratory in Colorado and is the author or co-author of several best-selling books, including *Good to Great* and *Built to Last*. His work focuses on identifying key principles behind long-term corporate success and applying them to business and social sector.   
-Provides the **System Metaphor**.
-**[The Flywheel](the-flywheel.md):** Describes the cumulative momentum of the system (Human + Journal + AI + Time)   
+Jim Collins is an American researcher, author, and speaker who studies what makes great companies successful. He founded a management laboratory in Colorado and is the author or co-author of several best-selling books, including *Good to Great* and *Built to Last*. His work focuses on identifying key principles behind long-term corporate success and applying them to business and social sector.
+**[The Flywheel](the-flywheel.md):** A metaphor for how small, consistent, interconnected actions within the [Third Intelligence](third-intelligence.md) system compound into cumulative momentum over time.   
    

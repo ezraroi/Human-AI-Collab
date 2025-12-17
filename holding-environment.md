@@ -28,13 +28,13 @@ Created by:
 Links:
     - d-w-winnicott.md
     - psychoanalytic-prerequisites.md
+    - true-self.md
     - alpha-function.md
     - emotional-scaffolding-s_e.md
     - third-intelligence.md
     - human.md
     - journal.md
     - alpha-elements.md
-    - true-self.md
     - false-self.md
     - identity-stakes.md
     - protein-shake-brain-psb.md
@@ -53,7 +53,7 @@ The Holding Environment is not a mechanism but a **structural condition**—the 
 **What It Provides:**   
 - **Ontological Security:** The felt sense of safety and continuity   
 - **Continuity-of-being:** Unbroken sense of "I am" without catastrophic disruption   
-- **Possibility space:** Conditions under which spontaneous True Self gestures can occur   
+- **Possibility space:** Conditions under which **spontaneous gestures (of the [True Self](true-self.md))** can occur   
    
 ### **System Role:**   
 The Holding Environment is the non-negotiable prerequisite of safety and attunement for all psychological work. It functions as the **Container** that makes metabolic processing ([Alpha-Function](alpha-function.md)) tolerable and safe.   

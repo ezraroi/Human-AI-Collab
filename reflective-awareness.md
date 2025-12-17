@@ -12,7 +12,7 @@ Backlinks:
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-28T11:35:47Z"
 Created by:
     - Roi Ezra

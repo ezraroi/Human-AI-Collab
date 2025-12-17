@@ -29,12 +29,15 @@ Backlinks:
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:49:12Z"
 Created by:
     - Roi Ezra
 Links:
     - d-w-winnicott.md
+    - false-self.md
+    - emotional-scaffolding-s_e.md
+    - alpha-function.md
 Emoji: "\U0001F4A1"
 id: bafyreiekw7fwvixeevh2mhsfjls2dqwjpc26dg4uaxy726tfmxrx6lem6i
 ---
@@ -44,8 +47,8 @@ Key aspects of Winnicott's concept of the True Self:
 - **Spontaneity and Creativity:** The True Self is the sole source of genuine spontaneous and creative action. This is first observed in infancy through the baby's natural movements, sounds, and expressions, which Winnicott called "spontaneous gestures".   
 - **A Sense of Reality:** It provides an individual with a feeling of being real and present in their own life. A disconnection from the True Self results in feelings of emptiness, futility, or being "dead inside".   
 - **Continuity of Being:** The True Self emerges from an "inherited potential which is experiencing a continuity of being". This continuity is a fundamental building block of a healthy, non-traumatized self, allowing a person to feel secure and whole.   
-- **Vulnerability and Privacy:** The True Self is inherently vulnerable and private, often hidden and protected by the "False Self". It is not available for casual interaction and typically only emerges in a safe, trusting environment, such as in intimate relationships or in a therapeutic setting.   
+- **Vulnerability and Privacy:** The True Self is inherently vulnerable and private, often hidden and protected by the "[False Self](false-self.md)". It is not available for casual interaction and typically only emerges in a safe, trusting environment, such as in intimate relationships or in a therapeutic setting.   
 - **Developmental Foundation:** A healthy True Self develops when an infant's spontaneous gestures and needs are met and mirrored by a "good-enough" caregiver. This responsive environment creates an "illusion of omnipotence" in the infant (a sense that their needs make things happen), which is crucial for building confidence and a secure sense of self.   
    
 In essence, the True Self is the authentic core of a person's being, representing who they truly are, unshaped by external demands or the need to comply with others' expectations   
-**Notes:** Authentic self-structure that emerges under sustained Sₑ + Alpha-Function.   
+**Notes:** Authentic self-structure that emerges under sustained [Emotional Scaffolding](emotional-scaffolding-s_e.md) + [Alpha-Function](alpha-function.md).   

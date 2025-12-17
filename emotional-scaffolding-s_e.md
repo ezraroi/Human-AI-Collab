@@ -8,7 +8,6 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
-    - subject-supposed-to-know-sss.md
     - reflective-prompting.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - the-journal-in-system-context.md
@@ -25,13 +24,16 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - the-container.md
+    - hpa-axis.md
     - ai.md
     - section-10-the-grand-unification.md
     - p-alpha-probability-of-growth.md
     - section-7-the-three-layer-architecture-tempora.md
     - mko-more-knowledgeable-other.md
+    - true-self.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - as-if-body-loop.md
     - the-integrated-circuit-board.md
     - critical-connection-6-my-method-works-because-.md
     - the-doing-both-hypothesis.md
@@ -75,7 +77,7 @@ id: bafyreih4gisd4ro24y4jhojfyg5xarzmfr7sxznqni5w4lpw67ctc2tfqi
 # Emotional Scaffolding (S\_e)   
 The operationalized indicator of holding function—the human's current state of emotional bandwidth, containment capacity, and psychological safety available for metabolic processing.   
 **Theoretical Basis:**   
-S\_e operationalizes [Winnicott](d-w-winnicott.md)'s [Holding Environment](holding-environment.md) and [Bion](wilfred-bion.md)'s Container function as a session-level indicator of available holding/containment capacity. While Holding Environment describes the developmental prerequisite condition, S\_e current-state the **current operational capacity** to hold oneself during transformation work.   
+S\_e operationalizes [Winnicott](d-w-winnicott.md)'s [Holding Environment](holding-environment.md) and [Bion](wilfred-bion.md)'s Container function as a session-level indicator of available holding/containment capacity. While [Holding Environment](holding-environment.md) describes the developmental prerequisite condition, S\_e current-state the **current operational capacity** to hold oneself during transformation work.   
 **Formula Role:**   
 **Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**   
 - If S\_e = 0 → [P(alpha)](p-alpha-probability-of-growth.md) = 0 (entire system collapses)   

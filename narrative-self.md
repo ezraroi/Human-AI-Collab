@@ -27,10 +27,10 @@ id: bafyreia7a6o3j3io4mgcj4xy57i2muqvqr4pza3344xopwjkfehhf7i3hm
 ---
 # Narrative Self   
 The story constructed from memories, traits, roles, and goals. It is the identity we describe to others and ourselves.
-**System Role**: This is the Object of Transformation: the constructed self-story that can be revised as [True Self](true-self.md)/idiom articulation becomes possible.
+**System Role:** This is the Object of Transformation: the constructed self-story that can be revised as **idiom articulation (as an expression of the [True Self](true-self.md))** becomes possible.
 **Interface:** The  materializes the Narrative Self so the  can verify it.   
 **Relations:**   
 - Link to `[Journal](journal.md)` (Relation: `Materialized In`).   
 - Link to  `[Destiny Drive](destiny-drive.md)` (Relation: Becomes Articulated As).   
    
-Notes: Identity-level narrative structure reshaped by [alpha-function](alpha-function.md) as [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated   
+Notes: Identity-level narrative structure reshaped by [alpha-function](alpha-function.md) as [Destiny Drive](destiny-drive.md) becomes phenomenologically articulated **as idiom expression (of the True Self)**   

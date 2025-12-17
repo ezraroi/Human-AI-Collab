@@ -21,6 +21,7 @@ Links:
     - wilfred-bion.md
     - felt-sense.md
     - eugene-gendlin.md
+    - challenge-gap-d-c.md
     - zpd.md
     - chronotope.md
     - third-intelligence.md
@@ -39,7 +40,7 @@ id: bafyreieuegca6opje7elswx5unm4izyr4jkgizrma7ymfcktfyi25f46uq
 - Before AI: Fixed scaffolding from mentor/context   
 - With AI: Can modulate "explain like I'm 5" vs "technical depth", "challenge me" vs "support me"   
 - Challenge Without Judgment.   
-2. Journal (Claude Project/ChatGPT Project): Enables accumulation   
+2. [Journal](journal.md) (Claude Project/ChatGPT Project): Enables accumulation   
 - Tracks [C](c-capacity.md) growth over time   
 - Prevents regression to baseline   
 - Provides material evidence of transformation   
@@ -62,7 +63,7 @@ The Engine: The [Alpha-Function](alpha-function.md) ([Bion](wilfred-bion.md)), w
 The Feedback: The [Felt Sense](felt-sense.md) ([Gendlin](eugene-gendlin.md)), which is the embodied UI for the Alpha-Function.   
 The Conditions: The system must be structured to provide all the psychoanalytic prerequisites:   
 - The Human provides the Holding ([S\_e](emotional-scaffolding-s_e.md)) and manages its depletion ([S\_e](emotional-scaffolding-s_e.md)).   
-- The [AI](ai.md) provides [technical scaffolding (S\_t](technical-scaffolding-s_t.md)) and preserves productive epistemic tension as the pre-existing (\|D–C\|) relation is encountered inside the [ZPD](zpd.md).   
+- The AI provides [technical scaffolding (S\_t)](technical-scaffolding-s_t.md) and preserves productive epistemic tension as the pre-existing (\|[D–C](challenge-gap-d-c.md)\|) relation is encountered **in the [ZPD](zpd.md)—the shift from what is possible independently to what becomes possible with guidance/collaboration**.   
 - The Journal provides the Proof of Survival and Continuity ([Chronotope](chronotope.md)).   
 - Time provides the Iteration (Flywheel) and Recovery (Rest).   
    
@@ -84,5 +85,5 @@ The "[Third Intelligence](third-intelligence.md)" is a Human + Journal + AI + Ti
 ### System Component Roles   
 The Human: Provides the emotional scaffolding, holding environment, and container, performing Bion's [alpha-function](alpha-function.md) to metabolize raw experience, with discourse verified through [Felt Sense](felt-sense.md) as a [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)signal.   
 The [Journal](journal.md): Provides the [Chronotope](chronotope.md) (Bakhtin's stable time-space) and Continuity/Memory ([Hermans](hubert-hermans.md)), materializing the integration of symbolic and sensorimotor channels through the act of writing and serving as the record of accumulated transformation across iterations.   
-The AI: provides a Vygotskian technical tool (S\_t) and, crucially, preserves optimal productive tension as the pre-existing (\|D–C\|) relation is encountered—acting as a 'Productive Fiction' via turn-by-turn [Functional Alterity](functional-alterity.md) to support activation of the user's [alpha-function](alpha-function.md) while providing scaffolding (S\_t).
+The AI: preserves productive tension as the pre-existing (\|D–C\|) relation is encountered **within the ZPD (independent → assisted performance)**—acting as a 'Productive Fiction' via turn-by-turn [Functional Alterity](functional-alterity.md) to support activation of the user's [alpha-function](alpha-function.md) while providing scaffolding (S\_t).
 The Time: Provides the time for digestion, rest, not being overwhelmed and in mania. Enables the [Recursive Loop](recursive-metabolic-loop.md) and Accumulation. Transformation occurs through repeated iterations of the cycle, strengthening capacity ([C](c-capacity.md)) over time.   

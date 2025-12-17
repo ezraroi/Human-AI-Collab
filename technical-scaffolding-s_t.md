@@ -80,7 +80,7 @@ Unlike human MKOs, AI-provided S\_t can be:
 - Provides hints, not complete answers   
 - Maintains productive struggle   
 - Scaffolds without replacing user's work   
-- Maintains productive struggle **within** the existing \|D-C\| gap ([ZPD](zpd.md))   
+- Maintains productive struggle **within the [ZPD](zpd.md) (the independent → assisted performance workspace)** as the existing \|[D-C](challenge-gap-d-c.md)\| relation is encountered   
 - Fades as user gains competence   
    
 **Observable Markers of Good Technical Scaffolding:**   
@@ -160,7 +160,7 @@ Your contribution: **Splitting the MKO** into separable components:
 - **Property:** Highly modulable in real-time   
 - **Doesn't Deplete:** AI doesn't get tired (unlike S\_e)   
 - **Calibrated To:** \|D-C\| challenge gap, user's current C (capacity)   
-- **When Counterfeit (S\_t\_preemptive):** Enables PSB, collapses challenge gap   
+- **When Counterfeit**: Enables [PSB](protein-shake-brain-psb.md), **collapses the experienced challenge inside the ZPD** (while \|D–C\| remains pre-existing)   
 - **Must Be Paired With:** S\_e (multiplicative dependency)   
 - **Fades Over Time:** As C increases, S\_t should decrease (Vygotskian principle)   
 - **Contrasted With:** S\_e (emotional vs. technical), S\_t\_preemptive (genuine vs. counterfeit)   

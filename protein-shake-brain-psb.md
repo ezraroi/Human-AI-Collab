@@ -11,7 +11,6 @@ Tag:
     - 'Operational Flags: Core'
     - 'Operational Flags: Pathology'
 Backlinks:
-    - subject-supposed-to-know-sss.md
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - what-this-means-for-your-paper.md
@@ -44,6 +43,7 @@ Backlinks:
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - two-axis-framework.md
+    - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
     - critical-connection-5-why-psb-happens.md
@@ -86,6 +86,7 @@ Links:
     - challenge-gap-d-c.md
     - dynamic-transitional-object-dto.md
     - transmissive-self.md
+    - christopher-bollas.md
     - functional-alterity.md
     - felt-sense.md
     - anterior-insular-cortex-aic.md
@@ -166,8 +167,8 @@ When simulated safety combines with premature technical answers, the result is o
 - Channel 1 (somatic verification)   
 - [Recursive Loop](recursive-metabolic-loop.md) (metabolization → materialization → capacity growth)   
    
-**Produces:**   
-- [Transmissive Self](transmissive-self.md) (Bollas)   
+**Can Produce:**   
+- [Transmissive Self](transmissive-self.md) ([Bollas](christopher-bollas.md))   
 - Capacity stagnation/atrophy   
 - Dependency on external processing   
    

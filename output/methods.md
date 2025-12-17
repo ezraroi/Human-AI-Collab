@@ -259,7 +259,7 @@ A structured prompting protocol that uses AI as a **reflective surface** rather 
 Implements the RRV Cycle micro-method with **continuous RPVL verification**.
 The RRV Cycle provides the dialogue structure; RPVL provides quality control throughout.
 **Operations (implemented by RRV Cycle):**
-1. **Externalize** – Speak/write raw thoughts, confusions, stakes to AI (Rubber Duck Debugging).
+1. Externalize – Speak/write raw thoughts, confusions, stakes to AI; often using Rubber Duck Debugging as a step-by-step self-explanation aid.
 2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence, and be willing to question your own first interpretation.
 3. **Validate** – Ask AI to summarize “what we’re doing” and check it against felt sense and task definition.
 
@@ -269,7 +269,7 @@ The RRV Cycle provides the dialogue structure; RPVL provides quality control thr
 - Keeps AI in **Functional Alterity** (difference, resistance), not in “perfect agreement” mode.
 
 **Teaching as Verification:**
-Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation. When forced to teach/explain to the AI, users:
+Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation (distinct from Rubber Duck Debugging). When forced to teach/explain to the AI, users:
 - Retrieve and organize knowledge
 - Identify gaps in their own understanding
 - Make tacit assumptions explicit (so contradictions in the mental model become visible)

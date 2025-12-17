@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - authoritative-discourse.md
+    - section-3-foundational-theoretical-integration.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - felt-sense.md
     - alpha-function-integrating-dialogical-and-embo.md
@@ -29,7 +30,7 @@ Emoji: "\U0001F4A1"
 id: bafyreih3x3hul3wuaplbsiirhmwhkiwuxrhgsdiihtkxevbyzw4qvozlwi
 ---
 # Internally Persuasive Discourse   
-Information or guidance that is internalized through genuine understanding and ownership, rather than coercion. It can serve as linguistic material for the [True Self](true-self.md) when verified through [Felt Sense](felt-sense.md).   
+Information or guidance that is internalized through genuine understanding and ownership, rather than coercion. It can serve as linguistic material that **supports idiom articulation (as an expression of the [True Self](true-self.md))** when verified through Felt Sense.   
 **Verification:** You know discourse is "internally persuasive" when it resonates with the **[Felt Sense](felt-sense.md)**, causing a "[Felt Shift](felt-shift.md)"   
 **Notes:** AI/human articulation that resonates with [Felt Sense](felt-sense.md).   
 [Mikhail Bakhtin](mikhail-bakhtin.md)    

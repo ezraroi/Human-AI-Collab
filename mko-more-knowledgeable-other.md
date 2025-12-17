@@ -10,11 +10,13 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - lev-vygotsky.md
+    - section-5-the-category-error-relational-axis-f.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - technical-scaffolding-s_t.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - dialogical-and-embodied-frameworks-an-integrat.md
+    - zpd.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'
@@ -23,16 +25,15 @@ Creation date: "2025-11-22T11:55:54Z"
 Created by:
     - Roi Ezra
 Links:
-    - ai.md
-    - zpd.md
     - technical-scaffolding-s_t.md
+    - zpd.md
     - emotional-scaffolding-s_e.md
     - lev-vygotsky.md
 Emoji: "\U0001F4A1"
 id: bafyreiekm7dqoxyzzwby6whqgn5drsfuxq6fhxdvv3daqmpmfko4dfqjxm
 ---
 # MKO (More Knowledgeable Other)   
-In this system, the [AI](ai.md) acts as a *technical* MKO.   
+In this system, the AI supplies the **[technical scaffolding](technical-scaffolding-s_t.md) (Sₜ)** associated with MKO-guided assistance in the ZPD, without implying AI is a developmental ‘other’ beyond its functional role.   
 The **More Knowledgeable Other (MKO)** is defined as **anyone** who has a **better understanding or a higher ability level** than the learner concerning a specific task, process, or concept.   
 Key points about the MKO:   
 • The MKO is generally a person, such as a teacher, instructor, knowledgeable adult, or a more capable peer.   

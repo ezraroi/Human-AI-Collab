@@ -26,6 +26,7 @@ Creation date: "2025-11-22T12:31:33Z"
 Created by:
     - Roi Ezra
 Links:
+    - emotional-scaffolding-s_e.md
     - the-container.md
 Emoji: "\U0001F9EC"
 id: bafyreidr66vxopw7j6mrrm52kzcyc6jewczxtfvbdlftbijlwo26lbimzy
@@ -35,5 +36,5 @@ The Hypothalamic-Pituitary-Adrenal axis. A full-body stress response system that
    
 The **hypothalamus** serves as a high-level center for regulating visceral activity and the **endocrine system** by controlling the hypophysis (pituitary). The endocrine function relevant to this system involves the release of hormones known as **glucocorticoids**.   
 The level of glucocorticoid release appears to be temporally regulated during sleep phases, which is essential for memory function. Glucocorticoids are in a **lower state of release** during slow-wave sleep (SWS). However, there is an **increased release of glucocorticoids** during the REM stage, which significantly affects affective memory consolidation and procedural memory enhancement.   
-**Notes:** Stress regulation substrate; underlying constraint for Sₑ.   
+**Notes:** Stress regulation substrate; underlying constraint for [Emotional Scaffolding](emotional-scaffolding-s_e.md).   
    

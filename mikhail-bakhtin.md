@@ -20,7 +20,7 @@ Backlinks:
 Origin Domain:
     - Dialogical Self Theory & Linguistics
     - Philosophy of Technology & Phenomenology
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-22T11:14:19Z"
 Created by:
     - Roi Ezra

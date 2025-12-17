@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - reflective-prompting.md
     - lev-vygotsky.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - channel-2-symbolic.md
@@ -21,7 +22,6 @@ Backlinks:
     - c-capacity.md
     - section-13-significance-and-forward-direction.md
     - functional-alterity.md
-    - zpd.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
@@ -99,7 +99,7 @@ D pairs with [C (Capacity)](c-capacity.md) to create the **Challenge Gap** \|D-C
 **Relations (Wiring):**   
 - **Component Of:** P(α) formula (denominator, paired with C)   
 - **Creates (with C):** [Challenge Gap \|D-C\|](challenge-gap-d-c.md)   
-- **Maps To:** Vygotsky's Zone of Proximal Development   
+- **Contributes To**: the Challenge Gap ∣D–C∣\|D–C\|∣D–C∣, whose workable subset becomes the ZPD (independent → assisted performance) when scaffolding is present   
 - **Theoretical Basis:** [Vygotsky](lev-vygotsky.md) ([ZPD](zpd.md)), [Bion](wilfred-bion.md) ([beta-element](beta-elements.md) load)   
    
 **Epistemic Status:** Theoretical Framework (operationalizing Vygotskian challenge as formula variable)   

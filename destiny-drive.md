@@ -30,6 +30,7 @@ Creation date: "2025-11-22T11:50:45Z"
 Created by:
     - Roi Ezra
 Links:
+    - true-self.md
     - third-intelligence.md
     - recursive-metabolic-loop.md
     - identity-stakes.md
@@ -37,13 +38,12 @@ Links:
     - false-self.md
     - c-capacity.md
     - christopher-bollas.md
-    - true-self.md
     - journal.md
 Emoji: "\U0001F4A1"
 id: bafyreiaioafobtw6w7iwuplocr3ijtdbzqddgye2aq6jfpi566geyfo5hi
 ---
 # Destiny Drive   
-**Destiny Drive** is the innate, universal psychological urge to articulate one’s unique idiom (True Self) through the active selection and use of objects.   
+Destiny Drive is the innate, universal psychological urge to articulate one’s unique idiom (**as an expression of the [True Self](true-self.md)**) through the active selection and use of objects.   
 It exists in **latent form** in all individuals and becomes **phenomenologically articulated** only when the conditions for generative transformation are present.   
 ## System Role   
 Destiny Drive is **not a mechanism** in the [Third Intelligence](third-intelligence.md) system.   
@@ -72,7 +72,7 @@ Destiny Drive explains the **vector** of transformation—*where the increased [
     *(Note: a defined Research Gap — no direct empirical mapping yet)*   
    
 ### Relations to Other Objects   
-- **[True Self ](true-self.md)/ Idiom** (articulates)   
+- Idiom (**as an expression of the True Self**) (articulates)   
 - [False Self](false-self.md) (can remain dominant when Destiny Drive is latent/unarticulated under failed holding)   
 - **[Identity Stakes](identity-stakes.md)** (domain where Destiny Drive becomes relevant)   
 - **[Journal](journal.md)** (primary objects supporting articulation)   

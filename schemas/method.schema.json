@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-15:type-6921b36160de23efb249fba7:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-17:type-6921b36160de23efb249fba7:ver-1.0",
   "type": "object",
   "title": "Method",
   "x-app": "Anytype",

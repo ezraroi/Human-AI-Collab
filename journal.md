@@ -31,6 +31,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - human.md
     - section-3-foundational-theoretical-integration.md
     - time.md
     - conclusion-on-novelty-and-contribution.md
@@ -59,7 +60,7 @@ Backlinks:
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
     - alpha-function-integrating-dialogical-and-embo.md

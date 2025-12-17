@@ -23,6 +23,7 @@ Backlinks:
     - triple-network-model.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - beta-elements.md
+    - section-5-the-category-error-relational-axis-f.md
     - edmund-husserl.md
     - 4-the-system-architecture-v2-0.md
     - parity-principle-pp.md
@@ -59,6 +60,7 @@ Backlinks:
     - p-alpha-probability-of-growth.md
     - gap-filling-inference-generation.md
     - transmissive-self.md
+    - true-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - cognitive-dependency.md
@@ -80,7 +82,7 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
@@ -147,7 +149,7 @@ When the Alpha-Function is bypassed or under-engaged, symbolic material is taken
 This is the Alpha-Function’s component-level collapse.   
 ### Interaction Dynamics (Propagation Rules)   
 When Alpha-Function is offline or overwhelmed:   
-- **[As-If Body Loop](as-if-body-loop.md)** loses its function: embodied signals are ignored → symbolic overrun emerges.   
+- Somatic signals (if present) fail to be integrated, so processing becomes symbol-dominant; **Symbolic Overrun** emerges specifically when the **[As-If Body Loop](as-if-body-loop.md) is weak or bypassed**.   
 - [Journal](journal.md) becomes corrupted (**when the work carries [Identity Stakes](identity-stakes.md)**): entries are written without metabolization, producing pseudo-insight or thin narratives.   
 - **[Capacity (C)](c-capacity.md)** fails to accumulate: Not real growth is happening.   
 - **Axis B collapses** into a [Channel-2](channel-2-symbolic.md)-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of [PSB](protein-shake-brain-psb.md).   

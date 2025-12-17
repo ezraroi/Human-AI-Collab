@@ -14,7 +14,7 @@ Backlinks:
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Creation date: "2025-11-23T06:37:25Z"
 Created by:
     - Roi Ezra

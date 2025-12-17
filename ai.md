@@ -31,7 +31,6 @@ Backlinks:
     - neural-synchrony.md
     - conclusion-on-novelty-and-contribution.md
     - gap-filling-inference-generation.md
-    - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - two-axis-framework.md
@@ -40,7 +39,7 @@ Backlinks:
     - third-intelligence.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - the-journals-role-in-third-intelligence.md
     - alpha-function-integrating-dialogical-and-embo.md
     - activation-pathway-of-destiny-drive.md
@@ -79,7 +78,7 @@ id: bafyreiduvwnxxdh5tkqau4xtt3vzihogofkeqwx6ahjd3onsi46eelgogy
 ---
 # AI   
 The third component of the Human + Journal + AI + Time tetrad. AI is a Large Language Model (LLM) held in the [Dynamic Transitional Object](dynamic-transitional-object-dto.md) (DTO) stance—a Large Language Model (LLM) that provides [technical scaffolding](technical-scaffolding-s_t.md) and can be used to help preserve [productive epistemic tension](productive-epistemic-tension.md) (in the presence of adequate scaffolding and when held in DTO stance), without consciousness, intentionality, or subjectivity..   
-Unlike traditional cognitive tools (calculators, books) or genuine partners (conscious others), AI is uniquely:   
+*Unlike traditional cognitive tools (calculators, books) or genuine partners (conscious others), AI is uniquely:*   
 - **Generative** (creates novel content, not retrieval)   
 - **Responsive** (adapts to context via [In-Context Learning](in-context-learning.md))   
 - **Modulable** (adjustable in real-time via prompting)   
@@ -94,8 +93,8 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 - **Modulable in real-time:** "explain like I'm 5" ↔ "technical depth"   
    
 **2. **[ZPD](zpd.md) tension preservation within the pre-existing [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md):   
-- Helps preserve [productive epistemic tension](productive-epistemic-tension.md) (the felt signal of workable [ZPD](zpd.md) engagement)   
-- Adjusts presentation, pacing, and Sₜ so the user can *work within* a ZPD that exists inside the pre-existing Challenge Gap   
+- Helps preserve productive epistemic tension (the felt signal that the pre-existing \|D-C\| relation is being encountered **within a scaffolded ZPD (independent → assisted performance)**   
+- Adjusts presentation, pacing, and Sₜ to help **maintain the conditions for a workable ZPD** within the pre-existing Challenge Gap   
 - **Challenge without judgment** (no social cost)   
 - Can increase experienced tension ("challenge my assumptions") or provide support (without changing the structural \|D–C\| relation)   
    
@@ -109,7 +108,7 @@ Unlike traditional cognitive tools (calculators, books) or genuine partners (con
 - Turn-taking (dialogue rhythm)   
 - Coherence (prevents associative drift)   
 - Logical scaffolding (maintains "red thread")   
-- Infinite availability (doesn't deplete)   
+- Structural reliability that keeps alterity interpretable (prevents drift/noise), enabling sustained dialogue   
    
 **What AI Cannot Provide (Critical Limitations):**   
 **1. [Emotional Scaffolding](emotional-scaffolding-s_e.md) (S\_e):**   

@@ -31,13 +31,14 @@ Backlinks:
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - alpha-function-integrating-dialogical-and-embo.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - critical-connection-1-the-two-channel-model-of.md
     - psychoanalytic-prerequisites.md
     - ii-the-novelty-of-the-specific-mechanisms.md
+    - dialogical-and-embodied-frameworks-an-integrat.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

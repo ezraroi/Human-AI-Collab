@@ -43,7 +43,7 @@ id: bafyreifsd3zplsn24o4odj546e7qfwvxpu7hle7whk26o7rzc6fr7dxgqu
 ---
 # Category Error   
 Category Error is the **relational misclassification** of AI as a Subject rather than a **[Dynamic Transitional Object (DTO)](dynamic-transitional-object-dto.md)**.   
-It occurs when the user attributes emotional intentionality, caring, or interpersonal presence to the AI, producing a **[Subject-Supposed-to-Know (SSS)](subject-supposed-to-know-sss.md)** dynamic.   
+It occurs when the user attributes emotional intentionality, caring, or interpersonal presence to the AI, and may also project a [Subject-Supposed-to-Know (SSS) ](subject-supposed-to-know-sss.md)dynamic that grants the AI epistemic authority.   
 ### System Role   
 - Represents the **failure mode of [Axis A (Relational Ontology)](two-axis-framework.md)**.   
 - Opens the door to emotional dependency, projection, and false intimacy.   

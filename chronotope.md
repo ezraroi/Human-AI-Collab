@@ -9,7 +9,6 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - journal.md
-    - 6-final-conclusion.md
     - the-large-language-model-as-dynamic-transition.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
     - time.md

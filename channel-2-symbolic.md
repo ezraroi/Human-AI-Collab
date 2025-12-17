@@ -37,7 +37,7 @@ Backlinks:
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_m.md
     - protein-shake-brain-psb.md
     - alpha-function-integrating-dialogical-and-embo.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

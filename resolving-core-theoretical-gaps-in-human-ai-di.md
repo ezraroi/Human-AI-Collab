@@ -56,7 +56,7 @@ Your synthesis resolved this paradox by proposing a complementary, two-channel m
 ### The Resolution: Psychoanalytic Integration as Obstacle-Removal Architecture   
 The three theorists do not describe a causal production chain but a **prerequisite architecture** that removes the obstacles preventing idiom articulation. [Destiny Drive](destiny-drive.md) is **present from the beginning in latent form**. What develops is the psyche’s ability to *experience and act from it*.   
 ### PRE-EXISTING CONDITION: The Latent Destiny Drive ([Bollas](christopher-bollas.md))   
-- What it is: The innate, universal urge to articulate one’s unique idiom ([True Self](true-self.md)) through the use of objects.   
+- What it is: The innate, universal urge to articulate one’s unique idiom (**as an expression of the [True Self](true-self.md)**) through the use of objects..   
 - **Ontological status:** Always present, **latent**, and not created by the system.   
 - **Transition:** It becomes **articulated** only when developmental obstacles are removed.   
 - **Phenomenology when articulated:** Directionality, self-authorship, and sustained idiom-driven engagement.   
@@ -76,7 +76,7 @@ The three theorists do not describe a causal production chain but a **prerequisi
 When both obstacles are removed—safety is sufficient and experience is metabolizable—the **latent Destiny Drive becomes phenomenologically articulated**.   
 This marks the shift from:   
 - **Fate** → reactive, determined, False Self compliance   
-- **Destiny** → agentic, idiom-expressive, True Self authorship   
+- **Destiny** → agentic, idiom-expressive, **living from the [True Self](true-self.md)**   
    
 The system does not produce the [Destiny Drive](destiny-drive.md); it creates the conditions under which the pre-existing drive becomes lived experience.   
 ### The Cohesion   

@@ -14,6 +14,7 @@ Links:
     - false-self.md
     - lev-vygotsky.md
     - authoritative-discourse.md
+    - internally-persuasive-discourse.md
     - wilfred-bion.md
     - alpha-function.md
     - beta-elements.md
@@ -37,26 +38,26 @@ A Functional Model of Psychological Transformation: The [Third Intelligence](thi
 ### 3.1 The Foundational Synthesis: Vygotsky, Winnicott, and Bion   
 Our central thesis is that the theories of Vygotsky, Winnicott, and Bion are not independent frameworks but describe **complementary layers of a single developmental architecture**.   
 **[Winnicott](d-w-winnicott.md) provides the developmental stakes:**   
-The distinction between the **[True Self](true-self.md)** (the spontaneous, authentic, integrated agent) and the **[False Self](false-self.md)** (a defensive structure organized around compliance) represents the developmental stakes of the system. The emergence of the True Self requires a psychological environment in which the individual’s experience can become thinkable and expressible without impingement.   
+The distinction between the [True Self](true-self.md) (the spontaneous, authentic **core of being**) and the **[False Self](false-self.md)** (a defensive structure organized around compliance) represents the developmental stakes of the system. The emergence of the True Self requires a psychological environment in which the individual’s experience can become thinkable and expressible without impingement.   
 **[Vygotsky](lev-vygotsky.md) provides the Social Mechanism:**   
 All higher psychological functions originate on the social plane before they are internalized.   
 - **False Self formation** arises from internalizing *[Authoritative Discourse](authoritative-discourse.md)*—coercive, misattuned communication that bypasses genuine understanding.   
-- **True Self formation** arises from internalizing *Internally Persuasive Discourse*—responsive, collaborative dialogue characterized by meaning-making rather than compliance.   
+- True Self **emergence and expression are supported by** [Internally Persuasive Discourse](internally-persuasive-discourse.md)—responsive, collaborative dialogue characterized by meaning-making rather than compliance.   
    
-Thus, the True Self is a **dialogical achievement**, not an isolated essence.   
+Thus, **the conditions for True Self expression are dialogically supported**, not merely an isolated essence.   
 **[Bion](wilfred-bion.md) provides the Psychic Mechanism:**   
 Vygotskian internalization requires a precondition: the ability to **metabolize** experience.   
 Bion’s **[alpha-function](alpha-function.md)** transforms raw, unprocessed emotional-sensory data ([beta-elements](beta-elements.md)) into meaningful, usable thoughts ([alpha-elements](alpha-elements.md)). Without this metabolic function, internalization fails, and the psyche protects itself via defensive organization (False Self).   
 ## 3.2 The Central Role of the Alpha-Function   
 The alpha-function is the **bridge** between social experience and psychological outcome.   
-- **Successful Alpha-Function → True Self:**   
-    When beta-elements can be processed into alpha-elements, the psyche gains internal coherence and reflective capacity. This stability allows genuinely responsive engagement with the social world, enabling True Self expression.   
+- **Successful Alpha-Function supports True Self emergence**:**:**   
+    When [beta-elements](beta-elements.md) can be processed into [alpha-elements](alpha-elements.md), the psyche gains internal coherence and reflective capacity. This stability allows genuinely responsive engagement with the social world, enabling True Self expression.   
 - When [alpha-function](alpha-function.md) fails under insufficient holding, defensive compliance can dominate (Winnicott’s [False Self](false-self.md))   
     Without the capacity to metabolize experience, the psyche is overwhelmed by “nameless dread.” To survive, it constructs a compensatory shell—performative, compliant, and disconnected from spontaneous desire.   
    
 Thus, alpha-function is the *core metabolic engine* of psychological transformation.   
 ## 3.3 The [ZPD](zpd.md) in the Third Intelligence System   
-Vygotsky’s Zone of Proximal Development ([ZPD](zpd.md)) is the workable subset of the pre-existing \|[D–C](challenge-gap-d-c.md)\| relation—the arena that becomes available when scaffolding is present, within which [productive epistemic tension](productive-epistemic-tension.md) can be felt when the gap is in a growth-conducive range.   
+Vygotsky’s Zone of Proximal Development ([ZPD](zpd.md)) is the workable subset of the pre-existing \|[D-C](challenge-gap-d-c.md)\| relation—the distance between what the learner can do independently and what becomes possible with guidance/collaboration under scaffolding—within which [productive epistemic tension](productive-epistemic-tension.md) can be felt when the gap is in a growth-conducive range.   
 In classical development, the More Knowledgeable Other ([MKO](mko-more-knowledgeable-other.md)) provides task-specific guidance the learner cannot yet generate independently, functioning as temporary scaffolding within the [ZPD](zpd.md).   
 However, the architecture of the **[Third Intelligence](third-intelligence.md)** is fundamentally different:   
 - Adult users already possess an alpha-function.   
@@ -68,12 +69,12 @@ In the Tetrad:
 - The [Journal](journal.md) serves as an external substrate for continuity — a place where metabolized alpha-elements are captured through writing.   
 - **The [Human](human.md)** provides the emotional substrate ([Sₑ](emotional-scaffolding-s_e.md)), functioning as the container that makes this metabolic work tolerable.   
    
-Thus, the ZPD is recreated not by performing cognition for the user, but by **designing conditions in which the user’s own alpha-function repeatedly ignites**.   
+Thus, the system **maintains the conditions for a workable [ZPD](zpd.md)** not by performing cognition for the user, but by designing conditions in which the user’s own [alpha-function](alpha-function.md) repeatedly ignites.   
 ## 3.4 The Psychoanalytic Cascade: From Latency to Articulation   
 Notebook 3’s core theorists—Winnicott, Bion, and Bollas—describe a **hierarchical prerequisite architecture** for psychological development. This is not a “production engine” in which each layer *creates* the next. Rather, it is an **obstacle-removal cascade** that enables latent potential to become articulated.   
 ### PRE-EXISTING POTENTIAL: The [Destiny Drive](destiny-drive.md) ([Bollas](christopher-bollas.md))   
 **What it is:**   
-The [Destiny Drive](destiny-drive.md) is the innate, universal urge within each individual to articulate their unique idiom (True Self) through the use of objects and experiences.   
+The [Destiny Drive](destiny-drive.md) is the innate, universal urge within each individual to articulate their unique idiom (**as an expression of the True Self**) through the use of objects and experiences.   
 **Ontological status:**   
 - It is **always present** in latent form.   
 - It is **not produced** by the Holding Environment or the Alpha-Function.   

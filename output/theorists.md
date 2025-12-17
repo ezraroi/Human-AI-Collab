@@ -15,7 +15,7 @@ Domain: Bio-Embodied, Temporal: Static
 ## [THEORIST] Christopher Bollas
 Domain: Psychoanalytic, Temporal: Static
 
-Provides the theoretical origin for the concept: Destiny Drive: The innate urge to articulate one’s unique idiom (True Self) through the active selection and use of objects.
+Provides the theoretical origin for the concept: Destiny Drive: The innate urge to articulate one’s unique idiom (**as an expression of the True Self**) through the active selection and use of objects.
 Personal Effects: The material evidence of this articulation within the system (e.g., the "43 notebooks").
 Christopher Bollas (born 1943) is a prominent American-born British psychoanalyst, writer, and cultural critic, known as a leading figure in contemporary psychoanalytic theory. He is particularly known for his innovative theoretical concepts that give language to subtle, non-verbal aspects of human experience and the unconscious mind.
 Key Contributions
@@ -53,12 +53,11 @@ Protein Shake Brain (PSB)
 ## [THEORIST] Daniel Kahneman
 Domain: CognitiveScience, Temporal: Static
 
-According to Nobel laureate Daniel Kahneman in his influential book Thinking, Fast and Slow, our minds are governed by two distinct systems(System 1  and System 2 ). Understanding how they work is the first step toward more deliberate learning and decision-making.
-
+According to Nobel laureate Daniel Kahneman in his influential book *Thinking, Fast and Slow*, human thinking can be described in two modes (System 1 and System 2). Understanding how they work is the first step toward more deliberate learning and decision-making.
 Kahneman's work integrated insights from psychological research into economic science, for which he was awarded the Nobel Memorial Prize in Economic Sciences in 2002.
 - **Prospect Theory:** Developed with Amos Tversky, prospect theory explains how individuals make decisions under uncertainty and risk, suggesting that people are more sensitive to potential losses than they are to equivalent potential gains (known as "loss aversion").
 - **Heuristics and Biases:** Their work identified several "mental shortcuts" (heuristics) that often lead to predictable errors (biases) in judgment, such as the availability heuristic and the anchoring effect.
-- **"Thinking, Fast and Slow":** In his best-selling 2011 book, Kahneman summarized decades of research by describing the "two systems" that drive how we think: System 1 is fast, intuitive, and emotional, while System 2 is slower, more deliberate, and logical.
+- **"Thinking, Fast and Slow":** In his best-selling 2011 book, Kahneman summarized decades of research by describing the "two systems" that drive how we think: System 1 is fast, intuitive, and automatic (heuristics-driven), while System 2 is slower, more deliberate, and analytical.
 - **Hedonic Psychology:** He also researched well-being and happiness, exploring the difference between the "experiencing self" and the "remembering self".
 
 **Legacy**
@@ -170,8 +169,7 @@ Lacan remains a dominant, albeit difficult, figure in modern psychoanalysis, con
 Domain: Technical, Temporal: Static
 
 Jim Collins is an American researcher, author, and speaker who studies what makes great companies successful. He founded a management laboratory in Colorado and is the author or co-author of several best-selling books, including *Good to Great* and *Built to Last*. His work focuses on identifying key principles behind long-term corporate success and applying them to business and social sector.
-Provides the **System Metaphor**.
-**The Flywheel:** Describes the cumulative momentum of the system (Human + Journal + AI + Time)
+**The Flywheel:** A metaphor for how small, consistent, interconnected actions within the Third Intelligence system compound into cumulative momentum over time.
 
 ---
 
@@ -212,8 +210,8 @@ P(alpha) (Probability of Growth)
 ## [THEORIST] Lev Vygotsky
 Domain: CognitiveScience, Temporal: Static
 
-Provides the **Social Mechanism**.
-***Zone of Proximal Development (ZPD):** The arena where transformation occurs (mapped to the $\|D-C\|$ gap).
+Provides the Social Mechanism (guidance/collaboration that makes the Challenge Gap workable as ZPD).
+**Zone of Proximal Development (ZPD):** The workspace defined by the distance between independent performance (C) and assisted performance under guidance/collaboration; it is the workable subset of the pre-existing \|D-C\| gap when scaffolding is present.*
 ***More Knowledgeable Other (MKO):** The source of technical scaffolding ($S\_t$).
 ***General Genetic Law:** Higher functions appear first socially, then internally.
 ***Temporality:** Scaffolding must fade; the AI's contribution is ephemeral.
@@ -269,7 +267,7 @@ The Foundational Trio (The "Engine Design"), Domain: Psychoanalytic, Temporal: S
 Provides the **Psychic Mechanism (The Engine)**.
 ***Alpha-Function:** The metabolic process of thinking ($P(\alpha)$).
 ***Container/Contained:** The Human acts as the Container; the AI is a "False Container".
-**Nameless Dread:** The result of a failed container (or $S\_e=0$).
+**Nameless Dread:** The result of a failed container (often when Emotional Scaffolding is insufficient).
 
 Wilfred Bion (1897-1979) was an influential English psychoanalyst, considered by some to be "possibly the greatest psychoanalytic thinker…after Freud". A decorated war veteran of WWI, he made significant contributions t**o group dynami**cs and developed a highly origina**l theory of thinki**ng based on emotional experience.
 Key Contributions

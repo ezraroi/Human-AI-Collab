@@ -18,6 +18,7 @@ Links:
     - true-self.md
     - wilfred-bion.md
     - the-container.md
+    - reverie.md
     - lev-vygotsky.md
     - mko-more-knowledgeable-other.md
     - zpd.md
@@ -38,7 +39,7 @@ P(Growth) = [S\_e](emotional-scaffolding-s_e.md) \* [S\_t](technical-scaffolding
    
 Now, look how [S\_e](emotional-scaffolding-s_e.md) connects everyone:   
 - [Winnicott](d-w-winnicott.md): [Emotional Scaffolding](emotional-scaffolding-s_e.md) operationalizes the [Holding Environment](holding-environment.md) (a prerequisite condition of safety/attunement).. Without it, the [True Self ](true-self.md)cannot emerge.   
-- [Bion](wilfred-bion.md): [S\_e](emotional-scaffolding-s_e.md) is [the "container"](the-container.md) functioning in a state of "reverie" (attuned responsiveness). Without [S\_e](emotional-scaffolding-s_e.md), the container fails, and you get "nameless dread".   
+- [Bion](wilfred-bion.md): [S\_e](emotional-scaffolding-s_e.md) supports the Human-as-[Container](the-container.md) functioning in a state of "[reverie](reverie.md)" (attuned responsiveness). When S\_e is insufficient, the container is more likely to fail, producing "nameless dread".   
 - [Vygotsky](lev-vygotsky.md): [Emotional Scaffolding](emotional-scaffolding-s_e.md) is the trust required for a learner to remain vulnerable **while receiving technical guidance ([S\_t](technical-scaffolding-s_t.md))** from the "More Knowledgeable Other" ([MKO](mko-more-knowledgeable-other.md)) in the [ZPD](zpd.md).   
 - Bakhtin/Hermans: S\_e is the "trust" and "recognition" that acts as "stabilizers" for the self to emerge in dialogue.   
 - AI Research: S\_e is "warmth" and "integrity trust," which are just as important as "competence" for AI adoption.   
