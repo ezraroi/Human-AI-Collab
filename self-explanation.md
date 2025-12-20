@@ -15,6 +15,7 @@ Backlinks:
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - gap-filling-inference-generation.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - c-capacity.md
 Epistemic Status: 'Literature: Established academic fact'
 Origin Domain:
     - Developmental Psychology & Learning Theory

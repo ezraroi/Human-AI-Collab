@@ -10,8 +10,8 @@ Backlinks:
     - 6-final-conclusion.md
     - jim-collins.md
     - time.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - the-integrated-circuit-board.md
-    - c-capacity.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Literature: Established academic fact'

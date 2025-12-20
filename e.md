@@ -10,12 +10,11 @@ Backlinks:
     - cognitive-artifact.md
     - document-abstract.md
     - john-flavell.md
-    - section-1-introduction-and-framework-positioning.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
     - 7-critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_p.md
+    - integrated-synthesis-of-psychological-developm.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
 Origin Domain:

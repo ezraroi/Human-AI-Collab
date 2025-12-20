@@ -16,7 +16,7 @@ Backlinks:
     - 1-executive-summary-resolving-the-ontology-cri.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_y.md
+    - executive-summary_g.md
     - human.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 7-final-conclusion-the-third-intelligence.md
@@ -26,8 +26,9 @@ Backlinks:
     - the-integrated-circuit-board.md
     - category-error.md
     - protein-shake-brain-psb.md
+    - touch-grass-protocol.md
     - functional-thirdness.md
-    - 1-executive-summary_j.md
+    - 1-executive-summary_y.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

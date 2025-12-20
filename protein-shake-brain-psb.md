@@ -36,7 +36,8 @@ Backlinks:
     - 5-the-operational-capacity-negative-capability.md
     - human.md
     - hyperreflexivity-trap.md
-    - section-2-the-core-formula-and-components.md
+    - section-2-the-field-viability-schema-and-its-c.md
+    - d-difficulty.md
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - cognitive-offloading.md
@@ -45,7 +46,7 @@ Backlinks:
     - high-resolution-uncertainty.md
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
-    - section-7-the-three-layer-architecture-tempora.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
@@ -57,6 +58,7 @@ Backlinks:
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
+    - field-viability-schema.md
     - alpha-function.md
     - category-error.md
     - cognitive-debt.md
@@ -67,6 +69,7 @@ Backlinks:
     - false-true-self.md
     - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
+    - emotional-scaffolding-s_e.md
     - negative-capability.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - the-recursive-third-intelligence-system-archit.md

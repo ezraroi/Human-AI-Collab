@@ -18,10 +18,10 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_9.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_y.md
+    - executive-summary_g.md
     - selected-fact.md
     - human.md
     - conclusion-on-novelty-and-contribution.md
@@ -31,6 +31,7 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - 3-implications-for-positioning.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
@@ -42,12 +43,14 @@ Backlinks:
     - third-intelligence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - 6-the-final-positioning-framework.md
+    - field-viability-schema.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
-    - 1-executive-summary.md
+    - 1-executive-summary_s.md
+    - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md
     - chronotope.md

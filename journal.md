@@ -32,14 +32,14 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_9.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_y.md
+    - executive-summary_g.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -56,7 +56,7 @@ Backlinks:
     - ai.md
     - 3-implications-for-positioning.md
     - d-w-winnicott.md
-    - section-7-the-three-layer-architecture-tempora.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
@@ -75,18 +75,20 @@ Backlinks:
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
+    - field-viability-schema.md
     - the-journals-three-essential-functions.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm_p.md
+    - integrated-synthesis-of-psychological-developm.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary.md
+    - 1-executive-summary_s.md
+    - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md
     - section-6-journal-function-refinement.md

@@ -11,14 +11,15 @@ Backlinks:
     - subject-supposed-to-know-sss.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
-    - section-2-the-core-formula-and-components.md
     - d-w-winnicott.md
     - 5-documented-counter-evidence-the-manic-episodes.md
+    - field-viability-schema.md
     - psychoanalytic-integration.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
+    - unified-architecture-neurobiological-resolutio.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

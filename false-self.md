@@ -15,15 +15,16 @@ Backlinks:
     - holding-environment.md
     - authoritative-discourse.md
     - section-3-foundational-theoretical-integration.md
-    - section-2-the-core-formula-and-components.md
     - d-w-winnicott.md
     - transmissive-self.md
     - true-self.md
     - dynamic-transitional-object-dto.md
+    - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - false-true-self.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
+    - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Psychoanalysis

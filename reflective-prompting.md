@@ -26,6 +26,7 @@ Backlinks:
     - rrv-cycle-recursive-refine-validate.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
+    - section-10-the-grand-unification.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - epistemological-humility.md
@@ -42,7 +43,7 @@ Backlinks:
     - 1-what-this-review-established.md
     - functional-thirdness.md
     - final-definition.md
-    - 1-executive-summary_j.md
+    - 1-executive-summary_y.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

@@ -21,7 +21,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
-    - executive-summary.md
+    - executive-summary_9.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -51,15 +51,14 @@ Backlinks:
     - felt-sense.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
-    - integrated-synthesis-of-psychological-developm_p.md
+    - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
-    - emotional-scaffolding-s_e.md
     - negative-capability.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
@@ -67,8 +66,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_6.md
-    - the-recursive-third-intelligence-system-archit.md
+    - 1-executive-summary.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

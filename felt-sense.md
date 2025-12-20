@@ -20,7 +20,7 @@ Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_9.md
     - iron-man-mentality.md
     - human.md
     - eugene-gendlin.md
@@ -31,7 +31,6 @@ Backlinks:
     - somatic-marker-hypothesis.md
     - pre-reflective-awareness.md
     - section-6-the-complete-system-architecture.md
-    - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - as-if-body-loop.md
@@ -39,12 +38,12 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - alpha-function.md
     - cognitive-debt.md
-    - c-capacity.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
     - internally-persuasive-discourse.md
+    - emotional-scaffolding-s_e.md
     - negative-capability.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
@@ -52,8 +51,7 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_6.md
-    - the-recursive-third-intelligence-system-archit.md
+    - 1-executive-summary.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

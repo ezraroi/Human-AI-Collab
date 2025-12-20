@@ -14,19 +14,21 @@ Backlinks:
     - human.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
-    - section-2-the-core-formula-and-components.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 3-implications-for-positioning.md
     - true-self.md
+    - field-viability-schema.md
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
     - protein-shake-brain-psb.md
     - potential-space.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
     - psychoanalytic-prerequisites.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
+    - unified-architecture-neurobiological-resolutio.md
+    - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Psychoanalysis
 Research Status: Sealed

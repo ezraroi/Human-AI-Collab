@@ -8,8 +8,10 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - section-4-the-importance-of-emotional-scaffold.md
     - section-6-the-complete-system-architecture.md
     - section-11-the-dialogical-illusion-as-producti.md
+    - emotional-scaffolding-s_e.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Research Status: Sealed

@@ -10,7 +10,6 @@ Tag:
     - 'Operational Flags: Pathology'
 Backlinks:
     - embodied-engagement-conditions.md
-    - part-ii-reflective-prompting-and-the-zone-of-p.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - algorithmic-self.md
     - transmissive-self.md

@@ -22,7 +22,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
-    - section-2-the-core-formula-and-components.md
+    - section-2-the-field-viability-schema-and-its-c.md
     - d-difficulty.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - ai.md
@@ -38,10 +38,11 @@ Backlinks:
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
+    - field-viability-schema.md
     - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
-    - executive-summary_t.md
+    - executive-summary.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md
@@ -53,7 +54,6 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
-    - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'

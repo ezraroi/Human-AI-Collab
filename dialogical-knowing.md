@@ -7,8 +7,7 @@ Tag:
     - 'Temporal: Static'
     - Meta-Framework
 Backlinks:
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - the-recursive-third-intelligence-system-archit.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
 Research Status: Evergreen
 Origin Domain:
     - Philosophy of Technology & Phenomenology

@@ -23,11 +23,11 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_9.md
     - cognitive-style-bias.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_y.md
+    - executive-summary_g.md
     - selected-fact.md
     - section-3-foundational-theoretical-integration.md
     - time.md
@@ -41,6 +41,7 @@ Backlinks:
     - 3-implications-for-positioning.md
     - d-w-winnicott.md
     - 6-the-failsafe-externalized-drift-monitoring.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
@@ -49,14 +50,16 @@ Backlinks:
     - third-intelligence.md
     - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
+    - field-viability-schema.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - 1-executive-summary.md
+    - 1-executive-summary_s.md
     - 3-the-mechanism-catalytic-externalization.md
     - section-3-causal-sequence-placement.md
+    - emotional-scaffolding-s_e.md
     - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
