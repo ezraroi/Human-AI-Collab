@@ -12,7 +12,9 @@ Backlinks:
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
     - in-context-learning.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - section-5-the-category-error-relational-axis-f.md
     - 4-the-system-architecture-v2-0.md
     - parity-principle-pp.md
@@ -22,12 +24,17 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
     - ai.md
+    - 3-implications-for-positioning.md
     - section-10-the-grand-unification.md
+    - cognitive-dependency.md
     - section-6-the-complete-system-architecture.md
+    - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - the-integrated-circuit-board.md
-    - critical-connection-5-why-psb-happens.md
+    - third-intelligence.md
+    - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - alpha-function.md
@@ -35,9 +42,11 @@ Backlinks:
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
+    - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - functional-alterity.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md

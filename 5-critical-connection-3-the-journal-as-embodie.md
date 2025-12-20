@@ -14,7 +14,7 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
 id: bafyreif3msef5vak46f25twicg77p3rlzuilcnb4gvhjeimfyqictjwkwa
 ---
-# CRITICAL CONNECTION #3: The Journal as Embodied Chronotope   
+# 5. CRITICAL CONNECTION #3: The Journal as Embodied Chronotope   
 ### NoteBook 1: [Journal's](journal.md) Role   
 - Provides chronotope (stable time-space for meaning)   
 - Offers continuity (memory across sessions)   

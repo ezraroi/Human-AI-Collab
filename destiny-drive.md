@@ -11,11 +11,12 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - narrative-self.md
     - idiom-aligned-scaffolding.md
+    - 4-analytic-vs-statistical-generalization.md
     - identity-stakes.md
     - iron-man-mentality.md
     - christopher-bollas.md
     - section-3-foundational-theoretical-integration.md
-    - the-hidden-implications-youve-discovered.md
+    - 9-the-hidden-implications-youve-discovered.md
     - section-6-the-complete-system-architecture.md
     - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md

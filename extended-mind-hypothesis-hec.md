@@ -10,7 +10,11 @@ Tag:
 Backlinks:
     - parity-principle-pp.md
     - the-large-language-model-as-dynamic-transition.md
+    - 4-remaining-questions-for-tier-3.md
     - cognitive-offloading.md
+    - 3-implications-for-positioning.md
+    - 5-final-positioning-statement.md
+    - executive-summary.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

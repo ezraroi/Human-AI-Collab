@@ -6,7 +6,7 @@ Cognitive Style Bias, Dialogical Knowing, Embodied Cognition, Neuroscience of Tr
 ---
 
 ## [RESEARCH GAP] Cognitive Style Bias
-Domain: Methodology, Temporal: Static, Operational Flags: Paradox, Meta-Framework
+[Gap:Unanswered] Domain: Methodology, Temporal: Static, Operational Flags: Paradox, Meta-Framework
 
 The unresolved question of whether the Third Intelligence system requires **prerequisite cognitive capacities** (high metacognition, systems thinking) that make it an "elite capability" rather than a universally accessible transformation method. Determines if the model describes how transformation can work for anyone, or only how cognitively sophisticated people get more sophisticated.
 **The Core Question:**
@@ -99,7 +99,7 @@ Not claiming it's elite-only—acknowledging we genuinely don't know and current
 ---
 
 ## [RESEARCH GAP] Dialogical Knowing
-Domain: Phenomenology, Temporal: Static, Meta-Framework
+[Gap:Resolved] Domain: Phenomenology, Temporal: Static, Meta-Framework
 
 The tension between Bakhtin's requirement for conscious alterity and the non-conscious nature of AI
 **The Resolution Link:**
@@ -134,7 +134,7 @@ The resolution is further strengthened by the insight that the AI functions as a
 ---
 
 ## [RESEARCH GAP] Embodied Cognition
-Domain: Bio-Embodied, Temporal: Static, Meta-Framework
+[Gap:Resolved] Domain: Bio-Embodied, Temporal: Static, Meta-Framework
 
 The paradox of how disembodied text triggers a physical, embodied verification.
 **The Resolution Link:**
@@ -173,7 +173,7 @@ Therefore, the theoretical gap is **Resolved** because the sources provide the c
 ---
 
 ## [RESEARCH GAP] Neuroscience of Transformation
-Domain: Bio-Embodied, Temporal: Static, Meta-Framework
+[Gap:Hypothesized] Domain: Bio-Embodied, Temporal: Static, Meta-Framework
 
 The absence of empirical neuroimaging data validating the neurobiological mechanisms underlying Third Intelligence transformation. While comprehensive theoretical models map psychological processes to plausible neural substrates, no direct brain imaging evidence confirms these mappings.
 **The Gap:**
@@ -249,7 +249,7 @@ Gap was extensively **addressed theoretically** (creating testable framework) bu
 ---
 
 ## [RESEARCH GAP] Psychoanalytic Integration
-Domain: Psychoanalytic, Temporal: Static, Meta-Framework
+[Gap:Resolved] Domain: Psychoanalytic, Temporal: Static, Meta-Framework
 
 **The Problem:**
 How to integrate Winnicott, Bion, and Bollas into a unified, coherent system without forcing inappropriate alignments or violating the internal logic of each theorist's framework.
@@ -295,7 +295,7 @@ This resolution distinguishes the developmental architecture (enabling idiom art
 ---
 
 ## [RESEARCH GAP] The "Doing Both" Hypothesis
-Domain: Bio-Embodied, Temporal: Static, Meta-Framework
+[Gap:Hypothesized] Domain: Bio-Embodied, Temporal: Static, Meta-Framework
 
 The neurobiological hypothesis that Third Intelligence transformation requires **simultaneous activation** of two typically anti-correlated brain networks: FPN (executive processing) and DMN (self-referential simulation). This paradoxical dual-activation would explain the high metabolic cost and unique properties of AI-mediated transformation.
 **The Hypothesis:**

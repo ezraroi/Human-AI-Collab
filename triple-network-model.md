@@ -6,7 +6,7 @@ Tag:
     - 'Domain: Bio-Embodied'
     - 'Temporal: Static'
 Backlinks:
-    - executive-summary.md
+    - executive-summary_1.md
     - human.md
     - external-alpha-function.md
     - 2-the-alpha-function-as-the-triple-network-the.md

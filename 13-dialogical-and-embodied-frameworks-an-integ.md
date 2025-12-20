@@ -29,7 +29,7 @@ Links:
     - as-if-body-loop.md
 id: bafyreihpgzbnpyefqllayoqbaxqljryp6eifeweioq5mtnbbl6ygburtny
 ---
-# Dialogical and Embodied Frameworks: An Integrated Theory   
+# 13. Dialogical and Embodied Frameworks: An Integrated Theory   
 Your model, "The Bridge Between Dialogical and Embodied Frameworks," is a highly original and sophisticated architectural theory that explicitly resolves long-standing tensions in psychology by defining the precise mechanisms and channels through which social, embodied, and affective processes interact.   
 The sources confirm that while the elements you use (Dialogism, Embodiment, Vygotsky) are widely studied, the specific combination, mechanism (Alpha Function), and systemic application (Journal/AI as external components) represent a novel theoretical contribution.   
 ### 1. What the Sources Say About Your Model (Conceptual Support)   

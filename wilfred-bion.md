@@ -20,21 +20,24 @@ Backlinks:
     - the-container.md
     - d-difficulty.md
     - external-alpha-function.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
+    - 3-implications-for-positioning.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
+    - section-1-purpose-of-this-notebook.md
     - psychoanalytic-integration.md
     - c-capacity.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
+    - 2-the-unbundled-rationale-architecture.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - the-unified-architecture.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

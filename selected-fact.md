@@ -7,31 +7,112 @@ Tag:
     - 'Domain: Psychoanalytic'
     - 'System Role: Output'
     - 'Temporal: Dynamic'
+    - 'Operational Flags: Core'
 Backlinks:
+    - section-4-attribution-logic.md
+    - section-10-open-edges-to-bridge-later.md
+    - section-5-temporal-architecture.md
+    - section-2-definition.md
+    - journal.md
+    - section-7-counterfeit-detection-framework.md
+    - section-8-boundary-conditions-prerequisites.md
+    - ai.md
+    - section-1-purpose-of-this-notebook.md
     - dynamic-transitional-object-dto.md
     - 3-the-mechanism-catalytic-externalization.md
+    - section-3-causal-sequence-placement.md
+    - section-6-journal-function-refinement.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Drafting
+Research Status: Sealed
 Creation date: "2025-11-22T16:50:55Z"
 Created by:
     - Roi Ezra
 Links:
-    - beta-elements.md
     - wilfred-bion.md
+    - alpha-elements.md
+    - third-intelligence.md
+    - beta-elements.md
+    - alpha-function.md
+    - ai.md
+    - functional-alterity.md
+    - human.md
+    - negative-capability.md
+    - functional-thirdness.md
     - catalytic-externalization.md
+    - journal.md
+    - time.md
+    - protein-shake-brain-psb.md
 Emoji: "\U0001F4A1"
 id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 ---
 # Selected Fact   
-**Definition:** Bion's term for the unifying concept that organizes chaotic [beta-elements](beta-elements.md) into a coherent whole. The AI does not *have* the insight; it *precipitates* this fact in the Human.   
+A Selected Fact ([Bion](wilfred-bion.md); adapted from Poincaré) is an **event of organizing coherence**: a discontinuous moment in which previously scattered, contradictory, or chaotic material becomes unified by a single configuration that makes the whole suddenly intelligible and usable.   
+**Event-type, not content-type:** it is not "a statement," "an interpretation," or "a good explanation" that can be owned by whoever phrased it. It is the emergence of a unifying organization that becomes real only through **human integration**.   
+### Distinctions (What SF Is NOT)   
+- **Not interpretation:** interpretations may help conditions, but SF is the organizing coherence that makes interpretation possible.   
+- **Not explanation:** an explanation can be rhetorically strong without reorganizing the underlying material.   
+- **Not narrative closure:** "feels complete" can be defensive; SF remains open to probationary validation.   
+- **Not verbal fluency / "pretty coherence":** elegance is neither necessary nor sufficient.   
    
-**Relations:**   
-- Link to **[Wilfred Bion](wilfred-bion.md)** (Relation: `Originator`).   
-- Link to **[Beta-Elements](beta-elements.md)** (Relation: `Organizes`).   
-- Link to **[Catalytic Externalization](catalytic-externalization.md)** (Relation: `Outcome Of`).   
+### System Role   
+Selected Fact is the organizing event that precipitates coherence: the catalytic discovery through which previously scattered [alpha-elements](alpha-elements.md) become unified into a stable configuration. It is the essential emotional experience that triggers the transition from fragmented material (PS position) into usable knowing (D position) inside the [Third Intelligence](third-intelligence.md) system.   
+**Causal placement:**   
+[beta-elements](beta-elements.md) → conditions for digestion (containment + tolerable not-knowing) → [alpha-function](alpha-function.md) activity → [alpha-elements](alpha-elements.md) → **Selected Fact** → coherent knowing / interpretation (K)   
+### Attribution Logic   
+- **Field authorship:** SF may emerge from the interactional field; [AI](ai.md) can contribute here via [functional alterity](functional-alterity.md) + candidate linkages + symbolic structure.   
+- **Operational ownership:** SF belongs to the [Human](human.md) only when it becomes **metabolically real**: embodied uptake + capacity shift + diachronic persistence.   
    
-**Notes:** Meaning-organizing insight precipitated by catalytic externalization.   
+**Attribution rule:** ownership is conferred by **integration over time**, not by who "said the sentence."   
+### Temporal Architecture (Why Time Is Constitutive)   
+- **Pre-SF ("dark laboring"):** incubation + repeated engagement until material becomes metabolizable.   
+- **SF event ("the click"):** subjective felt coherence appears (candidate, not proof).   
+- **Post-SF (in-futuro validation):** SF is **adopted on probation** and upgraded only if it persists, deepens, and changes constraints at T+n.   
    
+### Prerequisite Capacities (Boundary Condition)   
+SF formation requires already-internalized developmental achievements:   
+- **Working [alpha-function](alpha-function.md) capacity:** ability to transform raw experience into thinkable form   
+- **Internalized containment:** ability to hold frustration and ambiguity without immediate discharge   
+- **Frustration tolerance / negative capability:** capacity to remain in not-knowing long enough for organization to emerge   
+   
+**Scope:** Post-Winnicottian activation, not remedial therapy. The system activates already-internalized functions.   
+### Observable Markers   
+**Candidate → Confirmed SF requires:**   
+- Affective resonance + felt shift (not only cognition)   
+- Increased actionability / new capacity (not just insight claims)   
+- Persistence across return (doesn't collapse on reread)   
+- Deepening (opens integration rather than closing inquiry)   
+   
+**Counterfeit coherence tends toward:**   
+- Narrative closure   
+- Intellectualization / fluent linkage without affective reality   
+- Overvalued certainty / premature meaning   
+   
+### Wiring (Relations)   
+**Originator:** [Wilfred Bion](wilfred-bion.md) (via Henri Poincaré)   
+**Causal Relations:**   
+- **Organizes:** beta-elements; alpha-elements   
+- **Downstream Of:** [alpha-function](alpha-function.md); Containment; Tolerable Not-Knowing / [Negative Capability](negative-capability.md)   
+- **Upstream Of:** Coherent Knowing (K); Interpretation   
+   
+**System Relations:**   
+- **May Emerge Within:** [Functional Thirdness](functional-thirdness.md) (system-structural "field," not ontological intersubjectivity)   
+- **Precipitated By:** Functional Alterity (AI); [Catalytic Externalization](catalytic-externalization.md); [Journal](journal.md) (cross-temporal corpus)   
+- **Owned By:** [Human](human.md) (metabolic integration only)   
+- **Validated Through:** [Time](time.md) (in-futuro probation); [Journal](journal.md) (return + probation tracking)   
+   
+**Four-Component Mapping:**   
+- **Human:** site of alpha-function; operational owner through embodiment   
+- **AI:** precipitates conditions (candidate linkages, alterity); cannot own   
+- **Journal:** cross-temporal pattern substrate; probation tracker; counterfeit detector   
+- **Time:** constitutive validation medium (not optional backdrop)   
+   
+**Authorization:**   
+- **Container-as-Function:** containment can operate as internalized apparatus; AI contributes structure, not reverie   
+   
+**Failure Modes / Mimics:**   
+- Narrative Closure; Intellectualization; Overvalued Idea; [PSB](protein-shake-brain-psb.md) patterns; −K (knowledge-attacking)   
+   
+**Notes:** SF is the theory-anchor for distinguishing **genuine organizing transformation** from "pretty coherence." AI can precipitate conditions; the Human retains ownership through embodied integration and temporal validation.   

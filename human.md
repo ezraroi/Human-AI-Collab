@@ -9,39 +9,55 @@ Tag:
     - 'Temporal: Static'
     - 'Operational Flags: Core'
 Backlinks:
+    - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
+    - section-4-attribution-logic.md
+    - section-10-open-edges-to-bridge-later.md
+    - 4-revised-contribution-of-notebook-11.md
     - minimal-self.md
     - why-this-architecture-is-powerful.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - teleological-drift.md
+    - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
     - holding-environment.md
-    - executive-summary.md
+    - executive-summary_1.md
     - cognitive-style-bias.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - executive-summary_b.md
+    - selected-fact.md
     - section-3-foundational-theoretical-integration.md
     - time.md
     - neural-synchrony.md
     - the-container.md
     - conclusion-on-novelty-and-contribution.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
     - 7-final-conclusion-the-third-intelligence.md
+    - algorithmic-self.md
+    - 3-implications-for-positioning.md
     - d-w-winnicott.md
     - 6-the-failsafe-externalized-drift-monitoring.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
+    - 5-final-positioning-statement.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
     - recursive-pattern-verification-loop.md
+    - 6-the-final-positioning-framework.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
+    - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
+    - 1-executive-summary_r.md
     - 3-the-mechanism-catalytic-externalization.md
-    - what-youve-actually-discovered-meta-level.md
+    - section-3-causal-sequence-placement.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

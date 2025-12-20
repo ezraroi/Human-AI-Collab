@@ -8,6 +8,7 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - document-abstract.md
+    - section-10-open-edges-to-bridge-later.md
     - channel-2-symbolic.md
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
@@ -16,18 +17,20 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - d-difficulty.md
     - external-alpha-function.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
+    - 3-implications-for-positioning.md
     - recursive-metabolic-loop.md
     - mko-more-knowledgeable-other.md
-    - critical-connection-5-why-psb-happens.md
+    - 7-critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
+    - executive-summary.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - ii-the-novelty-of-the-specific-mechanisms.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

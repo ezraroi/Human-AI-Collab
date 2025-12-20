@@ -12,11 +12,11 @@ Backlinks:
     - john-flavell.md
     - section-1-introduction-and-framework-positioning.md
     - conclusion-on-novelty-and-contribution.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
-    - critical-connection-5-why-psb-happens.md
+    - 7-critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
 Origin Domain:

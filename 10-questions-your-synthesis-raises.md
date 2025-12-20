@@ -18,7 +18,7 @@ Links:
     - third-intelligence.md
 id: bafyreibn3vvphxxyxk4q4skklwipuapi3fq7hdpbudtcjkorlle7o32rqu
 ---
-# QUESTIONS YOUR SYNTHESIS RAISES   
+# 10. QUESTIONS YOUR SYNTHESIS RAISES   
 ### Question 1: Is the "[As-If Body Loop](as-if-body-loop.md)" the Mechanism Linking Channels?   
 From NoteBook 2: The brain can simulate body states without waiting for actual body response. Prefrontal cortex and amygdala can instruct somatosensory cortex to organize into the pattern it would have if body were in that state.   
 For your model: Is this how [Channel 2](channel-2-symbolic.md) (symbolic) input recruits [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied sensorimotor/interoceptive)   

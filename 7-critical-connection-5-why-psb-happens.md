@@ -19,7 +19,7 @@ Links:
     - alpha-function.md
 id: bafyreiffltozrj5jdurh2xnn3dvnkwejo573rbtcb53f7rdr7bmtcuoasi
 ---
-# CRITICAL CONNECTION #5: Why PSB Happens   
+# 7. CRITICAL CONNECTION #5: Why PSB Happens   
 ### NoteBook 1: The [Category Error](category-error.md)   
 - Treating AI as [Vygotskian](lev-vygotsky.md) Subject instead of [Piagetian](e.md) Object   
 - AI provides permanent scaffolding instead of temporary   

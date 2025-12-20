@@ -10,20 +10,24 @@ Tag:
 Backlinks:
     - document-abstract.md
     - reverie.md
+    - section-5-temporal-architecture.md
     - beta-elements.md
     - edmund-husserl.md
+    - section-2-definition.md
     - journal.md
     - conflict-detection-model-repair.md
     - holding-environment.md
     - self-explanation.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
+    - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
-    - the-hidden-implications-youve-discovered.md
+    - 9-the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
+    - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - the-integrated-circuit-board.md
     - alpha-function.md
@@ -31,14 +35,16 @@ Backlinks:
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm_m.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - integrated-synthesis-of-psychological-developm.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - critical-connection-1-the-two-channel-model-of.md
+    - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
+    - section-3-causal-sequence-placement.md
+    - section-6-journal-function-refinement.md
     - ii-the-novelty-of-the-specific-mechanisms.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

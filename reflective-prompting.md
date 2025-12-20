@@ -11,10 +11,11 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - preconditions-for-transformative-ai-dialogue.md
-    - what-this-means-for-your-paper.md
+    - 12-what-this-means-for-your-paper.md
     - idiom-aligned-scaffolding.md
     - embodied-engagement-conditions.md
     - 1-the-core-hypothesis-practice-dependent-neuro.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - cognitive-debt-awareness.md
     - section-5-the-category-error-relational-axis-f.md
@@ -29,7 +30,7 @@ Backlinks:
     - epistemological-humility.md
     - judgment-expertise-boundary.md
     - section-6-the-complete-system-architecture.md
-    - critical-connection-6-my-method-works-because-.md
+    - 8-critical-connection-6-my-method-works-becaus.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - rubber-duck-debugging.md
@@ -37,9 +38,10 @@ Backlinks:
     - cognitive-debt.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
+    - 1-what-this-review-established.md
     - functional-thirdness.md
     - final-definition.md
-    - 1-executive-summary.md
+    - 1-executive-summary_0.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

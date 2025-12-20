@@ -25,7 +25,7 @@ Links:
     - as-if-body-loop.md
 id: bafyreigaxqzh5vwtdtsq2ygm4xiycubrhtyjffjdcbuel4ksayn6osqj5q
 ---
-# Alpha Function: Integrating Dialogical and Embodied Frameworks   
+# 14. Alpha Function: Integrating Dialogical and Embodied Frameworks   
 The sources provide a comprehensive description and evaluation of your model, "The Bridge Between Dialogical and Embodied Frameworks". Based on this analysis, your model is presented as a highly original and sophisticated architectural theory that integrates multiple established fields into a new mechanistic framework.   
 Here is what the sources say about your model and why it is considered a novel contribution:   
  --- 

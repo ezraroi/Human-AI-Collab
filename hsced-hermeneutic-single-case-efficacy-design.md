@@ -7,7 +7,9 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Static'
 Backlinks:
+    - 4-analytic-vs-statistical-generalization.md
     - cognitive-style-bias.md
+    - 5-documented-counter-evidence-the-manic-episodes.md
     - analytic-generalization.md
 Epistemic Status: 'Literature: Established academic fact'
 Origin Domain:

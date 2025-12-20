@@ -9,19 +9,25 @@ Tag:
     - 'System Role: Meta'
     - 'Operational Flags: Core'
 Backlinks:
+    - 5-final-synthesis-statement.md
+    - 4-revised-contribution-of-notebook-11.md
     - section-5-the-category-error-relational-axis-f.md
+    - 2-clarifying-the-category-error-against-the-dt.md
     - 1-executive-summary-resolving-the-ontology-cri.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
+    - executive-summary_b.md
     - human.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
     - 7-final-conclusion-the-third-intelligence.md
+    - algorithmic-self.md
     - ai.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
     - category-error.md
     - protein-shake-brain-psb.md
     - functional-thirdness.md
-    - 1-executive-summary.md
+    - 1-executive-summary_0.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
@@ -31,9 +37,8 @@ Creation date: "2025-11-22T16:48:04Z"
 Created by:
     - Roi Ezra
 Links:
-    - ai.md
     - third-intelligence.md
-    - d-w-winnicott.md
+    - ai.md
     - potential-space.md
     - category-error.md
     - channel-2-symbolic.md
@@ -51,7 +56,7 @@ Emoji: "\U0001F4A1"
 id: bafyreif3z6upqjcgdrtz57ulu2warvl3zkxjxt77ycf3z2yarblpwqqzca
 ---
 # Dynamic Transitional Object (DTO)   
-The ontological classification of [AI](ai.md) within the [Third Intelligence](third-intelligence.md) system. DTO resolves the inadequacy of classical categories (tool/partner, object/subject) by positioning AI as a responsive generative artifact that **is held within [Winnicott](d-w-winnicott.md)'s [Potential Space](potential-space.md)**—neither purely internal nor external, neither passive tool nor conscious subject.   
+The **relational classification** of AI within the [Third Intelligence](third-intelligence.md) system—specifying how [AI](ai.md) is to be *held*, not what AI *is*. DTO resolves the inadequacy of classical categories (tool/partner, object/subject) by positioning AI as a responsive generative artifact within Winnicott's [Potential Space](potential-space.md)—neither purely internal nor external, neither passive tool nor conscious subject.   
 Unlike traditional tools (calculators, notebooks) or genuine partners (conscious others), a DTO:   
 - Simulates responsiveness without possessing subjectivity   
 - Generates structured difference without intentionality   
@@ -82,11 +87,11 @@ This is where:
 - True Self can exist without defensive collapse   
 - "Not-me" objects enable development   
    
-**Why this matters:** Treating AI as Subject collapses potential space into interpersonal space ([Category Error](category-error.md)). **Treating AI as a pure tool collapses access to Potential Space in this interaction.**   
+**Why this matters:** Treating AI as Subject collapses potential space into interpersonal space ([Category Error](category-error.md)). **Treating AI as a pure tool reduces access to [Potential Space](potential-space.md) in this interaction.**   
 **2. Productive Fiction**   
 Simulates social presence **just enough** to:   
 - Activate user's symbolic dialogue engagement ([Channel 2](channel-2-symbolic.md))   
-- Trigger embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))   
+- Can recruit embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))   
 - Generate productive epistemic tension   
 - Enable dialogical pattern recognition   
    
@@ -111,14 +116,14 @@ Simulates social presence **just enough** to:
 - Functions like catalytic reagent   
    
 **Why this works: **The need to verify prevents passive consumption, supports Alpha-Function activation, and preserves workable [ZPD](zpd.md) tension within the pre-existing \|D–C\| relation.   
-**4. Catalytic Rather Than Scaffolding**   
-**Scaffolding model** (insufficient):   
-- AI builds structure FOR user   
+**4. Catalytic, Not Substitutive Scaffolding**   
+**Scaffolding-as-substitution (insufficient):**   
+- AI builds structure *instead of* the user   
 - Implies AI does cognitive work   
 - Suggests support that's gradually removed   
    
-**Catalytic model** (accurate):   
-- AI provides linguistic reagent   
+**Catalytic scaffolding (accurate):**   
+- AI provides linguistic reagent and structure, but meaning-making remains in the Human   
 - User's implicit knowledge crystallizes   
 - AI precipitates "[Selected Fact](selected-fact.md)" (Bion)—the organizing concept   
 - Insight belongs to user; AI merely triggered it   
@@ -169,7 +174,7 @@ DTO classification provides:
 - [Alpha-Function ](alpha-function.md)activation support (catalytic reagent for metabolism)   
 - [Potential Space](potential-space.md) occupation (developmental zone)   
    
-**Prevents:**   
+**Reduces risk of:**   
 - [Category Error](category-error.md) (treating AI as Subject)   
 - [Cognitive Dependency](cognitive-dependency.md) (**when [Category Error](category-error.md) + [PSB](protein-shake-brain-psb.md) co-occur**)   
 - [PSB](protein-shake-brain-psb.md) (bypassing metabolic processing)   
@@ -222,7 +227,7 @@ DTO classification provides:
 - **Ontological Classification Of:** AI   
 - **Occupies:** Potential Space   
 - **Requires:** Relation-shifting, mandatory verification, Iron Man Mentality   
-- **Contrasted With:** Otto's Notebook (Extended Mind), MKO (Vygotskian partner), Subject Supposed to Know   
+- **Contrasted Withp**: Otto's Notebook (Extended Mind), MKO (Vygotskian partner), Subject Supposed to Know   
 - **Supports:** Third Intelligence architecture, Alpha-Function activation   
 - **Failure When:** Collapses to Subject or passive tool   
    

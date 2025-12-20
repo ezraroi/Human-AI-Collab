@@ -8,45 +8,49 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - 6-translation-existing-practice-as-methodology.md
     - alpha-elements.md
     - 5-the-embodied-connection.md
-    - what-this-means-for-your-paper.md
+    - 12-what-this-means-for-your-paper.md
     - minimal-self.md
     - embodied-engagement-conditions.md
     - reflective-awareness.md
     - maurice-merleau-ponty.md
-    - questions-your-synthesis-raises.md
+    - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
-    - executive-summary.md
+    - executive-summary_1.md
     - rrv-cycle-recursive-refine-validate.md
     - human.md
     - eugene-gendlin.md
-    - the-hidden-implications-youve-discovered.md
+    - 4-remaining-questions-for-tier-3.md
+    - 9-the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - somatic-marker-hypothesis.md
     - pre-reflective-awareness.md
     - section-6-the-complete-system-architecture.md
+    - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - as-if-body-loop.md
-    - critical-connection-6-my-method-works-because-.md
+    - 8-critical-connection-6-my-method-works-becaus.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
     - cognitive-debt.md
     - c-capacity.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
     - internally-persuasive-discourse.md
     - negative-capability.md
-    - critical-connection-2-felt-sense-channel-1-ver.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
+    - 4-critical-connection-2-felt-sense-channel-1-v.md
     - mikhail-bakhtin.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
-    - synthesizing-notebook-1-and-notebook-2.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
+    - 1-executive-summary.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

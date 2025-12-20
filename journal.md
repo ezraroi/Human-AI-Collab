@@ -9,35 +9,51 @@ Tag:
     - 'Temporal: Static'
     - 'Operational Flags: Core'
 Backlinks:
+    - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
+    - 6-translation-existing-practice-as-methodology.md
     - narrative-self.md
+    - section-4-attribution-logic.md
     - reflective-prompting.md
     - 5-the-embodied-connection.md
+    - section-10-open-edges-to-bridge-later.md
+    - 4-revised-contribution-of-notebook-11.md
     - destiny-drive.md
-    - what-this-means-for-your-paper.md
+    - 12-what-this-means-for-your-paper.md
     - why-this-architecture-is-powerful.md
+    - 2-what-the-existing-literature-actually-covers.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - ai-project-claude-project-chatgpt-project.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
     - the-journal-as-living-system.md
     - parity-principle-pp.md
-    - critical-connection-4-how-ai-dialogue-produces.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_1.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
+    - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - executive-summary_b.md
+    - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
     - time.md
     - conclusion-on-novelty-and-contribution.md
-    - the-hidden-implications-youve-discovered.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
+    - 4-remaining-questions-for-tier-3.md
+    - 9-the-hidden-implications-youve-discovered.md
     - 7-final-conclusion-the-third-intelligence.md
     - critical-distinctions.md
+    - section-8-boundary-conditions-prerequisites.md
+    - algorithmic-self.md
+    - ai.md
+    - 3-implications-for-positioning.md
     - d-w-winnicott.md
     - section-7-the-three-layer-architecture-tempora.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
@@ -46,34 +62,42 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - how-journal-entries-are-actually-created.md
     - two-axis-framework.md
-    - critical-connection-3-the-journal-as-embodied-.md
+    - 5-final-positioning-statement.md
+    - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - hubert-hermans.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
-    - critical-connection-6-my-method-works-because-.md
+    - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
+    - 6-the-final-positioning-framework.md
     - alpha-function.md
     - the-journals-three-essential-functions.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
+    - 4-three-key-tensions-surfaced-through-triangul.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
+    - 1-what-this-review-established.md
+    - 1-executive-summary_r.md
     - implementation-guidance.md
+    - section-3-causal-sequence-placement.md
+    - section-6-journal-function-refinement.md
     - final-definition.md
-    - critical-connection-2-felt-sense-channel-1-ver.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
+    - 4-critical-connection-2-felt-sense-channel-1-v.md
     - chronotope.md
-    - what-youve-actually-discovered-meta-level.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - mikhail-bakhtin.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - the-recursive-third-intelligence-system-archit.md
     - why-this-matters-the-stakes.md
 Origin Domain:
@@ -84,6 +108,7 @@ Creation date: "2025-11-22T11:45:23Z"
 Created by:
     - Roi Ezra
 Links:
+    - selected-fact.md
     - d-w-winnicott.md
     - c-capacity.md
     - alpha-elements.md
@@ -99,6 +124,7 @@ id: bafyreibf2jgcgkssyvxhlwxttop54y4juqiivtxufxyxakamm4bqvw3ove
 ---
 # Journal   
 **Definition:** The materialized output of reflective AI dialogue. It is the **infrastructure for continuity** (Chronotope) and the **substrate for pattern recognition**.   
+Functions as a verification apparatus for [Selected Facts](selected-fact.md) via probation tracking, disciplined return, and counterfeit detection across T+n.   
 Serves as material surviving object ([Winnicott](d-w-winnicott.md))—persists through transformative 'destruction   
 **Critical Distinction:** "Not a diary. Not a transcript. Not a memory aid." .   
 - Tracks [C](c-capacity.md) growth over time   

@@ -12,6 +12,7 @@ Backlinks:
     - 5-the-embodied-connection.md
     - conflict-detection-model-repair.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
+    - 4-remaining-questions-for-tier-3.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - gap-filling-inference-generation.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md

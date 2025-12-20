@@ -15,7 +15,7 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
 id: bafyreiezo3lva6stpal6ml2chiv6oaulhu6akeorekwjki2meusqonkxke
 ---
-# Is Your Model Suggesting Something New?   
+# 15. Is Your Model Suggesting Something New?   
 Yes, the sources strongly suggest that the synthesis presented in "The Bridge Between Dialogical and Embodied Frameworks" represents a novel theoretical contribution by providing a specific, interwoven architecture that integrates psychoanalytic processing with cognitive and dialogical theory.   
 The synthesis addresses what the model source refers to as "The Missing Piece in Cognitive Science," moving past the standard view of either embodiment OR symbolic cognition to require recursive coupling between Channel 2 symbolic material and Channel 1 embodied verification.   
 ### Three Primary Novel Contributions Identified:   

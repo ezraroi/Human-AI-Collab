@@ -18,7 +18,7 @@ Links:
     - recursive-metabolic-loop.md
 id: bafyreifd6755px3jaikist5djqdxxzkb6lp5utf5vw3ymxovl3nje2xbzy
 ---
-# CRITICAL CONNECTION #6: My Method Works Because It Engages Both Channels   
+# 8. CRITICAL CONNECTION #6: My Method Works Because It Engages Both Channels   
 ### My [Reflective Prompting ](reflective-prompting.md)Method   
 1. Start with YOUR felt sense ([Channel 1](channel-1-embodied-sensorimotor-pathway.md) active)   
 2. Articulate it as prompt ([Channel 2](channel-2-symbolic.md) active)   

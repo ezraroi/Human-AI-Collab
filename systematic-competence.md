@@ -9,7 +9,11 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - section-4-attribution-logic.md
+    - section-9-container-as-function-authorization.md
+    - the-container.md
     - ai.md
+    - third-intelligence.md
     - functional-thirdness.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

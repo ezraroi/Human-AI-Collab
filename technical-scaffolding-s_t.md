@@ -8,26 +8,36 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - section-4-attribution-logic.md
     - reflective-prompting.md
+    - section-10-open-edges-to-bridge-later.md
     - lev-vygotsky.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
     - catalytic-externalization.md
     - channel-2-symbolic.md
+    - section-7-counterfeit-detection-framework.md
     - human.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
+    - the-container.md
     - ai.md
+    - 3-implications-for-positioning.md
     - section-10-the-grand-unification.md
     - p-alpha-probability-of-growth.md
     - section-7-the-three-layer-architecture-tempora.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
+    - third-intelligence.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - section-3-causal-sequence-placement.md
+    - section-6-journal-function-refinement.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md

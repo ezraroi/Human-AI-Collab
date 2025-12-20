@@ -9,27 +9,27 @@ Backlinks:
     - embodied-simulation.md
     - embodied-engagement-conditions.md
     - journal.md
-    - questions-your-synthesis-raises.md
+    - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - critical-connection-4-how-ai-dialogue-produces.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - neural-synchrony.md
     - conclusion-on-novelty-and-contribution.md
     - external-alpha-function.md
     - somatic-marker-hypothesis.md
     - recursive-metabolic-loop.md
-    - is-your-model-suggesting-something-new.md
+    - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - antonio-damasio.md
     - embodied-cognition.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Neurobiology & Neuroscience
     - Cognitive Science & Embodied Cognition

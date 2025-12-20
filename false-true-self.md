@@ -11,6 +11,7 @@ Tag:
 Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - introduction-the-core-problem-and-the-role-of-ai.md
+    - algorithmic-self.md
     - transmissive-self.md
     - epistemological-humility.md
     - cognitive-dependency.md

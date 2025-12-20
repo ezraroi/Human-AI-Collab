@@ -7,6 +7,10 @@ Tag:
     - 'Domain: Methodology'
     - 'System Role: Method'
     - 'Temporal: Static'
+Backlinks:
+    - 4-analytic-vs-statistical-generalization.md
+    - 3-the-mechanism-vs-existence-distinction.md
+    - 7-the-three-legged-stool-of-defense.md
 Origin Domain:
     - Qualitative Research Methodology
 Epistemic Status: 'Literature: Established academic fact'

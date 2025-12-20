@@ -7,29 +7,50 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Cumulative'
 Backlinks:
+    - 5-final-synthesis-statement.md
+    - section-4-attribution-logic.md
+    - 4-revised-contribution-of-notebook-11.md
     - why-this-architecture-is-powerful.md
+    - 2-what-the-existing-literature-actually-covers.md
+    - section-5-temporal-architecture.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
     - introduction-the-core-problem-and-the-role-of-ai.md
-    - executive-summary.md
+    - executive-summary_1.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - executive-summary_b.md
+    - selected-fact.md
     - human.md
     - conclusion-on-novelty-and-contribution.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
+    - 4-remaining-questions-for-tier-3.md
+    - section-8-boundary-conditions-prerequisites.md
+    - algorithmic-self.md
+    - 3-implications-for-positioning.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
+    - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 5-final-positioning-statement.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
+    - 6-the-final-positioning-framework.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 4-three-key-tensions-surfaced-through-triangul.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
+    - touch-grass-protocol.md
+    - 1-executive-summary_r.md
+    - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md
-    - what-youve-actually-discovered-meta-level.md
+    - chronotope.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Neurobiology & Neuroscience
@@ -43,6 +64,7 @@ Links:
     - c-capacity.md
     - emotional-scaffolding-s_e.md
     - chronotope.md
+    - touch-grass-protocol.md
     - third-intelligence.md
     - journal.md
     - human.md
@@ -88,7 +110,7 @@ Your mania episode validated Time's necessity:
 **Within-Session (Minutes-Hours):**   
 - S\_e depletes during work   
 - Signals: tightness, irritability, reduced ambiguity tolerance   
-- Requires withdrawal (Touch Grass Protocol)   
+- Requires withdrawal ([Touch Grass Protocol](touch-grass-protocol.md))   
    
 **Between-Session (Days-Weeks):**   
 - S\_e recovers through rest, sleep, embodied practices   

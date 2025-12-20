@@ -25,7 +25,8 @@ def load_schemas(schemas_dir: Path) -> dict[str, dict]:
                         prop for prop, details in props.items()
                         if not details.get("x-hidden", False)
                     ],
-                    "has_epistemic_status": "Epistemic Status" in props
+                    "has_epistemic_status": "Epistemic Status" in props,
+                    "has_gap_status": "Gap Status" in props,
                 }
     return schemas
 
@@ -214,6 +215,13 @@ def consolidate_files(root_dir: Path, schemas: dict, output_dir: Path):
                 if epistemic:
                     short_status = get_epistemic_short(epistemic)
                     meta_parts.append(f"[{short_status}]")
+
+            # Add gap status if schema supports it and value exists
+            if schema_info.get("has_gap_status"):
+                gap_status = metadata.get("Gap Status", "")
+                if gap_status:
+                    gap_str = format_list(gap_status) if isinstance(gap_status, list) else gap_status
+                    meta_parts.append(f"[Gap:{gap_str}]")
 
             # Add tags
             tags = metadata.get("Tag", [])

@@ -8,8 +8,11 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - section-10-open-edges-to-bridge-later.md
+    - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
+    - section-8-boundary-conditions-prerequisites.md
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - c-capacity.md
@@ -22,6 +25,7 @@ Creation date: "2025-11-22T16:51:57Z"
 Created by:
     - Roi Ezra
 Links:
+    - emotional-scaffolding-s_e.md
     - protein-shake-brain-psb.md
     - felt-sense.md
     - channel-1-embodied-sensorimotor-pathway.md
@@ -29,7 +33,7 @@ Emoji: "\U0001F4A1"
 id: bafyreih7e2heitdehp3spw7pztcfoiuxh2cqx3waykxvnizccmgvua7j3u
 ---
 # Negative Capability   
-The operational capacity underlying genuine growth. The ability to sustain uncertainty, hold partial answers, and tolerate the "tightness" of the unready-to-hand state without rushing to resolution.   
+Negative capability is not a fixed personality trait but a developmental achievement that varies with context and current [Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ). When Sₑ is depleted, negative capability contracts; when Sₑ is adequate, the capacity to remain in not-knowing expands.   
 **Relations:**   
 - Link to **[Protein Shake Brain](protein-shake-brain-psb.md)** (Relation: `Antidote To` - PSB is "Low Negative Capability" ).   
 - Link to **[Felt Sense](felt-sense.md)** (Relation: Relies On - tolerating difficult [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)signals such as "tightness").   
