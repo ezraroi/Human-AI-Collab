@@ -11,16 +11,21 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - narrative-self.md
     - alpha-elements.md
+    - section-4-attribution-logic.md
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - document-abstract.md
     - reverie.md
     - 5-the-embodied-connection.md
+    - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
-    - what-this-means-for-your-paper.md
+    - 12-what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
+    - 2-what-the-existing-literature-actually-covers.md
     - triple-network-model.md
+    - section-5-temporal-architecture.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - beta-elements.md
     - section-5-the-category-error-relational-axis-f.md
@@ -30,9 +35,9 @@ Backlinks:
     - journal.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
-    - critical-connection-4-how-ai-dialogue-produces.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
-    - executive-summary.md
+    - executive-summary_1.md
     - self-explanation.md
     - identity-stakes.md
     - channel-2-symbolic.md
@@ -41,6 +46,7 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
     - rrv-cycle-recursive-refine-validate.md
+    - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
     - eugene-gendlin.md
@@ -48,11 +54,13 @@ Backlinks:
     - section-2-the-core-formula-and-components.md
     - the-container.md
     - conclusion-on-novelty-and-contribution.md
-    - the-hidden-implications-youve-discovered.md
+    - 9-the-hidden-implications-youve-discovered.md
     - 7-final-conclusion-the-third-intelligence.md
+    - section-8-boundary-conditions-prerequisites.md
     - external-alpha-function.md
+    - algorithmic-self.md
     - cognitive-offloading.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - ai.md
     - challenge-gap-d-c.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
@@ -61,20 +69,22 @@ Backlinks:
     - gap-filling-inference-generation.md
     - transmissive-self.md
     - true-self.md
+    - 7-the-three-legged-stool-of-defense.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - cognitive-dependency.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - is-your-model-suggesting-something-new.md
+    - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
-    - critical-connection-3-the-journal-as-embodied-.md
+    - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
-    - critical-connection-6-my-method-works-because-.md
+    - 8-critical-connection-6-my-method-works-becaus.md
+    - third-intelligence.md
     - the-doing-both-hypothesis.md
-    - critical-connection-5-why-psb-happens.md
+    - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - felt-sense.md
     - technical-scaffolding-s_t.md
@@ -82,29 +92,33 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
+    - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
+    - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - 1-executive-summary_r.md
     - section-13-significance-and-forward-direction.md
-    - critical-connection-1-the-two-channel-model-of.md
+    - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
+    - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md
-    - critical-connection-2-felt-sense-channel-1-ver.md
+    - 4-critical-connection-2-felt-sense-channel-1-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
-    - what-youve-actually-discovered-meta-level.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - wilfred-bion.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - synthesizing-notebook-1-and-notebook-2.md
+    - 1-executive-summary.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
@@ -128,6 +142,7 @@ Links:
     - c-capacity.md
     - channel-2-symbolic.md
     - emotional-scaffolding-s_e.md
+    - touch-grass-protocol.md
     - the-integrated-circuit-board.md
     - category-error.md
     - recursive-metabolic-loop.md
@@ -175,7 +190,7 @@ These phenomenological markers are the easiest way to detect Alpha engagement in
 Alpha-Function draws heavily on Sₑ — the system’s emotional capacity to tolerate frustration, uncertainty, and disruption.   
 - **High Sₑ:** Alpha can hold tension long enough to metabolize [beta-elements](beta-elements.md).   
 - **Low Sₑ:** Alpha collapses into avoidance, symbolic bypass, or manic acceleration.   
-- **Sₑ depletion:** requires recovery periods (Touch Grass Protocol) to restore metabolic capacity.   
+- **Sₑ depletion:** requires recovery periods ([Touch Grass Protocol](touch-grass-protocol.md)) to restore metabolic capacity.   
    
 Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material.   
 **Wiring (Relations)**   

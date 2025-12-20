@@ -19,7 +19,7 @@ Links:
     - felt-sense.md
 id: bafyreidu7lmikihbho6avk2mn7omlqsmxiseqoqjve3x6hlefwpyuvde7q
 ---
-# THE CORE PARALLEL: TWO DESCRIPTIONS OF ONE PROCESS   
+# 2. THE CORE PARALLEL: TWO DESCRIPTIONS OF ONE PROCESS   
 ### NoteBook 1 Framework (Psychological)   
 [Beta Elements](beta-elements.md) → [Alpha Function](alpha-function.md) → [Alpha Elements](alpha-elements.md)   
 - Beta elements: Raw, unprocessed experience ([Bion](wilfred-bion.md))   

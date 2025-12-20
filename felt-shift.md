@@ -10,10 +10,10 @@ Tag:
 Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - internally-persuasive-discourse.md
     - mikhail-bakhtin.md
-    - synthesizing-notebook-1-and-notebook-2.md
+    - 1-executive-summary.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

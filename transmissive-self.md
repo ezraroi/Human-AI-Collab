@@ -11,6 +11,7 @@ Tag:
 Backlinks:
     - idiom-aligned-scaffolding.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - algorithmic-self.md
     - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md

@@ -14,9 +14,8 @@ Backlinks:
     - section-11-the-dialogical-illusion-as-producti.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
-    - chronotope.md
     - ii-the-novelty-of-the-specific-mechanisms.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
     - Philosophy of Technology & Phenomenology

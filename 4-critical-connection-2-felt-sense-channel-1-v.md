@@ -16,7 +16,7 @@ Links:
     - protein-shake-brain-psb.md
 id: bafyreiheycz3a23l3djbgyja6at6l7opyxzip6toh44r2i6fehrvrg6wvi
 ---
-# CRITICAL CONNECTION #2: "Felt Sense" = Channel 1 Verification Signal   
+# 4. CRITICAL CONNECTION #2: "Felt Sense" = Channel 1 Verification Signal   
 ### [Gendlin's](eugene-gendlin.md) [Felt Sense](felt-sense.md) (from NoteBook 2)   
 - Pre-verbal bodily awareness   
 - "Something" you know before you can articulate it   

@@ -17,10 +17,10 @@ Backlinks:
     - external-alpha-function.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - critical-connection-6-my-method-works-because-.md
+    - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
     - alpha-function.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - wilfred-bion.md

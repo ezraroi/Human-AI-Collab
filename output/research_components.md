@@ -21,6 +21,8 @@ The third component of the Human + Journal + AI + Time tetrad. AI is a Large Lan
 - Conceptual modeling and examples
 - Procedural frameworks
 - Information synthesis
+- Candidate linkages (provisional connections that may precipitate Selected Fact conditions, without undergoing SF)
+- Cross-document linkage and candidate organizing frames (when Journal corpus is available in context)
 - **Modulable in real-time:** "explain like I'm 5" ↔ "technical depth"
 
 **2. **ZPD tension preservation within the pre-existing Challenge Gap (\|D–C\|):
@@ -678,6 +680,7 @@ The paradox: Human is simultaneously the **weakest component** (finite, depletab
 [Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
 
 **Definition:** The materialized output of reflective AI dialogue. It is the **infrastructure for continuity** (Chronotope) and the **substrate for pattern recognition**.
+Functions as a verification apparatus for Selected Facts via probation tracking, disciplined return, and counterfeit detection across T+n.
 Serves as material surviving object (Winnicott)—persists through transformative 'destruction
 **Critical Distinction:** "Not a diary. Not a transcript. Not a memory aid." .
 - Tracks C growth over time

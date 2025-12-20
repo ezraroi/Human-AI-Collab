@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Static'
 Backlinks:
+    - 1-what-notebook-11-actually-adds-to-the-model.md
     - 7-final-conclusion-the-third-intelligence.md
     - dynamic-transitional-object-dto.md
     - functional-thirdness.md

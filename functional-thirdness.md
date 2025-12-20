@@ -8,7 +8,11 @@ Tag:
     - 'System Role: Meta'
     - 'Temporal: Static'
 Backlinks:
+    - section-4-attribution-logic.md
+    - selected-fact.md
+    - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
+    - third-intelligence.md
     - functional-alterity.md
 Origin Domain:
     - Psychoanalysis

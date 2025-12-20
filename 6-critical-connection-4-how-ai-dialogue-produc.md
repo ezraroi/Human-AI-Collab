@@ -16,7 +16,7 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
 id: bafyreibp4x2y6lql7o3hrtahekyf36nxkj6llhgbx24vkzxxaal2q67pru
 ---
-# CRITICAL CONNECTION #4: How AI Dialogue Produces Embodied Response   
+# 6. CRITICAL CONNECTION #4: How AI Dialogue Produces Embodied Response   
 ### The Paradox I Am Investigating   
 NoteBook 2's Core Question:   
 "How does dialogue with a disembodied AI produce deeply embodied, somatic validation of truth (the 'felt sense')? What is the mechanism by which digital text interaction generates physical knowing in the body?"   

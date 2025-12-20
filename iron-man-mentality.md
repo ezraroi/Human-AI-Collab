@@ -14,6 +14,7 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
+    - section-10-open-edges-to-bridge-later.md
     - cognitive-offloading.md
     - judgment-expertise-boundary.md
     - recursive-pattern-verification-loop.md

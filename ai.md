@@ -8,47 +8,71 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Dynamic'
 Backlinks:
+    - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
+    - section-4-attribution-logic.md
     - reflective-prompting.md
     - cognitive-artifact.md
     - 5-the-embodied-connection.md
+    - section-10-open-edges-to-bridge-later.md
+    - 4-revised-contribution-of-notebook-11.md
     - why-this-architecture-is-powerful.md
+    - 2-what-the-existing-literature-actually-covers.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
+    - section-9-container-as-function-authorization.md
     - section-5-the-category-error-relational-axis-f.md
     - ai-project-claude-project-chatgpt-project.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
+    - 2-clarifying-the-category-error-against-the-dt.md
     - system-0.md
+    - section-2-definition.md
     - 1-executive-summary-resolving-the-ontology-cri.md
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - catalytic-externalization.md
-    - executive-summary.md
+    - executive-summary_1.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
+    - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
+    - executive-summary_b.md
+    - selected-fact.md
     - neural-synchrony.md
     - conclusion-on-novelty-and-contribution.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
+    - 4-remaining-questions-for-tier-3.md
+    - section-8-boundary-conditions-prerequisites.md
+    - algorithmic-self.md
+    - 3-implications-for-positioning.md
     - gap-filling-inference-generation.md
     - section-6-the-complete-system-architecture.md
+    - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - two-axis-framework.md
+    - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
+    - 6-the-final-positioning-framework.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
+    - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
+    - 1-executive-summary_r.md
     - 3-the-mechanism-catalytic-externalization.md
     - false-true-self.md
+    - section-3-causal-sequence-placement.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
-    - what-youve-actually-discovered-meta-level.md
+    - section-6-journal-function-refinement.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
@@ -63,6 +87,8 @@ Links:
     - technical-scaffolding-s_t.md
     - productive-epistemic-tension.md
     - in-context-learning.md
+    - selected-fact.md
+    - journal.md
     - zpd.md
     - challenge-gap-d-c.md
     - functional-alterity.md
@@ -90,6 +116,8 @@ The third component of the Human + Journal + AI + Time tetrad. AI is a Large Lan
 - Conceptual modeling and examples   
 - Procedural frameworks   
 - Information synthesis   
+- Candidate linkages (provisional connections that may precipitate [Selected Fact](selected-fact.md) conditions, without undergoing SF)   
+- Cross-document linkage and candidate organizing frames (when [Journal](journal.md) corpus is available in context)   
 - **Modulable in real-time:** "explain like I'm 5" ↔ "technical depth"   
    
 **2. **[ZPD](zpd.md) tension preservation within the pre-existing [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md):   

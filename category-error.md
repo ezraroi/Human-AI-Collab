@@ -9,17 +9,22 @@ Tag:
     - 'Temporal: Static'
     - 'Operational Flags: Pathology'
 Backlinks:
+    - 5-final-synthesis-statement.md
     - subject-supposed-to-know-sss.md
     - preconditions-for-transformative-ai-dialogue.md
     - embodied-engagement-conditions.md
     - section-5-the-category-error-relational-axis-f.md
+    - 2-clarifying-the-category-error-against-the-dt.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
+    - executive-summary_b.md
+    - the-container.md
     - 7-final-conclusion-the-third-intelligence.md
+    - algorithmic-self.md
     - ai.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
-    - critical-connection-5-why-psb-happens.md
+    - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
     - protein-shake-brain-psb.md

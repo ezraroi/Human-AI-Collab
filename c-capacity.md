@@ -8,21 +8,27 @@ Tag:
     - 'System Role: Output'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
+    - section-4-attribution-logic.md
     - reflective-prompting.md
     - destiny-drive.md
     - lev-vygotsky.md
+    - section-5-temporal-architecture.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - journal.md
-    - questions-your-synthesis-raises.md
+    - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - 6-final-conclusion.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
+    - section-7-counterfeit-detection-framework.md
     - human.md
     - time.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
+    - algorithmic-self.md
     - challenge-gap-d-c.md
+    - 3-implications-for-positioning.md
     - recursive-metabolic-loop.md
     - p-alpha-probability-of-growth.md
     - section-7-the-three-layer-architecture-tempora.md
@@ -30,9 +36,11 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
+    - third-intelligence.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - functional-alterity.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

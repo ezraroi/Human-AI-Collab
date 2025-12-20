@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Pathology'
 Backlinks:
     - human.md
+    - algorithmic-self.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

@@ -12,14 +12,16 @@ Tag:
 Backlinks:
     - kurt-lewin.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - section-1-introduction-and-framework-positioning.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
-    - the-hidden-implications-youve-discovered.md
+    - 9-the-hidden-implications-youve-discovered.md
     - section-10-the-grand-unification.md
     - section-7-the-three-layer-architecture-tempora.md
+    - 5-documented-counter-evidence-the-manic-episodes.md
     - psychoanalytic-integration.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md

@@ -9,9 +9,9 @@ Backlinks:
     - reflective-awareness.md
     - 1-the-core-hypothesis-practice-dependent-neuro.md
     - beta-elements.md
-    - questions-your-synthesis-raises.md
+    - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - executive-summary.md
+    - executive-summary_1.md
     - human.md
     - neural-synchrony.md
     - external-alpha-function.md
@@ -23,10 +23,10 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - critical-connection-1-the-two-channel-model-of.md
+    - 3-critical-connection-1-the-two-channel-model-.md
     - embodied-cognition.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md

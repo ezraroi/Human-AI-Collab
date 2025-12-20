@@ -15,8 +15,9 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
+    - 3-implications-for-positioning.md
     - true-self.md
-    - dynamic-transitional-object-dto.md
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
     - protein-shake-brain-psb.md

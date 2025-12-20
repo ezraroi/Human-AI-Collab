@@ -11,6 +11,7 @@ Backlinks:
     - reflective-prompting.md
     - document-abstract.md
     - reverie.md
+    - section-5-temporal-architecture.md
     - edmund-husserl.md
     - 4-the-system-architecture-v2-0.md
     - journal.md
@@ -22,22 +23,24 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - the-container.md
     - d-difficulty.md
+    - section-8-boundary-conditions-prerequisites.md
     - external-alpha-function.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - the-integrated-circuit-board.md
     - alpha-function.md
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - critical-connection-1-the-two-channel-model-of.md
+    - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
+    - section-3-causal-sequence-placement.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis

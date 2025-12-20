@@ -10,7 +10,7 @@ Backlinks:
     - external-alpha-function.md
     - section-6-the-complete-system-architecture.md
     - felt-sense.md
-    - critical-connection-2-felt-sense-channel-1-ver.md
+    - 4-critical-connection-2-felt-sense-channel-1-v.md
     - the-unified-architecture.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

@@ -10,12 +10,13 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - reflective-prompting.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - critical-connection-4-how-ai-dialogue-produces.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
-    - executive-summary.md
+    - executive-summary_1.md
     - boundary-condition-the-manic-episode.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -24,28 +25,34 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - the-container.md
+    - section-8-boundary-conditions-prerequisites.md
     - hpa-axis.md
     - ai.md
+    - 3-implications-for-positioning.md
     - section-10-the-grand-unification.md
     - p-alpha-probability-of-growth.md
     - section-7-the-three-layer-architecture-tempora.md
     - mko-more-knowledgeable-other.md
     - true-self.md
     - section-6-the-complete-system-architecture.md
+    - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
-    - critical-connection-6-my-method-works-because-.md
+    - 8-critical-connection-6-my-method-works-becaus.md
+    - third-intelligence.md
     - the-doing-both-hypothesis.md
     - technical-scaffolding-s_t.md
     - alpha-function.md
     - psychoanalytic-integration.md
     - category-error.md
     - part-iv-reflective-prompting-as-system-level-p.md
+    - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
+    - negative-capability.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md

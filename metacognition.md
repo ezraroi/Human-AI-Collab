@@ -14,12 +14,15 @@ Backlinks:
     - 4ps-protocol.md
     - cognitive-debt-awareness.md
     - john-flavell.md
+    - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - judgment-expertise-boundary.md
-    - 1-executive-summary.md
+    - touch-grass-protocol.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
+    - 1-executive-summary_0.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'

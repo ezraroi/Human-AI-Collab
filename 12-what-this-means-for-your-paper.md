@@ -17,7 +17,7 @@ Links:
     - journal.md
 id: bafyreiairwpdksmfvq7f43zbvusjw7sd355kmom2diyei2zd3ezd5nwygy
 ---
-# WHAT THIS MEANS FOR YOUR PAPER   
+# 12. WHAT THIS MEANS FOR YOUR PAPER   
 ### Your Central Claim (Refined)   
 "Transformative dialogue does not require a conscious other. It requires a properly structured system that engages [Channel 2](channel-2-symbolic.md) (symbolic) material and [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (embodied verification) in recursive Alpha-Function cycles that materialize in stable inscriptions."   
 ### The Evidence   

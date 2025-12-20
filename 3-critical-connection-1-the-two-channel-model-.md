@@ -16,7 +16,7 @@ Links:
     - anterior-insular-cortex-aic.md
 id: bafyreigtmp2khexzx445wwzgepjrdcrwxcekcvzmm6rrvlzlmqvcxoel5u
 ---
-# CRITICAL CONNECTION #1: The Two-Channel Model of Text Processing and Somatic Response   
+# 3. CRITICAL CONNECTION #1: The Two-Channel Model of Text Processing and Somatic Response   
 ## I. Core Framework   
 Text processing can recruit two complementary channels:   
 [Channel 1](channel-1-embodied-sensorimotor-pathway.md) (Embodied / Sensorimotor–Interoceptive)   

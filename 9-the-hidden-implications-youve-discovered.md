@@ -19,7 +19,7 @@ Links:
     - destiny-drive.md
 id: bafyreidjsks354la6gwxrgkowiac3kkzulwtlb4gffuojt55tx7s2n77se
 ---
-# THE HIDDEN IMPLICATIONS YOU'VE DISCOVERED   
+# 9. THE HIDDEN IMPLICATIONS YOU'VE DISCOVERED   
 ### Implication #1: Words ARE Embodied Tools   
 NoteBook 2 shows that words are not separate from body - they activate embodied simulation. This explains why Vygotsky's "symbolic tools" still engage the embodied channel ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)).   
 For your model:Channel 1 and [Channel 2](channel-2-symbolic.md) are distinct but recursively coupled. Words can trigger embodied simulation and somatic markers. Concepts carry somatic markers.   

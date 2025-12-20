@@ -8,9 +8,12 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Dynamic'
 Backlinks:
+    - 6-translation-existing-practice-as-methodology.md
     - reflective-prompting.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - section-5-the-category-error-relational-axis-f.md
     - self-explanation.md
+    - 8-implications-for-the-research.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

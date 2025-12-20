@@ -13,25 +13,30 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
-    - what-this-means-for-your-paper.md
+    - 12-what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
     - 4ps-protocol.md
     - teleological-drift.md
     - cognitive-debt-awareness.md
     - section-5-the-category-error-relational-axis-f.md
+    - 2-clarifying-the-category-error-against-the-dt.md
     - parity-principle-pp.md
-    - questions-your-synthesis-raises.md
+    - 10-questions-your-synthesis-raises.md
     - holding-environment.md
     - self-explanation.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
+    - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
+    - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
+    - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
     - hyperreflexivity-trap.md
     - section-2-the-core-formula-and-components.md
+    - algorithmic-self.md
     - cognitive-offloading.md
     - ai.md
     - d-w-winnicott.md
@@ -42,11 +47,12 @@ Backlinks:
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - cognitive-dependency.md
     - two-axis-framework.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
-    - critical-connection-5-why-psb-happens.md
+    - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - alpha-function.md
@@ -54,12 +60,13 @@ Backlinks:
     - cognitive-debt.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
+    - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
     - false-true-self.md
     - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - negative-capability.md
-    - critical-connection-2-felt-sense-channel-1-ver.md
+    - 4-critical-connection-2-felt-sense-channel-1-v.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

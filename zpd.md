@@ -23,26 +23,34 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
     - ai.md
     - challenge-gap-d-c.md
+    - 3-implications-for-positioning.md
     - section-10-the-grand-unification.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
     - two-axis-framework.md
+    - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
-    - critical-connection-5-why-psb-happens.md
+    - third-intelligence.md
+    - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
+    - executive-summary.md
     - activation-pathway-of-destiny-drive.md
+    - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md
+    - section-3-causal-sequence-placement.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - unified-architecture-neurobiological-resolutio.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

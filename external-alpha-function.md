@@ -15,9 +15,9 @@ Backlinks:
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
     - human.md
-    - is-your-model-suggesting-something-new.md
+    - 15-is-your-model-suggesting-something-new.md
     - recursive-pattern-verification-loop.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

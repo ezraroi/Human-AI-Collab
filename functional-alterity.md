@@ -9,24 +9,39 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - section-4-attribution-logic.md
     - reflective-prompting.md
+    - 4-revised-contribution-of-notebook-11.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
+    - section-9-container-as-function-authorization.md
     - irreducible-alterity.md
     - systematic-competence.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
+    - executive-summary_b.md
+    - selected-fact.md
     - section-3-foundational-theoretical-integration.md
+    - the-container.md
+    - 1-what-notebook-11-actually-adds-to-the-model.md
+    - section-8-boundary-conditions-prerequisites.md
     - external-alpha-function.md
     - ai.md
     - challenge-gap-d-c.md
+    - 7-the-three-legged-stool-of-defense.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
+    - third-intelligence.md
     - protein-shake-brain-psb.md
+    - 2-the-unbundled-rationale-architecture.md
     - functional-thirdness.md
+    - section-3-causal-sequence-placement.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - mikhail-bakhtin.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - zpd.md

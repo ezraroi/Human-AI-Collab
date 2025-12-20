@@ -11,9 +11,9 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - felt-sense.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - mikhail-bakhtin.md
-    - synthesizing-notebook-1-and-notebook-2.md
+    - 1-executive-summary.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'

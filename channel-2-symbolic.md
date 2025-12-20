@@ -11,42 +11,42 @@ Backlinks:
     - embodied-simulation.md
     - document-abstract.md
     - 5-the-embodied-connection.md
-    - what-this-means-for-your-paper.md
+    - 12-what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
     - section-5-the-category-error-relational-axis-f.md
     - maurice-merleau-ponty.md
-    - questions-your-synthesis-raises.md
+    - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - critical-connection-4-how-ai-dialogue-produces.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - productive-epistemic-tension.md
     - iron-man-mentality.md
-    - the-hidden-implications-youve-discovered.md
+    - 9-the-hidden-implications-youve-discovered.md
     - external-alpha-function.md
-    - the-core-parallel-two-descriptions-of-one-proc.md
+    - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
-    - is-your-model-suggesting-something-new.md
+    - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
-    - critical-connection-3-the-journal-as-embodied-.md
+    - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
-    - critical-connection-6-my-method-works-because-.md
-    - critical-connection-5-why-psb-happens.md
+    - 8-critical-connection-6-my-method-works-becaus.md
+    - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
-    - integrated-synthesis-of-psychological-developm_m.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
-    - alpha-function-integrating-dialogical-and-embo.md
+    - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - critical-connection-1-the-two-channel-model-of.md
+    - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
-    - what-youve-actually-discovered-meta-level.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
-    - dialogical-and-embodied-frameworks-an-integrat.md
-    - synthesizing-notebook-1-and-notebook-2.md
+    - 13-dialogical-and-embodied-frameworks-an-integ.md
+    - 1-executive-summary.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
