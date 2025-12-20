@@ -14,6 +14,8 @@ Backlinks:
     - section-5-the-category-error-relational-axis-f.md
     - self-explanation.md
     - 8-implications-for-the-research.md
+    - iron-man-mentality.md
+    - enacted-alpha-work-eaw.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

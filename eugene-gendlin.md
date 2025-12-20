@@ -7,7 +7,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - section-6-the-complete-system-architecture.md
     - felt-sense.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md

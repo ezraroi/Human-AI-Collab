@@ -9,7 +9,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - subject-supposed-to-know-sss.md
-    - reflective-prompting.md
+    - human.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - d-w-winnicott.md

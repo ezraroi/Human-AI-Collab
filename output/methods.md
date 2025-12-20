@@ -159,206 +159,225 @@ Varying an example in every possible way to find what cannot be removed… Cross
 ## [METHOD] Recursive Pattern-Verification Loop
 [Theoretical] Verification, Metabolism, Epistemic Safety, Domain: Synthesis, System Role: Method, Temporal: Dynamic, Operational Flags: Core
 
-The real-time metabolic cycle through which the human tests AI-generated material against embodied knowing, symbolic grammar, and lived experience.
-It is the verification protocol that ensures insights are metabolized (alpha-function) rather than adopted (Channel 2-only bypass), reducing vulnerability to Category Error (Axis A failure), PSB, and collapse of authorship.
-## System Role
-The **continuous verification protocol** running throughout all Reflective Prompting phases—the core anti-collapse mechanism of the Third Intelligence system.
-Scope:
-- Runs throughout ALL RP phases (not just Phase 4)
-- During Phase 2 (RRV Cycle): Provides quality control during co-articulation
-- During Phase 3: Checks workflow alignment
-- During Phase 4: Becomes most formalized/explicit with periodic check-ins
+**Recursive Pattern-Verification Loop (RPVL)** is the real-time verification protocol through which the human tests AI-generated (and self-generated) symbolic material against **embodied knowing, symbolic grammar, and lived experience**. It is the epistemic safety layer that keeps **alpha-function capacity engaged during dialogue** so that insights are **worked and verified** rather than **adopted** via Channel-2-only bypass—reducing vulnerability to Category Error (Axis A failure), PSB, and collapse of authorship.
+> Architectural precision: RPVL is not the metabolism. It is upstream quality control that prevents unverified symbolic material from entering the system as “owned meaning.” It prepares material to become a candidate for Enacted Alpha-Work (EAW), which performs durable inscription at the Human↔Journal interface.
 
-RPVL is the **epistemic safety layer**  ensuring AI outputs are metabolized, not adopted.
-It:
-- Enforces alpha-function processing during dialogue (Axis B integrity).
-- Keeps AI outputs from bypassing Channel 1 verification and Alpha-Function metabolism.
-- Maintains human authorship of meaning.
-- Provides the functional expression of Iron Man Mentality.
-- Ensures the *experienced challenge* inside the ZPD is not prematurely collapsed by over-delegation (i.e., prevents ‘no struggle’ PSB), while the structural Challenge Gap (\|D–C\|) remains unchanged.
-- Anchors the epistemic safety of Reflective Prompting.
+### System Role
+RPVL is the continuous verification protocol running throughout **all phases** of Reflective Prompting—the core anti-collapse mechanism of the Third Intelligence system.
+**Scope**
+- Runs throughout **ALL RP phases** (not only Phase 4).
+- **Phase 2 (RRV Cycle):** quality control during co-articulation.
+- **Phase 3:** checks workflow alignment and delegation boundaries.
+- **Phase 4:** becomes most explicit/formal via periodic check-ins and audits.
 
-Without this loop, Reflective Prompting becomes scripting, the Journal becomes transcript, and transformation collapses into PSB.
-## Steps
+**What it enforces and protects**
+- Prevents Channel-2-only adoption (PSB pathway).
+- Maintains **human authorship** of meaning.
+- Preserves Axis B integrity by keeping **embodied verification** active.
+- Prevents premature collapse of struggle (“no struggle” False-ZPD) while the structural challenge gap \|D-C\| remains unchanged.
+- **Prepares material for downstream EAW** by ensuring verification occurs before inscription.
+
+**Failure mode statement:**
+Without RPVL, Reflective Prompting becomes scripting, the Journal becomes transcript, and transformation collapses into PSB.
+### Steps (Protocol)
 1. **Active Skepticism**
-    Detect flattery, mimicry, premature coherence.
-2. **Embodied Verification**
-    Spacious vs. tight; checks somatic alignment (Channel 1).
-3. **Symbolic Coherence Check**
-    Tests alignment with personal grammar and meaning structures (Channel 2).
+    Detect flattery, mimicry, premature coherence, over-smooth certainty.
+2. **Embodied Verification (Channel 1)**
+    Spacious vs. tight; somatic “fit” check.
+3. **Symbolic Coherence Check (Channel 2)**
+    Tests alignment with personal grammar, idiom, and meaning structures.
 4. **Concrete Grounding**
-    Locates the lived example; prevents abstraction drift.
+    Locates the lived example; prevents abstraction drift and false generalization.
 5. **Recursive Revision**
-    Insight → Challenge → Verification → Grounding → Re-articulation → New Insight.
+    Insight → challenge → verification → grounding → re-articulation → new insight.
+    This recursive structure keeps alpha-function engagement active **in real time during dialogue**.
 
-This recursive structure keeps Alpha-Function processing engaged live.
-## Mechanisms
-- As-If Body Loop: Channel 2 symbolic input recruits Channel 1 embodied verification within Alpha-Function cycles.
-- **Metabolic friction** → tension necessary for transformation.
-- **Topological repair** → prevents collapse into C2-only processing.
-- **Boundary enforcement** → prevents the user from treating AI as Subject.
+### Mechanisms (descriptive; not architectural load-bearing)
+- **As-If Body Loop:** symbolic input recruits embodied simulation, enabling Channel-1 verification.
+- **Productive Epistemic Tension:** premature resolution signals possible bypass; tension indicates live contact with the challenge.
+- **Topological repair (system-level):** repeatedly re-links symbol → felt sense → lived example to prevent Channel-2-only collapse.
+- **Boundary enforcement:** prevents treating AI as Subject; preserves epistemic responsibility.
 
-**Notes:** Although it is also a mechanism of Alpha-Function, it is best tagged as **Method** because it is a *protocol the user performs*. Mechanistic details live in Relations.
-## Relations (Wiring)
-- **Reflective Prompting** — *Part Of*
-    This loop provides RP’s epistemic integrity.
-- **Iron Man Mentality** — *Operationalizes*
-    The behavioral manifestation of the stance.
-- **Felt Sense** — *Relies On*
-    Embodied knowing is the primary verification signal.
-- **Epistemological Humility** — *Requires*
-    Sustains willingness to doubt both AI output and one’s own self-perception during verification.
-- **PSB** — *Protects Against*
+### Relations (Wiring)
+- **Reflective Prompting — Part Of**
+    Provides epistemic integrity across phases.
+- **RRV Cycle — Runs During**
+    Functions as quality control at each RRV station.
+- **Iron Man Mentality — Operationalizes**
+    Behavioral manifestation of verification + authorship.
+- **Felt Sense — Relies On**
+    Primary embodied verification signal.
+- **Epistemological Humility — Requires**
+    Sustains willingness to doubt AI output and one’s first formulation.
+- **PSB — Protects Against**
     Prevents ungrounded fluency from entering the symbolic system.
-- **External Alpha-Function** — *Defines Boundary With*
-    Ensures scaffolding never replaces internal metabolism.
+- **Enacted Alpha-Work (EAW) — Upstream Of / Prepares For**
+    RPVL ensures dialogue material is verified before it becomes a candidate for inscription and durable ownership.
+- **EAW Semantic Commitment Loop — Shares Mechanisms With**
+    Both employ felt-sense verification and revision, but at different junctures (dialogue vs inscription).
 
 ---
 
 ## [METHOD] Reflective Prompting
 [Theoretical] The AI-Specific Roles, Domain: Technical, System Role: Method, Temporal: Dynamic, Operational Flags: Core
 
-A structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. Reflective Prompting keeps **alpha-function** with the human, organizes **technical scaffolding (Sₜ)** so it amplifies rather than replaces human metabolism, and **prevents premature collapse of the experienced challenge inside the ZPD** by slowing work into recursive reflective loops (the structural Challenge Gap \|D–C\| remains pre-existing).Its purpose is to prevent **PSB **while feeding the Journal with metabolized, owned insights (Journal relevant only in Identity Stakes work).
-### System Role
-- Converts AI interaction from **consumption** to **co-articulation**.
-- Helps preserve the conditions for Productive Epistemic Tension (in the presence of adequate scaffolding and Functional Alterity)—keeping the human cognitively stretched but still metabolically engaged—so transformation can occur instead of instant pseudo-clarity.
-- Ensures AI remains a **Piagetian Tool (Object)** serving the human container, rather than a pseudo-MKO doing the alpha-function for the user.
-- Provides the **session-level protocol** that operates inside the Recursive–Refine–Validate Cycle.
+**Reflective Prompting (RP)** is a structured prompting protocol that uses AI as a reflective surface rather than a substitute thinker. RP keeps **alpha-function capacity** with the human, organizes technical scaffolding (**Sₜ**) so it amplifies rather than replaces metabolic work, and prevents premature collapse of the *experienced* challenge inside the ZPD by slowing work into recursive reflective loops (while the structural Challenge Gap remains pre-existing).
+Its purpose is to prevent **PSB**, preserve **authorship**, and—when the task has identity/developmental stakes—produce **durable, owned** α-elements by routing insights through **verification (RPVL)** and completing **Enacted Alpha-Work (EAW)** via **Journal inscription** (the transcript is not enough) when work carries Identity Stakes (Can be use for work also).
+## System Role
+- Converts AI interaction from consumption into **co-articulation under verification**.
+- Preserves the conditions for **Productive Epistemic Tension** (with adequate scaffolding and Functional Alterity), keeping the human stretched *and* metabolically engaged—so transformation can occur instead of instant pseudo-clarity.
+- Ensures AI remains a **Piagetian Tool (Object)** serving the human container, not a pseudo-MKO performing the work for the user.
+- Provides the **session-level protocol** within which metabolic processing begins during dialogue and becomes durable through inscription—i.e., the protocol across which **EAW is initiated and completed**.
+ ---
 
-### Scope & Preconditions
-**Use Reflective Prompting when:**
+## Scope & Preconditions
+### Use Reflective Prompting when
 - The task has **identity or developmental stakes** (writing, life/role decisions, strategic thinking, deep self-understanding, complex design).
-- The goal includes **growth of Capacity (C) over Time**, not just “get it done.”
-- The Journal and AI are available and Sₑ is sufficiently stable to tolerate tension.
+- The goal includes growth of **Capacity (C)** over time, not only “get it done.”
+- **Emotional Scaffolding** is sufficiently stable to tolerate tension.
+- AI is available; **Journal is required when the outcome must become durable** (decisions, reframes, Selected Facts, identity-level shifts).
 
-**Transactional Mode (light or no RP) is acceptable when:**
-- Tasks are **purely instrumental** (booking, quick queries, boilerplate).
-- The conscious tradeoff is **speed over depth**, and transformation is not the aim.
+### Transactional mode (light or no RP) is acceptable when
+- Tasks are purely instrumental (booking, quick queries, boilerplate).
+- The tradeoff is consciously speed over depth.
 
-**Requires:**
-- Metacognition (active monitoring and consequent regulation of cognition in service of the goal).
-- Epistemological Humility.
-- Iron Man Mentality.
+### Requires
+- **Metacognition** (active monitoring + regulation in service of the goal)
+- **Epistemological Humility**
+- **Iron Man Mentality**
+- **Mandatory verification stance (RPVL)**
 
 ## Four-Phase Protocol
-### Phase 1 – Preparation (“Cognitive Canvas”)
-**Function:** Establish the epistemic and emotional baseline before AI engagement.
-**Operations:**
-- **Goal articulation** – What am I actually trying to do? What would count as a real shift?
-- **Resource inventory** – Gather notes, past Journal entries, prior documents, constraints.
-- **Idiom & delegation boundaries** – Clarify your cognitive style/strengths and what you own (judgment, meaning, narrative) vs. what can be delegated to AI (enumeration, editing, code, formatting).
+### Phase 1 — Preparation (“Cognitive Canvas”)
+**Function:** establish epistemic and emotional baseline before AI engagement.
+**Operations**
+- Goal articulation: what would count as a real shift?
+- Resource inventory: notes, prior Journal entries, constraints.
+- Idiom & delegation boundaries: what is **non-delegable** (judgment, meaning, narrative) vs delegable (enumeration, editing, code, formatting).
 
-**Cognitive role:**
-- Stabilizes emotional scaffolding and establishes the conditions of a holding environment before asking AI anything.
-- Makes the initial D (Difficulty/Identity Stakes) and current C (Capacity) **explicit as a qualitative orientation**.
+**Cognitive role**
+- Stabilizes emotional scaffolding (holding conditions) before AI engagement.
+- Makes D (difficulty/identity stakes) and current C (capacity) explicit as orientation.
 
-**Relations:**
-- Supports → Idiom-Aligned Scaffolding (later in Phase 3).
+**Relations**
+- Supports → Idiom-Aligned Scaffolding (Phase 3)
 
-### Phase 2 – Reflection & Warm-Up (RRV Cycle)
-**Function:** Co-construct a shared, precise “box of meaning” through **iterative reflection** before asking for heavy outputs.
-Implements the RRV Cycle micro-method with **continuous RPVL verification**.
-The RRV Cycle provides the dialogue structure; RPVL provides quality control throughout.
-**Operations (implemented by RRV Cycle):**
-1. Externalize – Speak/write raw thoughts, confusions, stakes to AI; often using Rubber Duck Debugging as a step-by-step self-explanation aid.
-2. **Refine** – Respond critically to AI’s reflection: correct, push back, reject flattery and premature coherence, and be willing to question your own first interpretation.
-3. **Validate** – Ask AI to summarize “what we’re doing” and check it against felt sense and task definition.
+### Phase 2 — Reflection & Warm-Up (RRV Cycle + continuous RPVL)
+**Function:** co-construct a precise “box of meaning” before heavy outputs.
+Implements:**RRV Cycle** with **RPVL** running throughout.
+**Operations (RRV)**
+1. **Externalize** — express raw thoughts/confusions/stakes (often via Rubber Duck Debugging).
+2. **Refine** — push back on AI; reject flattery/premature coherence; correct what’s flat or missing.
+3. **Validate** — ask for synthesis; check against felt sense and task definition; recycle if off.
 
-**Cognitive role:**
-- Activates **External Alpha-Function** without surrendering authorship.
-- Begins transforming beta-elements into thinkable form.
-- Keeps AI in **Functional Alterity** (difference, resistance), not in “perfect agreement” mode.
+**Cognitive role (updated to EAW ontology)**
+- **Begins metabolic processing**: transforms β-material toward thinkable form through articulation plus felt-sense verification (dual-channel engagement begins here).
+- **Recruits alpha-function without surrendering authorship** by keeping verification and rejection active inside RRV.
+- Keeps AI in **Functional Alterity** (difference/resistance), not “perfect agreement” mode.
+- **Prepares material for downstream inscription**: what is produced here may be metabolically active, but it is not yet durable until written into the Journal.
 
-**Teaching as Verification:**
-Phase 2 leverages the Protégé Effect by positioning the AI as a "teachable novice" requiring clear explanation (distinct from Rubber Duck Debugging). When forced to teach/explain to the AI, users:
-- Retrieve and organize knowledge
-- Identify gaps in their own understanding
-- Make tacit assumptions explicit (so contradictions in the mental model become visible)
-
-This triggers Conflict Detection (Model Repair) (Mode B of Self-Explanation)
-### Phase 3 – Workflow Design & Delegation
-**Function:** Turn clarified intention into an owned plan that respects the **Judgment–Expertise Boundary** and **Idiom-Aligned Scaffolding**.
-**Operations:**
-- **Rewrite the goal** using what Phase 2 clarified (“Given all this, the concrete outcome is…”).
-- **Break into steps** (2–7 steps) that will lead there.
-- **Assign ownership per step**:
+**Teaching as Verification (Protégé Effect)**
+Phase 2 can position AI as a teachable novice (distinct from Rubber Duck Debugging), forcing retrieval, organization, gap detection, and contradiction exposure (conflict detection / model repair).
+### Phase 3 — Workflow Design & Delegation
+**Function:** convert clarified intention into an owned plan respecting Judgment–Expertise boundary and idiom alignment.
+**Operations**
+- Rewrite the goal using Phase 2 clarity.
+- Break into 2–7 steps.
+- Assign ownership per step:
     - Human-only (judgment, narrative, deep interpretation)
     - Human+AI (co-drafting, co-design, option evaluation)
     - AI-assist (editing, refactoring, syntax, formatting)
 
-**Cognitive role:**
-- Applies the Iron Man Mentality: AI as suit, not pilot.
-- Aligns scaffolding with your **idiom** so the system bends around you, not vice versa.
+**Cognitive role**
+- Applies Iron Man Mentality: AI as suit, not pilot.
+- Aligns scaffolding with idiom so the system bends around the person.
 
-**Relations:**
-- Operates → Judgment–Expertise Boundary.
-- Implements → Idiom-Aligned Scaffolding.
-- Uses → Iron Man Mentality.
+**Relations**
+- Operates → Judgment–Expertise Boundary
+- Implements → Idiom-Aligned Scaffolding
+- Uses → Iron Man Mentality
 
-### Phase 4 – Alignment Maintenance
-**Function:** Maintain alignment between the work and the **original challenge profile (D relative to C)**, and embodied knowing as the task unfolds.
-**Operations:**
-- **Periodic AI check-ins** – “Summarize where we are relative to the original goal / constraints / stakes.”
-- **Checklist comparison** – Have AI compare the current direction against a short, explicit checklist you defined (goals, non-delegables, constraints).
-- **Embodied verification** – Track somatic signals (spacious vs tight, enlivened vs dead). If off, pause and return to Phase 2 mini-loop.
-- **Journal inscription** – When a genuine shift, decision, or reframe occurs, write it to the Journal in your own words. The transcript is not enough; the *inscribed insight* is the event.
+### Phase 4 — Alignment Maintenance
+**Function:** maintain alignment to the original challenge gap (D relative to C) and embodied knowing as the task unfolds.
+**Operations**
+- Periodic AI check-ins: “summarize where we are vs goal/constraints/stakes.”
+- Checklist comparison: AI compares current direction against explicit non-delegables.
+- Embodied verification: spacious vs tight; enlivened vs dead; if off, return to a Phase 2 mini-loop.
+- **Journal inscription (EAW completion):** when a genuine shift/decision/reframe occurs, write it in your own words. Transcript is not enough; durable inscription is the event.
 
-**Cognitive role:**
-- **Formalizes** the Recursive Pattern-Verification Loop through explicit periodic check-ins. (Note: RPVL also runs continuously during Phases 2 and 3, but Phase 4 makes it most systematic.)
+**Cognitive role**
+- Makes **RPVL** most explicit/systematic (though it runs throughout).
 - Prevents drift into fluent-but-hollow output.
-- Converts transient chat into durable evidence of transformation.
+- Converts transient chat into durable substrate for recursion and Selected Fact probation.
+- **Completes EAW** by producing re-enterable α-elements in the Journal’s chronotope.
 
-**Relations:**
-- Uses → 4Ps Protocol (especially Pause & Possess).
-- Sustains → RRV
+**Relations**
+- Uses → 4Ps Protocol
+- Sustains → RRV Cycle
+- Completes → Enacted Alpha-Work (EAW)
 
-### Failure Modes / Diagnostics
-- **PSB**
+## Failure Modes / Diagnostics
+- **PSB** (Channel-2 fluency without Channel-1 verification and without owned inscription)
+- Delegation drift (AI becomes pseudo-MKO; authorship collapses)
+- Transcript substitution (no durable α-elements; no EAW completion)
 
-**Notes:** The flagship method integrating scaffolding, metabolism, and verification.
+## Notes (architectural clarification)
+Reflective Prompting is the flagship method integrating scaffolding, verification, and durable ownership.
+**Continuity claim (locked):**
+- **Phase 2** initiates metabolic work during dialogue (articulation + verification; dual-channel engagement begins).
+- **Phase 4** completes **EAW** via inscription, producing durable α-elements that persist and can be re-entered across time.
+
+This preserves the key boundary condition of EAW (“output persists as a re-enterable α-element”) without falsely locating EAW entirely in Human↔AI dialogue.
 
 ---
 
 ## [METHOD] RRV Cycle (Recursive–Refine–Validate)
 [Theoretical] Domain: CognitiveScience, System Role: Method, Temporal: Dynamic
 
-A micro-method for metabolic dialogue in which the human and AI iteratively co-articulate meaning through cycles of **Externalize → Refine → Validate**. RRV is how External Alpha-Function is operationalized without surrendering authorship. It is the core engine of Phase 2 in Reflective Prompting.
+**RRV Cycle (Recursive–Refine–Validate)** is a micro-method for metabolic dialogue in which the human and AI iteratively co-articulate meaning through cycles of **Externalize → Refine → Validate**. **RRV is the dialogue structure within which Enacted Alpha-Work (EAW) can be enacted without surrendering authorship.** It is the core engine of **Phase 2** in Reflective Prompting.
+**Architectural precision:** RRV creates the *conditions* for EAW; it does **not** guarantee EAW occurs. The human must still perform **semantic commitment under felt-sense constraint** inside the RRV structure.
 ### Cognitive Basis
-Reflective Prompting's RRV Cycle (Externalize → Refine → Validate) mirrors the expert decision pattern Klein identified as Recognition-Primed Decision: serial evaluation through pattern recognition rather than exhaustive option comparison. This explains why iterative refinement works better than seeking perfect AI output.
-### Relationship to Recursive Pattern-Verification Loop
-RRV Cycle is the **dialogue structure** for Phase 2 co-articulation.
-**RPVL runs continuously DURING RRV as quality control:**
-- During Externalize: RPVL checks clarity, grounding, embodiment
-- During Refine: RPVL detects flattery, uses felt sense to verify internal persuasiveness, checks grammar
-- During Validate: RPVL performs final embodied verification
+Reflective Prompting’s RRV Cycle (Externalize → Refine → Validate) mirrors the expert decision pattern Gary Klein identified as **Recognition-Primed Decision (RPD)**: serial evaluation through pattern recognition rather than exhaustive option comparison. This helps explain why iterative refinement outperforms attempts to obtain “perfect” AI output in a single pass.
+### Relationship to Recursive Pattern-Verification Loop (RPVL)
+RRV is the **turn-structure** for Phase 2 co-articulation.
+RPVL runs continuously **during** RRV as quality control:
+- During **Externalize**: RPVL checks grounding, stakes, and embodied contact
+- During **Refine**: RPVL detects flattery / over-smooth coherence, checks felt-sense fit, detects drift, checks clarity/grammar
+- During **Validate**: RPVL performs final embodied verification and authorship check
 
-**The distinction:**
-- **RRV** = Conversational turns (you speak → AI reflects → you verify)
-- **RPVL** = Quality checks running throughout those turns
+**Distinction:**
+- **RRV =** assembly line (conversational stations)
+- **RPVL =** quality control at each station
 
-Think of RRV as the assembly line, RPVL as quality control at each station.
 ### System Role
-- Transforms raw, pre-symbolic or confused material into stable, thinkable formulations.
-- Establishes a *shared model* between human and AI while preserving the human’s veto and felt-sense authority.
+- Transforms raw, pre-symbolic or confused material into **stable, thinkable formulations**.
+- Establishes a shared working model between human and AI while preserving the human’s **veto** and **felt-sense authority**.
 - Provides a reusable loop for supervision, analysis, and journaling with an “imagined other.”
+- Creates the iterative structure within which **EAW’s Semantic Commitment Loop** can be enacted.
 
 ### Steps
-1. **Externalize**
-    - Human expresses thoughts, confusion, stakes, associations.
-    - Often supported by **Rubber Duck Debugging**.
-2. **Refine**
-    - AI reflects back a structure, summary, or frame.
-    - Human corrects, rejects, or sharpens: “This part is wrong / missing / too flat.”
-    - The goal is *tension*, not quick agreement.
-3. **Validate**
-    - AI produces an updated synthesis: “Here is what I now understand we’re doing.”
-    - Human checks against **felt sense** and task definition: if still off, another RRV cycle.
+**1) Externalize**
+- Human expresses thoughts, confusion, stakes, associations.
+- Often supported by Rubber Duck Debugging.
+- **EAW note:** initial articulation attempt (Channel 2 comes online), usually before stable ownership is achieved.
 
-**Notes:** A cognitive micro-loop (externalize → refine → validate), but *operationalized* as a method.
-### Relations
-- Embedded in → Reflective Prompting.
-- Uses → Rubber Duck Debugging, MetaCognitive monitoring and consequent regulation, Felt Sense.
-- Supports → External Alpha-Function, Alpha-Function ignition.
+**2) Refine**
+- AI reflects back a structure, summary, or candidate frame.
+- Human corrects, rejects, or sharpens: “This part is wrong / missing / too flat.”
+- The goal is **tension**, not quick agreement.
+- **EAW note:** this is where metabolic labor must occur. The human must re-articulate in their **own idiom**, performing felt-sense verification against the AI’s offering. If the human merely accepts the AI frame, EAW fails and PSB risk increases.
+
+**3) Validate**
+- AI produces an updated synthesis: “Here is what I now understand we’re doing.”
+- Human checks against felt sense and task definition; if still off, another RRV cycle begins.
+- **EAW note:** stabilization check—does the articulation now hold as **owned meaning**? If not, recycle.
+
+**Note:** RRV is a cognitive micro-loop operationalized as a method. **RRV is structure; EAW is the metabolic work that may or may not occur within that structure.**
+### Relations (updated)
+- **Embedded in →** Reflective Prompting (Phase 2)
+- **Uses →** Rubber Duck Debugging; Metacognitive monitoring and regulation; Felt Sense; RPVL
+- **Creates conditions for →** Enacted Alpha-Work (EAW)
+- **Supports →** Alpha-Function recruitment *(capacity strengthened over time via repeated EAW enactments)*
 
 ---
 

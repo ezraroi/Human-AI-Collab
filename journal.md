@@ -32,14 +32,14 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_1.md
+    - executive-summary.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_b.md
+    - executive-summary_s.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -51,6 +51,7 @@ Backlinks:
     - 7-final-conclusion-the-third-intelligence.md
     - critical-distinctions.md
     - section-8-boundary-conditions-prerequisites.md
+    - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - ai.md
     - 3-implications-for-positioning.md
@@ -61,6 +62,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - how-journal-entries-are-actually-created.md
+    - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - 5-final-positioning-statement.md
     - 5-critical-connection-3-the-journal-as-embodie.md
@@ -85,7 +87,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary_r.md
+    - 1-executive-summary.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md
     - section-6-journal-function-refinement.md

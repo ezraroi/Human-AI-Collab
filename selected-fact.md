@@ -16,6 +16,7 @@ Backlinks:
     - journal.md
     - section-7-counterfeit-detection-framework.md
     - section-8-boundary-conditions-prerequisites.md
+    - enacted-alpha-work-eaw.md
     - ai.md
     - section-1-purpose-of-this-notebook.md
     - dynamic-transitional-object-dto.md

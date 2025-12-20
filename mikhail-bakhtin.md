@@ -10,12 +10,11 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - authoritative-discourse.md
     - channel-2-symbolic.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - section-11-the-dialogical-illusion-as-producti.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
     - ii-the-novelty-of-the-specific-mechanisms.md
-    - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
     - Philosophy of Technology & Phenomenology

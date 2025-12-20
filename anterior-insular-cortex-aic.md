@@ -11,10 +11,10 @@ Backlinks:
     - beta-elements.md
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - executive-summary_1.md
+    - executive-summary.md
     - human.md
     - neural-synchrony.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
     - recursive-metabolic-loop.md
     - pre-reflective-awareness.md

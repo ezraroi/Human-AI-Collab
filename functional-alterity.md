@@ -22,13 +22,14 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_b.md
+    - executive-summary_s.md
     - selected-fact.md
+    - human.md
     - section-3-foundational-theoretical-integration.md
     - the-container.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - section-8-boundary-conditions-prerequisites.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - ai.md
     - challenge-gap-d-c.md
     - 7-the-three-legged-stool-of-defense.md
@@ -38,7 +39,7 @@ Backlinks:
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
     - protein-shake-brain-psb.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_6.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md

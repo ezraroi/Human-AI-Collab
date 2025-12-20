@@ -14,7 +14,7 @@ Backlinks:
     - identity-stakes.md
     - eugene-gendlin.md
     - time.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 8-critical-connection-6-my-method-works-becaus.md

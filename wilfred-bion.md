@@ -19,7 +19,7 @@ Backlinks:
     - section-2-the-core-formula-and-components.md
     - the-container.md
     - d-difficulty.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - 3-implications-for-positioning.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
@@ -27,11 +27,12 @@ Backlinks:
     - 2-the-alpha-function-as-the-triple-network-the.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
+    - 15-is-your-model-suggesting-something-new.md
     - psychoanalytic-integration.md
     - c-capacity.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_6.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md
