@@ -14,7 +14,7 @@ Backlinks:
     - cognitive-offloading.md
     - 3-implications-for-positioning.md
     - 5-final-positioning-statement.md
-    - executive-summary_e.md
+    - executive-summary_t.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

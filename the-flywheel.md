@@ -10,6 +10,7 @@ Backlinks:
     - 6-final-conclusion.md
     - jim-collins.md
     - time.md
+    - the-integrated-circuit-board.md
     - c-capacity.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

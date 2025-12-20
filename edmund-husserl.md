@@ -9,7 +9,6 @@ Tag:
 Backlinks:
     - alpha-elements.md
     - beta-elements.md
-    - alpha-function.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Research Status: Sealed

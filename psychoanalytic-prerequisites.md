@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Static'
     - 'Domain: Synthesis'
 Backlinks:
+    - embodied-engagement-conditions.md
     - holding-environment.md
     - psychoanalytic-integration.md
 Origin Domain:

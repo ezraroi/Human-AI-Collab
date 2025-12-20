@@ -90,14 +90,14 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_p.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
-    - 2-the-unbundled-rationale-architecture_6.md
+    - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 1-executive-summary.md
@@ -116,7 +116,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_c.md
+    - 1-executive-summary_6.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
@@ -127,19 +127,14 @@ Creation date: "2025-11-22T10:15:12Z"
 Created by:
     - Roi Ezra
 Links:
-    - beta-elements.md
     - alpha-elements.md
     - felt-sense.md
-    - edmund-husserl.md
     - third-intelligence.md
     - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
     - as-if-body-loop.md
-    - journal.md
-    - identity-stakes.md
     - c-capacity.md
     - channel-2-symbolic.md
-    - emotional-scaffolding-s_e.md
     - touch-grass-protocol.md
     - the-integrated-circuit-board.md
     - category-error.md
@@ -148,12 +143,12 @@ Emoji: "\U0001F4A1"
 id: bafyreifo53w4l4yis2pviyq3di4j2jmlznc4l2cy5ks5fltatd7e5sdlwy
 ---
 # Alpha-Function   
-The internal, embodied process of metabolizing raw, unthinkable experience ([Beta-Elements](beta-elements.md)) into thinkable thoughts ([Alpha-Elements](alpha-elements.md))—[felt sense](felt-sense.md) made thinkable.   
-**Phenomenological Root ([Husserl](edmund-husserl.md)):** Maps to **Noesis**.
-This is the *subjective act* of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.   
-**System Role: **The "Engine" of the [Third Intelligence](third-intelligence.md). It is sparked when the experienced challenge is held long enough for metabolization (while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing)   
+The internal, embodied process of metabolizing raw, unthinkable experience (Beta-Elements) into thinkable thoughts ([Alpha-Elements](alpha-elements.md))—[felt sense](felt-sense.md) made thinkable.   
+**Phenomenological Root (Husserl):** Maps to **Noesis**.   
+This is the subjective act of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.   
+**System Role:** The “Engine” of the [Third Intelligence](third-intelligence.md). It is sparked when the experienced challenge is held long enough for metabolization (while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing).   
 ### Local Failure Mode ([PSB](protein-shake-brain-psb.md) – Protein Shake Brain)   
-When the Alpha-Function is bypassed or under-engaged, symbolic material is taken in without metabolic processing. AI outputs or abstractions are “consumed” directly, producing:   
+When the Alpha-Function is bypassed or under-engaged, symbolic material is processed without sustained **C1 ↔ C2 coupling** (metabolic processing). AI outputs or abstractions are “consumed” directly, producing:   
 - outward fluency without inward transformation,   
 - narrative coherence without somatic resonance,   
 - insights that do not change behavior or identity,   
@@ -163,16 +158,16 @@ This is the Alpha-Function’s component-level collapse.
 ### Interaction Dynamics (Propagation Rules)   
 When Alpha-Function is offline or overwhelmed:   
 - Somatic signals (if present) fail to be integrated, so processing becomes symbol-dominant; **Symbolic Overrun** emerges specifically when the **[As-If Body Loop](as-if-body-loop.md) is weak or bypassed**.   
-- [Journal](journal.md) becomes corrupted (**when the work carries [Identity Stakes](identity-stakes.md)**): entries are written without metabolization, producing pseudo-insight or thin narratives.   
-- **[Capacity (C)](c-capacity.md)** fails to accumulate: Not real growth is happening.   
-- **Axis B collapses** into a [Channel-2](channel-2-symbolic.md)-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of [PSB](protein-shake-brain-psb.md).   
+- Journal becomes corrupted (**when the work carries Identity Stakes**): entries are written without metabolization, producing pseudo-insight or thin narratives.   
+- **Durable [Capacity](c-capacity.md) (C) growth is compromised:** metabolization does not reliably produce owned α-elements that can accumulate over Time.   
+- **Axis B collapses** into a [Channel-2](channel-2-symbolic.md)-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.   
    
 Alpha-Function failure therefore propagates through the entire circuit.   
 ### Phenomenology (How Alpha-Function Feels When Online vs Offline)   
 **When Alpha-Function is online:**   
 - A sense of “frustration → reorganization → relief.”   
 - Experiential “clicks” or felt shifts (spaciousness).   
-- Insight feels personally *owned*, not just understood.   
+- Insight feels personally owned, not just understood.   
 - Writing comes in your own language.   
 - Ambiguity feels tolerable long enough for transformation to occur.   
    
@@ -184,16 +179,16 @@ Alpha-Function failure therefore propagates through the entire circuit.
 - Tension is avoided rather than metabolized.   
    
 These phenomenological markers are the easiest way to detect Alpha engagement in real time.   
-### [Sₑ](emotional-scaffolding-s_e.md) Dependency (Qualitative Energy Constraint)   
+### Sₑ Dependency (Qualitative Energy Constraint)   
 Alpha-Function draws heavily on Sₑ — the system’s emotional capacity to tolerate frustration, uncertainty, and disruption.   
-- **High Sₑ:** Alpha can hold tension long enough to metabolize [beta-elements](beta-elements.md).   
+- **High Sₑ:** Alpha can hold tension long enough to metabolize beta-elements.   
 - **Low Sₑ:** Alpha collapses into avoidance, symbolic bypass, or manic acceleration.   
 - **Sₑ depletion:** requires recovery periods ([Touch Grass Protocol](touch-grass-protocol.md)) to restore metabolic capacity.   
    
 Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material.   
-**Wiring (Relations)**   
+### Wiring (Relations)   
 - **Part Of:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture)   
-- **Requires:**[ As-If Body Loop](as-if-body-loop.md) for somatic input; sufficient Sₑ for frustration tolerance   
-- **Counteracted By:** [PSB](protein-shake-brain-psb.md) (when Alpha is bypassed)   
-- **Constrained By:** Axis A ([Category Error](category-error.md) increases vulnerability by weakening interpretation and embodied checking)   
-[Recursive Metabolic Loop](recursive-metabolic-loop.md)    
+- **Requires:** As-If Body Loop for **C1 ↔ C2 coupling capability**; sufficient Sₑ for frustration tolerance   
+- **Counteracted By:** PSB (when Alpha-Function is bypassed)   
+- **Constrained By:** Axis A ([Category Error](category-error.md) increases vulnerability and PSB risk by making the relational stance invalid)   
+- **Feeds:** [Recursive Metabolic Loop](recursive-metabolic-loop.md)   

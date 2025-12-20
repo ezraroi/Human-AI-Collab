@@ -21,7 +21,7 @@ Backlinks:
     - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_s.md
+    - executive-summary_y.md
     - selected-fact.md
     - human.md
     - conclusion-on-novelty-and-contribution.md

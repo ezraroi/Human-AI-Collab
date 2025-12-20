@@ -19,8 +19,8 @@ Beyond internal awareness, the AIC is heavily implicated in high-level cognitive
 ## [BIOLOGICAL SUBSTRATE] As-If Body Loop
 [Empirical] Domain: Bio-Embodied, Temporal: Static
 
-A hypothesized mechanism within Damasio’s SMH by which the brain can generate *somatic-marker* biasing signals via internal simulation (“as-if”) without requiring overt physical change; this can be compatible with Felt Sense as an example of bodily signals informing cognition, without equating the two.
-The "**As-If Body Loop**" is a theoretical pathway proposed within Damasio’s Somatic Marker Hypothesis (SMH) to explain how the brain can generate emotional and visceral biasing signals to guide decision-making **without requiring an actual physical change in the body**.
+A hypothesized mechanism within Damasio's SMH by which the brain can generate *somatic-marker* biasing signals via internal simulation ("as-if") without requiring overt physical change; this can be compatible with Felt Sense as an example of bodily signals informing cognition, without equating the two.
+The "**As-If Body Loop**" is a theoretical pathway proposed within Damasio's Somatic Marker Hypothesis (SMH) to explain how the brain can generate emotional and visceral biasing signals to guide decision-making **without requiring an actual physical change in the body**.
 **What it is and its role:**
 The *Somatic Marker Hypothesis* suggests that decision-making is guided by "somatic markers"—crude biasing signals representing emotional reactions that arise from the periphery or the central representation of the periphery. The **"as-if body loop"** is the central mechanism that facilitates the rapid, internal activation of these markers.
 • **Internal Simulation:** The "as-if body loop" represents the brain's ability to create a **"forward model"** of the physical changes it expects to take place in the body (the actual somatic state or "body loop"). This allows for the cognitive representation of emotions to be activated in the brain **without the need for direct sensory stimulation**.
@@ -30,33 +30,33 @@ The *Somatic Marker Hypothesis* suggests that decision-making is guided by "soma
 The concept of the "as-if loop" extends and specifies earlier accounts of how anticipated body-state changes might shape higher-level processing, making the SMH more flexible and able to account for the speed and complexity of emotional responses. For example, in the context of predictive processing models, the "as-if body loop" corresponds to a kind of **internal model** used for interoceptive prediction.
 The "as-if body loop" contrasts with the **"body loop,"** where physical changes are actually transmitted to the brain to directly induce emotions, typically triggered by primary inducers (innate or learned sensory stimuli) through the amygdala and vmPFC, which stimulate the body and generate a specific somatic state.
 ### Local Failure Mode: Symbolic Overrun
-When the As-If Body Loop is weak, ignored, or bypassed, symbolic material (Channel 2) fails to trigger embodied simulation (Channel 1). This produces a flattening of experience where:
+When the As-If Body Loop is weak, ignored, or bypassed, symbolic material (Channel 2) is processed without recruiting embodied simulation (Channel 1), i.e., without sustained C1 ↔ C2 coupling. This produces a flattening of experience where:
 - ideas feel clear but ungrounded
-- insights appear instantly “right” without Felt Sense verification
+- insights appear instantly "right" without Felt Sense verification
 - thinking becomes abstracted, polished, and brittle
-- the user loses access to the “tight vs. spacious” felt-sense discriminator
+- the user loses access to the "tight vs. spacious" felt-sense discriminator
 
 In this system, this is a practical failure signature when embodied simulation is under-engaged during symbolic work.
-### **Interaction Dynamics (Propagation Rules)**
+### Interaction Dynamics (Propagation Rules)
 When the As-If Body Loop is offline or under-engaged:
-- Alpha-Function cycles proceed with Channel 2 material without Channel 1 verification (via Felt Sense) → leads to brittle pseudo-insight.
+- Alpha-Function cycles proceed with Channel 2 material without sustained C1 ↔ C2 coupling (via Felt Sense / embodied signal) → leads to brittle pseudo-insight.
 - **Journal entries become over-conceptualized** (heady, coherent, but not alive).
 - **Capacity (C)** does not increase properly, because metabolization lacks affective grounding.
 - **Future cycles begin from a false baseline**, since prior entries did not reflect embodied verification.
 - **Axis B tilts toward Channel-2 dominance**, the early signature of PSB.
 
 Thus, degradation in the As-If Loop undermines the entire metabolic circuit.
-### **Phenomenology (Online vs. Offline As-If Body Loop)**
+### Phenomenology (Online vs. Offline As-If Body Loop)
 **When the As-If Body Loop is online:**
 - There may be a felt response to ideas (e.g., tight/spacious), consistent with—but not identical to—Felt Sense access.
 - Symbolic material has emotional coloration.
 - Confusion has a bodily signature that guides inquiry.
-- Insights feel “real” because they resonate in the body.
+- Insights feel "real" because they resonate in the body.
 
 **When the As-If Body Loop is offline:**
-- Thinking feels clean but hollow; everything “makes sense instantly.”
+- Thinking feels clean but hollow; everything "makes sense instantly."
 - No tension, no dissonance, no struggle → no metabolization.
-- You stay fully in symbolic space (“living in the map”).
+- You stay fully in symbolic space ("living in the map").
 - Writing becomes fully conceptual, lacking personal texture.
 - Ideas collapse when tested in real life.
 
@@ -72,7 +72,7 @@ Sₑ therefore governs *whether* the Loop can activate, even when symbolic input
 **Relations (The Wiring):**
 - **Part Of:** Integrated Circuit Board (Axis B architecture)
 - Link to **Anterior Insular Cortex** (Relation: Associated With).
-- Link to **Channel 1 ** (Relation: `Connects To`).
+- Link to **Channel 1** (Relation: `Connects To`).
 - Link to **Channel 2 (Symbolic)** (Relation: `Connects To`).
 - Link to **Alpha-Function** (Relation: Supports).
 

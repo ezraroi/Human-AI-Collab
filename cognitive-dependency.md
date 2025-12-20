@@ -15,7 +15,6 @@ Backlinks:
     - ai.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
-    - the-integrated-circuit-board.md
     - category-error.md
     - functional-thirdness.md
 Origin Domain:

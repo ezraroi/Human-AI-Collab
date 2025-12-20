@@ -31,8 +31,8 @@ Backlinks:
     - psychoanalytic-integration.md
     - c-capacity.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
-    - 2-the-unbundled-rationale-architecture_6.md
+    - integrated-synthesis-of-psychological-developm_p.md
+    - 2-the-unbundled-rationale-architecture.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md

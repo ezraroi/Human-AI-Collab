@@ -13,7 +13,6 @@ Backlinks:
     - section-5-temporal-architecture.md
     - edmund-husserl.md
     - 4-the-system-architecture-v2-0.md
-    - journal.md
     - conflict-detection-model-repair.md
     - extended-mind-hypothesis-hec.md
     - self-explanation.md
@@ -29,10 +28,9 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
-    - alpha-function.md
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_p.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md

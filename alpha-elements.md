@@ -14,7 +14,6 @@ Backlinks:
     - beta-elements.md
     - edmund-husserl.md
     - section-2-definition.md
-    - journal.md
     - conflict-detection-model-repair.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
@@ -37,7 +36,7 @@ Backlinks:
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_p.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

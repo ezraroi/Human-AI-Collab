@@ -13,6 +13,7 @@ Backlinks:
     - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
+    - journal.md
     - channel-1-embodied-sensorimotor-pathway.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
@@ -25,6 +26,7 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-core-formula-and-components.md
     - the-container.md
+    - conclusion-on-novelty-and-contribution.md
     - section-8-boundary-conditions-prerequisites.md
     - hpa-axis.md
     - ai.md
@@ -43,7 +45,6 @@ Backlinks:
     - third-intelligence.md
     - the-doing-both-hypothesis.md
     - technical-scaffolding-s_t.md
-    - alpha-function.md
     - psychoanalytic-integration.md
     - category-error.md
     - part-iv-reflective-prompting-as-system-level-p.md

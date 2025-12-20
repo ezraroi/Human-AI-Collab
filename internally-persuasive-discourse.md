@@ -13,7 +13,7 @@ Backlinks:
     - felt-sense.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - mikhail-bakhtin.md
-    - 1-executive-summary_c.md
+    - 1-executive-summary_6.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'
