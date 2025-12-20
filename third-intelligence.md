@@ -39,7 +39,6 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - part-iii-transformative-ai-dialogue-talking-to.md
@@ -47,10 +46,10 @@ Backlinks:
     - alpha-function.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary_e.md
-    - 2-the-unbundled-rationale-architecture_6.md
+    - executive-summary_t.md
+    - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - 1-core-discovery_n.md
+    - 1-core-discovery_2.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - unified-architecture-neurobiological-resolutio.md

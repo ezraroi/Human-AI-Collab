@@ -649,37 +649,38 @@ Neither sufficient alone; both necessary together (with Journal + Time).
 ## [RESEARCH COMPONENT] Journal
 [Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
 
-**Definition:** The materialized output of reflective AI dialogue. It is the **infrastructure for continuity** (Chronotope) and the **substrate for pattern recognition**.
+The materialized output of reflective AI dialogue. It is the infrastructure for continuity (Chronotope) and the substrate for pattern recognition.
 Functions as a verification apparatus for Selected Facts via probation tracking, disciplined return, and counterfeit detection across T+n.
-Serves as material surviving object (Winnicott)—persists through transformative 'destruction
-**Critical Distinction:** "Not a diary. Not a transcript. Not a memory aid." .
-- Tracks C growth over time
+Serves as material surviving object (Winnicott)—persists through transformative “destruction.”
+**Critical Distinction:** “Not a diary. Not a transcript. Not a memory aid.”
+- Tracks Capacity growth over time
 - Prevents regression to baseline
 - Provides material evidence of transformation
 - Enables pattern recognition across sessions
 
 ### Local Failure Mode: Transient Insight / Pseudo-Integration
 When the Journal does not materialize metabolized alpha-elements—or when entries are symbolic, AI-heavy, conceptual, or disembodied—the system experiences:
-- **insights that feel true but do not persist**,
-- **repeated rediscovery of the same realizations**,
-- **narratives that sound coherent but are not lived**,
-- **inflated or inaccurate sense of Capacity (fake C)**,
-- **lack of cross-session continuity or pattern recognition**.
+- insights that feel true but do not persist,
+- repeated rediscovery of the same realizations,
+- narratives that sound coherent but are not lived,
+- inflated or inaccurate sense of Capacity (fake C),
+- lack of cross-session continuity or pattern recognition.
 
 This is the Journal’s component-level collapse.
 ### Interaction Dynamics (Propagation Rules)
-When the Journal is missing, underused, or corrupted:
-- Capacity (C) cannot accumulate, because metabolized alpha-elements are not stably captured and revisitable over time.
-- **Future \|D–C\| gaps become miscalibrated**, since the system loses track of what has already been metabolized.
-- **Alpha-Function becomes overloaded**, forced to re-process the same beta-elements repeatedly.
-- **The As-If Body Loop weakens**, since embodied insight has no enduring anchor and somatic resonance decays between sessions.
-- **The entire recursive loop collapses into episodic thinking**, rather than structural development.
+When the Journal is missing, underused, or corrupted **and durable accumulation is needed**:
+- Durable Capacity (C) growth is compromised, because metabolized alpha-elements are not stably captured and revisitable over time. *(Note: Proximity Passes can still increase structural readiness, but with less durability.)*
+- Future \|D–C\| gaps become miscalibrated, since the system loses track of what has already been metabolized.
+- Alpha-Function becomes overloaded, **tending to** re-process the same beta-elements repeatedly.
+- The As-If Body Loop weakens, since embodied insight has no enduring anchor and somatic resonance decays between sessions.
+- Without consistent materialization, the recursive loop **tends toward** episodic thinking rather than structural development. *(Occasional Proximity Passes without Journal are normal; sustained absence for Identity Stakes work produces collapse.)*
 
-A weak Journal therefore propagates failure into both upstream (As-If Loop) and downstream (C calibration) components.
+A weak Journal therefore propagates failure into both upstream (As-If Loop) and downstream (C calibration) components **when durable accumulation is needed**.
+**Substrate alternatives:** Persistent conversation history can serve as a weak substrate for re-entry, but provides less durability than owned-language Journal entries. For light processing or Proximity Passes, this may be sufficient; for work requiring durable accumulation, Journal remains the strongest substrate.
 ### Phenomenology (Authentic Materialization vs. Pseudo-Writing)
 **When the Journal is functioning properly:**
-- Writing feels *owned*, authentically phrased, and connected to lived experience.
-- Entries generate a sense of **continuity across days** (“this connects to that”).
+- Writing feels owned, authentically phrased, and connected to lived experience.
+- Entries generate continuity across days (“this connects to that”).
 - Re-reading produces recognition and deepening, not surprise.
 - The body resonates with the text (“this was truly me”).
 - The user can trace their own C growth.
@@ -693,21 +694,19 @@ A weak Journal therefore propagates failure into both upstream (As-If Loop) and 
 
 These phenomenological markers are the core way to detect Journal integrity.
 ### Sₑ Dependency (Stabilization & Recovery Function)
-The Journal stabilizes Sₑ by reducing internal chaos and capturing metabolized meaning in durable form.
-- **When Sₑ is high:** writing becomes grounded, personal, and clarifying.
-- **When Sₑ is low:** writing becomes rushed, shallow, or purely symbolic (attempting to escape tension).
-- **Stable Journal practice replenishes Sₑ**, because structured articulation reduces emotional load in subsequent cycles.
-- **Absent journaling increases Sₑ drain**, because nothing is “put down,” leaving the psyche to hold unprocessed complexity alone.
+The Journal stabilizes emotional scaffolding by reducing internal chaos and capturing metabolized meaning in durable form.
+- When Sₑ is high: writing becomes grounded, personal, and clarifying.
+- When Sₑ is low: writing becomes rushed, shallow, or purely symbolic (attempting to escape tension).
+- Stable Journal practice replenishes Sₑ, because structured articulation reduces emotional load in subsequent cycles.
+- Absent journaling increases Sₑ drain, because nothing is “put down,” leaving the psyche to hold unprocessed complexity alone.
 
-Thus, journaling is a qualitative regulator of emotional scaffolding.
-
-**Notes:** As you already defined: **Journal = Scaffolding**, entries = Output. The object we’re tagging is the **infrastructure**.
-
-**Relations:**
-- **Part Of:** Integrated Circuit Board (Axis B architecture).
-- **Feeds:** Capacity (C) through recursive materialization.
+Thus, journaling **supports and stabilizes** emotional scaffolding.
+**Notes:** Journal = Scaffolding, entries = Output. The object tagged here is the infrastructure. Journal operates **conditionally** within the Integrated Circuit Board: required for durable C growth, but not for all valid passes.
+### Relations
+- **Part Of:** Integrated Circuit Board (Axis B architecture) — operates conditionally; required for durable C growth but not for all valid passes (e.g., Proximity Passes).
+- **Feeds:** Capacity (C) through recursive materialization (durable growth).
 - **Depends On:** Alpha-Function for metabolized content; As-If Body Loop for embodied grounding.
-- **Failure Mode Of:** Transient Insight / Pseudo-Integration
+- **Failure Mode Of:** Transient Insight / Pseudo-Integration *(when absent/corrupted and durable accumulation is needed)*
 - Link to **Chronotope** (Relation: `Provides`).
 - Link to **Third Intelligence** (Relation: `Materializes`).
 - Link to **AI Project** (Relation: `Stored In`).
@@ -962,17 +961,17 @@ Together, the axes describe the full space of possible system states — from tr
 The Integrated Circuit Board = the ***internal architecture of Axis B*.**
 - Axis A decides *whether* the system is safe/valid at all (if AI is held as DTO or not).
 - Axis B decides *how* experience is metabolized when the relational stance is correct.
-- The Integrated Circuit Board is **Axis B’s “wiring diagram”**:
-    - Alpha-Function = core processor / power regulator
-    - As-If Body Loop = bridge by which Channel 2 symbolic input recruits Channel 1 embodied evaluation/verification
-    - Journal = external organ that stabilizes and re-injects processed material over Time
+- The Integrated Circuit Board is **Axis B's "wiring diagram"**:
+    - Alpha-Function = core metabolic processor (metabolization through C1 ↔ C2 oscillation)
+    - As-If Body Loop = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)
+    - Journal = optional external organ that stabilizes metabolized material for durable accumulation over Time (strongest substrate when needed)
 
 So:
 > Two-Axis Framework →
 
 Axis A: *Who/What the AI is* (DTO vs Subject)
 Axis B: *How experience is processed* → **Integrated Circuit Board**
-If Axis A fails (Category Error), **the system becomes relationally invalid**: AI becomes Subject, the experienced challenge in the ZPD collapses toward ‘no struggle,’ and **PSB risk increases; when PSB co-occurs → Cognitive Dependency** (while the structural \|D−C\| relation remains pre-existing).
+If Axis A fails (Category Error), **the system becomes relationally invalid**: AI becomes Subject, the experienced challenge in the ZPD collapses toward 'no struggle,' and **PSB risk increases; when PSB co-occurs → Cognitive Dependency** (while the structural \|D−C\| relation remains pre-existing).
 ### Wiring (Relations)
 - **Maps:**
     - Category Error

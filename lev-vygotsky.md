@@ -25,8 +25,8 @@ Backlinks:
     - 7-critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
-    - executive-summary_e.md
+    - integrated-synthesis-of-psychological-developm_p.md
+    - executive-summary_t.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md

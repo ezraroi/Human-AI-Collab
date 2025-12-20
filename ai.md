@@ -15,6 +15,7 @@ Backlinks:
     - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
     - 4-revised-contribution-of-notebook-11.md
+    - embodied-engagement-conditions.md
     - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
     - 3-the-three-emergent-insights-from-cross-analy.md
@@ -26,6 +27,7 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - system-0.md
     - section-2-definition.md
+    - journal.md
     - 1-executive-summary-resolving-the-ontology-cri.md
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
@@ -38,7 +40,7 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_s.md
+    - executive-summary_y.md
     - selected-fact.md
     - human.md
     - neural-synchrony.md
@@ -62,7 +64,7 @@ Backlinks:
     - 6-the-final-positioning-framework.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_p.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md

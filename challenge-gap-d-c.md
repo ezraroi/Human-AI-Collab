@@ -17,6 +17,7 @@ Backlinks:
     - 3-the-mechanism-vs-existence-distinction.md
     - section-5-the-category-error-relational-axis-f.md
     - 4-the-system-architecture-v2-0.md
+    - journal.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
@@ -31,6 +32,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - two-axis-framework.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - 7-critical-connection-5-why-psb-happens.md

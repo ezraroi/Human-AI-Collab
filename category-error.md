@@ -17,7 +17,7 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
-    - executive-summary_s.md
+    - executive-summary_y.md
     - human.md
     - the-container.md
     - 7-final-conclusion-the-third-intelligence.md

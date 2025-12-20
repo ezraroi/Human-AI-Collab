@@ -160,10 +160,10 @@ Wilfred Bion
 
 The internal, embodied process of metabolizing raw, unthinkable experience (Beta-Elements) into thinkable thoughts (Alpha-Elements)—felt sense made thinkable.
 **Phenomenological Root (Husserl):** Maps to **Noesis**.
-This is the *subjective act* of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.
-**System Role: **The "Engine" of the Third Intelligence. It is sparked when the experienced challenge is held long enough for metabolization (while \|D–C\| remains pre-existing)
+This is the subjective act of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.
+**System Role:** The “Engine” of the Third Intelligence. It is sparked when the experienced challenge is held long enough for metabolization (while \|D–C\| remains pre-existing).
 ### Local Failure Mode (PSB – Protein Shake Brain)
-When the Alpha-Function is bypassed or under-engaged, symbolic material is taken in without metabolic processing. AI outputs or abstractions are “consumed” directly, producing:
+When the Alpha-Function is bypassed or under-engaged, symbolic material is processed without sustained **C1 ↔ C2 coupling** (metabolic processing). AI outputs or abstractions are “consumed” directly, producing:
 - outward fluency without inward transformation,
 - narrative coherence without somatic resonance,
 - insights that do not change behavior or identity,
@@ -174,7 +174,7 @@ This is the Alpha-Function’s component-level collapse.
 When Alpha-Function is offline or overwhelmed:
 - Somatic signals (if present) fail to be integrated, so processing becomes symbol-dominant; **Symbolic Overrun** emerges specifically when the **As-If Body Loop is weak or bypassed**.
 - Journal becomes corrupted (**when the work carries Identity Stakes**): entries are written without metabolization, producing pseudo-insight or thin narratives.
-- **Capacity (C)** fails to accumulate: Not real growth is happening.
+- **Durable Capacity (C) growth is compromised:** metabolization does not reliably produce owned α-elements that can accumulate over Time.
 - **Axis B collapses** into a Channel-2-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.
 
 Alpha-Function failure therefore propagates through the entire circuit.
@@ -182,7 +182,7 @@ Alpha-Function failure therefore propagates through the entire circuit.
 **When Alpha-Function is online:**
 - A sense of “frustration → reorganization → relief.”
 - Experiential “clicks” or felt shifts (spaciousness).
-- Insight feels personally *owned*, not just understood.
+- Insight feels personally owned, not just understood.
 - Writing comes in your own language.
 - Ambiguity feels tolerable long enough for transformation to occur.
 
@@ -201,12 +201,12 @@ Alpha-Function draws heavily on Sₑ — the system’s emotional capacity to to
 - **Sₑ depletion:** requires recovery periods (Touch Grass Protocol) to restore metabolic capacity.
 
 Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material.
-**Wiring (Relations)**
+### Wiring (Relations)
 - **Part Of:** Integrated Circuit Board (Axis B architecture)
-- **Requires:** As-If Body Loop for somatic input; sufficient Sₑ for frustration tolerance
-- **Counteracted By:** PSB (when Alpha is bypassed)
-- **Constrained By:** Axis A (Category Error increases vulnerability by weakening interpretation and embodied checking)
-Recursive Metabolic Loop
+- **Requires:** As-If Body Loop for **C1 ↔ C2 coupling capability**; sufficient Sₑ for frustration tolerance
+- **Counteracted By:** PSB (when Alpha-Function is bypassed)
+- **Constrained By:** Axis A (Category Error increases vulnerability and PSB risk by making the relational stance invalid)
+- **Feeds:** Recursive Metabolic Loop
 
 ---
 
@@ -773,20 +773,20 @@ Rationale: “Eidetic structure” is Husserlian; here it names the invariant ar
 ## [CONCEPT] Embodied Engagement Conditions
 [Theoretical] NoteBook 6 - Cognitive Mechanics, Domain: Synthesis, System Role: Scaffolding, Temporal: Static
 
-The three content-level prerequisites that determine whether symbolic AI output (Channel 2) successfully recruits embodied processing (Channel 1) rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become **metabolically active** and trigger the transformation pathway. When these conditions are met, the Integrated Circuit Board engages; **when they are absent, PSB pathology emerges**.
-## **System Role:**
-Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether Channel 1 is recruited into the Recursive Metabolic Loop. They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, influencing whether Alpha-Function can engage in genuine transformation versus remaining offline.
-This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces nothing—or worse, PSB.
-### **The Three Conditions:**
+The three content-level prerequisites that determine whether symbolic material (Channel 2) can sustain productive **C1 ↔ C2 coupling** rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become metabolically active and **enable** the transformation pathway. When these conditions are met, the **Integrated Circuit Board is more likely to engage**; when they are absent, processing tends to remain **Channel-2 dominant** and **PSB risk increases**.
+### System Role:
+Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether sustained **C1 ↔ C2 coupling** can occur within the Recursive Metabolic Loop. They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, influencing whether Alpha-Function can engage in genuine transformation versus remaining offline.
+This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces limited change—or increases PSB risk.
+### The Three Conditions:
 **1. Functional Alterity**
 - The symbolic content must register as irreducibly different turn-by-turn (without implying AI subjectivity)
 - Preserves productive disorientation and epistemic tension as the pre-existing challenge is encountered
 - Prevents mere reflection/echo which collapses into monologue
-- Without this: AI output feels like user's own thoughts; productive epistemic tension collapses; Channel 1 remains dormant
+- **Without this:** AI output feels like user's own thoughts; productive epistemic tension collapses; Channel 1 remains dormant
 
 **2. ZPD Alignment**
 - The difficulty level must fall within the user's Zone of Proximal Development—the distance between what they can do independently and what becomes possible with guidance/collaboration under scaffolding
-- Too easy → the assisted workspace collapses into ‘no challenge’ (boredom, no metabolic demand)
+- Too easy → the assisted workspace collapses into 'no challenge' (boredom, no metabolic demand)
 - Too hard → the assisted workspace becomes unworkable (overwhelm, defensive shutdown)
 - A workable subset of the pre-existing \|D–C\| relation, in the presence of adequate scaffolding, supports productive epistemic tension
 - **Without this:** Material either bypasses Alpha-Function (too easy) or exceeds emotional scaffolding capacity (too hard)
@@ -797,45 +797,45 @@ This object explains **differential outcomes**: why some AI output produces insi
 - **Without this:** Work stays in Channel 2; body doesn't register relevance; no somatic verification signal emerges
 
 **Critical Conjunction:**
-All three conditions must be present simultaneously.
-**How It Works:**
+All three conditions must be present simultaneously **for sustained coupling to be reliably achieved**.
+### How It Works:
 When all three conditions align:
-1. Symbolic material enters system through Channel 2
+1. Symbolic material is present in the system (via AI engagement, whether initiated by felt tension or by direct query)
 2. Functional Alterity helps preserve productive epistemic tension turn-by-turn (prevents immediate assimilation)
 3. ZPD Alignment ensures material is metabolizable (not too easy/hard)
 4. Identity Stakes activates somatic relevance detection
-5. → As-If Body Loop engages, routing symbolic content through embodied simulation
+5. → As-If Body Loop engages, enabling **C1 ↔ C2 coupling** through embodied simulation
 6. Felt Sense becomes salient as the Channel 1 verification signal
 7. → Alpha-Function receives joint input (symbolic + somatic) and can metabolize
-8. → Transformation pathway activated
+8. → Transformation pathway becomes **available** (degree depends on sustained coupling)
 
 When conditions are absent:
-- Material bypasses embodiment entirely
-- Remains purely informational/symbolic
-- PSB pathology: fluent consumption without metabolic processing
-- No Alpha-Function engagement → no capacity growth
+- Material tends to remain primarily symbolic/informational
+- Embodied engagement is less likely to occur
+- PSB risk increases: fluent consumption without metabolic processing
+- Alpha-Function engagement is less likely → reduced likelihood of capacity growth
 
-**Relationship to System Architecture:**
+### Relationship to System Architecture:
 This object describes **input-side gating** for the Integrated Circuit Board:
 - **Integrated Circuit Board** = the routing architecture (how metabolism occurs)
 - **Embodied Engagement Conditions** = the activation prerequisites (when metabolism occurs)
 - **Preconditions for Transformative AI Dialogue** = human-side capacities (who can do this work)
 
-**Channel 1 cannot be recruited reliably (via the As-If Body Loop)** without these content conditions being met. Even when the human-side Preconditions for Transformative AI Dialogue are present, if the AI output lacks these three properties, the circuit does not activate.
-**Failure Modes:**
-|      Missing Condition |                      Failure Mode |                                                                                                                            Result |
-|:-----------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
-| No Functional Alterity | Echo chamber / validation seeking |                                                                                              Category Error risk; False True Self |
-|       No ZPD Alignment |              Too easy or too hard |                                                                                     Boredom or overwhelm; no Alpha-Function spark |
-|     No Identity Stakes |               Technical work only |                                                                                      Channel 2 processing only; no transformation |
-|        Multiple absent |                   Complete bypass |   PSB; (and if Category Error co-occurs → Cognitive Dependency); capacity atrophy |
+Sustained **C1 ↔ C2 coupling** is less likely to occur reliably (via the As-If Body Loop) without these content conditions being met. Even when the human-side Preconditions for Transformative AI Dialogue are present, if the AI output lacks these three properties, the circuit is **less likely to engage**.
+### Failure Modes:
+|                        Missing Condition |                      Failure Mode |                                                                            Result |
+|:-----------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------|
+|                   No Functional Alterity | Echo chamber / validation seeking |   Category Error risk; False True Self |
+|                         No ZPD Alignment |              Too easy or too hard |                                     Boredom or overwhelm; no Alpha-Function spark |
+| No Identity Stakes |               Technical work only |                                      Channel 2 processing only; no transformation |
+|                          Multiple absent |                   Complete bypass |   PSB; (and if Category Error co-occurs → Cognitive Dependency); capacity atrophy |
 
-**Relations (Wiring):**
-- **Triggers (when met):** Channel 1 engagement, As-If Body Loop, Alpha-Function
+### Relations (Wiring):
+- **Enables (when met):** C1 ↔ C2 coupling, As-If Body Loop engagement, Alpha-Function activation
 - **Feeds (when met):** Recursive Metabolic Loop
-- **Failure Mode (when absent):** PSB, Cognitive Dependency
+- **Risk Of (when absent):** PSB, Cognitive Dependency
 - **Distinct From:**
-    - Preconditions for Transformative AI Dialogue
+    - Preconditions for Transformative AI Dialogue (human-side capacities)
     - Psychoanalytic Prerequisites (developmental architecture)
 - **Operationalized By:** Reflective Prompting
 - **Engages:** Felt Sense (Channel 1 verification signal)
@@ -2144,82 +2144,136 @@ This process results in a **"reinforcing loop"** where each component logically 
 ---
 
 ## [CONCEPT] The Integrated Circuit Board
-[Theoretical] New Concept, Domain: Synthesis, System Role: Meta, Temporal: Static
+[Theoretical] New Concept, Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core
 
-NOT SURE THIS IS A GRAPH,NEED TO CHECK AGAINST OTHER IDEAS AND REFLCT WITH THE AI.
+### Architectural Framing
+The Integrated Circuit Board is a **qualitative wiring heuristic** for Axis B. It specifies coupling requirements, dependency constraints, and failure propagation in the human transformation process. It does not claim computational determinism, nor a measurable neurocircuit.
+> Explanation: This bounding paragraph is placed first to prevent literalist misreading. It establishes the metaphor's scope before describing the mechanism.
+
 A systemic architecture that specifies how Alpha-Function, the As-If Body Loop, and the Journal operate as a single metabolic unit inside Axis B of the Two-Axis Framework.
-It describes the *routing, sequencing, and feedback* by which raw experience becomes verified, symbolically articulated, and stabilized as Capacity (C) over Time.
+It describes the *coupling, routing, and feedback* by which raw experience becomes verified, symbolically articulated, and — when materialized — stabilized as Capacity (C) over Time.
 ### System Role
-- Provides the **mechanistic map** of the processing axis (Axis B).
+- Provides the **architectural map** of the processing axis (Axis B).
 - Specifies *how*:
     - Symbolic input from AI enters the system (Channel 2)
     - Recruits embodied verification (Channel 1) via the As-If Body Loop
-    - Gets metabolized by Alpha-Function
-    - And is materialized + returned via the Journal across sessions.
+    - Gets metabolized by Alpha-Function through recursive oscillation
+    - And may be materialized via the Journal across sessions
 - Enables **diagnosis of distinct failure modes**:
-    - PSB (Channel 1 bypass; Alpha-Function fails to engage robustly)
-    - Symbolic Overrun (As-If Body Loop offline)
-    - Transient Insight (Journal missing/corrupted)
-- Allows you to talk not only about “three components are necessary”, but about **how the output of one becomes the input of the other**.
+    - PSB (C1 ↔ C2 coupling systematically absent)
+    - Symbolic Overrun (As-If Body Loop weak or offline)
+    - Transient Insight (Journal missing when durable growth needed)
+- Allows you to talk not only about "three components are necessary", but about **how they must couple for metabolism to occur**.
+
+### Core Invariant: Coupling, Not Sequence
+The circuit's operative requirement is **coupling**: Channel 2 (symbolic material) and Channel 1 (embodied signal) must talk to each other during Alpha-Function processing. The "direction" describes dependency and failure propagation, not mandated temporal order.
+> Explanation: This replaces the rigid "must precede" language. Coupling is the invariant; sequence is a typical trace, not a gate structure.
 
 ### Mechanism (High-Level Flow)
-Minimal cycle (one “transformative pass”):
-1. **Input – Symbolic Challenge (Channel 2):**
-    - User encounters a problem or prompt → engages AI.
-    - AI returns symbolically rich material (proposal, reflection, tension).
-    - This introduces symbolic material that may be experienced as difficulty, at some distance from current Capacity.
-2. **As-If Body Loop Engagement (Data Bus):**
-    - The symbolic material is *held in attention* (not bypassed).
-    - The As-If Body Loop simulates bodily states (AIC / somatic markers) → “felt sense” appears.
+One metabolic pass through the circuit:
+1. **Entry — Tension or Symbolic Challenge:**
+    - Entry can occur via either channel:
+        - **C1 → C2 (typical at session initiation):** Felt tension/ache seeks externalization and symbolization through AI engagement
+        - **C2 → C1 (typical mid-session):** AI provides symbolic material requiring embodied verification
+    - What matters is that both channels become engaged, not which fires first.
+
+> Explanation: Your lived experience shows session-phase dependency. Entry direction shifts based on where you are in the session arc.
+
+1. **As-If Body Loop Engagement (Channel Bridge):**
+    - Symbolic material is *held in attention* (not bypassed or prematurely accepted).
+    - The As-If Body Loop simulates bodily states (AIC / somatic markers) → "felt sense" appears.
     - This generates embodied signal about relevance, coherence, threat, etc. (Channel 1).
-3. **Alpha-Function Metabolism (Processor / Regulator):**
-    - Alpha-Function metabolizes symbolic content (Channel 2) in recursive oscillation with somatic signal (Channel 1).
-    - It transforms beta-elements (raw/unbearable or unstructured experience) into alpha-elements (thinkable representations).
-    - Result: a more organized, personally owned configuration of meaning (proto-insight).
-4. **Journal Materialization (External Organ):**
-    - The user writes the metabolized insight in their own language.
+    - The signal may confirm, resist, or complexify the symbolic content.
+2. **Alpha-Function Metabolism (Recursive Oscillation):**
+    - Alpha-Function metabolizes through **C2 ↔ C1 oscillation** — not linear processing.
+    - Symbolic content is checked against somatic signal; somatic signal is articulated through symbolic refinement.
+    - The oscillation continues until:
+        - A stable α-element forms (Full Pass), or
+        - Contact increases without crystallization (Proximity Pass), or
+        - Coupling fails to stabilize (Abandoned Pass)
+    - Result: a more organized, personally owned configuration — or increased contact with what remains unnamed.
+3. **Journal Materialization (External Organ — Conditional):**
+    - When a discrete insight crystallizes, the user writes in their own language.
     - This:
         - Fixes the transformation in time (chronotope),
         - Creates substrate for future pattern recognition,
-        - Carries the captured record of alpha-elements into future cycles as a strengthened baseline for capacity.
-5. **Recursive Feedback (Time):**
-    - On later days, the Journal feeds prior α-elements back into the next cycle as “baseline C”.
-    - The circuit runs again with new input (D) → repeated metabolic passes gradually increase Capacity (C).
+        - Carries alpha-elements into future cycles as strengthened baseline C.
+    - **Journal is not required for all valid passes.** Proximity Passes may leave no formal entry; the conversation history itself may serve as weak substrate.
 
-That is a **directed graph**, not just a list of parts.
-### Sequencing & Dependency Rules (Qualitative Ordering)
-The circuit requires a specific qualitative order of operations. Each component depends on the correct activation of the previous one:
-1. **Symbolic Input Must Precede Embodied Simulation**
-    - The As-If Body Loop cannot activate without symbolic material held in attention.
-    - If symbolic input is skipped or prematurely accepted, the circuit never enters embodied verification.
-2. **Embodied Simulation Must Precede Alpha-Function**
-    - Alpha-Function requires both symbolic form (Channel 2) and somatic signal (Channel 1).
-    - If no felt-sense emerges, Alpha processes symbol-only content, leading to brittle or pseudo-insight.
-3. **Alpha-Function Must Precede Journal Materialization**
-    - Journaling requires metabolized content.
-    - Writing too early (before embodied-somatic resolution) produces pseudo-integration or rationalization.
-4. **Journal Materialization Must Precede Recursive Reintegration**
-    - Externalized alpha-elements can feed into future cycles as stable Capacity (C), especially when the work carries Identity Stakes.
-    - Without materialization, recursive strengthening may not reliably occur.
+> Explanation: This reflects your clarification that not everything is "deep enough" for a journal entry. The Journal is essential for durable growth but not for all valuable processing.
 
-**This ordering defines the “circuit” nature of the system: each component’s output is the next component’s required input.**
+1. **Recursive Feedback (Time):**
+    - On later days, the Journal (or persistent conversation context) feeds prior material back into the next cycle.
+    - The circuit runs again with new input → repeated passes may gradually increase Capacity (C).
+    - Proximity Passes without Journal may still shift structural readiness, but with less durability.
+
+### Pass Types (Valid Circuit Completions)
+The circuit can complete in three ways:
+|                            Pass Type |                                                 Coupling |                                                   Output |                                                           Journal |                                                                             Capacity Effect |
+|:-------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
+| **Full Metabolic Pass (Full Click)** |                           C1 ↔ C2 oscillation stabilizes |                                   Discrete owned insight |                                   Yes — captures what became true |                              Durable C growth via stored alpha-element |
+|   **Proximity Pass (Partial Click)** |   C1 ↔ C2 oscillation occurred, didn't fully crystallize | Reduced distance, clearer direction, increased tolerance |   Typically no — conversation history may serve as weak substrate | Structural readiness grows (calibration, tolerance, precision), less durable than Full Pass |
+|                   **Abandoned Pass** |                             Coupling failed to stabilize |                                          None or minimal |                                                                No |                                              Neutral; slightly degrading if pattern repeats |
+
+> Explanation: This introduces "coming closer without arriving" as a first-class valid outcome. Not all transformation produces discrete insight. Proximity Passes grow structural readiness without requiring journal materialization.
+
+### Session-Phase Dynamics (Canonical Traces)
+The dominant flow direction shifts based on session phase:
+- **Initiation trace:** C1 → C2 → oscillation
+*(Felt tension seeks symbolization through AI)*
+- **Mid-session trace:** C2 → C1 → oscillation
+*(AI proposes; body verifies)*
+- **Closure trace:** oscillation → Journal (optional) → Time
+*(Stabilization and re-entry substrate)*
+
+These are typical paths, not mandated sequences. The system tolerates divergence, delay, and return without penalty.
+> Explanation: This explicitly models your experience that entry is phase-dependent, and frames the traces as "typical" rather than "required."
+
+### Coupling Gates (Replacing Sequencing Rules)
+The circuit requires coupling, not order:
+1. **C2 and C1 must engage together during Alpha processing**
+    - If C2 runs without C1 verification → Symbolic Overrun (high clarity, low conviction)
+    - If C1 signal is present but not symbolized → Nameless dread, acting out
+    - Coupling is the test; entry point is flexible
+2. **Alpha-Function requires joint input**
+    - Symbol-only processing produces brittle pseudo-insight
+    - Soma-only processing remains unarticulated
+    - Metabolization requires both channels in recursive contact
+3. **Materialization requires metabolized content (when it occurs)**
+    - Journaling before embodied-somatic resolution produces pseudo-integration
+    - But not all processing needs journaling — Proximity Passes are valid without it
+4. **Durable recursive reintegration requires external substrate**
+    - Journal provides strongest durability
+    - Persistent conversation context provides partial substrate
+    - Without either, Proximity shifts are real but more vulnerable to regression
+
+### Verification Checkpoints
+4Ps/RPVL function as checkpoints that pause the circuit to require explicit validation before treating symbolic output as owned alpha. They prevent "unverified current" from being mistaken for integrated meaning.
+> Explanation: Renamed from "circuit breaker" — these don't stop processing, they require authentication before proceeding.
+
 ### Global Interaction Dynamics (Propagation Rules)
 Because the circuit is a directed, interdependent architecture, degradation in one component produces predictable distortions elsewhere:
 - **If the As-If Body Loop is weak or bypassed:**
     - Embodied signals (tight/spacious) do not emerge.
     - Alpha-Function receives symbol-only input → leads to *Symbolic Overrun* (high conceptual clarity, low embodied conviction).
 - **If Alpha-Function is under-engaged or overrun:**
-    - β-elements remain unprocessed.
-    - Journal entries become either empty or AI-heavy → signature of *Protein Shake Brain (PSB)*.
+    - beta-elements remain unprocessed.
+    - Journal entries (if made) become AI-heavy or imitative.
     - Future cycles start with weak or nonexistent C.
-- **If the Journal is missing or corrupted:**
-    - Capacity (C) may not reliably accumulate across Time (when the work carries Identity Stakes).
-    - Prior insights cannot be operationalized.
-    - Future \|D–C\| gaps become miscalibrated → leading to overwhelm or stagnation.
+- **If the Journal is missing when durable growth is needed:**
+    - Full Pass insights may not reliably accumulate across Time.
+    - Prior patterns cannot be recognized or operationalized.
+    - Future \|D–C\| gaps become miscalibrated.
+    - (Note: Journal absence is normal for Proximity Passes and light processing.)
+- **PSB Pattern (Diagnostic):**
+    - Repeated C2 throughput with weak C1 coupling
+    - Coupling failure is the signature, not Journal absence
+    - Distinguished from Proximity Pass by: no felt sense during conversation, smooth consumption rather than working-on-something, rapid evaporation post-session
 
-These propagation patterns are system-level signatures that differentiate the circuit from a mere list of components.
+> Explanation: PSB is now clearly distinguished from Proximity Pass by coupling pattern, not journaling behavior.
+
 ### Global Sₑ Constraint (Qualitative Energy Budget)
-The circuit’s throughput is bounded by the available Emotional Scaffolding (Sₑ):
+The circuit's throughput is bounded by available Emotional Scaffolding (Sₑ):
 - Deep Alpha-Function cycles consume Sₑ (frustration tolerance, uncertainty holding).
 - The Journal stabilizes previously metabolized alpha-elements, reducing reprocessing load across sessions.
 - If Sₑ becomes too low, the circuit cannot run safely:
@@ -2227,22 +2281,31 @@ The circuit’s throughput is bounded by the available Emotional Scaffolding (S�
     - Alpha-Function becomes unstable or overloaded,
     - Risk of overwhelm, manic acceleration, or premature closure increases.
 
-Sₑ therefore acts as the system’s qualitative “power regulator,” determining how deeply the metabolic cycle can run at any given moment.
-### D. Wiring (Relations)
-- **Part Of:** Axis B – Processing Mode (Two-Axis Framework)
+Sₑ therefore acts as the system's qualitative "power regulator," determining how deeply the metabolic cycle can run at any given moment.
+### Relationship to Coherence Flywheel
+The **Coherence Flywheel** describes the phenomenology of the circuit when it's engaged well — how it *feels* from inside. The relationship is complementary, not isomorphic:
+- **ICB:** Architectural constraints (what must couple for transformation to be possible)
+- **Flywheel:** Experiential dynamics (how the process feels when engaged)
+
+Flywheel stages (Spark → Spill → Mirror → Click → Mark → Recoil) do not map one-to-one onto circuit nodes. They illuminate each other without collapsing into each other.
+> Explanation: Makes explicit that these are two lenses on the same phenomenon, with deliberately loose mapping.
+
+### Wiring (Relations)
+- **Part Of:** Axis B — Processing Mode (Two-Axis Framework)
+- **Complemented By:** Coherence Flywheel (phenomenological view of same process)
 - **Depends On:**
     - Correct Axis A stance (AI as DTO)
     - Emotional Scaffolding (Sₑ) sufficient for frustration tolerance
 - **Contributes To:**
-    - Growth of C (Capacity) over Time
+    - Growth of C (Capacity) over Time — durable (Full Pass) or structural (Proximity Pass)
     - Prevention / diagnosis of PSB, Symbolic Overrun, Transient Insight
 - **Raises Risk Of (if misconfigured):**
-    - Cognitive Dependency (**if AI treated as Subject and PSB co-occurs**)
-    - PSB (if Alpha-Function is not engaged)
-    - Disembodied pseudo-clarity (if As-If Body Loop is offline)
-    - “Insight with no consequences” (if Journal is absent)
+    - Cognitive Dependency (if AI treated as Subject and PSB co-occurs)
+    - PSB (if C1 ↔ C2 coupling systematically absent)
+    - Disembodied pseudo-clarity (if As-If Body Loop offline)
+    - "Insight with no consequences" (if Journal absent when durable growth needed)
 
-**Notes:** Architectural map of Axis B (processing). Defines the wiring between Channel 2 → As-If Loop → Channel 1 → Alpha-Function → Journal → Time.
+**Notes:** Qualitative wiring heuristic for Axis B (processing). Defines coupling requirements between C2 ↔ As-If Loop ↔ C1 ↔ Alpha-Function, with optional Journal → Time for durable accumulation. System tolerates divergence, delay, and return; coupling is the invariant, sequence is typical trace.
 
 ---
 
