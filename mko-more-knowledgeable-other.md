@@ -17,7 +17,6 @@ Backlinks:
     - technical-scaffolding-s_t.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - 1-what-this-review-established.md
-    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - embodied-simulation.md
+    - reflective-prompting.md
     - document-abstract.md
     - 5-the-embodied-connection.md
     - 12-what-this-means-for-your-paper.md
@@ -20,8 +21,10 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - productive-epistemic-tension.md
     - iron-man-mentality.md
+    - rrv-cycle-recursive-refine-validate.md
+    - human.md
     - 9-the-hidden-implications-youve-discovered.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
@@ -46,7 +49,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_c.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

@@ -10,14 +10,15 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
     - journal.md
+    - extended-mind-hypothesis-hec.md
     - the-large-language-model-as-dynamic-transition.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
     - time.md
     - 9-the-hidden-implications-youve-discovered.md
     - 7-final-conclusion-the-third-intelligence.md
-    - external-alpha-function.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
+    - 15-is-your-model-suggesting-something-new.md
     - mikhail-bakhtin.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md

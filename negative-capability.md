@@ -11,7 +11,6 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
-    - human.md
     - section-8-boundary-conditions-prerequisites.md
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md

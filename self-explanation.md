@@ -8,7 +8,6 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Dynamic'
 Backlinks:
-    - reflective-prompting.md
     - 5-the-embodied-connection.md
     - conflict-detection-model-repair.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md

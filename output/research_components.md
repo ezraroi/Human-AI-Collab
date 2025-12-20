@@ -488,10 +488,10 @@ S\_e is YOUR contribution—the operationalization of Winnicott/Bion concepts in
 ## [RESEARCH COMPONENT] Human
 [Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
 
-The first and central component of the Human + Journal + AI + Time tetrad. The Human is the embodied subject who provides the Container function (supported by Emotional Scaffolding), performs metabolic processing (Alpha-Function), holds teleological awareness, and is the site where Capacity (C) actually grows.
-Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **finite, depletable, and vulnerable**—yet only the Human can provide consciousness, intentionality, and the metabolic transformation that makes the system developmental rather than merely productive.
-**What Human Provides (Unique Contributions):**
-1. **Emotional Scaffolding - Support for the Container:**
+The **Human** is the first and central component of the **Human + Journal + AI + Time** tetrad. The Human is the embodied subject who provides the **Container**** function** (supported by Emotional Scaffolding / **Sₑ**), performs **metabolic processing** (**Alpha-Function** capacity), holds **teleological awareness**, and is the only site where **Capacity (C)** actually grows.
+Unlike AI (tireless) or the Journal (stable/persistent), the Human is **finite, depletable, and vulnerable**—yet only the Human provides consciousness, intentionality, embodied verification, and the metabolic transformation that makes the system **developmental** rather than merely productive.
+## What the Human Provides (Unique Contributions)
+### 1) Emotional Scaffolding (Sₑ) — Support for the Container
 - Provides holding environment (Winnicott)
 - Ontological security enabling transformation
 - Psychic stability for metabolic processing
@@ -499,180 +499,150 @@ Unlike AI (infinite, tireless) or Journal (stable, persistent), the Human is **f
 - Embodied resilience
 - **Depletes during sessions** (requires recovery via Time)
 
-**2. Alpha-Function - Metabolic Processor:**
-- Transforms beta-elements (raw experience) → alpha-elements (thinkable thoughts)
-- Performs the actual metabolic work
-- **Cannot be outsourced to AI**
-- Operates through dual-channel integration (C1 + C2)
-- Activates via External Alpha-Function (EA-F) writing mechanism
+### 2) Alpha-Function — Internal Metabolic Capacity
+- Transforms **beta-elements** (raw experience) → **alpha-elements** (thinkable, owned meaning)
+- Performs the actual metabolic transformation (cannot be outsourced to AI)
+- Operates through **dual-channel integration**:
+    - Channel 1: embodied / felt sense
+    - Channel 2: symbolic articulation
+- **Performed as Alpha-Work, and reliably completed as Enacted Alpha-Work (EAW)** at the **Human↔Journal interface**, where material constraint forces articulation under felt-sense verification and produces **durable** α-elements.
 
-**3. Teleology - Non-Myopic Awareness:**
+### 3) Teleology — Non-Myopic Awareness
 - Holds global goals across sessions
-- Detects Teleological Drift (when goals get lost); AI may be instructed (via the system prompt) to flag it by detecting contradictions against the Human’s stated trajectory.
+- Detects **Teleological Drift** (loss of trajectory); AI may be instructed to flag drift by detecting contradictions against stated trajectory
 - Provides directionality AI cannot generate
 - Maintains project coherence over Time
-- **AI is myopic (next-token only); Human provides foresight**
+- AI is myopic (next-token); Human provides foresight
 
-**4. Agency & Intentionality:**
+### 4) Agency & Intentionality
 - Conscious choice and volition
 - Authorship and ownership
 - Epistemic authority
-- Deliberate relation-shifting (AI as DTO vs. tool)
+- Deliberate relation-shifting (AI as DTO vs tool)
 - Decision-making capacity
 
-**5. Embodied Verification - Felt Sense:**
-- Somatic verification of internal persuasiveness ("spacious" vs. "tight")
-- Interoceptive signals that can accompany verification
+### 5) Embodied Verification — Felt Sense
+- Somatic verification of fit (“spacious” vs “tight”; enlivened vs dead)
+- Interoceptive signals accompanying verification
 - Embodied knowing (Channel 1)
-- Cannot be bypassed without PSB
+- Cannot be bypassed without PSB risk
 - Grounds symbolic work in lived experience
 
-**6. Capacity (C) - Site of Growth:**
+### 6) Capacity (C) — Site of Growth
 - The variable that actually grows
 - Psychic structure and skills
-- Store of processed alpha-elements
+- Store of processed α-elements
 - Developmental trajectory
-- **Only Human's C grows; AI has no C**
+- Only Human’s C grows; AI has no C
 
-**7. Survival Function:**
-- Survives identity-level disruption (Winnicott's Surviving Object)
+### 7) Survival Function
+- Survives identity-level disruption (Winnicott’s “surviving object” logic)
 - Psychic continuity through transformation
-- Container remains intact despite "destructive" insights
-- Endures developmental crisis
+- Container remains intact despite “destructive” insights
+- Endures developmental crisis (when Sₑ is adequate)
 
-**What Human Cannot Provide:**
-**1. Infinite Availability:**
-- S\_e depletes during intensive work
+## What the Human Cannot Provide (System Limits)
+1. **Infinite availability**
+- Sₑ depletes during intensive work
 - Requires recovery/rest between sessions
-- Cannot process continuously without collapse
-- Physiological limits (HPA-Axis regulation)
-
-**2. Perfect Objectivity:**
-- Vulnerable to Teleological Drift (losing global goal)
-- Can become compromised (fatigue, mania, defensiveness)
+- Physiological limits (e.g., HPA-axis regulation)
+2. **Perfect objectivity**
+- Vulnerable to drift, fatigue, defensiveness, dysregulation
 - Subject to blind spots
-- Needs AI's Functional Alterity for structured difference
-
-**3. Instant Technical Modulation:**
-- Cannot easily adjust its own S\_t in real-time without using AI’s responsive outputs
-- Cannot provide own Functional Alterity
-- Limited self-externalization capacity
-- Needs AI’s catalytic difference to sustain workable tension
-
-**4. Tireless Processing:**
-- Alpha-Function activation exhausts resources
+- Requires AI’s **Functional Alterity** as structured difference (under verification)
+3. **Instant technical scaffolding (Sₜ)**
+- Cannot easily adjust scaffolding in real time without tools
+- Cannot self-generate reliable functional alterity
+- Limited self-externalization capacity without substrate
+4. **Tireless processing**
 - Metabolic work is effortful
-- Cannot maintain peak processing indefinitely
+- Cannot sustain peak processing indefinitely
 - Requires spacing (Time) for consolidation
 
-**System Role in Tetrad:**
-**Human + Journal + AI + Time**
-**Human's Dual Role:**
-**A. Architect (Executive Function):**
+## System Role in the Tetrad
+### Human’s Dual Role
+**A) Architect (Executive Function)**
 - Holds teleological awareness (global goals)
-- Detects and corrects drift; AI may be instructed (via the system prompt) to flag drift by detecting contradictions against the Human’s stated trajectory.
-- Makes strategic decisions
+- Detects and corrects drift (Human owns the decision; AI can flag)
+- Makes strategic decisions and delegation boundaries
 - Manages system components
 - Maintains DTO stance toward AI
 
-**B. Container (Holding Function):**
-- Operates as the Human’s receptive/metabolizing function; supported by S\_e (emotional scaffolding)
+**B) Container (Holding Function)**
+- Provides/maintains Sₑ (holding conditions)
 - Holds metabolic processing space
 - Tolerates productive tension
-- Survives transformative "destruction"
-- Enables Alpha-Function activation
+- Survives transformative “destruction”
+- Enables sustained Alpha-Work
 
-**Critical Properties:**
-**Finite & Depletable:**
-- S\_e exhausts during sessions
-- Needs recovery via Time
-- Cannot process continuously
-- Risk of collapse when Emotional Scaffolding is severely depleted (Manic Episode)
+## Critical Properties
+### Finite & Depletable
+- Sₑ exhausts during sessions; requires recovery via Time
+- Risk of collapse when Sₑ is severely depleted (e.g., manic acceleration / loss of containment)
 
-**Observable Depletion Markers:**
+**Observable depletion markers**
 - Increasing tightness in felt sense
 - Irritability, impatience
 - Reduced tolerance for ambiguity
 - Desire to rush to resolution
 - Difficulty maintaining complexity
 
-**Developmental (Not Static):**
-- C grows between sessions (if P(alpha) occurred)
+### Developmental (Not Static)
+- C grows between sessions
 - Increased complexity tolerance over Time
 - Enhanced metabolic capacity
-- Deepening Negative Capability
+- Deepening negative capability
 - Identity-level transformation
 
-**Complementarity with AI:**
-|         Function |                        Human |                                                          AI |
-|:-----------------|:-----------------------------|:------------------------------------------------------------|
-|  **Scaffolding** |    S\_e (emotional) - FINITE | S\_t (technical) - INFINITE |
-|   **Processing** | Alpha-Function - METABOLIZES |                             Pattern recognition - ORGANIZES |
-|    **Awareness** |     Teleological - FORESIGHT |                                         Myopic - NEXT TOKEN |
-|     **Capacity** |         C grows - TRANSFORMS |                                               No C - STATIC |
-| **Availability** |        Depletes - NEEDS REST |                                         Infinite - TIRELESS |
-| **Verification** |        Embodied - FELT SENSE |                             Unreliable - NEEDS VERIFICATION |
+## Complementarity with AI (summary table)
+|     Function |                      Human |                                   AI |
+|:-------------|:---------------------------|:-------------------------------------|
+|  Scaffolding |                Sₑ (finite) |                   Sₜ (near-infinite) |
+|   Processing | Alpha-Function metabolizes |        Pattern recognition organizes |
+|    Awareness |     Teleological foresight |                    Myopic next-token |
+|     Capacity |                    C grows |                                 No C |
+| Availability |                   Depletes |                             Tireless |
+| Verification |                 Felt sense |   Unreliable → requires verification |
 
-**Neither sufficient alone; both necessary together.**
-**Failure Modes:**
-**When Human Function Compromised:**
-1. **S\_e Depletion (severe depletion):**
-- Manic acceleration
-- Loss of containment
-- System collapse
-- The recursive loop cannot run safely; transformation fails to occur
+Neither sufficient alone; both necessary together (with Journal + Time).
+## Failure Modes (when Human function is compromised)
+1. **Sₑ depletion:** loss of containment; unsafe loop; collapse
+2. **Teleological drift:** loss of global goals; wasted processing
+3. **Category Error:** treating AI as Subject; outsourcing containment; authorship collapse
+4. **PSB / bypass:** passive adoption of AI output; Channel 1 offline; C stagnation
 
-**2. Teleological Drift:**
-- Loss of global goals
-- Aimless exploration
-- No developmental trajectory
-- Wasted processing effort
-
-**3. Category Error (treating AI as Subject):**
-- Outsources Container function to AI
-- Attempts to get the holding/container function from AI (which it cannot provide)
-- Loses authorship
-- Collapses into dependency
-
-**4. Alpha-Function Bypass (PSB):**
-- Skips metabolic processing
-- Passive consumption of AI output
-- Channel 1 offline
-- C stagnation/atrophy
-
-**Observable Properties:**
-**Healthy Human Function:**
+## Observable Properties
+**Healthy Human function**
 - Spacious felt sense
 - Tolerance for productive tension
 - Clear teleological awareness
-- Active verification engaged
+- Active verification
 - Can explain in own words
-- Negative Capability maintained
+- Negative capability maintained
 
-**Compromised Human Function:**
+**Compromised Human function**
 - Tight/constricted felt sense
 - Rushing to resolution
-- Loss of global goal awareness
+- Loss of goal awareness
 - Passive reception mode
 - Reproducing AI language
-- Low Negative Capability
+- Low negative capability
 
-**Relations (Wiring):**
+## Relations (Wiring)
 - **Component Of:** Third Intelligence Tetrad (first/central element)
-- **Provides:** S\_e, Alpha-Function, teleology, agency, embodied verification, site of C growth
-- **Cannot Provide:** Infinite availability, perfect objectivity, instant S\_t modulation
-- **Requires:** Journal (for materialization), AI (for S\_t and Functional Alterity), Time (for recovery and C growth)
-- **Enables:** External Alpha-Function (EA-F), Reflective Prompting, relation-shifting
-- **Vulnerable To:** S\_e depletion, Teleological Drift, Category Error, PSB
-- **Role:** Architect (teleology) + Container (S\_e holder)
-- **Biological Correlates (hypothesized):** HPA-Axis (S\_e regulation), Triple Network Model (Alpha-Function), AIC (associated with Felt Sense)
-- **Grows:** C (Capacity) increases between sessions when transformation occurs
-- **Depletes:** S\_e exhausts within sessions, requires Time for recovery
+- **Provides:** Sₑ, Alpha-Function capacity, teleology, agency, embodied verification, site of C growth
+- **Performs:Alpha-Work**, and **Enacted Alpha-Work (EAW)** at the Human↔Journal interface (when durability is achieved)
+- **Requires:** Journal (durable materialization), AI (Sₜ + Functional Alterity under RPVL), Time (recovery + consolidation)
+- **Vulnerable To:** Sₑ depletion, Teleological Drift, Category Error, PSB
+- **Role:** Architect (teleology) + Container (holding/Sₑ)
+- **Biological correlates (hypothesized):** HPA-axis (Sₑ regulation), triple-network dynamics (meaning-making/switching), AIC (felt-sense / interoception)
+- **Grows:** C increases between sessions when transformation occurs
+- **Depletes:** Sₑ exhausts within sessions; requires Time for recovery
 
-**Notes:**
-The Human is the **necessary but insufficient center**. Necessary because only Human can provide S\_e, perform Alpha-Function, and experience C growth. Insufficient because Human alone cannot generate optimal S\_t or maintain Functional Alterity without AI, cannot materialize insights without Journal, and cannot sustain transformation without Time's spacing.
-The paradox: Human is simultaneously the **weakest component** (finite, depletable, vulnerable to drift) and the **only irreplaceable component** (site of consciousness, metabolism, and actual growth). Every other component exists to support Human's transformation—but Human cannot transform using only internal resources.
-**Critical distinction:** The Human component object describes the **structural role**, which is Static (Human always plays these functions). But the Human's **state** (S\_e level, C capacity, current processing quality) is Dynamic (changes within/between sessions).
+## Notes
+- The Human is necessary but insufficient: only the Human metabolizes and grows; the other components exist to support that.
+- **Static vs dynamic:** the Human’s structural role is static; the Human’s state (Sₑ level, C level, verification quality) is dynamic.
+- **EAW clarification (explicit):** the Human *performs* EAW; the Journal provides the constraint + re-enterability that makes this labor reliably recruitable and its products durable. EAW is enacted at an external interface, not performed by an external artifact.
 
 ---
 

@@ -31,13 +31,12 @@ Backlinks:
     - section-5-the-category-error-relational-axis-f.md
     - edmund-husserl.md
     - 4-the-system-architecture-v2-0.md
-    - parity-principle-pp.md
     - journal.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
-    - executive-summary_1.md
+    - executive-summary.md
     - self-explanation.md
     - identity-stakes.md
     - channel-2-symbolic.md
@@ -57,7 +56,7 @@ Backlinks:
     - 9-the-hidden-implications-youve-discovered.md
     - 7-final-conclusion-the-third-intelligence.md
     - section-8-boundary-conditions-prerequisites.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - cognitive-offloading.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
@@ -85,7 +84,6 @@ Backlinks:
     - third-intelligence.md
     - the-doing-both-hypothesis.md
     - 7-critical-connection-5-why-psb-happens.md
-    - recursive-pattern-verification-loop.md
     - felt-sense.md
     - technical-scaffolding-s_t.md
     - psychoanalytic-integration.md
@@ -99,10 +97,10 @@ Backlinks:
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_6.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary_r.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
@@ -118,7 +116,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary.md
+    - 1-executive-summary_c.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

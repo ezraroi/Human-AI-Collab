@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - embodied-simulation.md
+    - reflective-prompting.md
     - document-abstract.md
     - 5-the-embodied-connection.md
     - 12-what-this-means-for-your-paper.md
@@ -20,15 +21,14 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
-    - executive-summary_1.md
+    - executive-summary.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
-    - iron-man-mentality.md
     - e.md
     - human.md
     - 9-the-hidden-implications-youve-discovered.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
@@ -66,7 +66,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_c.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

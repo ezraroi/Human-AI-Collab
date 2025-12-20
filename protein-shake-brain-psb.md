@@ -30,12 +30,14 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
+    - rrv-cycle-recursive-refine-validate.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
     - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
     - hyperreflexivity-trap.md
     - section-2-the-core-formula-and-components.md
+    - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - cognitive-offloading.md
     - ai.md

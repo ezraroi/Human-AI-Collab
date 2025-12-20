@@ -11,7 +11,6 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
-    - reflective-prompting.md
     - cognitive-artifact.md
     - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
@@ -31,26 +30,30 @@ Backlinks:
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - catalytic-externalization.md
-    - executive-summary_1.md
+    - extended-mind-hypothesis-hec.md
+    - executive-summary.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_b.md
+    - executive-summary_s.md
     - selected-fact.md
+    - human.md
     - neural-synchrony.md
     - conclusion-on-novelty-and-contribution.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 4-remaining-questions-for-tier-3.md
     - section-8-boundary-conditions-prerequisites.md
+    - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - 3-implications-for-positioning.md
     - gap-filling-inference-generation.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
@@ -64,7 +67,7 @@ Backlinks:
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
-    - 1-executive-summary_r.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - false-true-self.md
     - section-3-causal-sequence-placement.md

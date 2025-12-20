@@ -8,7 +8,6 @@ Tag:
     - 'System Role: Input'
     - 'Temporal: Dynamic'
 Backlinks:
-    - reflective-prompting.md
     - document-abstract.md
     - reverie.md
     - section-5-temporal-architecture.md
@@ -16,6 +15,7 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - journal.md
     - conflict-detection-model-repair.md
+    - extended-mind-hypothesis-hec.md
     - self-explanation.md
     - the-large-language-model-as-dynamic-transition.md
     - selected-fact.md
@@ -24,9 +24,10 @@ Backlinks:
     - the-container.md
     - d-difficulty.md
     - section-8-boundary-conditions-prerequisites.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
     - alpha-function.md
     - psychoanalytic-integration.md

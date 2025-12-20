@@ -17,7 +17,6 @@ Backlinks:
     - 3-the-mechanism-vs-existence-distinction.md
     - section-5-the-category-error-relational-axis-f.md
     - 4-the-system-architecture-v2-0.md
-    - parity-principle-pp.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md

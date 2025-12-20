@@ -16,16 +16,17 @@ Backlinks:
     - section-2-the-core-formula-and-components.md
     - conclusion-on-novelty-and-contribution.md
     - d-difficulty.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - 3-implications-for-positioning.md
     - recursive-metabolic-loop.md
     - mko-more-knowledgeable-other.md
+    - 15-is-your-model-suggesting-something-new.md
     - 7-critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
-    - executive-summary.md
+    - executive-summary_e.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md

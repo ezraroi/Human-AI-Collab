@@ -16,6 +16,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - eidetic-structure.md
     - holding-environment.md
+    - extended-mind-hypothesis-hec.md
     - cognitive-style-bias.md
     - 6-final-conclusion.md
     - jim-collins.md
@@ -24,6 +25,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - christopher-bollas.md
     - selected-fact.md
+    - human.md
     - digital-neurophenomenology.md
     - section-3-foundational-theoretical-integration.md
     - time.md
@@ -45,10 +47,10 @@ Backlinks:
     - alpha-function.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary.md
-    - 2-the-unbundled-rationale-architecture.md
+    - executive-summary_e.md
+    - 2-the-unbundled-rationale-architecture_6.md
     - activation-pathway-of-destiny-drive.md
-    - 1-core-discovery.md
+    - 1-core-discovery_n.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - unified-architecture-neurobiological-resolutio.md

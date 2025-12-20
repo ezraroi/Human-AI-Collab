@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Dynamic'
 Backlinks:
+    - iron-man-mentality.md
     - time.md
     - aba-design.md
     - alpha-function.md

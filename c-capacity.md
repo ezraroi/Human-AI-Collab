@@ -26,6 +26,7 @@ Backlinks:
     - time.md
     - section-2-the-core-formula-and-components.md
     - d-difficulty.md
+    - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - challenge-gap-d-c.md
     - 3-implications-for-positioning.md

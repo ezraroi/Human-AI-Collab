@@ -8,7 +8,6 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
-    - reflective-prompting.md
     - self-explanation.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
 Origin Domain:

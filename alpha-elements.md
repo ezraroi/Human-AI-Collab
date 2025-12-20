@@ -17,6 +17,7 @@ Backlinks:
     - journal.md
     - conflict-detection-model-repair.md
     - holding-environment.md
+    - extended-mind-hypothesis-hec.md
     - self-explanation.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
@@ -24,11 +25,12 @@ Backlinks:
     - human.md
     - section-3-foundational-theoretical-integration.md
     - 9-the-hidden-implications-youve-discovered.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
     - alpha-function.md
     - psychoanalytic-integration.md

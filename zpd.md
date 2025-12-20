@@ -14,6 +14,7 @@ Backlinks:
     - embodied-engagement-conditions.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - section-5-the-category-error-relational-axis-f.md
+    - parity-principle-pp.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -40,7 +41,7 @@ Backlinks:
     - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
-    - executive-summary.md
+    - executive-summary_e.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md

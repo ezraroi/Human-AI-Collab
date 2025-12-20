@@ -12,9 +12,10 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
+    - iron-man-mentality.md
     - neural-synchrony.md
     - conclusion-on-novelty-and-contribution.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
     - recursive-metabolic-loop.md
     - 15-is-your-model-suggesting-something-new.md

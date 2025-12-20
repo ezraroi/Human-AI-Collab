@@ -16,7 +16,7 @@ Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
-    - executive-summary_1.md
+    - executive-summary.md
     - boundary-condition-the-manic-episode.md
     - human.md
     - section-3-foundational-theoretical-integration.md

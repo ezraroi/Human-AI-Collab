@@ -8,7 +8,6 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
-    - reflective-prompting.md
     - lev-vygotsky.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - channel-2-symbolic.md

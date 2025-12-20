@@ -11,7 +11,7 @@ Backlinks:
     - reverie.md
     - section-9-container-as-function-authorization.md
     - 4-the-system-architecture-v2-0.md
-    - executive-summary_1.md
+    - executive-summary.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
     - hpa-axis.md

@@ -19,19 +19,21 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
-    - executive-summary_1.md
-    - rrv-cycle-recursive-refine-validate.md
+    - extended-mind-hypothesis-hec.md
+    - executive-summary.md
+    - iron-man-mentality.md
     - human.md
     - eugene-gendlin.md
     - 4-remaining-questions-for-tier-3.md
     - 9-the-hidden-implications-youve-discovered.md
-    - external-alpha-function.md
+    - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - somatic-marker-hypothesis.md
     - pre-reflective-awareness.md
     - section-6-the-complete-system-architecture.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 15-is-your-model-suggesting-something-new.md
     - as-if-body-loop.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - recursive-pattern-verification-loop.md
@@ -50,7 +52,7 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_c.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
