@@ -251,46 +251,49 @@ Gap was extensively **addressed theoretically** (creating testable framework) bu
 ## [RESEARCH GAP] Psychoanalytic Integration
 [Gap:Resolved] Domain: Psychoanalytic, Temporal: Static, Meta-Framework
 
-**The Problem:**
-How to integrate Winnicott, Bion, and Bollas into a unified, coherent system without forcing inappropriate alignments or violating the internal logic of each theorist's framework.
-**The Resolution:**
-Solved by constructing the **Psychoanalytic Prerequisites** as an obstacle-removal architecture rather than a causal production chain.
-**Key Theoretical Move:**
-The three theorists describe **sequential prerequisites**—conditions that must be in place for latent psychological potential (Destiny Drive) to become phenomenologically articulated. This is NOT a production model where each stage creates the next, but a developmental architecture where each stage removes an obstruction blocking the phenomenological articulation of a pre-existing Destiny Drive.
-**The Integration Structure:**
-1. **Foundation: Holding Environment**
-- Provides: Ontological Security (operationalized as Emotional Scaffolding), psychological safety
+### The Problem
+How to integrate **Winnicott, Bion, and Bollas** into a unified, coherent system **without** forcing inappropriate alignments or violating the internal logic of each theorist’s framework.
+### The Resolution
+Solved by constructing the **Psychoanalytic Prerequisites** as an **obstacle-removal architecture** rather than a **causal production chain**.
+### Key Theoretical Move
+The three theorists describe **sequential prerequisites**—conditions that must be in place for latent psychological potential (**Destiny Drive**) to become **phenomenologically articulated**.
+This is **not** a production model where each stage *creates* the next.
+It is a developmental architecture where each stage **removes an obstruction** blocking the articulation of a **pre-existing** Destiny Drive.
+## The Integration Structure
+### 1. Foundation: Holding Environment
+- **Provides:** Ontological Security (operationalized as Emotional Scaffolding), psychological safety
 - **Removes Obstacle 1:** Annihilation anxiety + environmental impingement
-- Enables: Possibility of True Self existence
-- Formula mapping: S\_e names the presence/absence of Ontological Security; without it, the enabling conditions fail regardless of other factors.
+- **Enables:** Possibility of True Self existence
+- **Schema role:** **S\_e** names the presence/absence of Ontological Security; in the **Field Viability Schema**, if **S\_e → 0**, field viability is compromised regardless of other factors.
 
-**2. Mechanism: Alpha-Function**
-- Provides: Metabolic processing (beta-elements → alpha-elements)
-- **Removes Obstacle 2:** Psychic chaos + "nameless dread"
-- Enables: Internal coherence, symbolic capacity, thinkability
-- Alpha-Function is the mechanism that metabolizes beta-elements into alpha-elements once holding conditions are in place.
+### 2. Mechanism: Alpha-Function
+- **Provides:** Metabolic processing (beta-elements → alpha-elements)
+- **Removes Obstacle 2:** Psychic chaos + “nameless dread”
+- **Enables:** Internal coherence, symbolic capacity, thinkability
+- **Clarification:** Alpha-Function is the mechanism that metabolizes beta-elements into alpha-elements **once holding conditions are in place**.
 
-**3. Pre-Existing Condition: Destiny Drive **
-- Ontological status: **Always present in latent form**
-- NOT produced or activated by the architecture
-- Becomes **phenomenologically articulated** only when both obstacles removed
-- Marks shift from: Fate (reactive, False Self) → Destiny (agentic, True Self)
+### 3. Pre-Existing Condition: Destiny Drive
+- **Ontological status:** Always present in latent form
+- **NOT produced or activated by the architecture**
+- Becomes phenomenologically articulated only when both obstacles are removed
+- Marks shift from: **Fate** (reactive, False Self) → **Destiny** (agentic, True Self)
 
-**Unified Resolution:**
-The architecture creates **conditions not content**—it reveals the idiom rather than producing it. The system removes developmental obstructions, allowing what was latent to become lived experience.
-**Why This Integration Works:**
-- Preserves psychoanalytic fidelity (each theorist's logic intact)
+## Unified Resolution
+The architecture **creates conditions, not content**—it **reveals** the idiom rather than producing it.
+It removes developmental obstructions, allowing what was latent to become lived experience.
+## Why This Integration Works
+- Preserves psychoanalytic fidelity (each theorist’s logic intact)
 - Avoids inappropriate causation claims
 - Maps cleanly onto the Unified Architecture
 - Provides theoretical foundation for neural network mapping
 - Explains both generative success and pathological collapse
 
-**Relations (Wiring):**
+## Relations (Wiring)
 - **Resolved By:** Psychoanalytic Prerequisites
 - **Enables Mapping:** Unified Architecture, Integrated Circuit Board
 
-**Notes:**
-This resolution distinguishes the developmental architecture (enabling idiom articulation) from the diagnostic model, which traces system failure through degradation and propagation across the same dependency structure.
+### Notes
+This resolution distinguishes the **developmental architecture** (enabling idiom articulation) from the **diagnostic model**, which traces system failure through degradation and propagation across the same dependency structure.
 
 ---
 

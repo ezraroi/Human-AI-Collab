@@ -12,6 +12,7 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - journal.md
     - 10-questions-your-synthesis-raises.md
     - eidetic-structure.md
@@ -43,17 +44,19 @@ Backlinks:
     - dynamic-transitional-object-dto.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-doing-both-hypothesis.md
+    - field-viability-schema.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary_t.md
+    - executive-summary.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - 1-core-discovery_2.md
+    - 1-core-discovery.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

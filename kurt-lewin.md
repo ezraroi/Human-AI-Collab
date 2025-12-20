@@ -7,6 +7,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - section-1-introduction-and-framework-positioning.md
+    - section-2-the-field-viability-schema-and-its-c.md
 Origin Domain:
     - Qualitative Research Methodology
     - Developmental Psychology & Learning Theory
@@ -15,13 +16,13 @@ Creation date: "2025-11-22T11:18:27Z"
 Created by:
     - Roi Ezra
 Links:
-    - p-alpha-probability-of-growth.md
+    - field-viability-schema.md
 Emoji: "\U0001F464"
 id: bafyreia53owzoobvlmny3vmeilhkkxjq42ky6xhiealmhy4ys5yozf6jcu
 ---
 # Kurt Lewin   
 Provides the **Generative Heuristic**.
-**$B = f(P,E)$:** The inspiration for the non-computational, generative formula structure used in this system.   
+**$B = f(P,E)$:** The inspiration for the non-computational relational schema structure used in this system ([Field Viability Schema](field-viability-schema.md)).   
 Kurt Lewin (1890-1947) was a German-American psychologist widely recognized as a **modern pioneer and often the founder of social, organizational, and applied psychology**. He is known for integrating theory with practical application to understand and solve social problems.   
 Key Contributions   
 - **Field Theory:** Lewin's most famous concept is summarized by the equation B = ***f* (P, E)**, meaning that behavior (B) is a function (*f*) of the person's characteristics (P) and their environment (E). This approach emphasized understanding the totality of a person's situation (their "life space") to predict their behavior.   
@@ -33,5 +34,4 @@ Key Contributions
    
 Lewin emigrated to the U.S. in 1933 to escape Nazi Germany and established the Research Center for Group Dynamics at MIT in 1945. His work left a lasting legacy on the application of psychology to real-world issues.   
    
-[P(alpha) (Probability of Growth)](p-alpha-probability-of-growth.md)    
    

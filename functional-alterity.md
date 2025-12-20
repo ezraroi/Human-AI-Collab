@@ -22,7 +22,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_y.md
+    - executive-summary_g.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -32,6 +32,7 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - ai.md
     - challenge-gap-d-c.md
+    - section-10-the-grand-unification.md
     - 7-the-three-legged-stool-of-defense.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -40,10 +41,12 @@ Backlinks:
     - third-intelligence.md
     - protein-shake-brain-psb.md
     - 2-the-unbundled-rationale-architecture.md
+    - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - mikhail-bakhtin.md
+    - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md

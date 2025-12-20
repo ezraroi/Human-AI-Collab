@@ -14,7 +14,6 @@ Backlinks:
     - in-context-learning.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction.md
     - section-5-the-category-error-relational-axis-f.md
     - 4-the-system-architecture-v2-0.md
     - journal.md
@@ -22,12 +21,14 @@ Backlinks:
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
     - section-3-foundational-theoretical-integration.md
-    - section-2-the-core-formula-and-components.md
+    - section-4-the-importance-of-emotional-scaffold.md
+    - section-2-the-field-viability-schema-and-its-c.md
     - d-difficulty.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - ai.md
     - 3-implications-for-positioning.md
     - section-10-the-grand-unification.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - cognitive-dependency.md
     - section-6-the-complete-system-architecture.md
     - 5-documented-counter-evidence-the-manic-episodes.md
@@ -38,6 +39,7 @@ Backlinks:
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
+    - field-viability-schema.md
     - alpha-function.md
     - c-capacity.md
     - protein-shake-brain-psb.md
@@ -47,11 +49,12 @@ Backlinks:
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
+    - emotional-scaffolding-s_e.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
+    - unified-architecture-neurobiological-resolutio.md
     - functional-alterity.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md
-    - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

@@ -23,27 +23,28 @@ Backlinks:
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
-    - 9-the-hidden-implications-youve-discovered.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
+    - field-viability-schema.md
     - alpha-function.md
-    - psychoanalytic-integration.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm_p.md
+    - integrated-synthesis-of-psychological-developm.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
     - section-3-causal-sequence-placement.md
     - section-6-journal-function-refinement.md
+    - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:

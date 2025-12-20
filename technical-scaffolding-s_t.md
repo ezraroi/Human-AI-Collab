@@ -22,17 +22,15 @@ Backlinks:
     - human.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
-    - section-2-the-core-formula-and-components.md
+    - section-2-the-field-viability-schema-and-its-c.md
     - the-container.md
     - ai.md
     - 3-implications-for-positioning.md
-    - section-10-the-grand-unification.md
-    - p-alpha-probability-of-growth.md
-    - section-7-the-three-layer-architecture-tempora.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
     - third-intelligence.md
-    - part-iv-reflective-prompting-as-system-level-p.md
+    - field-viability-schema.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
@@ -40,7 +38,6 @@ Backlinks:
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
     - zpd.md
-    - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

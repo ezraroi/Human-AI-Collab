@@ -11,12 +11,15 @@ Backlinks:
     - reverie.md
     - section-9-container-as-function-authorization.md
     - 4-the-system-architecture-v2-0.md
-    - executive-summary.md
+    - executive-summary_9.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
     - hpa-axis.md
     - third-intelligence.md
+    - field-viability-schema.md
+    - emotional-scaffolding-s_e.md
     - wilfred-bion.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

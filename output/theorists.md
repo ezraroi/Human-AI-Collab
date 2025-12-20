@@ -191,7 +191,7 @@ Flavell received numerous honors, including the American Psychological Associati
 Domain: CognitiveScience, Temporal: Static
 
 Provides the **Generative Heuristic**.
-**$B = f(P,E)$:** The inspiration for the non-computational, generative formula structure used in this system.
+**$B = f(P,E)$:** The inspiration for the non-computational relational schema structure used in this system (Field Viability Schema).
 Kurt Lewin (1890-1947) was a German-American psychologist widely recognized as a **modern pioneer and often the founder of social, organizational, and applied psychology**. He is known for integrating theory with practical application to understand and solve social problems.
 Key Contributions
 - **Field Theory:** Lewin's most famous concept is summarized by the equation B = ***f* (P, E)**, meaning that behavior (B) is a function (*f*) of the person's characteristics (P) and their environment (E). This approach emphasized understanding the totality of a person's situation (their "life space") to predict their behavior.
@@ -202,8 +202,6 @@ Key Contributions
 - **Sensitivity Training:** Work he did on intergroup relations led to the development of T-groups, or sensitivity training, a significant social invention used in organizational development.
 
 Lewin emigrated to the U.S. in 1933 to escape Nazi Germany and established the Research Center for Group Dynamics at MIT in 1945. His work left a lasting legacy on the application of psychology to real-world issues.
-
-P(alpha) (Probability of Growth)
 
 ---
 
@@ -264,11 +262,10 @@ Bakhtin's ideas, largely unknown until after his death due to political repressi
 ## [THEORIST] Wilfred Bion
 The Foundational Trio (The "Engine Design"), Domain: Psychoanalytic, Temporal: Static
 
-Provides the **Psychic Mechanism (The Engine)**.
-***Alpha-Function:** The metabolic process of thinking ($P(\alpha)$).
-***Container/Contained:** The Human acts as the Container; the AI is a "False Container".
+Provides the Psychic Mechanism (The Engine).
+**Alpha-Function:** The metabolic process of transforming raw experience (β-elements) into thinkable thoughts (α-elements). The **Field Viability Schema** describes the conditions under which Alpha-Function can operate.
+**Container/Contained:** The Human acts as the Container; the AI can function as a *false container* (simulated holding rather than genuine containment).
 **Nameless Dread:** The result of a failed container (often when Emotional Scaffolding is insufficient).
-
 Wilfred Bion (1897-1979) was an influential English psychoanalyst, considered by some to be "possibly the greatest psychoanalytic thinker…after Freud". A decorated war veteran of WWI, he made significant contributions t**o group dynami**cs and developed a highly origina**l theory of thinki**ng based on emotional experience.
 Key Contributions
 - **Group Dynamics:** Bion pioneered work on group behavior during his time at the Tavistock Clinic during and after World War II, which culminated in his influential book, *Experiences in Groups*. He identified recurring emotional states in groups, called "basic assumptions" (dependency, fight-flight, and pairing), which often unconsciously interfere with a group's primary task.

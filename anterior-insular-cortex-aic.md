@@ -11,7 +11,7 @@ Backlinks:
     - beta-elements.md
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - executive-summary.md
+    - executive-summary_9.md
     - human.md
     - neural-synchrony.md
     - enacted-alpha-work-eaw.md
@@ -25,7 +25,7 @@ Backlinks:
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - embodied-cognition.md
     - the-unified-architecture.md

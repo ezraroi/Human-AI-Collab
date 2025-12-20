@@ -13,9 +13,9 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
-    - section-2-the-core-formula-and-components.md
     - conclusion-on-novelty-and-contribution.md
     - d-difficulty.md
+    - 9-the-hidden-implications-youve-discovered.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - 3-implications-for-positioning.md
@@ -23,12 +23,14 @@ Backlinks:
     - mko-more-knowledgeable-other.md
     - 15-is-your-model-suggesting-something-new.md
     - 7-critical-connection-5-why-psb-happens.md
+    - field-viability-schema.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm_p.md
-    - executive-summary_t.md
+    - integrated-synthesis-of-psychological-developm.md
+    - executive-summary.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
+    - emotional-scaffolding-s_e.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md

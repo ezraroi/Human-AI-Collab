@@ -16,13 +16,13 @@ Backlinks:
     - iron-man-mentality.md
     - christopher-bollas.md
     - section-3-foundational-theoretical-integration.md
-    - 9-the-hidden-implications-youve-discovered.md
     - section-6-the-complete-system-architecture.md
     - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
+    - unified-architecture-neurobiological-resolutio.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

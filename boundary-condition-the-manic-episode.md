@@ -10,7 +10,7 @@ Tag:
     - 'Operational Flags: Pathology'
     - 'Operational Flags: BoundaryCondition'
 Backlinks:
-    - p-alpha-probability-of-growth.md
+    - field-viability-schema.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'

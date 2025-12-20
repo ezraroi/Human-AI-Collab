@@ -41,16 +41,16 @@ Backlinks:
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
-    - integrated-synthesis-of-psychological-developm_p.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_6.md
+    - 1-executive-summary.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

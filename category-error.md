@@ -17,19 +17,22 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
-    - executive-summary_y.md
+    - executive-summary_g.md
     - human.md
     - the-container.md
     - 7-final-conclusion-the-third-intelligence.md
     - algorithmic-self.md
     - ai.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
+    - field-viability-schema.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - functional-thirdness.md
+    - emotional-scaffolding-s_e.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

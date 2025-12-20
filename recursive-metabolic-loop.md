@@ -15,16 +15,18 @@ Backlinks:
     - eugene-gendlin.md
     - time.md
     - enacted-alpha-work-eaw.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - two-axis-framework.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
     - alpha-function.md
-    - integrated-synthesis-of-psychological-developm_p.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - wilfred-bion.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

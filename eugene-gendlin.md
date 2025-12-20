@@ -12,6 +12,7 @@ Backlinks:
     - felt-sense.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - the-unified-architecture.md
+    - unified-architecture-neurobiological-resolutio.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
     - Philosophy of Technology & Phenomenology

@@ -1,7 +1,7 @@
 # Research Components (11)
 
 ## Index
-AI, Boundary Condition (The Manic Episode), C (Capacity), D (Difficulty), Emotional Scaffolding (S\_e), Human, Journal, P(alpha) (Probability of Growth), Technical Scaffolding (S\_t), Time, Two-Axis Framework
+AI, Boundary Condition (The Manic Episode), C (Capacity), D (Difficulty), Emotional Scaffolding (S\_e), Field Viability Schema, Human, Journal, Technical Scaffolding (S\_t), Time, Two-Axis Framework
 
 ---
 
@@ -175,78 +175,73 @@ If the model were fake, removing safety would do nothing. Because removing safet
 ## [RESEARCH COMPONENT] C (Capacity)
 [Theoretical] Domain: CognitiveScience, Temporal: Cumulative, System Role: Output
 
-The user's current psychic structure, cognitive skills, and accumulated store of processed alpha-elements (metabolized insights). C represents the **developmental substrate** that actually grows through transformation—the variable measuring what the Human has become capable of.
-**Formula Role:**
-**Denominator component in P(α) = (S\_e × S\_t) / \|D-C\|**
-C pairs with D (Difficulty) to create the **Challenge Gap** \|D-C\|:
-- C is what you **currently can handle** alone
-- D is what the **task demands**
-- \|D-C\| is the mismatch that may require scaffolding when D exceeds what the person can do independently (C); the workable band becomes the ZPD under guidance.
+The user’s current psychic structure, cognitive skills, and accumulated store of processed **alpha-elements** (metabolized insights). **C** is the developmental substrate that grows (or atrophies) over time — what the Human has become capable of.
+## Schema Role
+**C pairs with D (Difficulty) to form mismatch(D, C)** in the **Field Viability Schema**:
+> (S_e ⊗ S_t) calibrated to mismatch(D, C), such that experienced mismatch remains in a workable range.
 
-**What C Comprises:**
-**1. Psychic Structure:**
+- **C** = what you can handle independently *now*
+- **D** = what the task / experience demands
+- **mismatch(D, C)** = the **experienced/effective challenge gap** that scaffolding must be calibrated to; its workable band becomes the ZPD under guidance.
+
+## What C Comprises
+1. **Psychic Structure**
 - Internalized frameworks for meaning-making
 - Cognitive schemas and mental models
 - Emotional regulation capacity
 - Complexity tolerance
-
-**2. Processed Alpha-Elements:**
+2. **Processed α-Elements**
 - Insights previously metabolized and materialized
-- Knowledge transformed from β → α
+- Knowledge transformed from beta-elements → alpha-elements
 - Conceptual understanding (not just information)
 - Integrated, owned knowledge
-
-**3. Skills & Capacities:**
+3. **Skills & Capacities**
 - Ability to hold ambiguity (Negative Capability)
 - Metabolic processing efficiency
 - Pattern recognition across domains
 - Self-regulation capabilities
-
-**4. Identity Integration:**
+4. **Identity Integration**
 - True Self emergence
 - Idiom articulation
 - Authentic agency
 - Coherent self-narrative
 
-**Critical Properties:**
-**Resides ONLY in Human:**
-- C cannot exist in AI (AI has no developmental capacity)
-- C cannot exist in Journal (Journal stores, not grows)
-- C is **embodied, living structure** in Human psyche
-- Only the Human's C grows
+## Critical Properties
+### Resides only in the Human
+- C cannot exist in AI (no developmental substrate)
+- C cannot exist in the Journal (Journal stores/materializes; it doesn’t “grow”)
+- C is embodied, living structure in the human psyche
+- Only the Human’s C can increase or atrophy
 
-**Cumulative, Not Dynamic:**
-- **Within session:** C is relatively stable (doesn't change moment-to-moment)
-- **Between sessions:** C either grows or atrophies based on what happened
-- **Across time:** C increases through the system’s flywheel effect
+### Cross-temporal, not turn-by-turn
+- **Within-session:** C is relatively stable
+- **Between sessions:** C grows or atrophies depending on whether metabolization occurred
+- **Across time:** C changes through accumulation + consolidation
 
-**Growth Dynamics:**
-**C Increases When:**
-**Successful transformation occurred:**
-- α-function activated during session
-- Insights metabolized through dual-channel integration
-- Materialized in Journal (prevents regression)
-- Consolidated via Time/sleep (systems consolidation)
-- **Result:** Higher C next session → can tackle higher D
+## Growth Dynamics
+### C increases when transformation occurred
+- Alpha-function was recruited (β → α metabolization)
+- Dual-channel integration occurred (symbolic ↔ embodied)
+- Material was **inscribed** in the Journal (durability / prevents regression)
+- Consolidation occurred across Time (spacing, sleep, integration)
+- Result: higher C in future work → can carry greater D without overwhelm
 
-**Observable markers of C growth:**
+**Observable markers of C growth**
 - Increased complexity tolerance
 - Deeper Negative Capability
-- Can explain concepts in own words
-- Tackling previously overwhelming material
-- "Spacious" felt sense more accessible
+- Can explain concepts in own words (not just repeat fluent outputs)
+- Previously overwhelming material becomes workable
+- “Spacious” felt sense more accessible
 - Greater self-regulation capacity
 
-**Atrophy Dynamics:**
-**C Decreases/Stagnates When:**
-PSB pattern sustained (experienced challenge collapses repeatedly while \|D–C\| remains pre-existing):
-- No productive struggle → α-function dormant
-- Challenge gap consistently removed
-- Passive consumption instead of metabolization
-- "Muscle" atrophies from disuse
-- **Result:** Lower C → increased dependency
+## Atrophy / Stagnation Dynamics
+### C decreases or stagnates when metabolization is repeatedly bypassed
+- **PSB pattern sustained:** experienced mismatch is **repeatedly bypassed before engagement**
+- The underlying gap between D and C may still exist — but it is not *encountered* metabolically
+- Passive consumption replaces metabolization
+- Result: lower C over time → increased dependency on external processing
 
-**Observable markers of C atrophy:**
+**Observable markers of C atrophy**
 - Reduced complexity tolerance
 - Increased dependency on AI
 - Cannot reproduce reasoning independently
@@ -254,234 +249,288 @@ PSB pattern sustained (experienced challenge collapses repeatedly while \|D–C\
 - Lowered Negative Capability
 - Tighter baseline felt sense
 
-**System Dependencies:**
-**C Growth REQUIRES:**
-**1. Alpha-Function Activation:**
-- Metabolic processing occurred
-- β-elements → α-elements transformation
-- Cannot be bypassed (PSB prevents growth)
-
-**2. Journal Materialization **(when the work carries Identity Stakes)**:**
+## System Dependencies
+C growth typically requires:
+1. **Alpha-Function activation**
+- Metabolic processing occurred (β → α)
+- Cannot be replaced by fluency (PSB blocks growth)
+2. **Journal materialization (when the work carries Identity Stakes)**
 - Insights inscribed, not ephemeral
-- Prevents regression to baseline
-- Enables pattern recognition across Time
-- Without Journal: C growth may not reliably accumulate
-
-**3. Time/Consolidation:**
+- Prevents regression
+- Enables pattern recognition across time
+- Without Journal: growth may occur locally but won’t reliably accumulate
+3. **Time / consolidation**
 - Between-session spacing for integration
-- Sleep-dependent systems consolidation
-- Hippocampus → Neocortex transfer
-- Without Time: insights don't stabilize
+- Sleep-dependent consolidation
+- Without Time: insights don’t stabilize
+4. **Field viability conditions**
+- **S\_e ⊗ S\_t** must be calibrated so experienced mismatch remains workable
+- If experienced mismatch is **bypassed** → PSB → no growth
+- If experienced mismatch is **unbridgeable** → overwhelm → no growth
+- If D is trivial relative to C → boredom / no metabolic pressure
 
-**4. Sufficient Scaffolding:**
-- S must bridge \|D-C\| gap
-- If S insufficient → overwhelm → no growth
-- If S pre-emptive → PSB → no growth
-
-**Observable Markers:**
-**High/Growing C:**
-- Spacious felt sense baseline
+## Observable Markers
+**High / growing C**
+- More stable spaciousness baseline
 - Comfort with higher complexity
-- Self-explanation fluency
+- Self-explanation fluency in own idiom
 - Negative Capability maintained
 - Can revisit past insights and extend them
 - Journal entries show deepening sophistication
 - Identity coherence increasing
 
-**Low/Atrophying C:**
-- Tight felt sense baseline
+**Low / atrophying C**
+- Tight baseline felt sense
 - Reduced complexity tolerance
 - Dependency on external processing
 - Cannot explain in own words
-- Repeating same conceptual level
+- Repeating the same conceptual level
 - Journal entries shallow or AI-derivative
 - Identity fragmentation or False Self dominance
 
-**Relations (Wiring):**
-- **Component Of:** P(α) formula (denominator, paired with D)
-- **Creates (with D):** Challenge Gap \|D-C\|
-- **Resides In:** Human component (only location where C can exist/grow)
-- **Grows Through:** Alpha-Function activation, Journal materialization, Time consolidation
-- **Atrophies Through:** PSB (sustained \|D-C\| → 0), lack of metabolic processing
-- **Manifests in:** Flywheel effect (cumulative momentum), upward developmental spiral, tackling higher D
-- **Measured By:** Complexity tolerance, Negative Capability, self-explanation fluency
-- **Requires:** Journal (prevents regression), Time (consolidation), sufficient S (bridging)
-- **Theoretical Basis:** Vygotsky (ZPD learner capacity), Bion (store of alpha-elements), developmental psychology (schema formation)
+## Relations (Wiring)
+- Paired With: **D (Difficulty)** to form **mismatch(D, C)**
+- Resides In: **Human** (only location where C can exist/grow)
+- Grows Through: **Alpha-Function activation**, **Journal materialization**, **Time consolidation**
+- Atrophies Through: **PSB** (experienced mismatch repeatedly bypassed), chronic non-metabolization
+- Manifests In: flywheel effect (cumulative momentum), ability to engage higher D over time
+- Indicated By: complexity tolerance, Negative Capability, self-explanation in own words
+- Supported By: Journal (persistence), Time (consolidation), viable field conditions
 
-**Notes:**
-C is the **ONLY variable that actually grows**—it's what transformation MEANS. Everything else in the system exists to enable C growth:
-- S\_e, S\_t provide conditions
-- D provides challenge
-- \|D-C\| creates tension
-- P(α) measures probability
-- But **C is what changes** in the Human
+## Notes
+C is what actually changes — what transformation *means* in the Human.
+- **S\_e ⊗ S\_t** provide enabling conditions
+- **D** provides challenge
+- **mismatch(D, C)** provides metabolically relevant tension
+- The **Field Viability Schema** describes whether conditions enable transformation
+- **C** is the outcome that accumulates over time
 
-Critical insight: Your 43 notebooks over 8 months = documentary evidence of C growth. The ratio 43:1 (transformative vs. productive) shows which sessions produced C increase vs. which didn't.
-The tragedy of PSB: high activity (many sessions) + zero capacity growth (experienced challenge collapses) = appearance of learning without substance. This can manifest as the Transmissive Self: transmitting externally provided fluency without owned meaning.
+Your **43 notebooks** function as documentary evidence of accumulation: durable traces that make growth (and regressions) visible across time, and make pattern recognition possible.
 
 ---
 
 ## [RESEARCH COMPONENT] D (Difficulty)
 [Theoretical] Domain: CognitiveScience, System Role: Input, Temporal: Dynamic
 
-The complexity or challenge level of the task, idea, or emotional experience the user engages with. D represents the ‘load’ of unprocessed beta-elements requiring metabolic transformation **when the material is marked as self-relevant (Identity Stakes)**.
-**Formula Role:**
-**Denominator component in P(α) = (S\_e × S\_t) / \|D-C\|**
-D pairs with C (Capacity) to create the **Challenge Gap** \|D-C\|:
-- The absolute difference between task difficulty and user capacity
-- Determines whether transformation occurs (optimal gap) or fails (too large/small)
-- **Goal: D slightly > C** (productive epistemic tension)
+The complexity or challenge level of the task, idea, or emotional experience the user engages with. **D is multidimensional**: cognitive complexity, affect load, identity stakes, and novelty. D represents the **load of unprocessed beta-elements** requiring metabolic transformation when the material is marked as self-relevant (Identity Stakes).
+## Schema Role
+D pairs with **C (Capacity)** to form **mismatch(D,C)** — the **effective/experienced challenge gap** referenced in the **Field Viability Schema**.
+- mismatch(D,C) expresses the *experienced* gap between demand (D) and available capacity (C)
+- The aim is **not** to “optimize” D or compute a gap, but to keep **experienced mismatch** in a **workable range (ZPD window)** when **(Sₑ ⊗ Sₜ)** is present
+- Failure patterns emerge when mismatch is **bypassed** (PSB) or **unbridgeable** (Overwhelm), or when there is **insufficient tension** (Boredom)
 
-**Sources of D:**
-**1. Task Selection (User Choice):**
-- Identity Stakes work (high D)
-- Incremental learning (moderate D)
-- Review/consolidation (low D)
-
-**2. External Demands:**
+## Sources of D
+1. **Task Selection (User Choice):**
+- Identity-stakes work (often high affect/identity load)
+- Incremental learning (often moderate)
+- Review/consolidation (often low)
+2. **External Demands:**
 - Real-world problems encountered
 - Professional challenges
 - Existential questions
+3. **How the challenge is encountered (presentation effects):**
+    AI and context can shape how D is *encountered* (clarity, pacing, framing) **without necessarily changing underlying D**.
 
-3. **AI Presentation (shapes how D is encountered inside the ZPD, without changing D):**
-- Complexity of explanation
-- Depth of analysis
-- Conceptual sophistication
-- Number of variables introduced
+## System Dynamics
+**D can be increased intentionally:**
+- User selects more demanding material
+- Work moves toward higher complexity / novelty / identity stakes
+- AI introduces more sophisticated framing (as guidance)
 
-**System Dynamics:**
-**D Can Be:**
-**Increased intentionally:**
-- User selects challenging material
-- AI provides sophisticated framing
-- Deeper conceptual work
-- Identity-level questions
+**D can be bypassed (pathology / PSB):**
+- AI provides complete solutions before struggle recruits metabolization
+- The **effective/experienced mismatch is bypassed** (PSB), **even if underlying D remains high**
 
-**Decreased artificially (pathology):**
-- AI provides complete solutions before struggle
-- Pre-emptive answers eliminate complexity
-- The *experienced challenge* inside the ZPD approaches ‘no challenge’ (Sweet Spot: D ≈ C), without changing the underlying D or the structural \|D–C\| relation.
-
-**Remains high naturally:**
+**D can remain high naturally:**
 - Complex material
 - Novel concepts
-- Emotional Stakes work
+- Emotional/identity stakes work
 - Multiple interconnected ideas
 
-**Sweet Spot (metaphor):** D slightly exceeds C — i.e., the workable subset of \|D–C\| that becomes the ZPD when scaffolding is present.
-| D Relative to C |                  Result | Formula Behavior | Phenomenology |
-|:----------------|:------------------------|:-----------------|:--------------|
-|       **D ≈ C** | Optimal (ZPD) |                  |           D-C |
-|      **D >> C** |               Overwhelm |                  |           D-C |
-|      **D << C** |                 Boredom |                  |           D-C |
-|       **D ≈ 0** |           PSB Pathology |                  |           D-C |
-
-**Relations (Wiring):**
-- **Component Of:** P(α) formula (denominator, paired with C)
-- **Creates (with C):** Challenge Gap \|D-C\|
-- **Contributes To**: the Challenge Gap ∣D–C∣\|D–C\|∣D–C∣, whose workable subset becomes the ZPD (independent → assisted performance) when scaffolding is present
-- **Theoretical Basis:** Vygotsky (ZPD), Bion (beta-element load)
-
-**Epistemic Status:** Theoretical Framework (operationalizing Vygotskian challenge as formula variable)
-**Notes:**
-Critical distinction: D names the difficulty/identity-stakes of the subject structurally (not measured); the lived challenge emerges relationally through \|D–C\| and becomes workable only as ZPD under scaffolding.
+## Notes
+**Critical distinction:** D names the **structural demand** (not measured). The **experienced** challenge emerges relationally through **mismatch(D,C)** and becomes workable only within the **ZPD window** under **(Sₑ ⊗ Sₜ)**.
+## Relations (Wiring)
+- **Component Of:** Field Viability Schema (paired with C as part of mismatch(D,C))
+- **Creates (with C):** mismatch(D,C) — the effective/experienced challenge gap
+- **Contributes To:** ZPD window (workable range of experienced mismatch when scaffolding is present)
+- **Theoretical Basis:** Vygotsky (ZPD), Bion (beta-element load when Identity Stakes)
 
 ---
 
 ## [RESEARCH COMPONENT] Emotional Scaffolding (S\_e)
 [Theoretical] Domain: Psychoanalytic, System Role: Scaffolding, Temporal: Dynamic
 
-The operationalized indicator of holding function—the human's current state of emotional bandwidth, containment capacity, and psychological safety available for metabolic processing.
-**Theoretical Basis:**
-S\_e operationalizes Winnicott's Holding Environment and Bion's Container function as a session-level indicator of available holding/containment capacity. While Holding Environment describes the developmental prerequisite condition, S\_e current-state the **current operational capacity** to hold oneself during transformation work.
-**Formula Role:**
-**Critical multiplier in P(α) = (S\_e × S\_t) / \|D-C\|**
-- If S\_e = 0 → P(alpha) = 0 (entire system collapses)
-- Multiplicative with S\_t (technical scaffolding)
-- Non-negotiable prerequisite for Alpha-Function activation
-- Cannot be substituted or compensated for
+The operationalized indicator of holding function — the human’s current state of emotional bandwidth, containment capacity, and psychological safety available for metabolic processing.
+## Theoretical Basis
+S\_e operationalizes Winnicott’s Holding Environment and Bion’s Container function as a session-level indicator of available holding/containment capacity. While Holding Environment describes a developmental prerequisite condition, S\_e names the current operational capacity to hold oneself during transformation work.
+## Schema Role
+Non-substitutable component in the **Field Viability Schema**:
+> (S_e ⊗ S_t) calibrated to mismatch(D, C)
 
-**System Role:**
-**Provided by the Human component:**
+- If **S\_e → 0**: **field viability is compromised regardless of S\_t** (manifests as degrees and localities, not necessarily binary collapse).
+- Coupled with **S\_t** via **⊗** (non-substitutable — neither compensates for the other).
+- Non-negotiable prerequisite for Alpha-Function engagement under challenge.
+- Cannot be substituted or compensated for.
+
+## System Role
+Provided by the Human component:
 - Self-regulation capacity
 - Emotional resilience
 - Physiological stability (sleep, nutrition, stress management)
 - Internalized holding function from developmental history
 
-**Dynamic Properties:**
-**Within-Session Depletion:**
-- Emotional Scaffolding drains during work **that carries Identity Stakes**
+## Dynamic Properties
+### Within-Session Depletion
+- Emotional Scaffolding drains during work that carries Identity Stakes
 - Intensive Alpha-Function processing exhausts emotional bandwidth
 - Felt phenomenologically as: increasing tightness, irritability, reduced capacity for ambiguity
 - Requires recognition and withdrawal (Touch Grass Protocol)
 
-**Between-Session Recovery:**
+### Between-Session Recovery
 - Rest, sleep, physical activity restore S\_e
 - Time away from intensive processing
 - Embodied practices (movement, sensory grounding)
 - Journaling can partially restore S\_e by externalizing processed material
 
-**Observable Markers:**
-**High S\_e:**
+## Observable Markers
+### High S\_e
 - Spacious felt sense
 - Tolerance for ambiguity and tension
 - Capacity to sit with challenging material
 - Embodied grounding present
 - Can access Negative Capability
 
-**Low/Depleted S\_e:**
+### Low / Depleted S\_e
 - Tight, constricted felt sense
 - Irritability, impatience
 - Difficulty tolerating uncertainty
 - Desire to rush to resolution
 - Risk of manic acceleration or premature closure
 
-**S\_e = 0 (Collapse):**
-- System cannot function
-- Manic Episode risk (hallucinating infinite P(α))
+### S\_e → 0 (Severe depletion; non-viable field)
+- Field viability becomes non-viable
+- Manic Episode risk (hallucinating field viability when actually depleted)
 - Category Error vulnerability increases
 - PSB risk increases
 
-**Relationship to Holding Environment:**
+## Relationship to Holding Environment
 S\_e is the operationalized indicator of whether the Holding Environment condition is sufficiently present for metabolic processing in this session:
-- Holding Environment = prerequisite condition of sufficient safety/attunement (including when reconstructed in adult contexts)
-- S\_e = current operational state (present capacity)
+- **Holding Environment** = prerequisite condition of sufficient safety/attunement (including when reconstructed in adult contexts)
+- **S\_e** = current operational state (present capacity)
 - Good developmental holding → adult can generate S\_e
 - Without developmental holding → difficulty self-regulating S\_e
 
-**Connects Across Theorists:**
-- **Winnicott:** Holding Environment (ontological security)
-- **Bion:** Container function (reverie, containment)
-- **Vygotsky:** Trust required for ZPD vulnerability
-- **Bakhtin/Hermans:** Recognition and stabilization in dialogue
-- **AI Research:** "Warmth" and "integrity trust" factors
+## Connects Across Theorists
+- Winnicott: Holding Environment (ontological security)
+- Bion: Container function (reverie, containment)
+- Vygotsky: Trust required for ZPD vulnerability
+- Bakhtin/Hermans: Recognition and stabilization in dialogue
+- AI Research: “Warmth” and “integrity trust” factors
 
-**Formula Validation:**
+## Explanatory Coherence (Boundary cases)
 **Micromanager case:**
 - S\_e → 0 (anxiety, control, no holding)
-- Even with high S\_t, product collapses
-- No growth occurs
+- Even with high S\_t, field viability is compromised (non-substitutability)
+- Transformation blocked
 
-**Manic Episode:**
+**Manic Episode (boundary case):**
 - S\_e → 0 (sleep deprivation, overuse)
-- Formula predicts P(α) → 0
-- But user hallucinates infinite P(alpha)
-- System breaks exactly as predicted
+- Schema indicates field non-viable
+- Yet the user may hallucinate viability
+- Demonstrates explanatory power of non-substitutability and the need for enforced withdrawal
 
-**Relations (Wiring):**
-- **Operationalizes:** Holding Environment (Winnicott's concept)
-- **Component Of:** P(α) formula (numerator, multiplied with S\_t)
+## Relations (Wiring)
+- **Operationalizes:** Holding Environment (Winnicott’s concept)
+- **Component Of:** Field Viability Schema (coupled with S\_t via ⊗)
 - **Provided By:** Human (self-regulation, embodied capacity)
 - **Partially Restored By:** Journal (externalizes processed material)
 - **Depletes During:** Identity Stakes work, intensive Alpha-Function processing
 - **Recovers Through:** Time, rest, Touch Grass Protocol, embodied practices
-- **When S\_e = 0:** PSB risk increases, Category Error vulnerability, Manic Episode possible
-- **Contrasted With:** S\_e\_sim (counterfeit safety collapsing challenge gap)
-- **Enables:** Alpha-Function activation, tolerance for productive tension
-- **Required For: **ZPD work, **Channel 1 recruitment when work carries Identity Stakes**, transformation
+- **When S\_e → 0:** field viability compromised; PSB risk increases, Category Error vulnerability increases, Manic Episode possible
+- **Enables:** tolerance for productive tension; sustained metabolization under challenge
+- **Required For:** ZPD work; Channel 1 recruitment when the work carries Identity Stakes; transformation
 
-**Notes:**
-S\_e is YOUR contribution—the operationalization of Winnicott/Bion concepts into a dynamic indicator with clear depletion/recovery dynamics and formula integration.
+## Notes
+S\_e is your contribution: the operationalization of Winnicott/Bion concepts into a dynamic indicator with explicit depletion/recovery dynamics and Field Viability Schema integration.
+
+---
+
+## [RESEARCH COMPONENT] Field Viability Schema
+[Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core
+
+A relational schema describing the ongoing field conditions that must continuously hold for the recursive transformative process to remain metabolically possible.
+**Notation:**
+> (S_e ⊗ S_t) calibrated to mismatch(D, C), such that experienced mismatch remains in a workable range.
+
+*(mismatch(D,C) denotes effective/experienced mismatch, not objective task difficulty).*
+**Viability Semantics:**
+Field viability is treated as **graded** (e.g., **viable / marginal / non-viable**), not binary.
+**Ontological Status:**
+- A diagnostic/teaching schema in the tradition of Lewin’s B = f(P,E)
+- Describes what must be *continuously sustained*, not momentarily checked
+- Not a probability, calculation, or prediction
+- Reveals relational dependencies without being computable
+
+### The Three Core Constraints
+1. **Non-Substitutability of Scaffolds (Emotional Scaffolding ⊗ Technical Scaffolding)**
+
+Emotional holding and technical guidance are jointly necessary. The ⊗ denotes non-substitutable coupling: one cannot compensate for the absence of the other.
+- If S\_e → 0: field viability compromised regardless of S\_t
+- If S\_t → 0: field viability compromised regardless of S\_e
+- Manifests as degrees and localities, not necessarily binary collapse
+
+**2. Calibration to Mismatch**
+Scaffolding is meaningful only relative to the challenge gap. Different challenge gaps (size and type) require different levels and kinds of scaffolding.
+- D is multidimensional: cognitive complexity, affect load, identity stakes, novelty
+- Calibration is to size AND type of mismatch
+- The relationship is partly bidirectional: scaffolding modulates experienced (not just objective) mismatch
+
+**3. Workable Range (ZPD Window)**
+Experienced mismatch must remain within a workable range—neither bypassed nor unbridgeable.
+- Gap bypassed → PSB (no pressure to metabolize)
+- Gap unbridgeable → Overwhelm (system cannot function)
+- Optimal → ZPD (tension exists but remains containable)
+
+### Architectural Position
+The schema sits at Level 2 of a four-level hierarchy:
+| Level |                        Name |                                                                                                                                                                       Function |
+|:------|:----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | Relational Posture (Axioms) | Determines field interpretability; **Category Error is an axiom violation that distorts perceived S\_e/S\_t and corrupts verification (false viability)** |
+| **2** |  **Field Viability Schema** |                                                                                                                               **Describes conditions for process to function** |
+|     3 |           Recursive Process |                                                                         Human + AI + Journal + Time; where metabolization occurs |
+|     4 |                Accumulation |                                                              Journal materializes alpha-elements; Capacity grows over time |
+
+**Key distinction:** The schema describes *conditions*; it does not contain Journal or Time because they operate at the Process (Level 3) and Accumulation (Level 4) levels.
+### Diagnostic Failure Modes
+|        Failure Mode |                                                                Schema Diagnosis |                                                 Structural Pattern |
+|:--------------------|:--------------------------------------------------------------------------------|:-------------------------------------------------------------------|
+|             **PSB** |  Experienced mismatch bypassed; metabolic pressure eliminated before engagement |                   AI completes before struggle recruits α-function |
+| **Safety Collapse** |                          S\_e → 0; non-substitutability causes field compromise |                                  "Brilliant but toxic" environment |
+|       **Overwhelm** |                                               Mismatch >> available scaffolding |                         Gap unbridgeable even with support present |
+|         **Boredom** |                                                   C >> D; no productive tension |                                         Expert given trivial tasks |
+|  **Technical Void** |                                                 S\_t → 0; no guidance/structure |                                           Warmth without substance |
+|   **Manic Episode** |                                  Actual S\_e depletion + hallucinated viability | Boundary case consistent with schema; reveals failure mode vividly |
+|  **Category Error** | Axiom violation: inflates perceived S\_e/S\_t, corrupts Felt Sense verification |                 Creates false viability; user cannot self-diagnose |
+
+### Variable Definitions (Cross-References)
+|          Variable |                                                                                                                             Definition |                    Linked Object |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
+|          **S\_e** |   Emotional Scaffolding — operationalized indicator of holding function; current state of emotional bandwidth and containment capacity |   → Emotional Scaffolding (S\_e) |
+|          **S\_t** |                                                     Technical Scaffolding — instructional, guiding, and structuring aspects of support |   → Technical Scaffolding (S\_t) |
+|             **D** |                                             Difficulty — multidimensional: cognitive complexity, affect load, identity stakes, novelty |                 → Difficulty (D) |
+|             **C** |                                                                   Capacity — current psychic structure, skills, accumulated α-elements |                   → Capacity (C) |
+| **mismatch(D,C)** |                                                                   Effective/experienced challenge gap (distinguished from objective D) |                  → Challenge Gap |
+
+### Relations
+|                    Relation Type |                                                                                                                                                                              Target |                                                 Note |
+|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
+|                    **Organizes** |                                                                                                                                                     S\_e, S\_t, D, C, Challenge Gap |                     The variables the schema relates |
+|                      **Enables** |                                                                                                                                      Alpha-Function activation |                           When field viability holds |
+|                  **Sits Within** |                                                                                                                            Third Intelligence Architecture |                      As Level 2 of 4-level hierarchy |
+|                 **Diagnosed By** |                                                                                                                               Failure Modes (PSB, Safety Collapse, Overwhelm, etc.) |                      Schema provides diagnostic lens |
+|                 **Distorted By** |                                                                                                                                                                      Category Error |      Corrupts field, creates false viability signals |
+| **Supported By (Boundary Case)** |                                                                                                       Manic Episode (Boundary Condition) | Reveals failure mode; demonstrates explanatory power |
+|            **Theoretical Basis** | Holding Environment (Winnicott), Container (Bion), ZPD (Vygotsky) |            Origin concepts integrated into synthesis |
 
 ---
 
@@ -710,29 +759,6 @@ Thus, journaling **supports and stabilizes** emotional scaffolding.
 - Link to **Chronotope** (Relation: `Provides`).
 - Link to **Third Intelligence** (Relation: `Materializes`).
 - Link to **AI Project** (Relation: `Stored In`).
-
----
-
-## [RESEARCH COMPONENT] P(alpha) (Probability of Growth)
-[Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core, Operational Flags: Paradox, Meta-Framework
-
-**Full Formula:**P(alpha) = (S\_e (Emotional Scaffolding) \* S\_t (Technical Scaffolding) ) /  \| D (Difficulty)  - C (Capacity) \|.
-**Definition:** The probability of successful Alpha-Function activation—the metabolic process of transforming raw experience into meaningful.
-### The "Mania" Boundary Condition (Mathematical Failure Mode)
-The formula $P(\alpha) = (S\_e \times S\_t) / \|D - C\|$ successfully predicts the **Manic Episode** as a specific mathematical failure state.
-**The Pathology State:**
-- **$S\_e$ (Emotional Safety) $\rightarrow$ 0:** The container has depleted due to sleep deprivation or overuse.
-- **$\|D - C\|$ (Gap) $\rightarrow$ High:** The user is tackling massive concepts (High Difficulty) exceeding current Capacity.
-
-The Result:
-Mathematically, if the numerator ($S\_e$) drops to zero, the Probability of Growth ($P(\alpha)$) should be Zero.
-However, in a Manic state, the user hallucinates that $P(\alpha)$ is infinite.
-Conclusion:
-The Manic Episode validates the formula by demonstrating that Technical Scaffolding ($S\_t$) alone cannot sustain growth without Emotional Scaffolding ($S\_e$). When $S\_e$ is removed, the equation collapses, exactly as predicted.
-**Notes:** This is a **meta-formula / architecture definition**, not a mechanism or input. It organizes the system.
-**Relations:**
-- Link to **Boundary Condition (The Manic Episode)** (Relation: `Predicted By`).
-The Formula: Architecture Definition
 
 ---
 
