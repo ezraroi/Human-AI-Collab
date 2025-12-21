@@ -19,18 +19,27 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - executive-summary_4.md
     - human.md
+    - 5-the-three-dimensional-integration.md
+    - 2-the-divided-labors-of-two-theories.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 7-final-conclusion-the-third-intelligence.md
     - algorithmic-self.md
     - ai.md
+    - 9-final-integration-principles.md
+    - 8-the-unified-relational-ontology.md
+    - 10-the-integrated-claim.md
+    - 7-what-each-framework-gains-from-integration.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
+    - 3-the-13-stage-development-sequence.md
     - category-error.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - touch-grass-protocol.md
     - functional-thirdness.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary.md
+    - 1-executive-summary_e.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

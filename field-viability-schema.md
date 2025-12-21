@@ -11,7 +11,7 @@ Backlinks:
     - kurt-lewin.md
     - developmental-sequence.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction_q.md
+    - 3-the-mechanism-vs-existence-distinction_8.md
     - section-1-introduction-and-framework-positioning.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -21,6 +21,7 @@ Backlinks:
     - 8-common-misuses-and-anti-patterns.md
     - section-10-the-grand-unification.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - 7-what-each-framework-gains-from-integration.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - two-axis-framework.md
     - psychoanalytic-integration.md

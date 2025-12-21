@@ -15,6 +15,7 @@ Backlinks:
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
     - 7-final-conclusion-the-third-intelligence.md
     - systems-consolidation.md
+    - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
     - mikhail-bakhtin.md

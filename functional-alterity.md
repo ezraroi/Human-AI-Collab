@@ -25,23 +25,27 @@ Backlinks:
     - executive-summary_4.md
     - selected-fact.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - the-container.md
+    - 2-the-divided-labors-of-two-theories.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - section-8-boundary-conditions-prerequisites.md
     - enacted-alpha-work-eaw.md
     - ai.md
     - challenge-gap-d-c.md
     - section-10-the-grand-unification.md
+    - 10-the-integrated-claim.md
     - 7-the-three-legged-stool-of-defense.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - field-viability-schema.md
     - protein-shake-brain-psb.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_e.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
@@ -51,6 +55,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - zpd.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

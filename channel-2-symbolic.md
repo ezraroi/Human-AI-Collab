@@ -23,18 +23,23 @@ Backlinks:
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - conclusion-on-novelty-and-contribution.md
     - 9-the-hidden-implications-youve-discovered.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
+    - 9-final-integration-principles.md
     - recursive-metabolic-loop.md
+    - 8-the-unified-relational-ontology.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
+    - 10-the-integrated-claim.md
     - 15-is-your-model-suggesting-something-new.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
+    - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
@@ -49,7 +54,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_l.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

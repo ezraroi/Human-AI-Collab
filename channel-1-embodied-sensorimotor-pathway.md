@@ -27,13 +27,18 @@ Backlinks:
     - productive-epistemic-tension.md
     - e.md
     - human.md
+    - 5-the-three-dimensional-integration.md
+    - 2-the-divided-labors-of-two-theories.md
     - conclusion-on-novelty-and-contribution.md
     - 9-the-hidden-implications-youve-discovered.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
+    - 9-final-integration-principles.md
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
+    - 8-the-unified-relational-ontology.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
+    - 10-the-integrated-claim.md
     - pre-reflective-awareness.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
@@ -45,11 +50,13 @@ Backlinks:
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - felt-sense.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
@@ -65,7 +72,8 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_l.md
+    - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

@@ -29,6 +29,7 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - somatic-marker-hypothesis.md
+    - 9-final-integration-principles.md
     - pre-reflective-awareness.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -53,7 +54,7 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_l.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

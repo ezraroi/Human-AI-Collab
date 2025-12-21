@@ -14,6 +14,8 @@ Backlinks:
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
     - human.md
+    - 10-the-integrated-claim.md
+    - 7-what-each-framework-gains-from-integration.md
     - 15-is-your-model-suggesting-something-new.md
     - recursive-pattern-verification-loop.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md

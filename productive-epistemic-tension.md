@@ -14,6 +14,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - executive-summary_4.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - ai.md
     - section-10-the-grand-unification.md

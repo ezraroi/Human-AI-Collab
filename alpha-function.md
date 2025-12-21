@@ -48,6 +48,7 @@ Backlinks:
     - rrv-cycle-recursive-refine-validate.md
     - selected-fact.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - eugene-gendlin.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -63,14 +64,18 @@ Backlinks:
     - ai.md
     - challenge-gap-d-c.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
+    - 9-final-integration-principles.md
     - recursive-metabolic-loop.md
+    - 8-the-unified-relational-ontology.md
     - gap-filling-inference-generation.md
+    - 10-the-integrated-claim.md
     - transmissive-self.md
     - true-self.md
     - 7-the-three-legged-stool-of-defense.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - cognitive-dependency.md
+    - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
@@ -80,6 +85,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - the-doing-both-hypothesis.md
     - 7-critical-connection-5-why-psb-happens.md
     - felt-sense.md
@@ -90,6 +96,7 @@ Backlinks:
     - cognitive-debt.md
     - c-capacity.md
     - section-11-the-dialogical-illusion-as-producti.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
@@ -97,10 +104,10 @@ Backlinks:
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_e.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
@@ -116,7 +123,8 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_l.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis

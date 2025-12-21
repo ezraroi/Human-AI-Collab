@@ -21,6 +21,7 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
     - 2-from-probability-to-field-viability.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -30,19 +31,22 @@ Backlinks:
     - challenge-gap-d-c.md
     - 3-implications-for-positioning.md
     - section-10-the-grand-unification.md
+    - 8-the-unified-relational-ontology.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
     - c-capacity.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
-    - executive-summary_i.md
+    - executive-summary_r.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md

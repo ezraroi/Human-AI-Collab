@@ -24,6 +24,7 @@ Backlinks:
     - executive-summary_4.md
     - selected-fact.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - conclusion-on-novelty-and-contribution.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 4-remaining-questions-for-tier-3.md
@@ -32,6 +33,7 @@ Backlinks:
     - algorithmic-self.md
     - 3-implications-for-positioning.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - 10-the-integrated-claim.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
@@ -50,7 +52,7 @@ Backlinks:
     - 4-three-key-tensions-surfaced-through-triangul.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md

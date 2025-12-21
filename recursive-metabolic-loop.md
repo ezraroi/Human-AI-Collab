@@ -12,8 +12,10 @@ Backlinks:
     - destiny-drive.md
     - embodied-engagement-conditions.md
     - identity-stakes.md
+    - 5-the-three-dimensional-integration.md
     - eugene-gendlin.md
     - time.md
+    - 2-the-divided-labors-of-two-theories.md
     - enacted-alpha-work-eaw.md
     - section-7-temporal-dynamics-across-the-archite.md
     - section-6-the-complete-system-architecture.md

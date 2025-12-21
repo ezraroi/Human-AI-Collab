@@ -22,6 +22,7 @@ Backlinks:
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
     - 2-from-probability-to-field-viability.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md

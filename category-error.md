@@ -19,20 +19,26 @@ Backlinks:
     - iron-man-mentality.md
     - executive-summary_4.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - the-container.md
     - 7-final-conclusion-the-third-intelligence.md
     - algorithmic-self.md
     - ai.md
     - 8-common-misuses-and-anti-patterns.md
+    - 9-final-integration-principles.md
+    - 8-the-unified-relational-ontology.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - 7-what-each-framework-gains-from-integration.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - 6-integration-points.md
+    - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - field-viability-schema.md
     - alpha-function.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - functional-thirdness.md
     - emotional-scaffolding-s_e.md

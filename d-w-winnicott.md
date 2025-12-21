@@ -12,11 +12,15 @@ Backlinks:
     - false-self.md
     - holding-environment.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
+    - 2-the-divided-labors-of-two-theories.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 3-implications-for-positioning.md
+    - 10-the-integrated-claim.md
     - true-self.md
+    - 7-what-each-framework-gains-from-integration.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
@@ -28,6 +32,7 @@ Backlinks:
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
+    - 4-the-critical-ontological-distinction.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Psychoanalysis

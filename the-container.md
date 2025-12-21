@@ -15,10 +15,13 @@ Backlinks:
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
     - hpa-axis.md
+    - 9-final-integration-principles.md
+    - 7-what-each-framework-gains-from-integration.md
     - third-intelligence.md
     - field-viability-schema.md
     - emotional-scaffolding-s_e.md
     - wilfred-bion.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis

@@ -24,6 +24,7 @@ Backlinks:
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - recursive-metabolic-loop.md
     - 2-the-alpha-function-as-the-triple-network-the.md
+    - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - 15-is-your-model-suggesting-something-new.md
@@ -31,7 +32,7 @@ Backlinks:
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - psychoanalytic-prerequisites.md

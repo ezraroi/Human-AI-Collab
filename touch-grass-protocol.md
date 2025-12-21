@@ -9,14 +9,17 @@ Tag:
 Backlinks:
     - developmental-sequence.md
     - iron-man-mentality.md
+    - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - 8-common-misuses-and-anti-patterns.md
     - section-7-temporal-dynamics-across-the-archite.md
     - aba-design.md
+    - 10-the-integrated-claim.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - 7-research-usage.md
     - field-viability-schema.md
     - alpha-function.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - emotional-scaffolding-s_e.md
     - 5-worked-diagnostic-examples.md
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'

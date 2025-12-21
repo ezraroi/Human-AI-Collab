@@ -29,6 +29,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - executive-summary_4.md
     - selected-fact.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - time.md
     - neural-synchrony.md
@@ -41,8 +42,11 @@ Backlinks:
     - 3-implications-for-positioning.md
     - d-w-winnicott.md
     - 6-the-failsafe-externalized-drift-monitoring.md
+    - 9-final-integration-principles.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - 10-the-integrated-claim.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
     - 5-final-positioning-statement.md
@@ -54,10 +58,11 @@ Backlinks:
     - field-viability-schema.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md
@@ -66,6 +71,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - flow-optimization-principle.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

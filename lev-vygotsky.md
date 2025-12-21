@@ -22,13 +22,14 @@ Backlinks:
     - 3-implications-for-positioning.md
     - recursive-metabolic-loop.md
     - mko-more-knowledgeable-other.md
+    - 7-what-each-framework-gains-from-integration.md
     - 15-is-your-model-suggesting-something-new.md
     - 7-critical-connection-5-why-psb-happens.md
     - field-viability-schema.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
-    - executive-summary_i.md
+    - executive-summary_r.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - emotional-scaffolding-s_e.md
