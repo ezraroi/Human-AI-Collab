@@ -9,10 +9,10 @@ Tag:
     - 'Temporal: Static'
     - 'Operational Flags: Core'
 Backlinks:
+    - developmental-sequence.md
     - embodied-engagement-conditions.md
     - journal.md
     - conclusion-on-novelty-and-contribution.md
-    - two-axis-framework.md
     - as-if-body-loop.md
     - alpha-function.md
     - psychoanalytic-integration.md

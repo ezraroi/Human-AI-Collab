@@ -32,7 +32,6 @@ Backlinks:
     - section-10-the-grand-unification.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
-    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md

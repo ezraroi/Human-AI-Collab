@@ -17,7 +17,7 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
-    - executive-summary_c.md
+    - executive-summary_5.md
     - human.md
     - 3-diagnostic-workflow.md
     - the-container.md
@@ -70,11 +70,30 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - The user assigns the AI an interpersonal role (friend, therapist, mentor).   
 - [Emotional scaffolding](emotional-scaffolding-s_e.md) is outsourced → relational boundaries collapse.   
    
+### Two Manifestation Modes   
+**Mistake-Mode:**   
+- User misunderstands AI's ontological status   
+- Corrected by: Explanation + stance correction   
+- User has sufficient Se to maintain DTO once understood   
+   
+**Symptom-Mode:**   
+- User cannot maintain DTO stance despite intellectual understanding   
+- Occurs when Se is depleted or viability envelope collapsed   
+- Corrected by: Rebuilding Se / reducing St / withdrawal protocol   
+- Stance correction alone will fail; must address underlying viability   
+   
+### Diagnostic Implication   
+When Category Error persists despite correction attempts:   
+- Assess viability (Se⊗St status)   
+- Check for depletion markers   
+- Consider developmental staging (Stages 1-6 incomplete?)   
+- Do not increase St; rebuild Se first   
+   
+This explains why "just maintain proper stance" sometimes fails in vivo.   
 ### Wiring (Relations)   
 - **Part Of:** [Two-Axis Framework](two-axis-framework.md) (Axis A failure)   
 - **Composes** (with [PSB](protein-shake-brain-psb.md)): [Cognitive Dependency](cognitive-dependency.md)   
 - **Raises Risk Of:** [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)   
-- **Prevented By:**   
-    - [DTO](dynamic-transitional-object-dto.md) stance   
+- **Prevented By: **[DTO](dynamic-transitional-object-dto.md) stance   
    
    

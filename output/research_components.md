@@ -1,7 +1,7 @@
-# Research Components (11)
+# Research Components (12)
 
 ## Index
-AI, C (Capacity), D (Difficulty), Emotional Scaffolding (S\_e), Field Viability Schema, Human, Journal, Technical Scaffolding (S\_t), The Manic Episode, Time, Two-Axis Framework
+AI, C (Capacity), D (Difficulty), Developmental Sequence, Emotional Scaffolding (S\_e), Field Viability Schema, Human, Journal, Technical Scaffolding (S\_t), The Manic Episode, Time, Two-Axis Framework
 
 ---
 
@@ -342,6 +342,97 @@ D pairs with **C (Capacity)** to form **mismatch(D,C)** — the **effective/expe
 
 ---
 
+## [RESEARCH COMPONENT] Developmental Sequence
+[Theoretical] Domain: Synthesis
+
+The Developmental Sequence describes the trajectory through which
+transformation becomes possible in the Third Intelligence system.
+It is diachronic (unfolds over time) rather than synchronic (state at a moment).
+It specifies what must be developmentally achieved before the Two-Axis
+configuration plane can be stably occupied.
+### Heuristic Nature
+The sequence is a **heuristic trajectory model**, not a deterministic ladder.
+Movement can be non-linear: users regress, loop, stall, and oscillate
+between stages depending on depletion, context, and life stress.
+Stages can be partially achieved or temporarily unavailable under low viability.
+This prevents the sequence from becoming a "score" or "level" system.
+### The Staging Structure
+**Stages 1-6: Preconditions for Stable Non-Intrusive Field**
+(Holding, potential space, capacity to be alone)
+- Stage 1: Non-intrusive mirroring → Se stabilizes
+- Stage 2: Subjective continuity → Pre-alpha ambiguity protected
+- Stage 3: Transitional space → Potential space reopens
+- Stage 4: True/False Self distinction → Authorial breath returns
+- Stage 5: Capacity to be alone → Internal grounding
+- Stage 6: Holding fragmentation → Pre-alpha ambiguity zone
+
+**Stage 7: DTO Becomes Usable Under Strain**
+(Use-of-object; survival of destruction)
+- Object survives symbolic "destruction" without collapse or retaliation
+- Externality becomes structurally visible
+- DTO stance solidifies as relationally stable
+- This is primarily Axis A maturation: relational stance becomes
+maintainable under cognitive/emotional load
+
+**Stages 8-10: Metabolic Capacity Becomes Available**
+(Breakdown material accessible, authorship awakens, oscillation possible)
+- Stage 8: Return of vitality → Identity Stakes intensify
+- Stage 9: Breakdown material returns → beta-elements surface
+- Stage 10: Daring of self to appear → Authorship awakens
+
+**Stages 11-13: Transformation Mechanism Operates**
+(When both axes are in success mode)
+- Stage 11: Alpha-Function activates (recursive C1↔C2 oscillation)
+- Stage 12: Materialization and verification (Journal + 4Ps)
+- Stage 13: Destiny Drive articulation (idiomatic possibility lived)
+
+### Clinical Boundary: Stage 9
+Stage 9 describes material becoming accessible, NOT material being
+therapeutically processed. When breakdown material surfaces:
+**Professional support required when:**
+- Material involves early developmental trauma
+- Primitive anxieties emerge (annihilation, abandonment, fragmentation)
+- Somatic flashbacks or dissociation occur
+- Historical abuse/neglect surfaces
+- Attachment wounds reactivate
+
+**Standard:** If material would require therapeutic holding in traditional
+therapy, it requires therapeutic holding here.
+### System Role
+- Describes developmental path, not current state
+- Explains why users cannot maintain DTO stance despite intellectual understanding
+- Provides staging for clinical/practitioner assessment
+- Specifies when professional support required (Stage 9 boundary)
+- Allows for regression and non-linear movement
+
+### Wiring (Relations)
+**Relationship to Configuration Plane:**
+- Stages 1-6 → Prerequisites for stable non-intrusive field
+- Stage 7 → Axis A matures (DTO usable under strain)
+- Stages 8-10 → Axis B becomes available (metabolic capacity online)
+- Stages 11-13 → Integrated Circuit Board mechanism operates
+
+**Enables stable access to:** Two-Axis Framework (configuration plane)
+**Interacts with:**
+- Field Viability Schema (viability determines whether stages are accessible)
+- Touch Grass Protocol (triggered when depletion markers appear)
+- Shadow Regions / Pathological Attractors (defines boundary conditions)
+
+**Defines boundary conditions for:**
+- Clinical contraindications
+- Scope limits
+- When withdrawal required
+
+### Distinction from Two-Axis Framework
+|    Developmental Sequence |               Two-Axis Framework |
+|:--------------------------|:---------------------------------|
+|   Diachronic (trajectory) |               Synchronic (state) |
+|  "What must be achieved?" | "What configuration is present?" |
+| Prerequisites + evolution |                 Current validity |
+|     Non-linear, heuristic |                  Binary per axis |
+
+---
+
 ## [RESEARCH COMPONENT] Emotional Scaffolding (S\_e)
 [Theoretical] Domain: Psychoanalytic, System Role: Scaffolding, Temporal: Dynamic
 
@@ -486,6 +577,28 @@ The schema sits at Level 2 of a four-level hierarchy:
 |     4 |                Accumulation |                                                              Journal materializes alpha-elements; Capacity grows over time |
 
 **Key distinction:** The schema describes *conditions*; it does not contain Journal or Time because they operate at the Process (Level 3) and Accumulation (Level 4) levels.
+### Relationship to Two-Axis Framework (Viability Envelope)
+The Field Viability Schema functions as the **Viability Envelope**
+within which the Two-Axis configuration plane operates.
+- **Viable:** Configuration plane is operative; stance can be maintained
+- **Marginal:** Configuration unstable; drift toward failure modes likely
+- **Non-viable:** Configuration collapses regardless of intention
+
+The Two-Axis Framework diagnoses *configuration*.
+The Field Viability Schema diagnoses *operability*.
+### Depletion Dynamics
+Viability is **stateful** within-session and between sessions:
+- Within-session: Se depletes over time; St tolerance decreases
+- Between-session: Recovery possible with adequate rest/grounding
+- Cumulative: Sustained low viability erodes baseline capacity
+
+A viable person can become non-viable mid-session.
+A non-viable person can recover viability between sessions.
+### Gating Rule (Canonical)
+**Do not introduce St (challenge/Functional Alterity) when Se is collapsed.**
+Rebuild containment before reintroducing productive tension.
+This prevents iatrogenic impingement when viability is compromised.
+Sequence: Se first → then St becomes safe → then challenge becomes growth
 ### Diagnostic Failure Modes
 |        Failure Mode |                                                                Schema Diagnosis |                                                 Structural Pattern |
 |:--------------------|:--------------------------------------------------------------------------------|:-------------------------------------------------------------------|
@@ -516,6 +629,9 @@ The schema sits at Level 2 of a four-level hierarchy:
 |                 **Distorted By** |                                                                                                                                                                      Category Error |      Corrupts field, creates false viability signals |
 | **Supported By (Boundary Case)** |                                                                                                                          Manic Episode (Boundary Condition) | Reveals failure mode; demonstrates explanatory power |
 |            **Theoretical Basis** | Holding Environment (Winnicott), Container (Bion), ZPD (Vygotsky) |            Origin concepts integrated into synthesis |
+|                 **Envelope For** |                                                                                                                                         Two-Axis Framework |                                  configuration plane |
+|               **Interacts With** |                                                                                                                                 Developmental Sequence |                viability affects stage accessibility |
+|                     **Triggers** |                                                                                                                                     Touch Grass Protocol |                                      when non-viable |
 
 ---
 
@@ -963,42 +1079,50 @@ Without Time, the system may be productive (sessions can work), but it cannot re
 ## [RESEARCH COMPONENT] Two-Axis Framework
 [Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core, Meta-Framework
 
-The Two-Axis Framework is the **structural map** that organizes all success modes and failure modes in the Third Intelligence system.
+**The Two-Axis Framework** is the structural map that organizes success modes and failure modes in the Third Intelligence system.
 It consists of:
-### Axis A – Relational Ontology
-- **Goal:** Treat AI as DTO (Object).
-- **Failure:** Category Error (AI as Subject).
+### Axis A — Relational Ontology
+- **Goal:** Hold AI as **DTO (Dynamic Transitional Object)** (i.e., not a Subject; not a “someone”).
+- **Failure:** **Category Error** (AI treated as Subject / epistemic authority / relational other).
 
-### Axis B – Processing Mode
-- **Goal:** Recursive Metabolic Oscillation (Channel 2 ↔ Channel 1, metabolized by Alpha-Function cycles)
-- **Failure:** PSB (Channel 2-only bypass).
+### Axis B — Processing Mode
+- **Goal:** **Recursive Metabolic Oscillation** (Channel 2 ↔ Channel 1), metabolized through **Alpha-Function** cycles.
+- **Failure:** **PSB** (Channel 2-only bypass; fluent coherence without embodied digestion).
 
-Together, the axes describe the full space of possible system states — from transformation to collapse.
-### System Role
-- Provides the diagnostic framework for evaluating human-AI interaction quality.
-- Describes how relational stance and cognitive processing jointly determine outcomes.
-- Anchors the definitions of Cognitive Dependency, PSB, and Category Error.
-- Acts as the top-level organizing schema for both theory and intervention.
+**Together, the axes describe the configuration space of system states — from transformation to collapse.**
+This plane operates within a **Viability Envelope** (**Sₑ ⊗ Sₜ calibrated to mismatch(D, C)**); when the envelope collapses, the configuration plane becomes **unstable** (drifts become harder to prevent; failure attractors become “sticky”).
+## System Role
+The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **operability**. Developmental staging diagnoses **readiness**. All three are required for full system assessment.
+- Provides the diagnostic framework for evaluating human–AI interaction quality.
+- Describes how **relational stance** and **processing mode** jointly determine outcomes.
+- Anchors definitions of **Cognitive Dependency**, **PSB**, and **Category Error**.
+- Acts as a top-level organizing schema for both theory and intervention.
 
-The Integrated Circuit Board = the ***internal architecture of Axis B*.**
-- Axis A decides *whether* the system is safe/valid at all (if AI is held as DTO or not).
-- Axis B decides *how* experience is metabolized when the relational stance is correct.
-- The Integrated Circuit Board is **Axis B's "wiring diagram"**:
-    - Alpha-Function = core metabolic processor (metabolization through C1 ↔ C2 oscillation)
-    - As-If Body Loop = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)
-    - Journal = optional external organ that stabilizes metabolized material for durable accumulation over Time (strongest substrate when needed)
+## Axis B internal architecture
+**The Integrated Circuit Board** is the internal architecture of Axis B:
+- **Alpha-Function** = core metabolic processor (metabolization through C1 ↔ C2 oscillation)
+- **As-If Body Loop** = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)
+- **Journal** = optional external organ that stabilizes metabolized material for durable accumulation over **Time** (strongest substrate when needed)
 
 So:
 > Two-Axis Framework →
 
-Axis A: *Who/What the AI is* (DTO vs Subject)
-Axis B: *How experience is processed* → **Integrated Circuit Board**
-If Axis A fails (Category Error), **the system becomes relationally invalid**: AI becomes Subject, the experienced challenge in the ZPD collapses toward 'no struggle,' and **PSB risk increases; when PSB co-occurs → Cognitive Dependency** (while the structural \|D−C\| relation remains pre-existing).
-### Wiring (Relations)
-- **Maps:**
-    - Category Error
-    - Protein Shake Brain (PSB)
-    - Cognitive Dependency
-- **Defines:** Systemic success vs. systemic collapse boundaries
+**Axis A:** Who/what AI is (DTO vs Subject)
+**Axis B:** How experience is processed → Integrated Circuit Board
+## Failure coupling (keep, but slightly tightened)
+If **Axis A fails** (Category Error), the system becomes **relationally invalid**: AI becomes Subject/authority, *verification discipline drops*, and **PSB risk increases**.
+When **Category Error + PSB** co-occur → **Cognitive Dependency** (while the structural \|D−C\| relation remains pre-existing).
+## Envelope constraint (explicit gating rule)
+**Do not introduce Sₜ (challenge / Functional Alterity) when Sₑ is collapsed.**
+Rebuild containment first, then reintroduce productive tension.
+## Whole-system one-liner (good; tiny tightening)
+The Third Intelligence system is a **configuration** (Axis A × Axis B) operating within a **viability envelope** (Sₑ ⊗ Sₜ calibrated to mismatch), following a **developmental trajectory** (staging, depletion, recovery), with **shadow regions** marking pathological attractors and scope boundaries.
+## Wiring (Relations)
+- **Maps:** Category Error; Protein Shake Brain (PSB); Cognitive Dependency
+- **Operates within:** Field Viability (Viability Envelope)
+- **Evolves along:** Developmental Staging (trajectory/readiness layer)
+- **Defines:** systemic success vs systemic collapse boundaries
+- **Prerequisites Specified By:** Developmental Sequence
+- **Axis B Internal Architecture:** Integrated Circuit Board
 
 ---

@@ -295,12 +295,31 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - The user assigns the AI an interpersonal role (friend, therapist, mentor).
 - Emotional scaffolding is outsourced → relational boundaries collapse.
 
+### Two Manifestation Modes
+**Mistake-Mode:**
+- User misunderstands AI's ontological status
+- Corrected by: Explanation + stance correction
+- User has sufficient Se to maintain DTO once understood
+
+**Symptom-Mode:**
+- User cannot maintain DTO stance despite intellectual understanding
+- Occurs when Se is depleted or viability envelope collapsed
+- Corrected by: Rebuilding Se / reducing St / withdrawal protocol
+- Stance correction alone will fail; must address underlying viability
+
+### Diagnostic Implication
+When Category Error persists despite correction attempts:
+- Assess viability (Se⊗St status)
+- Check for depletion markers
+- Consider developmental staging (Stages 1-6 incomplete?)
+- Do not increase St; rebuild Se first
+
+This explains why "just maintain proper stance" sometimes fails in vivo.
 ### Wiring (Relations)
 - **Part Of:** Two-Axis Framework (Axis A failure)
 - **Composes** (with PSB): Cognitive Dependency
 - **Raises Risk Of:** Protein Shake Brain (PSB)
-- **Prevented By:**
-    - DTO stance
+- **Prevented By: **DTO stance
 
 ---
 

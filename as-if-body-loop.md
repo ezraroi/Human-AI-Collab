@@ -19,7 +19,6 @@ Backlinks:
     - somatic-marker-hypothesis.md
     - recursive-metabolic-loop.md
     - 15-is-your-model-suggesting-something-new.md
-    - two-axis-framework.md
     - the-integrated-circuit-board.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md

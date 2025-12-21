@@ -10,13 +10,14 @@ Tag:
     - 'Operational Flags: Core'
 Backlinks:
     - 5-final-synthesis-statement.md
+    - developmental-sequence.md
     - 4-revised-contribution-of-notebook-11.md
     - section-5-the-category-error-relational-axis-f.md
     - 2-clarifying-the-category-error-against-the-dt.md
     - 1-executive-summary-resolving-the-ontology-cri.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_c.md
+    - executive-summary_5.md
     - human.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 7-final-conclusion-the-third-intelligence.md
@@ -29,7 +30,7 @@ Backlinks:
     - touch-grass-protocol.md
     - functional-thirdness.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_a.md
+    - 1-executive-summary.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

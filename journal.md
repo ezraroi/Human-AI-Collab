@@ -13,6 +13,7 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - 6-translation-existing-practice-as-methodology.md
     - narrative-self.md
+    - developmental-sequence.md
     - section-4-attribution-logic.md
     - reflective-prompting.md
     - 5-the-embodied-connection.md
@@ -39,7 +40,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_c.md
+    - executive-summary_5.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -64,7 +65,6 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - how-journal-entries-are-actually-created.md
     - 15-is-your-model-suggesting-something-new.md
-    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
@@ -89,7 +89,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary.md
+    - 1-executive-summary_17.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md

@@ -18,7 +18,6 @@ Backlinks:
     - section-7-temporal-dynamics-across-the-archite.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - two-axis-framework.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
     - alpha-function.md

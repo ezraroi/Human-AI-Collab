@@ -22,7 +22,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_c.md
+    - executive-summary_5.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -39,8 +39,9 @@ Backlinks:
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
+    - field-viability-schema.md
     - protein-shake-brain-psb.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_u.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md

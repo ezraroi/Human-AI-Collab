@@ -30,7 +30,6 @@ Backlinks:
     - recursive-metabolic-loop.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - 15-is-your-model-suggesting-something-new.md
-    - two-axis-framework.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
@@ -50,7 +49,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_l.md
+    - 1-executive-summary_7.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

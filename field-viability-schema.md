@@ -9,8 +9,9 @@ Tag:
     - 'Operational Flags: Core'
 Backlinks:
     - kurt-lewin.md
+    - developmental-sequence.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction.md
+    - 3-the-mechanism-vs-existence-distinction_e.md
     - section-1-introduction-and-framework-positioning.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -21,6 +22,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 5-documented-counter-evidence-the-manic-episodes.md
+    - two-axis-framework.md
     - psychoanalytic-integration.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
@@ -50,6 +52,8 @@ Links:
     - time.md
     - alpha-elements.md
     - c-capacity.md
+    - two-axis-framework.md
+    - functional-alterity.md
     - alpha-function.md
     - third-intelligence.md
     - the-manic-episode.md
@@ -58,6 +62,8 @@ Links:
     - the-container.md
     - wilfred-bion.md
     - lev-vygotsky.md
+    - developmental-sequence.md
+    - touch-grass-protocol.md
 Emoji: "\U0001F9E9"
 id: bafyreifn6lughkshqeywp3lfsej4jiw3jsnz4gghszyawatuskp2w62sfe
 ---
@@ -105,6 +111,28 @@ The schema sits at Level 2 of a four-level hierarchy:
 |     4 |                Accumulation |                                                              [Journal](journal.md) materializes [alpha-elements](alpha-elements.md); [Capacity](c-capacity.md) grows over time |
 
 **Key distinction:** The schema describes *conditions*; it does not contain Journal or Time because they operate at the Process (Level 3) and Accumulation (Level 4) levels.   
+### Relationship to [Two-Axis Framework](two-axis-framework.md) (Viability Envelope)   
+The Field Viability Schema functions as the **Viability Envelope**
+within which the Two-Axis configuration plane operates.   
+- **Viable:** Configuration plane is operative; stance can be maintained   
+- **Marginal:** Configuration unstable; drift toward failure modes likely   
+- **Non-viable:** Configuration collapses regardless of intention   
+   
+The Two-Axis Framework diagnoses *configuration*.
+The Field Viability Schema diagnoses *operability*.   
+### Depletion Dynamics   
+Viability is **stateful** within-session and between sessions:   
+- Within-session: Se depletes over time; St tolerance decreases   
+- Between-session: Recovery possible with adequate rest/grounding   
+- Cumulative: Sustained low viability erodes baseline capacity   
+   
+A viable person can become non-viable mid-session.
+A non-viable person can recover viability between sessions.   
+### Gating Rule (Canonical)   
+**Do not introduce St (challenge/[Functional Alterity](functional-alterity.md)) when Se is collapsed.**   
+Rebuild containment before reintroducing productive tension.
+This prevents iatrogenic impingement when viability is compromised.   
+Sequence: Se first → then St becomes safe → then challenge becomes growth   
 ### Diagnostic Failure Modes   
 |        Failure Mode |                                                                Schema Diagnosis |                                                 Structural Pattern |
 |:--------------------|:--------------------------------------------------------------------------------|:-------------------------------------------------------------------|
@@ -135,4 +163,7 @@ The schema sits at Level 2 of a four-level hierarchy:
 |                 **Distorted By** |                                                                                                                                                                      Category Error |      Corrupts field, creates false viability signals |
 | **Supported By (Boundary Case)** |                                                                                                                          [Manic Episode](the-manic-episode.md) (Boundary Condition) | Reveals failure mode; demonstrates explanatory power |
 |            **Theoretical Basis** | [Holding Environment ](holding-environment.md)([Winnicott](d-w-winnicott.md)), [Container](the-container.md) ([Bion](wilfred-bion.md)), [ZPD](zpd.md) ([Vygotsky](lev-vygotsky.md)) |            Origin concepts integrated into synthesis |
+|                 **Envelope For** |                                                                                                                                         [Two-Axis Framework](two-axis-framework.md) |                                  configuration plane |
+|               **Interacts With** |                                                                                                                                 [Developmental Sequence](developmental-sequence.md) |                viability affects stage accessibility |
+|                     **Triggers** |                                                                                                                                     [Touch Grass Protocol](touch-grass-protocol.md) |                                      when non-viable |
 

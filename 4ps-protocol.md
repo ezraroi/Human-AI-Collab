@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - 6-translation-existing-practice-as-methodology.md
+    - developmental-sequence.md
     - reflective-prompting.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - section-5-the-category-error-relational-axis-f.md
