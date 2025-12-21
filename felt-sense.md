@@ -44,6 +44,7 @@ Backlinks:
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - internally-persuasive-discourse.md
     - emotional-scaffolding-s_e.md
     - negative-capability.md
@@ -54,7 +55,7 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_l.md
+    - 1-executive-summary.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

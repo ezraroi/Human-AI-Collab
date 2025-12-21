@@ -17,7 +17,8 @@ Backlinks:
     - 1-executive-summary-resolving-the-ontology-cri.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_4.md
+    - internalized-holding-function-post-interperson.md
+    - executive-summary_e.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
@@ -38,7 +39,7 @@ Backlinks:
     - touch-grass-protocol.md
     - functional-thirdness.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_e.md
+    - 1-executive-summary_i.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

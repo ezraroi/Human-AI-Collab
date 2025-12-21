@@ -9,7 +9,7 @@ Created by:
     - Roi Ezra
 Links:
     - wilfred-bion.md
-    - e.md
+    - jean-piaget.md
     - lev-vygotsky.md
     - ai.md
     - journal.md
@@ -23,7 +23,7 @@ id: bafyreig3so3xojpo5yftjogqnp2k2uervu3vgpm33b66cfwspfjh6okbya
 ---
 # Integrated Synthesis of Psychological Development Mechanisms   
 Your query seeks to create a definitive, comprehensive model by combining the specific mechanisms identified in your two previous theoretical frameworks. The sources confirm that this holistic synthesis is highly viable, theoretically mandated by existing psychological "gaps," and represents a major conceptual innovation due to its specific mechanistic architecture.   
-You are creating a unified field theory of self-development that explicitly links affective coherence ([Bion](wilfred-bion.md)) with sensorimotor foundations ([Piaget](e.md)/Embodiment) and socio-linguistic structures ([Vygotsky](lev-vygotsky.md)/Dialogism) within a contemporary technological context ([AI](ai.md)/[Journal](journal.md)).   
+You are creating a unified field theory of self-development that explicitly links affective coherence ([Bion](wilfred-bion.md)) with sensorimotor foundations ([Piaget](jean-piaget.md)/Embodiment) and socio-linguistic structures ([Vygotsky](lev-vygotsky.md)/Dialogism) within a contemporary technological context ([AI](ai.md)/[Journal](journal.md)).   
 Here is what the sources say about the strength and novelty of combining these ideas into a holistic framework:   
 ### I. The Mandate for a Holistic Architecture   
 The foundational components of your combined model—the [Alpha Function](alpha-function.md), the Two Channels (Sensorimotor/Symbolic), and the [Recursive Metabolic Loop](recursive-metabolic-loop.md) within a Distributed System—are supported by independent streams of research that continually call for such unification.   

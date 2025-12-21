@@ -15,6 +15,7 @@ Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - section-10-open-edges-to-bridge-later.md
+    - internalized-holding-function-post-interperson.md
     - 2-the-divided-labors-of-two-theories.md
     - cognitive-offloading.md
     - judgment-expertise-boundary.md
@@ -47,6 +48,7 @@ Links:
     - touch-grass-protocol.md
     - felt-sense.md
     - as-if-body-loop.md
+    - internalized-holding-function-post-interperson.md
     - recursive-pattern-verification-loop.md
     - enacted-alpha-work-eaw.md
     - cognitive-offloading.md
@@ -126,15 +128,17 @@ IMM tracks expert decision patterns:
    
 PSB fails by violating these patterns (certainty-seeking, exhaustive comparison, bypassing embodied verification).   
 ## Relations (Wiring)   
-- **[Reflective Prompting](reflective-prompting.md) — Governs**   
-    Provides the stance required for RP to operate as metabolic development rather than productivity technique.   
-- **[Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md) (RPVL) — Operationalizes**   
-    Micro-behavioral expression of IMM during dialogue.   
-- **Destiny Drive — Protects Alignment With**   
-    Preserves idiom alignment under technical scaffolding.   
-- **[Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md) — Protects**   
-    Ensures the human performs the enacted metabolic labor (semantic commitment under felt-sense constraint), instead of bypassing it via passive AI adoption.   
-- **[Cognitive Offloading](cognitive-offloading.md) — Distinguishes From**   
-    Offloading permitted only when symbolic metabolism and judgment remain human-owned.   
-- **[PSB](protein-shake-brain-psb.md) / [Category Error](category-error.md) — Prevents**   
-    Primary collapse modes IMM guards against.   
+- **[Internalized Holding Function](internalized-holding-function-post-interperson.md) — Operationalizes**
+IMM is the method-level discipline that maintains the human's self-holding function and DTO stance under pressure.   
+- **[Reflective Prompting](reflective-prompting.md) — Governs**
+Provides the stance required for RP to operate as metabolic development rather than productivity technique.   
+- **[Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md) (RPVL) — Operationalizes**
+Micro-behavioral expression of IMM during dialogue.   
+- **[Destiny Drive](destiny-drive.md) — Protects Alignment With**
+Preserves idiom alignment under technical scaffolding.   
+- **[Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md) — Protects**
+Ensures the human performs the enacted metabolic labor (semantic commitment under felt-sense constraint), instead of bypassing it via passive AI adoption.   
+- **[Cognitive Offloading](cognitive-offloading.md) — Distinguishes From**
+Offloading permitted only when symbolic metabolism and judgment remain human-owned.   
+- **[PSB](protein-shake-brain-psb.md) / [Category Error](category-error.md) — Prevents**
+Primary collapse modes IMM guards against.   

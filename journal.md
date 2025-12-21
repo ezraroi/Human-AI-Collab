@@ -40,7 +40,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_4.md
+    - executive-summary_e.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -96,7 +96,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary.md
+    - 1-executive-summary_o.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md

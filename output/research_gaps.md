@@ -32,6 +32,12 @@ This determines whether the model is:
     - Tolerates productive tension
     - Engages in self-explanation naturally
     - Accesses felt sense verification
+4. **Developmental achievement (distinct from cognitive style):**
+    - Already-internalized holding capacity (Winnicottian "capacity to be alone")
+    - Self-holding durability during identity-stakes symbolic work
+    - Sufficient Sₑ to maintain container function under pressure
+    - **Critical distinction:** This is a prior developmental attainment, not a trainable cognitive skill—potentially more exclusionary than metacognitive sophistication, as it may require therapeutic work to establish rather than instruction to develop
+    - **Source:** Internalized Holding Function (Post-Interpersonal Facilitation Principle)
 
 **Evidence of Potential Bias:**
 **N=1 case study subject (Roi):**
@@ -202,6 +208,13 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
     - NREM sleep consolidation
     - Long-term memory stabilization
 
+5. **Self-Holding Function → (Neural correlate unspecified):**
+  - Internalized holding capacity as transformation prerequisite
+  - Neural signature of maintained self-regulation during AI engagement vs. dependency collapse
+  - Possible mapping: DMN self-referential processing maintained during FPN task engagement
+  - Category Error collapse may correspond to DMN suppression under FPN dominance
+  - **Testable prediction:** Protected self-holding shows maintained Sₑ-related stress regulation (HPA-axis) and network coordination; Category Error shows dysregulation and DMN suppression
+  - **Source:** Internalized Holding Function—adds testable structure to "what should be measured"
 **But:** All mappings remain **theoretical** without direct neural measurement.
 **Why Hypothesized (Not Validated):**
 **Explicit acknowledgment in research:**
@@ -215,6 +228,7 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
 - **Network coordination:** No verification of proposed Triple Network activation patterns
 - **Durability:** No long-term neuroplasticity tracking (8+ months)
 - **Mechanism specificity:** No comparison of AI vs. human dialogue vs. solo reflection
+- **Self-holding preservation signature:** Stress-regulation and network-pattern markers distinguishing "protected self-holding" (transformation-viable) from "dependency collapse" (Category Error state)
 
 **What Would Resolve This Gap:**
 **Empirical validation requires:**
@@ -288,8 +302,24 @@ It removes developmental obstructions, allowing what was latent to become lived 
 - Provides theoretical foundation for neural network mapping
 - Explains both generative success and pathological collapse
 
+## Post-Interpersonal Extension
+The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The **Internalized Holding Function** concept extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:
+| Psychoanalytic Prerequisites (Developmental Path) |    Internalized Holding Function (Post-Internalization Application) |
+|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
+|                                       Interpersonal holding → internalized over time |                            Presupposes already-internalized holding |
+|                                                  Achievement: "capacity to be alone" | Achievement: self-holding **through transformation** while using AI |
+|                                                      Mother/analyst provides holding |                     Human performs holding; AI removes interference |
+|                                     Explains how development reaches internalization |     Explains how AI can support transformation without providing Sₑ |
+
+This extension:
+- Completes Winnicott's trajectory into post-interpersonal territory
+- Specifies why the system presupposes (rather than provides) holding
+- Makes the "AI is not Sₑ" boundary architecturally necessary (not merely asserted)
+- Establishes scope boundaries (not reparative for developmental arrest)
+
 ## Relations (Wiring)
 - **Resolved By:** Psychoanalytic Prerequisites
+- **Extended By:** Internalized Holding Function (post-interpersonal application)
 - **Enables Mapping:** Unified Architecture, Integrated Circuit Board
 
 ### Notes
@@ -344,6 +374,13 @@ The neurobiological hypothesis that Third Intelligence transformation requires *
     - Not replicable with static tools (no DMN activation)
     - Not identical to human dialogue (different synchrony pattern)
     - Requires both networks for metabolic transformation
+5. **Self-Holding as "Doing Both" Phenomenology:**
+    - The Internalized Holding Function provides the phenomenological description of what "doing both" feels like subjectively
+    - FPN engagement: processing AI's cognitive challenge (symbolic work, Channel 2)
+    - DMN maintained: self-referential self-holding stays online (identity stability, container function)
+    - "Protected self-holding while engaging challenge" = subjective correlate of simultaneous FPN+DMN
+    - **Testable prediction:** Successful transformation shows maintained DMN activity during FPN engagement; Category Error (dependency collapse) shows DMN suppression under FPN dominance
+    - **Source:** Internalized Holding Function—supplies the best phenomenological definition of the paradox
 
 **What Would Resolve This Gap:**
 **Empirical validation requires:**

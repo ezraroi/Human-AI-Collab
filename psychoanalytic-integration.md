@@ -7,7 +7,7 @@ Tag:
     - 'Temporal: Static'
     - Meta-Framework
 Backlinks:
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - psychoanalytic-prerequisites.md
 Research Status: Evergreen
 Origin Domain:
@@ -28,6 +28,7 @@ Links:
     - true-self.md
     - field-viability-schema.md
     - alpha-function.md
+    - internalized-holding-function-post-interperson.md
     - the-unified-architecture.md
     - the-integrated-circuit-board.md
 Emoji: ❓
@@ -71,8 +72,24 @@ It removes developmental obstructions, allowing what was latent to become lived 
 - Provides theoretical foundation for neural network mapping   
 - Explains both generative success and pathological collapse   
    
+## Post-Interpersonal Extension   
+The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The **[Internalized Holding Function](internalized-holding-function-post-interperson.md)** concept extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:   
+| [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) (Developmental Path) |    Internalized Holding Function (Post-Internalization Application) |
+|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
+|                                       Interpersonal holding → internalized over time |                            Presupposes already-internalized holding |
+|                                                  Achievement: "capacity to be alone" | Achievement: self-holding **through transformation** while using AI |
+|                                                      Mother/analyst provides holding |                     Human performs holding; AI removes interference |
+|                                     Explains how development reaches internalization |     Explains how AI can support transformation without providing Sₑ |
+
+This extension:   
+- Completes Winnicott's trajectory into post-interpersonal territory   
+- Specifies why the system presupposes (rather than provides) holding   
+- Makes the "AI is not Sₑ" boundary architecturally necessary (not merely asserted)   
+- Establishes scope boundaries (not reparative for developmental arrest)   
+   
 ## Relations (Wiring)   
 - **Resolved By:** [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md)   
+- **Extended By:** [Internalized Holding Function](internalized-holding-function-post-interperson.md) (post-interpersonal application)   
 - **Enables Mapping:** [Unified Architecture](the-unified-architecture.md), [Integrated Circuit Board](the-integrated-circuit-board.md)   
    
 ### Notes   

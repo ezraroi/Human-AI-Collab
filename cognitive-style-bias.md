@@ -16,6 +16,7 @@ Creation date: "2025-11-22T15:57:04Z"
 Created by:
     - Roi Ezra
 Links:
+    - internalized-holding-function-post-interperson.md
     - human.md
     - third-intelligence.md
     - hsced-hermeneutic-single-case-efficacy-design.md
@@ -47,6 +48,12 @@ This determines whether the model is:
     - Tolerates productive tension   
     - Engages in self-explanation naturally   
     - Accesses felt sense verification   
+4. **Developmental achievement (distinct from cognitive style):**   
+    - Already-internalized holding capacity (Winnicottian "capacity to be alone")   
+    - Self-holding durability during identity-stakes symbolic work   
+    - Sufficient Sₑ to maintain container function under pressure   
+    - **Critical distinction:** This is a prior developmental attainment, not a trainable cognitive skill—potentially more exclusionary than metacognitive sophistication, as it may require therapeutic work to establish rather than instruction to develop   
+    - **Source:** [Internalized Holding Function](internalized-holding-function-post-interperson.md) (Post-Interpersonal Facilitation Principle)   
    
 **Evidence of Potential Bias:**   
 **N=1 case study subject (Roi):**   

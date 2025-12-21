@@ -12,7 +12,7 @@ Backlinks:
     - narrative-self.md
     - developmental-sequence.md
     - idiom-aligned-scaffolding.md
-    - 4-analytic-vs-statistical-generalization_2.md
+    - 4-analytic-vs-statistical-generalization.md
     - identity-stakes.md
     - iron-man-mentality.md
     - christopher-bollas.md
@@ -25,7 +25,7 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md

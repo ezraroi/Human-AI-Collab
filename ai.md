@@ -40,7 +40,8 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_4.md
+    - internalized-holding-function-post-interperson.md
+    - executive-summary_e.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -81,7 +82,8 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - 1-executive-summary.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - 1-executive-summary_o.md
     - 3-the-mechanism-catalytic-externalization.md
     - false-true-self.md
     - section-3-causal-sequence-placement.md

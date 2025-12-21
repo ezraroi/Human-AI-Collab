@@ -14,7 +14,7 @@ Links:
     - wilfred-bion.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - e.md
+    - jean-piaget.md
     - lev-vygotsky.md
     - felt-sense.md
 id: bafyreidu7lmikihbho6avk2mn7omlqsmxiseqoqjve3x6hlefwpyuvde7q
@@ -24,7 +24,7 @@ id: bafyreidu7lmikihbho6avk2mn7omlqsmxiseqoqjve3x6hlefwpyuvde7q
 [Beta Elements](beta-elements.md) → [Alpha Function](alpha-function.md) → [Alpha Elements](alpha-elements.md)   
 - Beta elements: Raw, unprocessed experience ([Bion](wilfred-bion.md))   
 - Alpha function: The transformation mechanism that metabolizes [Channel 2](channel-2-symbolic.md) symbolic material through recursive oscillation with [Channel 1](channel-1-embodied-sensorimotor-pathway.md) embodied verification.   
-    - [Channel 1](channel-1-embodied-sensorimotor-pathway.md) ([Piaget](e.md)): Embodied sensorimotor/interoceptive pathway (including non-Felt sense: Pre-verbal bodily knowing tverbal schemas)   
+    - [Channel 1](channel-1-embodied-sensorimotor-pathway.md) ([Piaget](jean-piaget.md)): Embodied sensorimotor/interoceptive pathway (including non-Felt sense: Pre-verbal bodily knowing tverbal schemas)   
     - [Channel 2](channel-2-symbolic.md) ([Vygotsky](lev-vygotsky.md)): Symbolic, linguistic tools   
 - Alpha elements: Processed, meaningful thoughts that can be used   
    

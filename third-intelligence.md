@@ -13,7 +13,7 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
-    - 3-the-mechanism-vs-existence-distinction_8.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - journal.md
     - 10-questions-your-synthesis-raises.md
     - eidetic-structure.md
@@ -25,6 +25,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - internalized-holding-function-post-interperson.md
     - christopher-bollas.md
     - selected-fact.md
     - human.md
@@ -54,11 +55,12 @@ Backlinks:
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary_r.md
-    - 2-the-unbundled-rationale-architecture_e.md
+    - executive-summary_u.md
+    - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - the-flywheel.md
-    - 1-core-discovery.md
+    - 1-core-discovery_z.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md

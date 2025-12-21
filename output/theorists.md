@@ -1,7 +1,7 @@
 # Theorists (17)
 
 ## Index
-Antonio Damasio, Christopher Bollas, D.W. Winnicott, Daniel Kahneman, e, Edmund Husserl, Eugene Gendlin, Francisco Varela, Hubert Hermans, Jacques Lacan, Jim Collins, John Flavell, Kurt Lewin, Lev Vygotsky, Maurice Merleau-Ponty, Mikhail Bakhtin, Wilfred Bion
+Antonio Damasio, Christopher Bollas, D.W. Winnicott, Daniel Kahneman, Edmund Husserl, Eugene Gendlin, Francisco Varela, Hubert Hermans, Jacques Lacan, Jean Piaget, Jim Collins, John Flavell, Kurt Lewin, Lev Vygotsky, Maurice Merleau-Ponty, Mikhail Bakhtin, Wilfred Bion
 
 ---
 
@@ -62,26 +62,6 @@ Kahneman's work integrated insights from psychological research into economic sc
 
 **Legacy**
 Kahneman's research fundamentally changed multiple fields, including economics, psychology, and public policy, earning him the Presidential Medal of Freedom in 2013. He was a professor emeritus at Princeton University at the time of his death on March 27, 2024, at the age of 90.
-
----
-
-## [THEORIST] e
-The Structural Framework, Domain: CognitiveScience, Temporal: Static
-
-Provides the **"Channel 1" Distinction**.
-- **Object vs. Subject:** Used to define the "Category Error." The AI is a Piagetian **Object** (tool) mistakenly treated as a Vygotskian **Subject**.
-
-Jean Piaget (1896-1980) was a highly influential Swiss psychologist and biologist, widely recognized as a pioneer of **developmental child psychology**. His work fundamentally changed the understanding that children think differently from adults, proposing instead that they are active, "little scientists" who construct their own knowledge through interactions with their environment.
-Key Contributions
-- **Theory of Cognitive Development:** Piaget is best known for his theory that children universally progress through four sequential stages of intellectual growth:
-    - **Sensorimotor Stage** (birth to approx. age 2): Learning through senses and motor actions, developing object permanence (understanding objects still exist when out of sight).
-    - **Preoperational Stage** (approx. ages 2 to 7): Development of language and symbolic thought (play-acting, imagination), though thinking is often egocentric (difficulty seeing others' perspectives).
-    - **Concrete Operational Stage** (approx. ages 7 to 11): The emergence of logical thought and understanding of concepts like conservation and classification, but reasoning is limited to concrete objects and events.
-    - **Formal Operational Stage** (approx. age 12 and up): The development of abstract reasoning, hypothetical thinking, and complex problem-solving abilities.
-- **Constructivism:** He introduced the theory that children actively build their understanding of the world, rather than passively receiving information, a concept that has deeply influenced modern education.
-- **Genetic Epistemology:** Piaget coined this term for the study of the origins of knowledge, bridging his interests in biology and philosophy to understand how knowledge develops across childhood.
-
-His research and ideas continue to influence fields beyond psychology, including education, sociology, and philosophy, advocating for child-centered and discovery-based learning environments.
 
 ---
 
@@ -162,6 +142,26 @@ Key Contributions
 - **Variable-Length Sessions:** In clinical practice, he controversially abandoned fixed session times, ending sessions abruptly based on clinical moments, not the clock, a practice that led to a schism in the international psychoanalytic community.
 
 Lacan remains a dominant, albeit difficult, figure in modern psychoanalysis, continental philosophy, and literary theory.
+
+---
+
+## [THEORIST] Jean Piaget
+The Structural Framework, Domain: CognitiveScience, Temporal: Static
+
+Provides the **"Channel 1" Distinction**.
+- **Object vs. Subject:** Used to define the "Category Error." The AI is a Piagetian **Object** (tool) mistakenly treated as a Vygotskian **Subject**.
+
+Jean Piaget (1896-1980) was a highly influential Swiss psychologist and biologist, widely recognized as a pioneer of **developmental child psychology**. His work fundamentally changed the understanding that children think differently from adults, proposing instead that they are active, "little scientists" who construct their own knowledge through interactions with their environment.
+Key Contributions
+- **Theory of Cognitive Development:** Piaget is best known for his theory that children universally progress through four sequential stages of intellectual growth:
+    - **Sensorimotor Stage** (birth to approx. age 2): Learning through senses and motor actions, developing object permanence (understanding objects still exist when out of sight).
+    - **Preoperational Stage** (approx. ages 2 to 7): Development of language and symbolic thought (play-acting, imagination), though thinking is often egocentric (difficulty seeing others' perspectives).
+    - **Concrete Operational Stage** (approx. ages 7 to 11): The emergence of logical thought and understanding of concepts like conservation and classification, but reasoning is limited to concrete objects and events.
+    - **Formal Operational Stage** (approx. age 12 and up): The development of abstract reasoning, hypothetical thinking, and complex problem-solving abilities.
+- **Constructivism:** He introduced the theory that children actively build their understanding of the world, rather than passively receiving information, a concept that has deeply influenced modern education.
+- **Genetic Epistemology:** Piaget coined this term for the study of the origins of knowledge, bridging his interests in biology and philosophy to understand how knowledge develops across childhood.
+
+His research and ideas continue to influence fields beyond psychology, including education, sociology, and philosophy, advocating for child-centered and discovery-based learning environments.
 
 ---
 

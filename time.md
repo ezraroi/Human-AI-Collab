@@ -21,7 +21,7 @@ Backlinks:
     - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_4.md
+    - executive-summary_e.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -52,7 +52,7 @@ Backlinks:
     - 4-three-key-tensions-surfaced-through-triangul.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
-    - 1-executive-summary.md
+    - 1-executive-summary_o.md
     - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md

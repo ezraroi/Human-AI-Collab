@@ -10,7 +10,7 @@ Created by:
 Links:
     - category-error.md
     - lev-vygotsky.md
-    - e.md
+    - jean-piaget.md
     - zpd.md
     - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
@@ -21,7 +21,7 @@ id: bafyreiffltozrj5jdurh2xnn3dvnkwejo573rbtcb53f7rdr7bmtcuoasi
 ---
 # 7. CRITICAL CONNECTION #5: Why PSB Happens   
 ### NoteBook 1: The [Category Error](category-error.md)   
-- Treating AI as [Vygotskian](lev-vygotsky.md) Subject instead of [Piagetian](e.md) Object   
+- Treating AI as [Vygotskian](lev-vygotsky.md) Subject instead of [Piagetian](jean-piaget.md) Object   
 - AI provides permanent scaffolding instead of temporary   
 - Collapses the experienced challenge inside the [ZPD](zpd.md) (while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing)   
 - Creates False Container   

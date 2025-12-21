@@ -11,7 +11,7 @@ Backlinks:
     - kurt-lewin.md
     - developmental-sequence.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction_8.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - section-1-introduction-and-framework-positioning.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
