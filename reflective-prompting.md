@@ -45,7 +45,7 @@ Backlinks:
     - functional-thirdness.md
     - final-definition.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_e.md
+    - 1-executive-summary_i.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

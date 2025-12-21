@@ -13,7 +13,7 @@ Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - wilfred-bion.md
-    - e.md
+    - jean-piaget.md
     - alpha-elements.md
     - llm-embedding.md
     - beta-elements.md
@@ -34,7 +34,7 @@ We conceptualized the input from the world as a "continuous 3D blanket" of raw, 
 The core engine that processes this raw material is [Bion](wilfred-bion.md)'s [alpha-function](alpha-function.md). This is the fundamental psychic metabolism that turns the unthinkable chaos of beta-elements into meaningful thoughts we can use.   
 ### Tools, Not Outputs: A Critical Refinement   
 A crucial clarification was made: the "molds" or "building blocks" of thought are not the output of the alpha-function, but the tools it uses.   
-- [Piaget's Channel](e.md): The [alpha-function](alpha-function.md) uses schemas (action-molds like grasping or looking) within an embodied pathway that also includes interoceptive/affective signals   
+- [Piaget's Channel](jean-piaget.md): The [alpha-function](alpha-function.md) uses schemas (action-molds like grasping or looking) within an embodied pathway that also includes interoceptive/affective signals   
 - Vygotsky's Channel: The [alpha-function](alpha-function.md) uses signs and symbols (primarily language) as Channel 2 symbolic material for articulation and mediation.   
    
 ### The True Output: The "[Alpha-Element](alpha-elements.md)" as an Embedding   
@@ -44,7 +44,7 @@ The Process:
 Raw Experience ([Beta-Elements](beta-elements.md)) → Processed by [Alpha-Function](alpha-function.md) (using tools like words/schemas) → Output is a meaningful [Alpha-Element](alpha-elements.md) (which gets embedded in our identity).   
  --- 
 ### 3. The Final Finding: The Feedback Loop as the Engine of Development   
-The final synthesis resolves the directional paradox: Does development move from individual → social ([Piaget](e.md)) or social → individual ([Vygotsky](lev-vygotsky.md))?   
+The final synthesis resolves the directional paradox: Does development move from individual → social ([Piaget](jean-piaget.md)) or social → individual ([Vygotsky](lev-vygotsky.md))?   
 Our model concludes this is a false dichotomy. The true engine of development is a continuous, reciprocal feedback loop.   
 1. The Individual Acts (Inside-Out): The child acts upon the world, generating novel experiences and forming unique, pre-verbal schemas.   
 2. The Social Mediates (Outside-In): The culture and caregivers respond, providing language and concepts (symbolic tools) that name, structure, and give shared meaning to the child's individual experience.   

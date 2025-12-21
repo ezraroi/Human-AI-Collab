@@ -14,6 +14,7 @@ Backlinks:
     - the-container.md
     - ai.md
     - third-intelligence.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - functional-thirdness.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

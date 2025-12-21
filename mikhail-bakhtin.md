@@ -13,7 +13,6 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - enacted-alpha-work-eaw.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
     - emotional-scaffolding-s_e.md
     - ii-the-novelty-of-the-specific-mechanisms.md

@@ -29,7 +29,7 @@ Links:
 Emoji: "\U0001F464"
 id: bafyreic6d44k66yzsm2gaulge3x6xsmutwyxsx65nzopkqenlmo5os7tfu
 ---
-# e   
+# Jean Piaget   
 Provides the **"[Channel 1](channel-1-embodied-sensorimotor-pathway.md)" Distinction**.   
 - **Object vs. Subject:** Used to define the "Category Error." The AI is a Piagetian **Object** (tool) mistakenly treated as a Vygotskian **Subject**.   
    

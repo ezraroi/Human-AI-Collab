@@ -19,7 +19,7 @@ Links:
     - human.md
     - ai.md
     - time.md
-    - e.md
+    - jean-piaget.md
     - lev-vygotsky.md
 id: bafyreifr66ugabvljwfjhtseqyjab42s24fjxdu7cll3ikdd67gu5zqu3i
 ---
@@ -57,7 +57,7 @@ The combined model is viewed as a "properly structured system" that implements a
 ### 3. Novelty and Contribution of the Holistic Synthesis   
 The sources confirm that the resulting synthesis is a novel theoretical contribution by providing the specific mechanism that integrates these fields:   
 - Novel Mechanism: The explicit use of Bion’s [Alpha Function](alpha-function.md) as the universal engine linking Piagetian sensorimotor capacity (schemas) and Vygotskian social tools (language) in a reciprocal architecture is deemed an "excellent, sophisticated synthesis". This psychoanalytic component provides the necessary affective coherence that traditional cognitive-developmental theories lack.   
-- Addressing the Core Dichotomy: The model resolves the debate on whether development is individual-first ([Piaget](e.md)) or social-first ([Vygotsky](lev-vygotsky.md)) by framing development as a continuous, reciprocal feedback loop. This dynamic interaction is deemed the true driver of cognitive growth.   
+- Addressing the Core Dichotomy: The model resolves the debate on whether development is individual-first ([Piaget](jean-piaget.md)) or social-first ([Vygotsky](lev-vygotsky.md)) by framing development as a continuous, reciprocal feedback loop. This dynamic interaction is deemed the true driver of cognitive growth.   
 - Integrated Solutions: The sources note that this comprehensive approach leads to unique applications, such as redefining educational and clinical practices by exploiting the link between action and concepts. The understanding that transformation requires both channels of the alpha function to work together provides the "missing piece in cognitive science" and the "missing piece in dialogical theory".   
  --- 
    

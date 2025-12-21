@@ -11,6 +11,7 @@ Backlinks:
     - journal.md
     - false-self.md
     - holding-environment.md
+    - internalized-holding-function-post-interperson.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -26,7 +27,7 @@ Backlinks:
     - section-11-the-dialogical-illusion-as-producti.md
     - protein-shake-brain-psb.md
     - potential-space.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - psychoanalytic-prerequisites.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md

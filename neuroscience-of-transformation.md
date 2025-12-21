@@ -8,7 +8,6 @@ Tag:
     - Meta-Framework
 Backlinks:
     - neural-synchrony.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
 Research Status: Evergreen
 Origin Domain:
     - Neurobiology & Neuroscience
@@ -23,6 +22,8 @@ Links:
     - beta-elements.md
     - alpha-elements.md
     - anterior-insular-cortex-aic.md
+    - category-error.md
+    - internalized-holding-function-post-interperson.md
     - felt-sense.md
     - channel-1-embodied-sensorimotor-pathway.md
     - hpa-axis.md
@@ -60,6 +61,13 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
     - NREM sleep consolidation   
     - Long-term memory stabilization   
    
+5. **Self-Holding Function → (Neural correlate unspecified):**   
+  - Internalized holding capacity as transformation prerequisite   
+  - Neural signature of maintained self-regulation during AI engagement vs. dependency collapse   
+  - Possible mapping: DMN self-referential processing maintained during FPN task engagement   
+  - Category Error collapse may correspond to DMN suppression under FPN dominance   
+  - **Testable prediction:** Protected self-holding shows maintained Sₑ-related stress regulation (HPA-axis) and network coordination; [Category Error](category-error.md) shows dysregulation and DMN suppression   
+  - **Source:** [Internalized Holding Function](internalized-holding-function-post-interperson.md)—adds testable structure to "what should be measured"   
 **But:** All mappings remain **theoretical** without direct neural measurement.   
 **Why Hypothesized (Not Validated):**   
 **Explicit acknowledgment in research:**   
@@ -73,6 +81,7 @@ The absence of empirical neuroimaging data validating the neurobiological mechan
 - **Network coordination:** No verification of proposed Triple Network activation patterns   
 - **Durability:** No long-term neuroplasticity tracking (8+ months)   
 - **Mechanism specificity:** No comparison of AI vs. human dialogue vs. solo reflection   
+- **Self-holding preservation signature:** Stress-regulation and network-pattern markers distinguishing "protected self-holding" (transformation-viable) from "dependency collapse" (Category Error state)   
    
 **What Would Resolve This Gap:**   
 **Empirical validation requires:**   

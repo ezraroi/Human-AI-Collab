@@ -6,8 +6,6 @@ Tag:
     - 'Domain: Phenomenology'
     - 'Temporal: Static'
     - Meta-Framework
-Backlinks:
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
 Research Status: Evergreen
 Origin Domain:
     - Philosophy of Technology & Phenomenology

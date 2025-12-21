@@ -17,7 +17,8 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
-    - executive-summary_4.md
+    - internalized-holding-function-post-interperson.md
+    - executive-summary_e.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
@@ -40,6 +41,7 @@ Backlinks:
     - alpha-function.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
+    - neuroscience-of-transformation.md
     - functional-thirdness.md
     - emotional-scaffolding-s_e.md
     - 5-worked-diagnostic-examples.md
@@ -57,6 +59,7 @@ Links:
     - protein-shake-brain-psb.md
     - cognitive-dependency.md
     - emotional-scaffolding-s_e.md
+    - internalized-holding-function-post-interperson.md
 Emoji: "\U0001F4A1"
 id: bafyreifsd3zplsn24o4odj546e7qfwvxpu7hle7whk26o7rzc6fr7dxgqu
 ---
@@ -97,9 +100,10 @@ When Category Error persists despite correction attempts:
    
 This explains why "just maintain proper stance" sometimes fails in vivo.   
 ### Wiring (Relations)   
-- **Part Of:** [Two-Axis Framework](two-axis-framework.md) (Axis A failure)   
-- **Composes** (with [PSB](protein-shake-brain-psb.md)): [Cognitive Dependency](cognitive-dependency.md)   
-- **Raises Risk Of:** [Protein Shake Brain (PSB)](protein-shake-brain-psb.md)   
-- **Prevented By: **[DTO](dynamic-transitional-object-dto.md) stance   
+- **Part Of:** Two-Axis Framework (Axis A failure)   
+- **Composes** (with PSB): Cognitive Dependency   
+- **Raises Risk Of:** Protein Shake Brain (PSB)   
+- **Prevented By:** DTO stance   
+- **Violates:** [Internalized Holding Function](internalized-holding-function-post-interperson.md) (collapses self-holding by treating AI as holder)   
    
    

@@ -25,7 +25,7 @@ Backlinks:
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
-    - e.md
+    - jean-piaget.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
@@ -62,7 +62,7 @@ Backlinks:
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
     - negative-capability.md
@@ -72,7 +72,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_l.md
+    - 1-executive-summary.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

@@ -43,7 +43,7 @@ Links:
     - alpha-elements.md
     - c-capacity.md
     - protein-shake-brain-psb.md
-    - e.md
+    - jean-piaget.md
     - lev-vygotsky.md
     - wilfred-bion.md
     - antonio-damasio.md
@@ -87,7 +87,7 @@ New capacity becomes the foundation for the next loop.
 This produces the *upward spiral* when repeated over time.   
 # Wiring (Relations)   
 ### Theorists   
-- [Piaget](e.md) (schema accommodation via conflict)   
+- [Piaget](jean-piaget.md) (schema accommodation via conflict)   
 - [Vygotsky](lev-vygotsky.md) (mediated meaning through tools/dialogue)   
 - [Bion](wilfred-bion.md) (Alpha-Function)   
 - [Damasio](antonio-damasio.md) ([As-If Body Loop](as-if-body-loop.md) enabling C1 activation from C2 input)   

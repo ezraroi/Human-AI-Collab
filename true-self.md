@@ -25,7 +25,7 @@ Backlinks:
     - potential-space.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - internally-persuasive-discourse.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

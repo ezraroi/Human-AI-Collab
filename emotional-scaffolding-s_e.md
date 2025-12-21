@@ -20,6 +20,7 @@ Backlinks:
     - holding-environment.md
     - executive-summary.md
     - the-manic-episode.md
+    - internalized-holding-function-post-interperson.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -58,7 +59,7 @@ Backlinks:
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
     - section-13-significance-and-forward-direction.md
     - negative-capability.md
     - 5-worked-diagnostic-examples.md

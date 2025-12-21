@@ -9,6 +9,7 @@ Tag:
 Backlinks:
     - developmental-sequence.md
     - iron-man-mentality.md
+    - internalized-holding-function-post-interperson.md
     - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - 8-common-misuses-and-anti-patterns.md
