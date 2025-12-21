@@ -19,11 +19,13 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
+    - salience-network-core-aic-dacc.md
     - extended-mind-hypothesis-hec.md
     - executive-summary.md
     - iron-man-mentality.md
     - human.md
     - eugene-gendlin.md
+    - 3-the-discriminator-framework.md
     - 4-remaining-questions-for-tier-3.md
     - 9-the-hidden-implications-youve-discovered.md
     - enacted-alpha-work-eaw.md
@@ -38,13 +40,12 @@ Backlinks:
     - 8-critical-connection-6-my-method-works-becaus.md
     - 7-research-usage.md
     - recursive-pattern-verification-loop.md
-    - alpha-function.md
     - cognitive-debt.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
     - emotional-scaffolding-s_e.md
     - negative-capability.md
@@ -55,7 +56,7 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_2.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

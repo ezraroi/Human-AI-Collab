@@ -7,7 +7,7 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Static'
 Backlinks:
-    - 4-analytic-vs-statistical-generalization.md
+    - 4-analytic-vs-statistical-generalization_3.md
     - cognitive-style-bias.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - analytic-generalization.md

@@ -27,8 +27,9 @@ Backlinks:
     - cognitive-style-bias.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - 4-mechanism-specificity-requires-condition-con.md
     - internalized-holding-function-post-interperson.md
-    - executive-summary_e.md
+    - executive-summary_3.md
     - selected-fact.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -47,6 +48,7 @@ Backlinks:
     - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - reward-reinforcement-circuitry.md
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
@@ -57,14 +59,15 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
     - field-viability-schema.md
+    - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
-    - 1-executive-summary_o.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md

@@ -37,6 +37,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - 4-calibration-playbook.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
+    - salience-network-core-aic-dacc.md
     - holding-environment.md
     - executive-summary.md
     - self-explanation.md
@@ -54,6 +55,7 @@ Backlinks:
     - section-2-the-field-viability-schema-and-its-c.md
     - the-container.md
     - conclusion-on-novelty-and-contribution.md
+    - 3-the-discriminator-framework.md
     - 9-the-hidden-implications-youve-discovered.md
     - 7-final-conclusion-the-third-intelligence.md
     - section-8-boundary-conditions-prerequisites.md
@@ -74,6 +76,7 @@ Backlinks:
     - 7-the-three-legged-stool-of-defense.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - reward-reinforcement-circuitry.md
     - cognitive-dependency.md
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
@@ -106,8 +109,8 @@ Backlinks:
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
-    - 1-executive-summary_o.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
@@ -123,7 +126,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary.md
+    - 1-executive-summary_2.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
@@ -135,26 +138,31 @@ Created by:
     - Roi Ezra
 Links:
     - alpha-elements.md
-    - felt-sense.md
-    - third-intelligence.md
-    - challenge-gap-d-c.md
+    - ai.md
+    - technical-scaffolding-s_t.md
+    - human.md
     - protein-shake-brain-psb.md
     - as-if-body-loop.md
+    - journal.md
     - c-capacity.md
     - channel-2-symbolic.md
+    - felt-shift.md
+    - beta-elements.md
     - touch-grass-protocol.md
     - the-integrated-circuit-board.md
+    - channel-1-embodied-sensorimotor-pathway.md
     - category-error.md
     - recursive-metabolic-loop.md
 Emoji: "\U0001F4A1"
 id: bafyreifo53w4l4yis2pviyq3di4j2jmlznc4l2cy5ks5fltatd7e5sdlwy
 ---
 # Alpha-Function   
-The internal, embodied process of metabolizing raw, unthinkable experience (Beta-Elements) into thinkable thoughts ([Alpha-Elements](alpha-elements.md))—[felt sense](felt-sense.md) made thinkable.   
+The internal, **human-enacted**, embodied process of metabolizing raw, unthinkable experience (**Beta-Elements**) into thinkable thoughts (**[Alpha-Elements](alpha-elements.md)**)—felt sense made thinkable.   
+[AI](ai.md) can **support the conditions** for Alpha-Function ([technical scaffolding](technical-scaffolding-s_t.md), structured difference), but **cannot perform** Alpha-Function or provide containment; the [Human](human.md) remains the metabolic agent.   
 **Phenomenological Root (Husserl):** Maps to **Noesis**.   
-This is the subjective act of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.   
-**System Role:** The “Engine” of the [Third Intelligence](third-intelligence.md). It is sparked when the experienced challenge is held long enough for metabolization (while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing).   
-### Local Failure Mode ([PSB](protein-shake-brain-psb.md) – Protein Shake Brain)   
+This is the subjective act of experiencing or meaning-making: the metabolic process that transforms raw **Hyle** into meaningful **Noema**.   
+**System Role:** The “Engine” of the Third Intelligence (**in the Human**). It is sparked when experienced challenge is held long enough for metabolization **within viable mismatch(D, C)** (rather than discharged, bypassed, or escalated).   
+### Local Failure Mode (PSB – [Protein Shake Brain](protein-shake-brain-psb.md))   
 When the Alpha-Function is bypassed or under-engaged, symbolic material is processed without sustained **C1 ↔ C2 coupling** (metabolic processing). AI outputs or abstractions are “consumed” directly, producing:   
 - outward fluency without inward transformation,   
 - narrative coherence without somatic resonance,   
@@ -165,15 +173,15 @@ This is the Alpha-Function’s component-level collapse.
 ### Interaction Dynamics (Propagation Rules)   
 When Alpha-Function is offline or overwhelmed:   
 - Somatic signals (if present) fail to be integrated, so processing becomes symbol-dominant; **Symbolic Overrun** emerges specifically when the **[As-If Body Loop](as-if-body-loop.md) is weak or bypassed**.   
-- Journal becomes corrupted (**when the work carries Identity Stakes**): entries are written without metabolization, producing pseudo-insight or thin narratives.   
-- **Durable [Capacity](c-capacity.md) (C) growth is compromised:** metabolization does not reliably produce owned α-elements that can accumulate over Time.   
-- **Axis B collapses** into a [Channel-2](channel-2-symbolic.md)-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.   
+- [Journal](journal.md) becomes corrupted (when the work carries Identity Stakes): entries are written without metabolization, producing pseudo-insight or thin narratives.   
+- Durable [Capacity](c-capacity.md) (C) growth is compromised: metabolization does not reliably produce owned α-elements that can accumulate over Time.   
+- Axis B collapses into a [Channel-2](channel-2-symbolic.md)-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.   
    
 Alpha-Function failure therefore propagates through the entire circuit.   
 ### Phenomenology (How Alpha-Function Feels When Online vs Offline)   
 **When Alpha-Function is online:**   
 - A sense of “frustration → reorganization → relief.”   
-- Experiential “clicks” or felt shifts (spaciousness).   
+- Experiential “clicks” or **[felt shift](felt-shift.md)s** (spaciousness).   
 - Insight feels personally owned, not just understood.   
 - Writing comes in your own language.   
 - Ambiguity feels tolerable long enough for transformation to occur.   
@@ -187,15 +195,17 @@ Alpha-Function failure therefore propagates through the entire circuit.
    
 These phenomenological markers are the easiest way to detect Alpha engagement in real time.   
 ### Sₑ Dependency (Qualitative Energy Constraint)   
-Alpha-Function draws heavily on Sₑ — the system’s emotional capacity to tolerate frustration, uncertainty, and disruption.   
-- **High Sₑ:** Alpha can hold tension long enough to metabolize beta-elements.   
-- **Low Sₑ:** Alpha collapses into avoidance, symbolic bypass, or manic acceleration.   
-- **Sₑ depletion:** requires recovery periods ([Touch Grass Protocol](touch-grass-protocol.md)) to restore metabolic capacity.   
+Alpha-Function draws heavily on **Sₑ** — the system’s emotional capacity to tolerate frustration, uncertainty, and disruption.   
+- High Sₑ: Alpha can hold tension long enough to metabolize [beta-elements](beta-elements.md).   
+- Low Sₑ: Alpha collapses into avoidance, symbolic bypass, or manic acceleration.   
+- Sₑ depletion: requires recovery periods (**[Touch Grass Protocol](touch-grass-protocol.md)**) to restore metabolic capacity.   
    
-Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material.   
+Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material *(physiological proxies may track constraints, but are not equivalent to Sₑ).*   
 ### Wiring (Relations)   
 - **Part Of:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture)   
-- **Requires:** As-If Body Loop for **C1 ↔ C2 coupling capability**; sufficient Sₑ for frustration tolerance   
-- **Counteracted By:** PSB (when Alpha-Function is bypassed)   
+- **Requires:** As-If Body Loop for **[C1 ](channel-1-embodied-sensorimotor-pathway.md)↔ C2 coupling** capability; sufficient **Sₑ** for frustration tolerance   
+- **Counteracted By:** [PSB](protein-shake-brain-psb.md) (when Alpha-Function is bypassed)   
 - **Constrained By:** Axis A ([Category Error](category-error.md) increases vulnerability and PSB risk by making the relational stance invalid)   
 - **Feeds:** [Recursive Metabolic Loop](recursive-metabolic-loop.md)   
+   
+   

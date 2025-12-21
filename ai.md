@@ -15,6 +15,7 @@ Backlinks:
     - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
     - 4-revised-contribution-of-notebook-11.md
+    - 5-measurement-program-menu.md
     - embodied-engagement-conditions.md
     - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
@@ -31,7 +32,6 @@ Backlinks:
     - 1-executive-summary-resolving-the-ontology-cri.md
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
-    - catalytic-externalization.md
     - extended-mind-hypothesis-hec.md
     - executive-summary.md
     - channel-2-symbolic.md
@@ -40,8 +40,9 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
+    - 4-mechanism-specificity-requires-condition-con.md
     - internalized-holding-function-post-interperson.md
-    - executive-summary_e.md
+    - executive-summary_3.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -61,6 +62,7 @@ Backlinks:
     - section-7-temporal-dynamics-across-the-archite.md
     - gap-filling-inference-generation.md
     - 10-the-integrated-claim.md
+    - reward-reinforcement-circuitry.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -73,6 +75,7 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - 6-the-final-positioning-framework.md
     - field-viability-schema.md
+    - alpha-function.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - integrated-synthesis-of-psychological-developm.md
@@ -82,8 +85,8 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
-    - 1-executive-summary_o.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - false-true-self.md
     - section-3-causal-sequence-placement.md

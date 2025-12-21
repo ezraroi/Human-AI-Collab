@@ -40,7 +40,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_e.md
+    - executive-summary_3.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -64,6 +64,7 @@ Backlinks:
     - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - reward-reinforcement-circuitry.md
     - systems-consolidation.md
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
@@ -84,6 +85,7 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
     - field-viability-schema.md
+    - alpha-function.md
     - the-journals-three-essential-functions.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
@@ -94,9 +96,10 @@ Backlinks:
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
+    - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary_o.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md

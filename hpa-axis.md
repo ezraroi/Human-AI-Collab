@@ -6,13 +6,17 @@ Tag:
     - 'Domain: Bio-Embodied'
     - 'Temporal: Static'
 Backlinks:
+    - salience-network-core-aic-dacc.md
     - holding-environment.md
     - executive-summary.md
+    - autonomic-nervous-system-regulation-ans-vagal-.md
     - human.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
+    - 3-the-discriminator-framework.md
+    - 1-purpose-and-scope_o.md
     - protein-shake-brain-psb.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - the-recursive-third-intelligence-system-archit.md

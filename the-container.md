@@ -19,6 +19,7 @@ Backlinks:
     - 7-what-each-framework-gains-from-integration.md
     - third-intelligence.md
     - field-viability-schema.md
+    - neuroscience-of-transformation.md
     - emotional-scaffolding-s_e.md
     - wilfred-bion.md
     - 4-the-critical-ontological-distinction.md

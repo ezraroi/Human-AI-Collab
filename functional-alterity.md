@@ -22,7 +22,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_e.md
+    - executive-summary_3.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -46,7 +46,7 @@ Backlinks:
     - field-viability-schema.md
     - protein-shake-brain-psb.md
     - 2-the-unbundled-rationale-architecture.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md

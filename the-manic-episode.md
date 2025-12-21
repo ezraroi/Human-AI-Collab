@@ -14,6 +14,7 @@ Backlinks:
     - time.md
     - 8-common-misuses-and-anti-patterns.md
     - field-viability-schema.md
+    - neuroscience-of-transformation.md
     - 5-worked-diagnostic-examples.md
 Origin Domain:
     - Psychoanalysis

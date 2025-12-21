@@ -16,7 +16,7 @@ Backlinks:
     - psychoanalytic-integration.md
     - protein-shake-brain-psb.md
     - 2-the-unbundled-rationale-architecture.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md

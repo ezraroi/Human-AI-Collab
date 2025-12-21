@@ -23,6 +23,7 @@ Backlinks:
     - parity-principle-pp.md
     - 10-questions-your-synthesis-raises.md
     - 4-calibration-playbook.md
+    - salience-network-core-aic-dacc.md
     - holding-environment.md
     - self-explanation.md
     - channel-2-symbolic.md
@@ -41,6 +42,7 @@ Backlinks:
     - hyperreflexivity-trap.md
     - section-2-the-field-viability-schema-and-its-c.md
     - d-difficulty.md
+    - 3-the-discriminator-framework.md
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - cognitive-offloading.md
@@ -51,10 +53,12 @@ Backlinks:
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
+    - 1-purpose-and-scope_o.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - reward-reinforcement-circuitry.md
     - cognitive-dependency.md
     - 7-what-each-framework-gains-from-integration.md
     - two-axis-framework.md

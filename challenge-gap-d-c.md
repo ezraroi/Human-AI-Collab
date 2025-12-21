@@ -43,7 +43,6 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
-    - alpha-function.md
     - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
