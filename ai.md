@@ -33,16 +33,17 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - catalytic-externalization.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_9.md
+    - executive-summary.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_g.md
+    - executive-summary_c.md
     - selected-fact.md
     - human.md
+    - time.md
     - neural-synchrony.md
     - section-4-the-importance-of-emotional-scaffold.md
     - conclusion-on-novelty-and-contribution.md
@@ -52,6 +53,7 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - 3-implications-for-positioning.md
+    - 8-common-misuses-and-anti-patterns.md
     - section-10-the-grand-unification.md
     - section-7-temporal-dynamics-across-the-archite.md
     - gap-filling-inference-generation.md
@@ -62,6 +64,7 @@ Backlinks:
     - two-axis-framework.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
+    - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
     - 6-the-final-positioning-framework.md
@@ -75,7 +78,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - 1-executive-summary_s.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - false-true-self.md
     - section-3-causal-sequence-placement.md
@@ -83,6 +86,7 @@ Backlinks:
     - emotional-scaffolding-s_e.md
     - section-6-journal-function-refinement.md
     - 11-what-youve-actually-discovered-meta-level.md
+    - 5-worked-diagnostic-examples.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md

@@ -18,6 +18,7 @@ Backlinks:
     - journal.md
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
+    - 4-calibration-playbook.md
     - 6-final-conclusion.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
@@ -35,6 +36,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - as-if-body-loop.md
+    - 6-integration-points.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - field-viability-schema.md
@@ -42,6 +44,7 @@ Backlinks:
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
+    - 5-worked-diagnostic-examples.md
     - functional-alterity.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

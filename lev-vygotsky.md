@@ -11,6 +11,7 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - channel-2-symbolic.md
     - section-1-introduction-and-framework-positioning.md
+    - 2-from-probability-to-field-viability.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - conclusion-on-novelty-and-contribution.md
@@ -27,7 +28,7 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
-    - executive-summary.md
+    - executive-summary_b.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - emotional-scaffolding-s_e.md

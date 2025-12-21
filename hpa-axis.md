@@ -7,12 +7,12 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - holding-environment.md
-    - executive-summary_9.md
+    - executive-summary.md
     - human.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
     - protein-shake-brain-psb.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - the-recursive-third-intelligence-system-archit.md

@@ -32,7 +32,7 @@ Backlinks:
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
     - 2-the-unbundled-rationale-architecture.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md

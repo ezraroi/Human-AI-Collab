@@ -6,11 +6,11 @@ Tag:
     - 'Domain: Bio-Embodied'
     - 'Temporal: Static'
 Backlinks:
-    - executive-summary_9.md
+    - executive-summary.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - the-doing-both-hypothesis.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
 Origin Domain:

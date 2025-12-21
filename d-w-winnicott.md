@@ -22,7 +22,7 @@ Backlinks:
     - section-11-the-dialogical-illusion-as-producti.md
     - protein-shake-brain-psb.md
     - potential-space.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md

@@ -20,6 +20,7 @@ Backlinks:
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - 2-from-probability-to-field-viability.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -42,7 +43,7 @@ Backlinks:
     - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
-    - executive-summary.md
+    - executive-summary_b.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md

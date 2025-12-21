@@ -12,8 +12,12 @@ Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - 3-the-mechanism-vs-existence-distinction.md
     - section-1-introduction-and-framework-positioning.md
+    - time.md
     - section-2-the-field-viability-schema-and-its-c.md
+    - 1-purpose-and-scope.md
     - d-difficulty.md
+    - challenge-gap-d-c.md
+    - 8-common-misuses-and-anti-patterns.md
     - section-10-the-grand-unification.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 5-documented-counter-evidence-the-manic-episodes.md
@@ -48,7 +52,7 @@ Links:
     - c-capacity.md
     - alpha-function.md
     - third-intelligence.md
-    - boundary-condition-the-manic-episode.md
+    - the-manic-episode.md
     - holding-environment.md
     - d-w-winnicott.md
     - the-container.md
@@ -129,6 +133,6 @@ The schema sits at Level 2 of a four-level hierarchy:
 |                  **Sits Within** |                                                                                                                            [Third Intelligence ](third-intelligence.md)Architecture |                      As Level 2 of 4-level hierarchy |
 |                 **Diagnosed By** |                                                                                                                               Failure Modes (PSB, Safety Collapse, Overwhelm, etc.) |                      Schema provides diagnostic lens |
 |                 **Distorted By** |                                                                                                                                                                      Category Error |      Corrupts field, creates false viability signals |
-| **Supported By (Boundary Case)** |                                                                                                       [Manic Episode](boundary-condition-the-manic-episode.md) (Boundary Condition) | Reveals failure mode; demonstrates explanatory power |
+| **Supported By (Boundary Case)** |                                                                                                                          [Manic Episode](the-manic-episode.md) (Boundary Condition) | Reveals failure mode; demonstrates explanatory power |
 |            **Theoretical Basis** | [Holding Environment ](holding-environment.md)([Winnicott](d-w-winnicott.md)), [Container](the-container.md) ([Bion](wilfred-bion.md)), [ZPD](zpd.md) ([Vygotsky](lev-vygotsky.md)) |            Origin concepts integrated into synthesis |
 

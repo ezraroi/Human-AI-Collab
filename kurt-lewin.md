@@ -7,6 +7,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - section-1-introduction-and-framework-positioning.md
+    - 2-from-probability-to-field-viability.md
     - section-2-the-field-viability-schema-and-its-c.md
 Origin Domain:
     - Qualitative Research Methodology

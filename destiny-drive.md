@@ -19,7 +19,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md

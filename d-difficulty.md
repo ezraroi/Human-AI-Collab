@@ -10,14 +10,17 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - lev-vygotsky.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - 4-calibration-playbook.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
-    - boundary-condition-the-manic-episode.md
+    - the-manic-episode.md
     - section-1-introduction-and-framework-positioning.md
+    - 3-diagnostic-workflow.md
     - section-2-the-field-viability-schema-and-its-c.md
     - challenge-gap-d-c.md
     - field-viability-schema.md
     - c-capacity.md
+    - 5-worked-diagnostic-examples.md
     - functional-alterity.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

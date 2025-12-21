@@ -23,11 +23,11 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_9.md
+    - executive-summary.md
     - cognitive-style-bias.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_g.md
+    - executive-summary_c.md
     - selected-fact.md
     - section-3-foundational-theoretical-integration.md
     - time.md
@@ -46,6 +46,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
     - 5-final-positioning-statement.md
+    - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
     - recursive-pattern-verification-loop.md
@@ -56,7 +57,7 @@ Backlinks:
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - 1-executive-summary_s.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md

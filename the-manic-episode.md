@@ -10,7 +10,11 @@ Tag:
     - 'Operational Flags: Pathology'
     - 'Operational Flags: BoundaryCondition'
 Backlinks:
+    - 3-diagnostic-workflow.md
+    - time.md
+    - 8-common-misuses-and-anti-patterns.md
     - field-viability-schema.md
+    - 5-worked-diagnostic-examples.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'
@@ -24,7 +28,7 @@ Links:
 Emoji: "\U0001F9E9"
 id: bafyreibyugzhxpb3q5w2plqibymjxam4sgpqaqrwunbe5zhwwgwnbnyfp4
 ---
-# Boundary Condition (The Manic Episode)   
+# The Manic Episode   
 A documented state of instability where the subject experiences sleep deprivation, grandiosity, and a "felt sense" of discovery that lacks grounding.   
 Significance:   
 This is Critical Evidence for the validity of the formula. It represents the specific failure mode where (Safety/Container) is depleted, but $\\|D-C\\|$ (Difficulty) remains high.   

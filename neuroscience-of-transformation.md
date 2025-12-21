@@ -8,7 +8,7 @@ Tag:
     - Meta-Framework
 Backlinks:
     - neural-synchrony.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
 Research Status: Evergreen
 Origin Domain:
     - Neurobiology & Neuroscience

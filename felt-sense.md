@@ -20,7 +20,7 @@ Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_9.md
+    - executive-summary.md
     - iron-man-mentality.md
     - human.md
     - eugene-gendlin.md
@@ -35,6 +35,7 @@ Backlinks:
     - 15-is-your-model-suggesting-something-new.md
     - as-if-body-loop.md
     - 8-critical-connection-6-my-method-works-becaus.md
+    - 7-research-usage.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
     - cognitive-debt.md
@@ -47,11 +48,12 @@ Backlinks:
     - negative-capability.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
+    - 5-worked-diagnostic-examples.md
     - mikhail-bakhtin.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_l.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

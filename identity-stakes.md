@@ -12,9 +12,12 @@ Backlinks:
     - destiny-drive.md
     - embodied-engagement-conditions.md
     - holding-environment.md
+    - 3-diagnostic-workflow.md
     - d-difficulty.md
     - 7-final-conclusion-the-third-intelligence.md
+    - 8-common-misuses-and-anti-patterns.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - 7-research-usage.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
     - emotional-scaffolding-s_e.md
