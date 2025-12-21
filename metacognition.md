@@ -22,7 +22,7 @@ Backlinks:
     - judgment-expertise-boundary.md
     - touch-grass-protocol.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
-    - 1-executive-summary_a.md
+    - 1-executive-summary.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'

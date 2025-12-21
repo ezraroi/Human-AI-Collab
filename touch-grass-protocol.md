@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Dynamic'
 Backlinks:
+    - developmental-sequence.md
     - iron-man-mentality.md
     - 3-diagnostic-workflow.md
     - 8-common-misuses-and-anti-patterns.md
@@ -14,6 +15,7 @@ Backlinks:
     - aba-design.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - 7-research-usage.md
+    - field-viability-schema.md
     - alpha-function.md
     - emotional-scaffolding-s_e.md
     - 5-worked-diagnostic-examples.md

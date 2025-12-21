@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Input'
     - 'Temporal: Dynamic'
 Backlinks:
+    - developmental-sequence.md
     - document-abstract.md
     - reverie.md
     - section-5-temporal-architecture.md

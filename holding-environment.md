@@ -8,6 +8,7 @@ Tag:
     - 'Operational Flags: Core'
     - 'Temporal: Static'
 Backlinks:
+    - developmental-sequence.md
     - subject-supposed-to-know-sss.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md

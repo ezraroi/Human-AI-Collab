@@ -32,7 +32,6 @@ Backlinks:
     - section-10-the-grand-unification.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
-    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
@@ -43,7 +42,7 @@ Backlinks:
     - c-capacity.md
     - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
-    - executive-summary_b.md
+    - executive-summary_i.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md

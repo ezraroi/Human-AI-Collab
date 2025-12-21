@@ -10,6 +10,7 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - narrative-self.md
+    - developmental-sequence.md
     - alpha-elements.md
     - section-4-attribution-logic.md
     - reflective-prompting.md
@@ -73,7 +74,6 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
-    - two-axis-framework.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
@@ -100,7 +100,7 @@ Backlinks:
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary.md
+    - 1-executive-summary_v.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
@@ -116,7 +116,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_l.md
+    - 1-executive-summary_u.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis

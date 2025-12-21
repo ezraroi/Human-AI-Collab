@@ -27,7 +27,7 @@ Backlinks:
     - cognitive-style-bias.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_c.md
+    - executive-summary_4.md
     - selected-fact.md
     - section-3-foundational-theoretical-integration.md
     - time.md
@@ -57,7 +57,7 @@ Backlinks:
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - 1-executive-summary.md
+    - 1-executive-summary_v.md
     - 3-the-mechanism-catalytic-externalization.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md

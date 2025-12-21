@@ -9,8 +9,10 @@ Tag:
     - 'Operational Flags: Core'
     - Meta-Framework
 Backlinks:
+    - developmental-sequence.md
     - conclusion-on-novelty-and-contribution.md
     - the-integrated-circuit-board.md
+    - field-viability-schema.md
     - category-error.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
@@ -22,56 +24,56 @@ Created by:
 Links:
     - dynamic-transitional-object-dto.md
     - category-error.md
-    - recursive-metabolic-loop.md
-    - channel-2-symbolic.md
-    - channel-1-embodied-sensorimotor-pathway.md
     - protein-shake-brain-psb.md
-    - alpha-function.md
-    - as-if-body-loop.md
-    - journal.md
-    - the-integrated-circuit-board.md
-    - ai.md
-    - zpd.md
-    - challenge-gap-d-c.md
     - cognitive-dependency.md
+    - field-viability-schema.md
+    - developmental-sequence.md
 Emoji: "\U0001F9E9"
 id: bafyreiezyquxeohb5ofnxdkxkz3ey4lqhc53qxrv42kqlkmjn3wzdbkcry
 ---
 # Two-Axis Framework   
-The Two-Axis Framework is the **structural map** that organizes all success modes and failure modes in the Third Intelligence system.
+**The Two-Axis Framework** is the structural map that organizes success modes and failure modes in the Third Intelligence system.   
 It consists of:   
-### Axis A – Relational Ontology   
-- **Goal:** Treat AI as [DTO](dynamic-transitional-object-dto.md) (Object).   
-- **Failure:** [Category Error](category-error.md) (AI as Subject).   
+### Axis A — Relational Ontology   
+- **Goal:** Hold AI as **[DTO](dynamic-transitional-object-dto.md) (Dynamic Transitional Object)** (i.e., not a Subject; not a “someone”).   
+- **Failure:** **Category Error** (AI treated as Subject / epistemic authority / relational other).   
    
-### Axis B – Processing Mode   
-- **Goal:** [Recursive Metabolic](recursive-metabolic-loop.md) Oscillation ([Channel 2](channel-2-symbolic.md) ↔ [Channel 1](channel-1-embodied-sensorimotor-pathway.md), metabolized by Alpha-Function cycles)   
-- **Failure:** [PSB](protein-shake-brain-psb.md) (Channel 2-only bypass).   
+### Axis B — Processing Mode   
+- **Goal:** **Recursive Metabolic Oscillation** (Channel 2 ↔ Channel 1), metabolized through **Alpha-Function** cycles.   
+- **Failure:** **PSB** (Channel 2-only bypass; fluent coherence without embodied digestion).   
    
-Together, the axes describe the full space of possible system states — from transformation to collapse.   
-### System Role   
-- Provides the diagnostic framework for evaluating human-AI interaction quality.   
-- Describes how relational stance and cognitive processing jointly determine outcomes.   
-- Anchors the definitions of Cognitive Dependency, PSB, and Category Error.   
-- Acts as the top-level organizing schema for both theory and intervention.   
+**Together, the axes describe the configuration space of system states — from transformation to collapse.**   
+This plane operates within a **Viability Envelope** (**Sₑ ⊗ Sₜ calibrated to mismatch(D, C)**); when the envelope collapses, the configuration plane becomes **unstable** (drifts become harder to prevent; failure attractors become “sticky”).   
+## System Role   
+The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **operability**. Developmental staging diagnoses **readiness**. All three are required for full system assessment.   
+- Provides the diagnostic framework for evaluating human–AI interaction quality.   
+- Describes how **relational stance** and **processing mode** jointly determine outcomes.   
+- Anchors definitions of **Cognitive Dependency**, **PSB**, and **Category Error**.   
+- Acts as a top-level organizing schema for both theory and intervention.   
    
-The Integrated Circuit Board = the ***internal architecture of Axis B*.**   
-- Axis A decides *whether* the system is safe/valid at all (if AI is held as DTO or not).   
-- Axis B decides *how* experience is metabolized when the relational stance is correct.   
-- The Integrated Circuit Board is **Axis B's "wiring diagram"**:   
-    - [Alpha-Function](alpha-function.md) = core metabolic processor (metabolization through C1 ↔ C2 oscillation)   
-    - [As-If Body Loop](as-if-body-loop.md) = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)   
-    - [Journal](journal.md) = optional external organ that stabilizes metabolized material for durable accumulation over Time (strongest substrate when needed)   
+## Axis B internal architecture   
+**The Integrated Circuit Board** is the internal architecture of Axis B:   
+- **Alpha-Function** = core metabolic processor (metabolization through C1 ↔ C2 oscillation)   
+- **As-If Body Loop** = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)   
+- **Journal** = optional external organ that stabilizes metabolized material for durable accumulation over **Time** (strongest substrate when needed)   
    
 So:   
 > Two-Axis Framework →   
 
-Axis A: *Who/What the AI is* (DTO vs Subject)
-Axis B: *How experience is processed* → **[Integrated Circuit Board](the-integrated-circuit-board.md)**   
-If Axis A fails (Category Error), **the system becomes relationally invalid**: [AI](ai.md) becomes Subject, the experienced challenge in the [ZPD](zpd.md) collapses toward 'no struggle,' and **PSB risk increases; when PSB co-occurs → Cognitive Dependency** (while the structural \|[D−C](challenge-gap-d-c.md)\| relation remains pre-existing).   
-### Wiring (Relations)   
-- **Maps:**   
-    - Category Error   
-    - Protein Shake Brain (PSB)   
-    - [Cognitive Dependency](cognitive-dependency.md)   
-- **Defines:** Systemic success vs. systemic collapse boundaries   
+**Axis A:** Who/what AI is (DTO vs Subject)   
+**Axis B:** How experience is processed → Integrated Circuit Board   
+## Failure coupling (keep, but slightly tightened)   
+If **Axis A fails** (Category Error), the system becomes **relationally invalid**: AI becomes Subject/authority, *verification discipline drops*, and **PSB risk increases**.   
+When **Category Error + PSB** co-occur → **Cognitive Dependency** (while the structural \|D−C\| relation remains pre-existing).   
+## Envelope constraint (explicit gating rule)   
+**Do not introduce Sₜ (challenge / Functional Alterity) when Sₑ is collapsed.**   
+Rebuild containment first, then reintroduce productive tension.   
+## Whole-system one-liner (good; tiny tightening)   
+The Third Intelligence system is a **configuration** (Axis A × Axis B) operating within a **viability envelope** (Sₑ ⊗ Sₜ calibrated to mismatch), following a **developmental trajectory** (staging, depletion, recovery), with **shadow regions** marking pathological attractors and scope boundaries.   
+## Wiring (Relations)   
+- **Maps:** [Category Error](category-error.md); Protein Shake Brain ([PSB](protein-shake-brain-psb.md)); [Cognitive Dependency](cognitive-dependency.md)   
+- **Operates within:** [Field Viability](field-viability-schema.md) (Viability Envelope)   
+- **Evolves along:** Developmental Staging (trajectory/readiness layer)   
+- **Defines:** systemic success vs systemic collapse boundaries   
+- **Prerequisites Specified By:** [Developmental Sequence](developmental-sequence.md)   
+- **Axis B Internal Architecture:** Integrated Circuit Board   

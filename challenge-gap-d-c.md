@@ -35,7 +35,6 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - two-axis-framework.md
     - 6-integration-points.md
     - the-integrated-circuit-board.md
     - third-intelligence.md

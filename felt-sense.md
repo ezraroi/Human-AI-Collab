@@ -53,7 +53,7 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_l.md
+    - 1-executive-summary_u.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
     - 'System Role: Input'
 Backlinks:
+    - developmental-sequence.md
     - reflective-prompting.md
     - destiny-drive.md
     - embodied-engagement-conditions.md

@@ -10,6 +10,7 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - narrative-self.md
+    - developmental-sequence.md
     - idiom-aligned-scaffolding.md
     - 4-analytic-vs-statistical-generalization.md
     - identity-stakes.md
