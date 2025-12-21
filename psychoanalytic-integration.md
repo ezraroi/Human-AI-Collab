@@ -7,7 +7,7 @@ Tag:
     - 'Temporal: Static'
     - Meta-Framework
 Backlinks:
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
 Research Status: Evergreen
 Origin Domain:

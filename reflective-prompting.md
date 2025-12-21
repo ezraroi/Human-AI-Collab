@@ -24,6 +24,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - rrv-cycle-recursive-refine-validate.md
+    - 4-mechanism-specificity-requires-condition-con.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - section-10-the-grand-unification.md
@@ -45,7 +46,7 @@ Backlinks:
     - functional-thirdness.md
     - final-definition.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_i.md
+    - 1-executive-summary_m.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

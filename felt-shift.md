@@ -8,12 +8,17 @@ Tag:
     - 'System Role: Output'
     - 'Temporal: Dynamic'
 Backlinks:
+    - 5-measurement-program-menu.md
+    - 3-the-discriminator-framework.md
+    - reward-reinforcement-circuitry.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - alpha-function.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - 14-alpha-function-integrating-dialogical-and-e.md
+    - neuroscience-of-transformation.md
     - internally-persuasive-discourse.md
     - mikhail-bakhtin.md
-    - 1-executive-summary.md
+    - 1-executive-summary_2.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

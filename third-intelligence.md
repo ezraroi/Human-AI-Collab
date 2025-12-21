@@ -21,10 +21,12 @@ Backlinks:
     - extended-mind-hypothesis-hec.md
     - cognitive-style-bias.md
     - 6-final-conclusion.md
+    - autonomic-nervous-system-regulation-ans-vagal-.md
     - jim-collins.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
+    - 4-mechanism-specificity-requires-condition-con.md
     - internalized-holding-function-post-interperson.md
     - christopher-bollas.md
     - selected-fact.md
@@ -41,6 +43,7 @@ Backlinks:
     - 10-the-integrated-claim.md
     - 7-the-three-legged-stool-of-defense.md
     - 2-the-alpha-function-as-the-triple-network-the.md
+    - reward-reinforcement-circuitry.md
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
@@ -51,16 +54,15 @@ Backlinks:
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-doing-both-hypothesis.md
     - field-viability-schema.md
-    - alpha-function.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary_u.md
+    - executive-summary_2.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - the-flywheel.md
-    - 1-core-discovery_z.md
+    - 1-core-discovery_g.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md

@@ -13,7 +13,7 @@ Backlinks:
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - functional-alterity.md
 Origin Domain:
     - Psychoanalysis

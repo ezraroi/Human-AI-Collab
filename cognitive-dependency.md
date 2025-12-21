@@ -14,6 +14,7 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - ai.md
     - 9-final-integration-principles.md
+    - reward-reinforcement-circuitry.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - category-error.md

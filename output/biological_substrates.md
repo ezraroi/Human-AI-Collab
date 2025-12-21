@@ -1,7 +1,7 @@
-# Biological Substrates (5)
+# Biological Substrates (8)
 
 ## Index
-Anterior Insular Cortex (AIC), As-If Body Loop, HPA-Axis, Systems Consolidation, Triple Network Model
+Anterior Insular Cortex (AIC), As-If Body Loop, Autonomic Nervous System Regulation (ANS / Vagal Regulation), HPA-Axis, Reward / Reinforcement Circuitry, Salience Network Core (AIC + dACC), Systems Consolidation, Triple Network Model
 
 ---
 
@@ -80,6 +80,34 @@ Sₑ therefore governs *whether* the Loop can activate, even when symbolic input
 
 ---
 
+## [BIOLOGICAL SUBSTRATE] Autonomic Nervous System Regulation (ANS / Vagal Regulation)
+[Literature] Domain: Bio-Embodied, System Role: Scaffolding, Temporal: Dynamic
+
+The fast-acting physiological regulation system that governs arousal and recovery through sympathetic/parasympathetic balance. In the Third Intelligence system, ANS regulation is the **closest measurable proxy** for moment-to-moment **Self-Holding capacity** and “window of tolerance” during reflective metabolic load.
+**System role in Third Intelligence**
+- **Constraint substrate for Emotional Scaffolding:** provides the physiological bandwidth that allows affect to be contacted without collapse.
+- **State discriminator:** supports distinguishing **metabolization** (arousal → processing → recovery) from **bypass** (low embodied engagement) and from **collapse** (dysregulated arousal / non-recovery).
+
+**Operational markers (candidate proxies, not proofs)**
+- **HRV (vagal tone proxy)**, respiration patterns, skin conductance, heart rate reactivity/recovery.
+- “Return-to-baseline” after session as a durability/ownership-adjacent marker (triangulated with journaling + behavioral persistence).
+
+**Testable predictions (how it constrains the model)**
+- **Transformation-viable sessions:** transient arousal during contact with difficult material + **recovery** toward baseline by end-of-session or post-session.
+- **Category Error / dependency risk:** either (a) persistent dysregulation (no recovery), or (b) artificially soothing interaction that reduces distress **without** downstream ownership/persistence (needs triangulation).
+- **Touch Grass Protocol efficacy:** should correlate with restoration of regulation markers (recovery architecture).
+
+**Relations (wiring)**
+- **Supports:** Self-Holding Function; Sₑ (Emotional Scaffolding); Field Viability Schema
+- **Interacts with:** HPA-Axis (slower stress axis); Felt Sense (interoceptive channel)
+- **Boundary conditions for:** Touch Grass Protocol; Category Error / dependency collapse states
+- **Operationalizes:** “Protected self-holding” vs “collapse” as measurable physiology (triangulation required)
+
+**Notes**
+ANS measures are **highly non-specific** in isolation. They become useful only as part of a discriminator set: physiology + felt sense markers + behavioral ownership/persistence.
+
+---
+
 ## [BIOLOGICAL SUBSTRATE] HPA-Axis
 [Literature] Domain: Bio-Embodied, Temporal: Static
 
@@ -88,6 +116,64 @@ The Hypothalamic-Pituitary-Adrenal axis. A full-body stress response system that
 The **hypothalamus** serves as a high-level center for regulating visceral activity and the **endocrine system** by controlling the hypophysis (pituitary). The endocrine function relevant to this system involves the release of hormones known as **glucocorticoids**.
 The level of glucocorticoid release appears to be temporally regulated during sleep phases, which is essential for memory function. Glucocorticoids are in a **lower state of release** during slow-wave sleep (SWS). However, there is an **increased release of glucocorticoids** during the REM stage, which significantly affects affective memory consolidation and procedural memory enhancement.
 **Notes:** Stress regulation substrate; underlying constraint for Emotional Scaffolding.
+
+---
+
+## [BIOLOGICAL SUBSTRATE] Reward / Reinforcement Circuitry
+[Literature] Domain: Bio-Embodied, System Role: Mechanism, Temporal: Dynamic
+
+Neural systems that encode reward, reinforcement, and approach motivation, shaping repetitive behavior through “this feels good / do it again” learning dynamics. In the Third Intelligence system, this substrate is introduced to model an AI-specific risk: **pseudo-safety** and **dependency loops** driven by rapid validation and low-friction relief.
+**System role in Third Intelligence**
+- **Risk substrate:** explains how AI dialogue can become compelling in ways that mimic “safety” while bypassing metabolization.
+- **Counterfeit coherence generator:** supports the possibility that subjective relief/clarity is reinforced even when transformation criteria (ownership, persistence, reconstructability) are absent.
+
+**Operational markers (candidate proxies)**
+- Behavioral reinforcement signatures: escalating use, inability to stop (“one more turn”), reliance under stress, replacement of journaling/real-world testing.
+- In neuroscience terms, hypothesized engagement of reward networks during high-validation interactions (measurement would require lab paradigms; practical proxies are behavioral).
+
+**Testable predictions (how it constrains the model)**
+- **Counterfeit safety condition:** reward signatures rise while embodied integration markers do not (e.g., comfort/relief without felt-shift + without persistence).
+- **Transformation condition:** reward may occur, but does not become the driver; instead, behavioral markers show **authorship** (journaling, reconstruction without AI, real-world testing).
+- **Intervention sensitivity:** introducing “return-to-baseline” constraints (Touch Grass Protocol, journaling verification) should reduce compulsive repetition without reducing productive sessions.
+
+**Relations (wiring)**
+- **Risk for:** Category Error; Cognitive Dependency; PSB (“Protein Shake Brain”)
+- **Competes with:** Metabolization pathway (Alpha-Function) as an explanation for perceived improvement
+- **Moderated by:** Journal + Time (verification, consolidation); Touch Grass Protocol (boundary enforcement)
+- **Needs contrast with:** Human co-regulation (not provided by AI)
+
+**Notes**
+This object is intentionally **not moralizing**: reward is not “bad.” The point is to model how reward can **masquerade** as safety or transformation unless constrained by verification criteria.
+
+---
+
+## [BIOLOGICAL SUBSTRATE] Salience Network Core (AIC + dACC)
+[Literature] Domain: Bio-Embodied, System Role: Mechanism, Temporal: Dynamic
+
+A large-scale network associated with detecting salience (internal/external), allocating attention, and coordinating switching between internally oriented self-processing and externally oriented task/executive processing. In your mapping, it is the candidate gating mechanism that enables **“doing both”**: sustained contact with affective/self material while also engaging executive integration.
+**System role in Third Intelligence**
+- **Switching / gating substrate** linking:
+    - Felt Sense (interoception)
+    - Alpha-Function (metabolization)
+    - Triple Network dynamics (DMN ↔ FPN coordination)
+
+**Operational markers (candidate proxies)**
+- Network switching indices (EEG/fMRI paradigms).
+- Within-session “salience moments” aligning with felt sense intensification and/or felt shift events (hypothesis).
+
+**Testable predictions (how it constrains the model)**
+- **Metabolization:** salience engagement rises during contact with difficult material and supports coordinated switching into integrative processing (not stuck rumination, not detached analysis).
+- **Bypass (PSB):** high executive/language output with reduced salience/interoceptive engagement.
+- **Collapse:** salience overwhelms regulation capacity (ties back to ANS/HPA), leading to dysregulated switching and loss of self-holding.
+
+**Relations (wiring)**
+- **Core mechanism in:** Triple Network Model (but singled out for measurement focus)
+- **Bridges:** AIC ↔ Triple Network object (you can either keep this as separate or fold into AIC + TNM wiring)
+- **Enables:** “Doing Both” hypothesis; embodied-to-symbolic integration
+- **Constrained by:** ANS regulation / Emotional Scaffolding capacity
+
+**Notes**
+This object exists to prevent overloading “Triple Network Model” with everything. It makes the gating mechanism explicit and therefore measurable.
 
 ---
 

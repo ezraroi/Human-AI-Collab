@@ -10,6 +10,7 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-4-attribution-logic.md
     - 4-revised-contribution-of-notebook-11.md
+    - 5-measurement-program-menu.md
     - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
     - section-5-temporal-architecture.md
@@ -21,7 +22,7 @@ Backlinks:
     - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_e.md
+    - executive-summary_3.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -34,6 +35,7 @@ Backlinks:
     - 3-implications-for-positioning.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
+    - reward-reinforcement-circuitry.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
@@ -52,7 +54,8 @@ Backlinks:
     - 4-three-key-tensions-surfaced-through-triangul.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
-    - 1-executive-summary_o.md
+    - neuroscience-of-transformation.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md

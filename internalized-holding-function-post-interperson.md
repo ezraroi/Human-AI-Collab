@@ -11,12 +11,12 @@ Tag:
 Backlinks:
     - holding-environment.md
     - cognitive-style-bias.md
+    - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - the-doing-both-hypothesis.md
     - psychoanalytic-integration.md
     - category-error.md
-    - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Psychoanalysis
@@ -38,6 +38,7 @@ Links:
     - holding-environment.md
     - d-w-winnicott.md
     - touch-grass-protocol.md
+Emoji: "\U0001F4A1"
 id: bafyreich4ctxhzrmursbrnpv7jfstsze6z6useh34e5ncu6d6cifs7wksu
 ---
 # Internalized Holding Function (Post-Interpersonal Facilitation Principle)   

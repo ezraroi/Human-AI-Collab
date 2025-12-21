@@ -5,6 +5,8 @@ Object type:
 Tag:
     - 'Domain: Bio-Embodied'
     - 'Temporal: Static'
+Backlinks:
+    - 1-purpose-and-scope_o.md
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'

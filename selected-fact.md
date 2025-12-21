@@ -42,7 +42,7 @@ Links:
     - human.md
     - negative-capability.md
     - functional-thirdness.md
-    - catalytic-externalization.md
+    - bafyreibrrmzr35qswwrjwth6r4v36zfqbsjohccphvaeu7sxspfql7euxi
     - journal.md
     - time.md
     - protein-shake-brain-psb.md
@@ -100,7 +100,7 @@ SF formation requires already-internalized developmental achievements:
    
 **System Relations:**   
 - **May Emerge Within:** [Functional Thirdness](functional-thirdness.md) (system-structural "field," not ontological intersubjectivity)   
-- **Precipitated By:** Functional Alterity (AI); [Catalytic Externalization](catalytic-externalization.md); [Journal](journal.md) (cross-temporal corpus)   
+- **Precipitated By:** Functional Alterity (AI); [Catalytic Externalization](bafyreibrrmzr35qswwrjwth6r4v36zfqbsjohccphvaeu.md); [Journal](journal.md) (cross-temporal corpus)   
 - **Owned By:** [Human](human.md) (metabolic integration only)   
 - **Validated Through:** [Time](time.md) (in-futuro probation); [Journal](journal.md) (return + probation tracking)   
    

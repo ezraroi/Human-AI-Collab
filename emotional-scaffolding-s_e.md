@@ -17,9 +17,11 @@ Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - 4-calibration-playbook.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
+    - salience-network-core-aic-dacc.md
     - holding-environment.md
     - executive-summary.md
     - the-manic-episode.md
+    - autonomic-nervous-system-regulation-ans-vagal-.md
     - internalized-holding-function-post-interperson.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -57,9 +59,8 @@ Backlinks:
     - category-error.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - touch-grass-protocol.md
-    - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_a.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - negative-capability.md
     - 5-worked-diagnostic-examples.md

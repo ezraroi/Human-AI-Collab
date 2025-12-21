@@ -16,9 +16,10 @@ Backlinks:
     - section-5-the-category-error-relational-axis-f.md
     - 2-clarifying-the-category-error-against-the-dt.md
     - channel-2-symbolic.md
+    - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - internalized-holding-function-post-interperson.md
-    - executive-summary_e.md
+    - executive-summary_3.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
@@ -29,7 +30,9 @@ Backlinks:
     - 8-common-misuses-and-anti-patterns.md
     - 9-final-integration-principles.md
     - 8-the-unified-relational-ontology.md
+    - 1-purpose-and-scope_o.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - reward-reinforcement-circuitry.md
     - 7-what-each-framework-gains-from-integration.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md

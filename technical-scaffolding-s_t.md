@@ -17,7 +17,6 @@ Backlinks:
     - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
     - 4-calibration-playbook.md
-    - catalytic-externalization.md
     - channel-2-symbolic.md
     - section-7-counterfeit-detection-framework.md
     - human.md
@@ -40,6 +39,7 @@ Backlinks:
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - field-viability-schema.md
+    - alpha-function.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md

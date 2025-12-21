@@ -6,8 +6,6 @@ Tag:
     - 'Domain: Bio-Embodied'
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
-Backlinks:
-    - neuroscience-of-transformation.md
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'

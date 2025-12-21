@@ -1,7 +1,7 @@
-# Concepts (82)
+# Concepts (81)
 
 ## Index
-Activation Pathway of Destiny Drive, Algorithmic Self, Alpha-Elements, Alpha-Function, Analytic Generalization, Authoritative Discourse, Beta-Elements, Catalytic Externalization, Category Error, Challenge Gap (\|D–C\|), Channel 1 (Embodied / Sensorimotor Pathway), Channel 2 (Symbolic), Chronotope, Cognitive Artifact, Cognitive Debt Awareness, Cognitive Debt, Cognitive Dependency, Cognitive Offloading, Conflict Detection (Model Repair), Destiny Drive, Digital Neurophenomenology, Dynamic Transitional Object (DTO), Eidetic Structure, Embodied Engagement Conditions, Embodied Simulation, Enacted Alpha-Work (EAW), Epistemological Humility, Extended Mind Hypothesis (HEC), False-Self, False True Self, Felt Sense, Felt Shift, Flow Optimization Principle, Functional Alterity, Functional Thirdness, Gap Filling (Inference Generation), High-Resolution Uncertainty, Holding Environment, Hyperreflexivity Trap, Identity Stakes, Idiom-Aligned Scaffolding, In-Context Learning, Internalized Holding Function (Post-Interpersonal Facilitation Principle), Internally Persuasive Discourse, Iron Man Mentality, Irreducible Alterity, Judgment–Expertise Boundary, LLM Embedding, Materialization, Metacognition, Minimal Self, MKO (More Knowledgeable Other), Narrative Self, Negative Capability, Neural Synchrony, Parity Principle (PP), Potential Space, Pre-Reflective Awareness, Preconditions for Transformative AI Dialogue, Productive Epistemic Tension, Protein Shake Brain (PSB), Psychoanalytic Prerequisites, Recursive Metabolic Loop, Reflective Awareness, Reverie, Rubber Duck Debugging, Selected Fact, Somatic Marker Hypothesis, Subject Supposed to Know (SSS), System 0, System 1, System 2, Systematic Competence, Teleological Drift, The Container, The Flywheel, The Integrated Circuit Board, The Unified Architecture, Third Intelligence, Transmissive Self, True-Self, ZPD
+Activation Pathway of Destiny Drive, Algorithmic Self, Alpha-Elements, Alpha-Function, Analytic Generalization, Authoritative Discourse, Beta-Elements, Category Error, Challenge Gap (\|D–C\|), Channel 1 (Embodied / Sensorimotor Pathway), Channel 2 (Symbolic), Chronotope, Cognitive Artifact, Cognitive Debt Awareness, Cognitive Debt, Cognitive Dependency, Cognitive Offloading, Conflict Detection (Model Repair), Destiny Drive, Digital Neurophenomenology, Dynamic Transitional Object (DTO), Eidetic Structure, Embodied Engagement Conditions, Embodied Simulation, Enacted Alpha-Work (EAW), Epistemological Humility, Extended Mind Hypothesis (HEC), False-Self, False True Self, Felt Sense, Felt Shift, Flow Optimization Principle, Functional Alterity, Functional Thirdness, Gap Filling (Inference Generation), High-Resolution Uncertainty, Holding Environment, Hyperreflexivity Trap, Identity Stakes, Idiom-Aligned Scaffolding, In-Context Learning, Internalized Holding Function (Post-Interpersonal Facilitation Principle), Internally Persuasive Discourse, Iron Man Mentality, Irreducible Alterity, Judgment–Expertise Boundary, LLM Embedding, Materialization, Metacognition, Minimal Self, MKO (More Knowledgeable Other), Narrative Self, Negative Capability, Neural Synchrony, Parity Principle (PP), Potential Space, Pre-Reflective Awareness, Preconditions for Transformative AI Dialogue, Productive Epistemic Tension, Protein Shake Brain (PSB), Psychoanalytic Prerequisites, Recursive Metabolic Loop, Reflective Awareness, Reverie, Rubber Duck Debugging, Selected Fact, Somatic Marker Hypothesis, Subject Supposed to Know (SSS), System 0, System 1, System 2, Systematic Competence, Teleological Drift, The Container, The Flywheel, The Integrated Circuit Board, The Unified Architecture, Third Intelligence, Transmissive Self, True-Self, ZPD
 
 ---
 
@@ -158,10 +158,11 @@ Wilfred Bion
 ## [CONCEPT] Alpha-Function
 [Literature] Domain: Psychoanalytic, System Role: Mechanism, Temporal: Dynamic, Operational Flags: Core
 
-The internal, embodied process of metabolizing raw, unthinkable experience (Beta-Elements) into thinkable thoughts (Alpha-Elements)—felt sense made thinkable.
+The internal, **human-enacted**, embodied process of metabolizing raw, unthinkable experience (**Beta-Elements**) into thinkable thoughts (**Alpha-Elements**)—felt sense made thinkable.
+AI can **support the conditions** for Alpha-Function (technical scaffolding, structured difference), but **cannot perform** Alpha-Function or provide containment; the Human remains the metabolic agent.
 **Phenomenological Root (Husserl):** Maps to **Noesis**.
-This is the subjective act of experiencing or meaning-making. It is the metabolic process that transforms raw *Hyle* into meaningful *Noema*.
-**System Role:** The “Engine” of the Third Intelligence. It is sparked when the experienced challenge is held long enough for metabolization (while \|D–C\| remains pre-existing).
+This is the subjective act of experiencing or meaning-making: the metabolic process that transforms raw **Hyle** into meaningful **Noema**.
+**System Role:** The “Engine” of the Third Intelligence (**in the Human**). It is sparked when experienced challenge is held long enough for metabolization **within viable mismatch(D, C)** (rather than discharged, bypassed, or escalated).
 ### Local Failure Mode (PSB – Protein Shake Brain)
 When the Alpha-Function is bypassed or under-engaged, symbolic material is processed without sustained **C1 ↔ C2 coupling** (metabolic processing). AI outputs or abstractions are “consumed” directly, producing:
 - outward fluency without inward transformation,
@@ -173,15 +174,15 @@ This is the Alpha-Function’s component-level collapse.
 ### Interaction Dynamics (Propagation Rules)
 When Alpha-Function is offline or overwhelmed:
 - Somatic signals (if present) fail to be integrated, so processing becomes symbol-dominant; **Symbolic Overrun** emerges specifically when the **As-If Body Loop is weak or bypassed**.
-- Journal becomes corrupted (**when the work carries Identity Stakes**): entries are written without metabolization, producing pseudo-insight or thin narratives.
-- **Durable Capacity (C) growth is compromised:** metabolization does not reliably produce owned α-elements that can accumulate over Time.
-- **Axis B collapses** into a Channel-2-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.
+- Journal becomes corrupted (when the work carries Identity Stakes): entries are written without metabolization, producing pseudo-insight or thin narratives.
+- Durable Capacity (C) growth is compromised: metabolization does not reliably produce owned α-elements that can accumulate over Time.
+- Axis B collapses into a Channel-2-only processing pattern (skipping digestion, just consuming AI answers) → the hallmark of PSB.
 
 Alpha-Function failure therefore propagates through the entire circuit.
 ### Phenomenology (How Alpha-Function Feels When Online vs Offline)
 **When Alpha-Function is online:**
 - A sense of “frustration → reorganization → relief.”
-- Experiential “clicks” or felt shifts (spaciousness).
+- Experiential “clicks” or **felt shifts** (spaciousness).
 - Insight feels personally owned, not just understood.
 - Writing comes in your own language.
 - Ambiguity feels tolerable long enough for transformation to occur.
@@ -195,15 +196,15 @@ Alpha-Function failure therefore propagates through the entire circuit.
 
 These phenomenological markers are the easiest way to detect Alpha engagement in real time.
 ### Sₑ Dependency (Qualitative Energy Constraint)
-Alpha-Function draws heavily on Sₑ — the system’s emotional capacity to tolerate frustration, uncertainty, and disruption.
-- **High Sₑ:** Alpha can hold tension long enough to metabolize beta-elements.
-- **Low Sₑ:** Alpha collapses into avoidance, symbolic bypass, or manic acceleration.
-- **Sₑ depletion:** requires recovery periods (Touch Grass Protocol) to restore metabolic capacity.
+Alpha-Function draws heavily on **Sₑ** — the system’s emotional capacity to tolerate frustration, uncertainty, and disruption.
+- High Sₑ: Alpha can hold tension long enough to metabolize beta-elements.
+- Low Sₑ: Alpha collapses into avoidance, symbolic bypass, or manic acceleration.
+- Sₑ depletion: requires recovery periods (**Touch Grass Protocol**) to restore metabolic capacity.
 
-Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material.
+Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha can process material *(physiological proxies may track constraints, but are not equivalent to Sₑ).*
 ### Wiring (Relations)
 - **Part Of:** Integrated Circuit Board (Axis B architecture)
-- **Requires:** As-If Body Loop for **C1 ↔ C2 coupling capability**; sufficient Sₑ for frustration tolerance
+- **Requires:** As-If Body Loop for **C1 ↔ C2 coupling** capability; sufficient **Sₑ** for frustration tolerance
 - **Counteracted By:** PSB (when Alpha-Function is bypassed)
 - **Constrained By:** Axis A (Category Error increases vulnerability and PSB risk by making the relational stance invalid)
 - **Feeds:** Recursive Metabolic Loop
@@ -264,16 +265,6 @@ Maps to **Interoceptive Signals**—raw bodily sensations processed by Anterior 
 - **Biological Substrate:** Anterior Insular Cortex
 - **Phenomenological Mapping:** Hyle (Husserl's raw sensory matter)
 - **Failure Mode:** When not metabolized → Nameless Dread, overwhelm, psychic chaos
-
----
-
-## [CONCEPT] Catalytic Externalization
-[Theoretical] NoteBook 5 - Dynamic Operations, Domain: Synthesis, System Role: Mechanism, Temporal: Dynamic
-
-**Definition:** The process where the AI provides a specific linguistic "reagent" that causes the user's implicit, suspended knowledge to crystallize.
-**Relations:**
-- Link to **AI** (Relation: `High-Level Function Of`).
-- Link to **$S\_t$ (Technical Scaffolding)** (Relation: `Evolution Of`).
 
 ---
 

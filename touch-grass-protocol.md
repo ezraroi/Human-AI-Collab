@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - developmental-sequence.md
+    - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - internalized-holding-function-post-interperson.md
     - 5-the-three-dimensional-integration.md
@@ -16,6 +17,7 @@ Backlinks:
     - section-7-temporal-dynamics-across-the-archite.md
     - aba-design.md
     - 10-the-integrated-claim.md
+    - reward-reinforcement-circuitry.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - 7-research-usage.md
     - field-viability-schema.md
