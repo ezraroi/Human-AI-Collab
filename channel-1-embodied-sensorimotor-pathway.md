@@ -65,7 +65,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary_u.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

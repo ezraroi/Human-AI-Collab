@@ -13,7 +13,7 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
-    - 3-the-mechanism-vs-existence-distinction_e.md
+    - 3-the-mechanism-vs-existence-distinction_q.md
     - journal.md
     - 10-questions-your-synthesis-raises.md
     - eidetic-structure.md
@@ -49,13 +49,14 @@ Backlinks:
     - alpha-function.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary_b.md
-    - 2-the-unbundled-rationale-architecture_u.md
+    - executive-summary_i.md
+    - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - the-flywheel.md
-    - 1-core-discovery_u.md
+    - 1-core-discovery.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
+    - psychoanalytic-prerequisites.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - the-recursive-third-intelligence-system-archit.md

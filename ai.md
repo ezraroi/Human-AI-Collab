@@ -40,7 +40,7 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_5.md
+    - executive-summary_4.md
     - selected-fact.md
     - human.md
     - time.md
@@ -77,7 +77,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - 1-executive-summary_17.md
+    - 1-executive-summary_v.md
     - 3-the-mechanism-catalytic-externalization.md
     - false-true-self.md
     - section-3-causal-sequence-placement.md

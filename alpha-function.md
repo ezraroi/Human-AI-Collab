@@ -97,10 +97,10 @@ Backlinks:
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
-    - 2-the-unbundled-rationale-architecture_u.md
+    - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary_17.md
+    - 1-executive-summary_v.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
@@ -116,7 +116,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary_u.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis

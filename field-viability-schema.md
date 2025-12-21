@@ -11,7 +11,7 @@ Backlinks:
     - kurt-lewin.md
     - developmental-sequence.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction_e.md
+    - 3-the-mechanism-vs-existence-distinction_q.md
     - section-1-introduction-and-framework-positioning.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -64,6 +64,7 @@ Links:
     - lev-vygotsky.md
     - developmental-sequence.md
     - touch-grass-protocol.md
+    - psychoanalytic-prerequisites.md
 Emoji: "\U0001F9E9"
 id: bafyreifn6lughkshqeywp3lfsej4jiw3jsnz4gghszyawatuskp2w62sfe
 ---
@@ -166,4 +167,6 @@ Sequence: Se first → then St becomes safe → then challenge becomes growth
 |                 **Envelope For** |                                                                                                                                         [Two-Axis Framework](two-axis-framework.md) |                                  configuration plane |
 |               **Interacts With** |                                                                                                                                 [Developmental Sequence](developmental-sequence.md) |                viability affects stage accessibility |
 |                     **Triggers** |                                                                                                                                     [Touch Grass Protocol](touch-grass-protocol.md) |                                      when non-viable |
+|          **Enables/Constrains:** |                                                                                                                                                              Developmental Sequence |             viability determines stage accessibility |
+|    **Determines operability of** |                                                                                                        [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) architecture |                                                      |
 

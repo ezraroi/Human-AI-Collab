@@ -17,7 +17,7 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
-    - executive-summary_5.md
+    - executive-summary_4.md
     - human.md
     - 3-diagnostic-workflow.md
     - the-container.md

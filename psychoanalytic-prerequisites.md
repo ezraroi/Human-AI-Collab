@@ -8,8 +8,10 @@ Tag:
     - 'Temporal: Static'
     - 'Domain: Synthesis'
 Backlinks:
+    - developmental-sequence.md
     - embodied-engagement-conditions.md
     - holding-environment.md
+    - field-viability-schema.md
     - psychoanalytic-integration.md
 Origin Domain:
     - Psychoanalysis
@@ -28,6 +30,8 @@ Links:
     - beta-elements.md
     - alpha-elements.md
     - psychoanalytic-integration.md
+    - developmental-sequence.md
+    - third-intelligence.md
 Emoji: "\U0001F4A1"
 id: bafyreigwvauee6qla4drqitelgm24g6zcg3ubai75l4iewlioiomor4soy
 ---
@@ -59,10 +63,12 @@ Traces the prerequisite developmental conditions under which the latent Destiny 
 The system **creates conditions, not content**—it **reveals** the idiom rather than producing it   
 ## Relations (Wiring)   
 - **Resolves:** [Psychoanalytic Integration](psychoanalytic-integration.md) (Research Gap)   
-- **Integrates:** Winnicott → Bion → Bollas   
+- **Integrates:** [Winnicott](d-w-winnicott.md) → Bion → Bollas   
 - **Enables (by obstacle removal):** True Self, Idiom Articulation, Agentic Expression   
 - **Mapped Onto:** Unified Architecture; Integrated Circuit Board   
 - **Complement / Inverse Of:** Psychodynamic Collapse Sequence (diagnostic counterpart)   
+- **Operationalized By**: [Developmental Sequence](developmental-sequence.md) (13-stage trajectory)   
+- **Instantiated In:**  [Third Intelligence](third-intelligence.md) system context   
    
 ## Notes   
 - This is the **developmental prerequisite architecture**, not a dynamic loop.   

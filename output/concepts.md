@@ -1851,6 +1851,8 @@ The system **creates conditions, not content**—it **reveals** the idiom rather
 - **Enables (by obstacle removal):** True Self, Idiom Articulation, Agentic Expression
 - **Mapped Onto:** Unified Architecture; Integrated Circuit Board
 - **Complement / Inverse Of:** Psychodynamic Collapse Sequence (diagnostic counterpart)
+- **Operationalized By**: Developmental Sequence (13-stage trajectory)
+- **Instantiated In:**  Third Intelligence system context
 
 ## Notes
 - This is the **developmental prerequisite architecture**, not a dynamic loop.

@@ -7,6 +7,7 @@ Tag:
 Backlinks:
     - two-axis-framework.md
     - field-viability-schema.md
+    - psychoanalytic-prerequisites.md
 Origin Domain:
     - Psychoanalysis
     - Developmental Psychology & Learning Theory
@@ -25,6 +26,8 @@ Links:
     - journal.md
     - 4ps-protocol.md
     - destiny-drive.md
+    - psychoanalytic-prerequisites.md
+    - holding-environment.md
     - the-integrated-circuit-board.md
     - field-viability-schema.md
     - touch-grass-protocol.md
@@ -92,6 +95,18 @@ therapy, it requires therapeutic holding here.
 - Specifies when professional support required (Stage 9 boundary)   
 - Allows for regression and non-linear movement   
    
+### Theoretical Foundation   
+The Developmental Sequence operationalizes the Psychoanalytic Prerequisites
+within the Third Intelligence context.   
+| [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) | Developmental Sequence |
+|:----------------------------------------------------------------|:-----------------------|
+|      [Holding Environment](holding-environment.md) (Obstacle 1) |             Stages 1-7 |
+|                [Alpha-Function](alpha-function.md) (Obstacle 2) |            Stages 8-11 |
+|                  [Destiny Drive](destiny-drive.md) articulation |           Stages 12-13 |
+
+The [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) describes the obstacle-removal architecture.
+The Developmental Sequence describes how that architecture unfolds as
+lived developmental trajectory.   
 ### Wiring (Relations)   
 **Relationship to Configuration Plane:**   
 - Stages 1-6 → Prerequisites for stable non-intrusive field   
@@ -99,7 +114,7 @@ therapy, it requires therapeutic holding here.
 - Stages 8-10 → Axis B becomes available (metabolic capacity online)   
 - Stages 11-13 → [Integrated Circuit Board](the-integrated-circuit-board.md) mechanism operates   
    
-**Enables stable access to:** Two-Axis Framework (configuration plane)   
+**Enables stable access to:** [Two-Axis Framework](two-axis-framework.md) (configuration plane)   
 **Interacts with:**   
 - [Field Viability Schema](field-viability-schema.md) (viability determines whether stages are accessible)   
 - [Touch Grass Protocol](touch-grass-protocol.md) (triggered when depletion markers appear)   
@@ -109,6 +124,7 @@ therapy, it requires therapeutic holding here.
 - Clinical contraindications   
 - Scope limits   
 - When withdrawal required   
+- **Operationalizes:** [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md)   
    
 ### Distinction from Two-Axis Framework   
 |    Developmental Sequence |               Two-Axis Framework |

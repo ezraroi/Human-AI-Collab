@@ -49,7 +49,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary_u.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

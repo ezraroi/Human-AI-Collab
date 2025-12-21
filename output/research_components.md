@@ -405,6 +405,18 @@ therapy, it requires therapeutic holding here.
 - Specifies when professional support required (Stage 9 boundary)
 - Allows for regression and non-linear movement
 
+### Theoretical Foundation
+The Developmental Sequence operationalizes the Psychoanalytic Prerequisites
+within the Third Intelligence context.
+| Psychoanalytic Prerequisites | Developmental Sequence |
+|:----------------------------------------------------------------|:-----------------------|
+|      Holding Environment (Obstacle 1) |             Stages 1-7 |
+|                Alpha-Function (Obstacle 2) |            Stages 8-11 |
+|                  Destiny Drive articulation |           Stages 12-13 |
+
+The Psychoanalytic Prerequisites describes the obstacle-removal architecture.
+The Developmental Sequence describes how that architecture unfolds as
+lived developmental trajectory.
 ### Wiring (Relations)
 **Relationship to Configuration Plane:**
 - Stages 1-6 → Prerequisites for stable non-intrusive field
@@ -422,6 +434,7 @@ therapy, it requires therapeutic holding here.
 - Clinical contraindications
 - Scope limits
 - When withdrawal required
+- **Operationalizes:** Psychoanalytic Prerequisites
 
 ### Distinction from Two-Axis Framework
 |    Developmental Sequence |               Two-Axis Framework |
@@ -632,6 +645,8 @@ Sequence: Se first → then St becomes safe → then challenge becomes growth
 |                 **Envelope For** |                                                                                                                                         Two-Axis Framework |                                  configuration plane |
 |               **Interacts With** |                                                                                                                                 Developmental Sequence |                viability affects stage accessibility |
 |                     **Triggers** |                                                                                                                                     Touch Grass Protocol |                                      when non-viable |
+|          **Enables/Constrains:** |                                                                                                                                                              Developmental Sequence |             viability determines stage accessibility |
+|    **Determines operability of** |                                                                                                        Psychoanalytic Prerequisites architecture |                                                      |
 
 ---
 

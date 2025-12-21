@@ -13,7 +13,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - internally-persuasive-discourse.md
     - mikhail-bakhtin.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary_u.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
