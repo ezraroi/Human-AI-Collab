@@ -21,19 +21,26 @@ Backlinks:
     - channel-2-symbolic.md
     - section-7-counterfeit-detection-framework.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - 3-diagnostic-workflow.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
     - the-container.md
+    - 2-the-divided-labors-of-two-theories.md
     - ai.md
     - 3-implications-for-positioning.md
     - 8-common-misuses-and-anti-patterns.md
+    - 9-final-integration-principles.md
+    - 8-the-unified-relational-ontology.md
     - section-7-temporal-dynamics-across-the-archite.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
+    - 1-overview.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - field-viability-schema.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
@@ -42,6 +49,7 @@ Backlinks:
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
     - zpd.md
+    - 4-the-critical-ontological-distinction.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

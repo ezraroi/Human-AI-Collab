@@ -23,14 +23,18 @@ Backlinks:
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
+    - 2-the-divided-labors-of-two-theories.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - 10-the-integrated-claim.md
+    - 7-what-each-framework-gains-from-integration.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
+    - 3-the-13-stage-development-sequence.md
     - field-viability-schema.md
     - alpha-function.md
     - materialization.md
@@ -47,6 +51,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
+    - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

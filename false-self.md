@@ -14,11 +14,13 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - authoritative-discourse.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - d-w-winnicott.md
     - transmissive-self.md
     - true-self.md
     - dynamic-transitional-object-dto.md
+    - 3-the-13-stage-development-sequence.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md

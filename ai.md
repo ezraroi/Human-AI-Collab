@@ -43,9 +43,11 @@ Backlinks:
     - executive-summary_4.md
     - selected-fact.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - time.md
     - neural-synchrony.md
     - section-4-the-importance-of-emotional-scaffold.md
+    - 2-the-divided-labors-of-two-theories.md
     - conclusion-on-novelty-and-contribution.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 4-remaining-questions-for-tier-3.md
@@ -57,6 +59,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - section-7-temporal-dynamics-across-the-archite.md
     - gap-filling-inference-generation.md
+    - 10-the-integrated-claim.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -66,6 +69,7 @@ Backlinks:
     - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - 6-the-final-positioning-framework.md
     - field-viability-schema.md
     - the-journals-three-essential-functions.md
@@ -77,7 +81,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - false-true-self.md
     - section-3-causal-sequence-placement.md
@@ -90,6 +94,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

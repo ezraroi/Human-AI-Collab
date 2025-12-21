@@ -43,8 +43,10 @@ Backlinks:
     - executive-summary_4.md
     - selected-fact.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - time.md
+    - 2-the-divided-labors-of-two-theories.md
     - conclusion-on-novelty-and-contribution.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 4-remaining-questions-for-tier-3.md
@@ -58,9 +60,12 @@ Backlinks:
     - 3-implications-for-positioning.md
     - d-w-winnicott.md
     - 8-common-misuses-and-anti-patterns.md
+    - 9-final-integration-principles.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - 10-the-integrated-claim.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - systems-consolidation.md
+    - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - how-journal-entries-are-actually-created.md
@@ -74,6 +79,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
@@ -82,6 +88,7 @@ Backlinks:
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - integrated-synthesis-of-psychological-developm.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - protein-shake-brain-psb.md
@@ -89,7 +96,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md
@@ -103,6 +110,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
     - why-this-matters-the-stakes.md
 Origin Domain:

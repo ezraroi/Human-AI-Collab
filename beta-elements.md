@@ -27,9 +27,11 @@ Backlinks:
     - section-8-boundary-conditions-prerequisites.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
+    - 10-the-integrated-claim.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
+    - 3-the-13-stage-development-sequence.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - integrated-synthesis-of-psychological-developm.md
@@ -43,6 +45,7 @@ Backlinks:
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
+    - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'
@@ -88,8 +91,3 @@ Maps to **Interoceptive Signals**—raw bodily sensations processed by Anterior 
 - **Biological Substrate:** [Anterior Insular Cortex ](anterior-insular-cortex-aic.md)   
 - **Phenomenological Mapping:** Hyle (Husserl's raw sensory matter)   
 - **Failure Mode:** When not metabolized → Nameless Dread, overwhelm, psychic chaos   
-   
-   
-   
-   
-   

@@ -13,7 +13,7 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
-    - 3-the-mechanism-vs-existence-distinction_q.md
+    - 3-the-mechanism-vs-existence-distinction_8.md
     - journal.md
     - 10-questions-your-synthesis-raises.md
     - eidetic-structure.md
@@ -32,25 +32,30 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - time.md
     - the-container.md
+    - 2-the-divided-labors-of-two-theories.md
     - 7-final-conclusion-the-third-intelligence.md
     - section-8-boundary-conditions-prerequisites.md
     - algorithmic-self.md
     - recursive-metabolic-loop.md
+    - 10-the-integrated-claim.md
     - 7-the-three-legged-stool-of-defense.md
     - 2-the-alpha-function-as-the-triple-network-the.md
+    - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 5-final-positioning-statement.md
+    - 1-overview.md
     - dynamic-transitional-object-dto.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-doing-both-hypothesis.md
     - field-viability-schema.md
     - alpha-function.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary_i.md
-    - 2-the-unbundled-rationale-architecture.md
+    - executive-summary_r.md
+    - 2-the-unbundled-rationale-architecture_e.md
     - activation-pathway-of-destiny-drive.md
     - the-flywheel.md
     - 1-core-discovery.md
@@ -59,6 +64,7 @@ Backlinks:
     - psychoanalytic-prerequisites.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
+    - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

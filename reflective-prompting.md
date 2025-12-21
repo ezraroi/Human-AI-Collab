@@ -33,6 +33,7 @@ Backlinks:
     - judgment-expertise-boundary.md
     - section-6-the-complete-system-architecture.md
     - 8-critical-connection-6-my-method-works-becaus.md
+    - 3-the-13-stage-development-sequence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - rubber-duck-debugging.md
@@ -44,7 +45,7 @@ Backlinks:
     - functional-thirdness.md
     - final-definition.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary.md
+    - 1-executive-summary_e.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

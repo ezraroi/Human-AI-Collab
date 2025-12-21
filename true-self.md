@@ -18,6 +18,8 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - 7-final-conclusion-the-third-intelligence.md
     - d-w-winnicott.md
+    - 7-what-each-framework-gains-from-integration.md
+    - 3-the-13-stage-development-sequence.md
     - psychoanalytic-integration.md
     - c-capacity.md
     - potential-space.md

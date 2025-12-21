@@ -15,9 +15,14 @@ Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - section-10-open-edges-to-bridge-later.md
+    - 2-the-divided-labors-of-two-theories.md
     - cognitive-offloading.md
     - judgment-expertise-boundary.md
+    - 7-what-each-framework-gains-from-integration.md
+    - 3-the-13-stage-development-sequence.md
     - recursive-pattern-verification-loop.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
+    - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

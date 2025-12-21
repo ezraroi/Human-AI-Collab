@@ -26,19 +26,23 @@ Backlinks:
     - human.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
+    - 2-the-divided-labors-of-two-theories.md
     - d-difficulty.md
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - challenge-gap-d-c.md
     - 3-implications-for-positioning.md
+    - 9-final-integration-principles.md
     - recursive-metabolic-loop.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - 10-the-integrated-claim.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - as-if-body-loop.md
     - 6-integration-points.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - field-viability-schema.md
     - alpha-function.md
     - protein-shake-brain-psb.md
@@ -46,6 +50,7 @@ Backlinks:
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 5-worked-diagnostic-examples.md
     - functional-alterity.md
+    - 4-the-critical-ontological-distinction.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

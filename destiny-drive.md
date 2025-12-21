@@ -12,12 +12,17 @@ Backlinks:
     - narrative-self.md
     - developmental-sequence.md
     - idiom-aligned-scaffolding.md
-    - 4-analytic-vs-statistical-generalization.md
+    - 4-analytic-vs-statistical-generalization_2.md
     - identity-stakes.md
     - iron-man-mentality.md
     - christopher-bollas.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
+    - 2-the-divided-labors-of-two-theories.md
+    - 9-final-integration-principles.md
+    - 10-the-integrated-claim.md
     - section-6-the-complete-system-architecture.md
+    - 3-the-13-stage-development-sequence.md
     - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

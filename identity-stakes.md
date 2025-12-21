@@ -14,10 +14,12 @@ Backlinks:
     - embodied-engagement-conditions.md
     - holding-environment.md
     - 3-diagnostic-workflow.md
+    - 2-the-divided-labors-of-two-theories.md
     - d-difficulty.md
     - 7-final-conclusion-the-third-intelligence.md
     - 8-common-misuses-and-anti-patterns.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - 3-the-13-stage-development-sequence.md
     - 7-research-usage.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md

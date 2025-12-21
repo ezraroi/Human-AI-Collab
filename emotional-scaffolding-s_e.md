@@ -21,6 +21,7 @@ Backlinks:
     - executive-summary.md
     - the-manic-episode.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
     - 3-diagnostic-workflow.md
@@ -28,27 +29,32 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
     - the-container.md
+    - 2-the-divided-labors-of-two-theories.md
     - conclusion-on-novelty-and-contribution.md
     - section-8-boundary-conditions-prerequisites.md
     - hpa-axis.md
     - ai.md
     - 3-implications-for-positioning.md
     - 8-common-misuses-and-anti-patterns.md
+    - 9-final-integration-principles.md
     - section-7-temporal-dynamics-across-the-archite.md
     - mko-more-knowledgeable-other.md
     - true-self.md
     - section-6-the-complete-system-architecture.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 1-overview.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - the-doing-both-hypothesis.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
     - category-error.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md

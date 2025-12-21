@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - the-integrated-circuit-board.md
+    - 6-clinical-boundaries-what-this-system-is-and-.md
     - section-6-journal-function-refinement.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

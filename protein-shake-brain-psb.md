@@ -36,6 +36,7 @@ Backlinks:
     - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
+    - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - hyperreflexivity-trap.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -46,13 +47,16 @@ Backlinks:
     - ai.md
     - d-w-winnicott.md
     - high-resolution-uncertainty.md
+    - 9-final-integration-principles.md
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
+    - 8-the-unified-relational-ontology.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - cognitive-dependency.md
+    - 7-what-each-framework-gains-from-integration.md
     - two-axis-framework.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
