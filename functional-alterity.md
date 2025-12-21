@@ -22,7 +22,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_g.md
+    - executive-summary_c.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -45,6 +45,7 @@ Backlinks:
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
+    - 5-worked-diagnostic-examples.md
     - mikhail-bakhtin.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md

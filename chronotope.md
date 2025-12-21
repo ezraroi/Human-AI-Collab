@@ -13,7 +13,6 @@ Backlinks:
     - extended-mind-hypothesis-hec.md
     - the-large-language-model-as-dynamic-transition.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
-    - time.md
     - 7-final-conclusion-the-third-intelligence.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md

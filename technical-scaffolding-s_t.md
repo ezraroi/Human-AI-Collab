@@ -16,16 +16,19 @@ Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
+    - 4-calibration-playbook.md
     - catalytic-externalization.md
     - channel-2-symbolic.md
     - section-7-counterfeit-detection-framework.md
     - human.md
     - section-3-foundational-theoretical-integration.md
+    - 3-diagnostic-workflow.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
     - the-container.md
     - ai.md
     - 3-implications-for-positioning.md
+    - 8-common-misuses-and-anti-patterns.md
     - section-7-temporal-dynamics-across-the-archite.md
     - mko-more-knowledgeable-other.md
     - section-6-the-complete-system-architecture.md
@@ -35,6 +38,7 @@ Backlinks:
     - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
     - section-6-journal-function-refinement.md
+    - 5-worked-diagnostic-examples.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
     - zpd.md

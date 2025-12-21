@@ -32,14 +32,14 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_9.md
+    - executive-summary.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_g.md
+    - executive-summary_c.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
@@ -56,6 +56,7 @@ Backlinks:
     - ai.md
     - 3-implications-for-positioning.md
     - d-w-winnicott.md
+    - 8-common-misuses-and-anti-patterns.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - systems-consolidation.md
@@ -68,6 +69,7 @@ Backlinks:
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - hubert-hermans.md
+    - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
@@ -87,7 +89,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary_s.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md

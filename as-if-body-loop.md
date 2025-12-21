@@ -25,7 +25,7 @@ Backlinks:
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - antonio-damasio.md
     - embodied-cognition.md
     - unified-architecture-neurobiological-resolutio.md

@@ -15,13 +15,15 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - journal.md
     - channel-1-embodied-sensorimotor-pathway.md
+    - 4-calibration-playbook.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
-    - executive-summary_9.md
-    - boundary-condition-the-manic-episode.md
+    - executive-summary.md
+    - the-manic-episode.md
     - human.md
     - section-3-foundational-theoretical-integration.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
+    - 3-diagnostic-workflow.md
     - time.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -31,6 +33,7 @@ Backlinks:
     - hpa-axis.md
     - ai.md
     - 3-implications-for-positioning.md
+    - 8-common-misuses-and-anti-patterns.md
     - section-7-temporal-dynamics-across-the-archite.md
     - mko-more-knowledgeable-other.md
     - true-self.md
@@ -49,9 +52,10 @@ Backlinks:
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - negative-capability.md
+    - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
     - zpd.md
     - the-recursive-third-intelligence-system-archit.md

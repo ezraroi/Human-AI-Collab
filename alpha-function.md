@@ -34,9 +34,10 @@ Backlinks:
     - journal.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
+    - 4-calibration-playbook.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
-    - executive-summary_9.md
+    - executive-summary.md
     - self-explanation.md
     - identity-stakes.md
     - channel-2-symbolic.md
@@ -98,8 +99,8 @@ Backlinks:
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
-    - 1-executive-summary_s.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
@@ -115,7 +116,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary.md
+    - 1-executive-summary_l.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Psychoanalysis

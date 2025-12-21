@@ -22,6 +22,7 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - parity-principle-pp.md
     - 10-questions-your-synthesis-raises.md
+    - 4-calibration-playbook.md
     - holding-environment.md
     - self-explanation.md
     - channel-2-symbolic.md
@@ -35,6 +36,7 @@ Backlinks:
     - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
+    - 3-diagnostic-workflow.md
     - hyperreflexivity-trap.md
     - section-2-the-field-viability-schema-and-its-c.md
     - d-difficulty.md
@@ -56,6 +58,7 @@ Backlinks:
     - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
     - 7-critical-connection-5-why-psb-happens.md
+    - 7-research-usage.md
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
@@ -72,6 +75,7 @@ Backlinks:
     - emotional-scaffolding-s_e.md
     - negative-capability.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
+    - 5-worked-diagnostic-examples.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

@@ -48,9 +48,10 @@ Backlinks:
     - alpha-function.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary.md
+    - executive-summary_b.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
+    - the-flywheel.md
     - 1-core-discovery.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md

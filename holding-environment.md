@@ -15,7 +15,7 @@ Backlinks:
     - 5-documented-counter-evidence-the-manic-episodes.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md

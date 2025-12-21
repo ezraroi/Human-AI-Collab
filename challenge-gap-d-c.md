@@ -17,9 +17,11 @@ Backlinks:
     - section-5-the-category-error-relational-axis-f.md
     - 4-the-system-architecture-v2-0.md
     - journal.md
+    - 4-calibration-playbook.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
+    - 2-from-probability-to-field-viability.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
@@ -34,6 +36,7 @@ Backlinks:
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - two-axis-framework.md
+    - 6-integration-points.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - 7-critical-connection-5-why-psb-happens.md
@@ -68,6 +71,7 @@ Links:
     - zpd.md
     - alpha-function.md
     - functional-alterity.md
+    - field-viability-schema.md
 Emoji: "\U0001F4A1"
 id: bafyreidv5g7pcitnfg2wdorbtwt7yx6exw3rca6zeiqvf24wofa5vbf5tu
 ---
@@ -90,3 +94,4 @@ It is the **condition** of transformation, not the **arena** where transformatio
     (No tension → no symbolic metabolism.)   
 - **Shaped/Experienced Through → [Functional Alterity](functional-alterity.md)**   
     (Alterity does not create the gap but influences how the user encounters it inside the ZPD.)   
+- **Operationalized As (in [Field Viability Schema](field-viability-schema.md)) →** mismatch(D,C), which denotes the experienced/effective version of the Challenge Gap, distinguished from the structural gap itself.   

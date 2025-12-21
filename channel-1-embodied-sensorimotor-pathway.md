@@ -21,7 +21,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
-    - executive-summary_9.md
+    - executive-summary.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -56,7 +56,7 @@ Backlinks:
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_e.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
     - negative-capability.md
@@ -66,7 +66,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_l.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
