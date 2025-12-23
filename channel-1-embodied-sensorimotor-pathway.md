@@ -22,7 +22,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - authoritative-discourse.md
-    - executive-summary.md
+    - executive-summary_h.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -46,10 +46,8 @@ Backlinks:
     - 15-is-your-model-suggesting-something-new.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
-    - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
-    - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
@@ -62,9 +60,8 @@ Backlinks:
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - 3-critical-connection-1-the-two-channel-model-.md
-    - functional-thirdness.md
     - internally-persuasive-discourse.md
     - negative-capability.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md

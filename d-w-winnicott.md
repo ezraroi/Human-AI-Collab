@@ -11,7 +11,7 @@ Backlinks:
     - journal.md
     - false-self.md
     - holding-environment.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -22,12 +22,12 @@ Backlinks:
     - 10-the-integrated-claim.md
     - true-self.md
     - 7-what-each-framework-gains-from-integration.md
+    - dynamic-transitional-object-dto.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
     - protein-shake-brain-psb.md
     - potential-space.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md

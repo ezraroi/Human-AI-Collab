@@ -7,7 +7,6 @@ Tag:
     - 'Temporal: Static'
     - Meta-Framework
 Backlinks:
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
 Research Status: Sealed
 Origin Domain:
@@ -29,7 +28,7 @@ Links:
     - field-viability-schema.md
     - alpha-function.md
     - false-self.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - the-unified-architecture.md
     - the-integrated-circuit-board.md
 Emoji: ❓
@@ -74,13 +73,13 @@ It removes developmental obstructions, allowing what was latent to become lived 
 - Explains both generative success and pathological collapse   
    
 ## Post-Interpersonal Extension   
-The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The **[Internalized Holding Function](internalized-holding-function-post-interperson.md)** concept extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:   
-| [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) (Developmental Path) | [Internalized Holding Function](internalized-holding-function-post-interperson.md) (Post-Internalization Application) |
-|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
-|                                       Interpersonal holding → internalized over time |                                                                              Presupposes already-internalized holding |
-|                                                  Achievement: "capacity to be alone" |                                                   Achievement: self-holding **through transformation** while using AI |
-|                                                      Mother/analyst provides holding |                                                                       Human performs holding; AI removes interference |
-|                                     Explains how development reaches internalization |                                                       Explains how AI can support transformation without providing Sₑ |
+The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The [Protected Self-Holding Principle](protected-self-holding-principle.md) extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:   
+| [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) (Developmental Path) |                                    Protected Self-Holding Principle |
+|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
+|                                       Interpersonal holding → internalized over time |                            Presupposes already-internalized holding |
+|                                                  Achievement: "capacity to be alone" | Achievement: self-holding **through transformation** while using AI |
+|                                                      Mother/analyst provides holding |                     Human performs holding; AI removes interference |
+|                                     Explains how development reaches internalization |     Explains how AI can support transformation without providing Sₑ |
 
 This extension:   
 - Completes Winnicott's trajectory into post-interpersonal territory   
@@ -90,7 +89,7 @@ This extension:
    
 ## Relations (Wiring)   
 - **Resolved By:** [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md)   
-- **Extended By:** [Internalized Holding Function](internalized-holding-function-post-interperson.md) (post-interpersonal application)   
+- **Extended By:** [Internalized Holding Function](protected-self-holding-principle.md) (post-interpersonal application)   
 - **Enables Mapping:** [Unified Architecture](the-unified-architecture.md), [Integrated Circuit Board](the-integrated-circuit-board.md)   
    
 ### Notes   

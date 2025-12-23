@@ -10,7 +10,7 @@ Backlinks:
     - developmental-sequence.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - 8-common-misuses-and-anti-patterns.md
@@ -23,6 +23,7 @@ Backlinks:
     - field-viability-schema.md
     - alpha-function.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
+    - functional-thirdness.md
     - emotional-scaffolding-s_e.md
     - 5-worked-diagnostic-examples.md
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'

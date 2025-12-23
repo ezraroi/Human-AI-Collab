@@ -19,8 +19,8 @@ Backlinks:
     - channel-2-symbolic.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
-    - internalized-holding-function-post-interperson.md
-    - executive-summary_6.md
+    - protected-self-holding-principle.md
+    - executive-summary_w.md
     - human.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
@@ -32,7 +32,7 @@ Backlinks:
     - 8-common-misuses-and-anti-patterns.md
     - 9-final-integration-principles.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope_u.md
+    - 1-purpose-and-scope.md
     - section-7-temporal-dynamics-across-the-archite.md
     - epistemological-humility.md
     - reward-reinforcement-circuitry.md
@@ -52,6 +52,7 @@ Backlinks:
     - functional-thirdness.md
     - emotional-scaffolding-s_e.md
     - 5-worked-diagnostic-examples.md
+    - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -65,8 +66,8 @@ Links:
     - two-axis-framework.md
     - protein-shake-brain-psb.md
     - cognitive-dependency.md
-    - emotional-scaffolding-s_e.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
+    - functional-thirdness.md
 Emoji: "\U0001F4A1"
 id: bafyreifsd3zplsn24o4odj546e7qfwvxpu7hle7whk26o7rzc6fr7dxgqu
 ---
@@ -84,7 +85,7 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - The user mistakes linguistic fluency for personhood.   
 - The AI becomes perceived as “someone” who cares, understands, or validates.   
 - The user assigns the AI an interpersonal role (friend, therapist, mentor).   
-- [Emotional scaffolding](emotional-scaffolding-s_e.md) is outsourced → relational boundaries collapse.   
+- Self-holding drops ([Protected Self-Holding Principle](protected-self-holding-principle.md) violated) → relational boundaries collapse → Sₑ depletion.   
    
 ### Two Manifestation Modes   
 **Mistake-Mode:**   
@@ -93,7 +94,7 @@ It occurs when the user attributes emotional intentionality, caring, or interper
 - User has sufficient Se to maintain DTO once understood   
    
 **Symptom-Mode:**   
-- User cannot maintain DTO stance despite intellectual understanding   
+- User cannot maintain [DTO](dynamic-transitional-object-dto.md) stance despite intellectual understanding   
 - Occurs when Se is depleted or viability envelope collapsed   
 - Corrected by: Rebuilding Se / reducing St / withdrawal protocol   
 - Stance correction alone will fail; must address underlying viability   
@@ -107,10 +108,11 @@ When Category Error persists despite correction attempts:
    
 This explains why "just maintain proper stance" sometimes fails in vivo.   
 ### Wiring (Relations)   
-- **Part Of:** Two-Axis Framework (Axis A failure)   
-- **Composes** (with PSB): Cognitive Dependency   
-- **Raises Risk Of:** Protein Shake Brain (PSB)   
+- **Part Of:** [Two-Axis Framework](two-axis-framework.md) (Axis A failure)   
+- **Composes** (with PSB): [Cognitive Dependency](cognitive-dependency.md)   
+- **Raises Risk Of:** Protein Shake Brain ([PSB](protein-shake-brain-psb.md))   
 - **Prevented By:** DTO stance   
-- **Violates:** [Internalized Holding Function](internalized-holding-function-post-interperson.md) (collapses self-holding by treating AI as holder)   
+- **Prevents → [Functional Thirdness](functional-thirdness.md)** (because it blocks the gate)   
+- **Violates:** [Protected Self-Holding Principle](protected-self-holding-principle.md) (collapses self-holding by treating AI as holder)   
    
    

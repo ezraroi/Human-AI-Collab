@@ -20,10 +20,11 @@ Backlinks:
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - judgment-expertise-boundary.md
+    - 5-final-positioning-statement.md
     - 3-the-13-stage-development-sequence.md
     - touch-grass-protocol.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
-    - 1-executive-summary_1b.md
+    - 1-executive-summary.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'

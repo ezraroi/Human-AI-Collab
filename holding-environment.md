@@ -10,14 +10,13 @@ Tag:
 Backlinks:
     - developmental-sequence.md
     - subject-supposed-to-know-sss.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
     - d-w-winnicott.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
@@ -42,7 +41,7 @@ Links:
     - false-self.md
     - identity-stakes.md
     - protein-shake-brain-psb.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - potential-space.md
     - hpa-axis.md
 Emoji: "\U0001F4A1"
@@ -91,15 +90,15 @@ When AI is used without metabolic discipline, it can produce **Simulated Holding
 **Critical distinction:** Genuine holding enables productive challenge within safety. Counterfeit holding eliminates challenge entirely, preventing Alpha-Function activation.   
 **Relations (Wiring):**   
 - **Part Of:** [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) (Foundation layer)   
-- **Extended By:** [Internalized Holding Function](internalized-holding-function-post-interperson.md) (post-interpersonal application in AI-mediated contexts)   
+- **Extended By:** [Protected Self-Holding Principle](protected-self-holding-principle.md) (post-interpersonal application in AI-mediated contexts)   
 - **Mapped To / Operationalized As:** S\_e ([Emotional Scaffolding](emotional-scaffolding-s_e.md))   
 - **Provides:** Ontological Security, Continuity-of-Being   
 - **Enables (by obstacle removal):** [True Self](true-self.md), [Potential Space](potential-space.md), Alpha-Function   
 - **Prerequisite For:** [Alpha-Function](alpha-function.md), [Identity Stakes](identity-stakes.md) work   
 - **Biological Substrate (provisional):** [HPA-Axis](hpa-axis.md) regulation, physiological stress response systems   
 - **Fails When:** Impingement, annihilation anxiety, absence of S\_e   
-- **Operationalized As:** Emotional Scaffolding (S\_e)   
-- **Related Pathologies:** [False Self](false-self.md), Simulated Holding Environment (counterfeit that violates Internalized Holding Function)   
+- **Operationalized As:** [Emotional Scaffolding](emotional-scaffolding-s_e.md) (S\_e)   
+- **Related Pathologies:** [False Self](false-self.md), Simulated Holding Environment (counterfeit that violates Protected Self-Holding Principle)   
    
    
 **Notes:**   

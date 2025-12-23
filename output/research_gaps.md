@@ -37,7 +37,7 @@ This determines whether the model is:
     - Self-holding durability during identity-stakes symbolic work
     - Sufficient Sₑ to maintain container function under pressure
     - **Critical distinction:** This is a prior developmental attainment, not a trainable cognitive skill—potentially more exclusionary than metacognitive sophistication, as it may require therapeutic work to establish rather than instruction to develop
-    - **Source:** Internalized Holding Function (Post-Interpersonal Facilitation Principle)
+    - **Source:** Protected Self-Holding Principle
 
 **Evidence of Potential Bias:**
 **N=1 case study subject (Roi):**
@@ -298,13 +298,13 @@ It removes developmental obstructions, allowing what was latent to become lived 
 - Explains both generative success and pathological collapse
 
 ## Post-Interpersonal Extension
-The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The **Internalized Holding Function** concept extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:
-| Psychoanalytic Prerequisites (Developmental Path) | Internalized Holding Function (Post-Internalization Application) |
-|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
-|                                       Interpersonal holding → internalized over time |                                                                              Presupposes already-internalized holding |
-|                                                  Achievement: "capacity to be alone" |                                                   Achievement: self-holding **through transformation** while using AI |
-|                                                      Mother/analyst provides holding |                                                                       Human performs holding; AI removes interference |
-|                                     Explains how development reaches internalization |                                                       Explains how AI can support transformation without providing Sₑ |
+The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The Protected Self-Holding Principle extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:
+| Psychoanalytic Prerequisites (Developmental Path) |                                    Protected Self-Holding Principle |
+|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
+|                                       Interpersonal holding → internalized over time |                            Presupposes already-internalized holding |
+|                                                  Achievement: "capacity to be alone" | Achievement: self-holding **through transformation** while using AI |
+|                                                      Mother/analyst provides holding |                     Human performs holding; AI removes interference |
+|                                     Explains how development reaches internalization |     Explains how AI can support transformation without providing Sₑ |
 
 This extension:
 - Completes Winnicott's trajectory into post-interpersonal territory
@@ -370,12 +370,12 @@ The neurobiological hypothesis that Third Intelligence transformation requires *
     - Not identical to human dialogue (different synchrony pattern)
     - Requires both networks for metabolic transformation
 5. **Self-Holding as "Doing Both" Phenomenology:**
-    - The Internalized Holding Function provides the phenomenological description of what "doing both" feels like subjectively
+    - The Protected Self-Holding Principle provides the phenomenological description of what "doing both" feels like subjectively
     - FPN engagement: processing AI's cognitive challenge (symbolic work, Channel 2)
     - DMN maintained: self-referential self-holding stays online (identity stability, container function)
     - "Protected self-holding while engaging challenge" = subjective correlate of simultaneous FPN+DMN
     - **Testable prediction:** Successful transformation shows maintained DMN activity during FPN engagement; Category Error (dependency collapse) shows DMN suppression under FPN dominance
-    - **Source:** Internalized Holding Function—supplies the best phenomenological definition of the paradox
+    - **Source:** Protected Self-Holding Principle—supplies the best phenomenological definition of the paradox
 
 **What Would Resolve This Gap:**
 **Empirical validation requires:**

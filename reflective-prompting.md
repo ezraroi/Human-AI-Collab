@@ -41,13 +41,13 @@ Backlinks:
     - rubber-duck-debugging.md
     - technical-scaffolding-s_t.md
     - cognitive-debt.md
+    - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - functional-thirdness.md
     - final-definition.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_1b.md
+    - 1-executive-summary.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

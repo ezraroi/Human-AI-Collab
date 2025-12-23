@@ -8,7 +8,7 @@ Tag:
     - Meta-Framework
 Backlinks:
     - neural-synchrony.md
-    - 1-purpose-and-scope_u.md
+    - 1-purpose-and-scope.md
 Research Status: Evergreen
 Origin Domain:
     - Neurobiology & Neuroscience

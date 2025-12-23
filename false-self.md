@@ -16,6 +16,7 @@ Backlinks:
     - authoritative-discourse.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
+    - 2-the-divided-labors-of-two-theories.md
     - d-w-winnicott.md
     - transmissive-self.md
     - true-self.md
@@ -25,7 +26,7 @@ Backlinks:
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md

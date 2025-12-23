@@ -13,8 +13,8 @@ Backlinks:
     - 4-remaining-questions-for-tier-3.md
     - cognitive-offloading.md
     - 3-implications-for-positioning.md
-    - 5-final-positioning-statement.md
-    - executive-summary_r.md
+    - dynamic-transitional-object-dto.md
+    - executive-summary.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

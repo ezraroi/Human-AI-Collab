@@ -19,10 +19,10 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary.md
+    - executive-summary_h.md
     - the-manic-episode.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -56,11 +56,9 @@ Backlinks:
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
-    - category-error.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - negative-capability.md
     - 5-worked-diagnostic-examples.md

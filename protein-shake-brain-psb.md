@@ -35,7 +35,6 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - rrv-cycle-recursive-refine-validate.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
-    - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
     - digital-neurophenomenology.md
@@ -55,7 +54,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope_u.md
+    - 1-purpose-and-scope.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -82,7 +81,6 @@ Backlinks:
     - part-iv-reflective-prompting-as-system-level-p.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
     - negative-capability.md
@@ -106,18 +104,19 @@ Links:
     - alpha-function.md
     - journal.md
     - c-capacity.md
+    - protected-self-holding-principle.md
     - category-error.md
     - zpd.md
     - d-w-winnicott.md
     - productive-epistemic-tension.md
     - channel-2-symbolic.md
-    - challenge-gap-d-c.md
     - dynamic-transitional-object-dto.md
     - transmissive-self.md
     - christopher-bollas.md
-    - functional-alterity.md
-    - felt-sense.md
+    - reflective-prompting.md
+    - 4ps-protocol.md
     - anterior-insular-cortex-aic.md
+    - felt-sense.md
     - hpa-axis.md
 Emoji: "\U0001F4A1"
 id: bafyreig4ybiodgihe6qb62lnoajvvs7givjha5jgneoaasgkq6lanlxjmy
@@ -134,6 +133,7 @@ PSB is the primary failure mode of the [Third Intelligence](third-intelligence.m
 **Phenomenological Deception Risk:** Under PSB conditions, the user may experience a subjective sense of insight, discovery, or "finally understanding myself" that mimics True Self emergence. This occurs because AI mirrors the user's existing idiom back in articulate form, creating recognition-as-discovery. The marker: fluency without time-delayed persistence; "click" without durability; compulsive return rather than settled integration.   
 ### Mechanism: Dual Simultaneous Failures   
 **A. Scaffolding Failure: Counterfeit Emotional Holding**   
+**self-holding drops (**[Protected Self-Holding Principle](protected-self-holding-principle.md)** violated)**; the sense of ‘being held’ is a simulated inference from non-demand, not real holding.   
 When the user slips toward [Category Error](category-error.md) (AI-as-Subject), the AI’s fluency can be experienced as simulated safety—a dangerous illusion *as if* a perfect holding environment exists:   
 **What the interaction can appear to provide**:   
 - Non-judgmental responses (no relational risk)   
@@ -166,9 +166,9 @@ Simulated Holding Environment feels MORE supportive than Genuine Holding Environ
 |   Maintains workable ZPD tension within the pre-existing \|D–C\| relation |         Experienced challenge collapses |
 
 When simulated safety combines with premature technical answers, the result is output that cannot be metabolized. This explains PSB's seductive quality—AI feels MORE supportive than genuine developmental relationships, making the pathology harder to detect.   
-**B. Challenge Collapse (Denominator)**   
-- AI supplies resolved symbolic content ([Channel 2](channel-2-symbolic.md)) before the user engages the challenge   
-- The experienced challenge in the [ZPD](zpd.md) collapses toward ‘no challenge’ (loss of productive epistemic tension), while \|[D–C](challenge-gap-d-c.md)\| remains pre-existing   
+**B. Experienced Challenge Collapse (Loss of PET)**   
+- AI supplies resolved symbolic content ([Channel 2](channel-2-symbolic.md)) before the user engages the difficulty long enough for metabolization.   
+- **[Productive Epistemic Tension](productive-epistemic-tension.md) (PET) disappears**: either flattening (no tension) or unprocessed difficulty (tension without metabolization).   
 - [Alpha-Function](alpha-function.md) fails to engage robustly   
    
 **C. Processing Bypass**   
@@ -198,23 +198,23 @@ When simulated safety combines with premature technical answers, the result is o
    
 **Can Produce:**   
 - [Transmissive Self](transmissive-self.md) ([Bollas](christopher-bollas.md))   
-- Capacity stagnation/atrophy   
+- Capacity stagnation / functional erosion    
 - Dependency on external processing   
    
 **Opposite of:**   
-- [Functional Alterity](functional-alterity.md) (preserves [productive epistemic tension](productive-epistemic-tension.md) as the pre-existing \|D–C\| relation is encountered)   
-- Embodied Verification / [Felt Sense](felt-sense.md)   
-- Journal Materialization   
+- Embodied Verification   
+- [Alpha-Function](alpha-function.md) engagement   
+- [Journal](journal.md) Materialization   
    
 **Enabled/Exacerbated by:**   
 - [Category Error](category-error.md) (AI-as-Subject)   
 - Sycophantic AI outputs   
 - Absence of reflective protocols   
    
-**Prevented by:**   
-- DTO stance (AI as Dynamic Transitional Object)   
-- Reflective Prompting   
-- 4Ps Protocol (Pause, Probe, Process, Possess)   
+**Risk reduced by**:   
+- [DTO](dynamic-transitional-object-dto.md) stance (AI as Dynamic Transitional Object)   
+- [Reflective Prompting](reflective-prompting.md)   
+- [4Ps Protocol](4ps-protocol.md) (Pause, Probe, Process, Possess)   
 - Journal materialization discipline   
 - Embodied checking (Channel 1 activation)   
    

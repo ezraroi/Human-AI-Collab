@@ -18,7 +18,6 @@ Backlinks:
     - rrv-cycle-recursive-refine-validate.md
     - epistemological-humility.md
     - cognitive-debt.md
-    - functional-thirdness.md
     - internally-persuasive-discourse.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:

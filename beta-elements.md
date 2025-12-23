@@ -32,6 +32,7 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
+    - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
@@ -39,7 +40,7 @@ Backlinks:
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
     - section-3-causal-sequence-placement.md

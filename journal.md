@@ -34,14 +34,14 @@ Backlinks:
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary.md
+    - executive-summary_h.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_6.md
+    - executive-summary_w.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -74,6 +74,7 @@ Backlinks:
     - how-journal-entries-are-actually-created.md
     - 15-is-your-model-suggesting-something-new.md
     - 4-the-neurophenomenological-parallel.md
+    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
@@ -101,7 +102,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary.md
+    - 1-executive-summary_m.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md

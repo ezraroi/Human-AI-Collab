@@ -14,7 +14,7 @@ Origin Domain:
 Epistemic Status: 'Literature: Established academic fact'
 Research Status: Evergreen
 Neural Basis Of:
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
 Creation date: "2025-12-21T15:16:32Z"
 Created by:
     - Roi Ezra
@@ -23,9 +23,9 @@ Links:
     - emotional-scaffolding-s_e.md
     - category-error.md
     - touch-grass-protocol.md
+    - protected-self-holding-principle.md
     - field-viability-schema.md
     - hpa-axis.md
-    - internalized-holding-function-post-interperson.md
 Emoji: "\U0001F9EC"
 id: bafyreic24tatifalzwodcslrnub5bhxuaolntspssn3fjdx4oqu5yogaie
 ---
@@ -45,9 +45,9 @@ The fast-acting physiological regulation system that governs arousal and recover
 - **[Touch Grass Protocol ](touch-grass-protocol.md)efficacy:** should correlate with restoration of regulation markers (recovery architecture).   
    
 **Relations (wiring)**   
-- **Supports:** Self-Holding Function; Sₑ (Emotional Scaffolding); [Field Viability Schema](field-viability-schema.md)   
+- **Supports:** [Protected Self-Holding Principle](protected-self-holding-principle.md); Sₑ ([Emotional Scaffolding](emotional-scaffolding-s_e.md)); [Field Viability Schema](field-viability-schema.md)   
 - **Interacts with:** [HPA-Axis](hpa-axis.md) (slower stress axis); Felt Sense (interoceptive channel)   
-- **Boundary conditions for:** Touch Grass Protocol; Category Error / dependency collapse states   
+- **Boundary conditions for:** [Touch Grass Protocol](touch-grass-protocol.md); Category Error / dependency collapse states   
 - **Operationalizes:** “Protected self-holding” vs “collapse” as measurable physiology (triangulation required)   
    
 **Notes**   

@@ -29,7 +29,7 @@ Links:
     - preconditions-for-transformative-ai-dialogue.md
     - reflective-prompting.md
     - judgment-expertise-boundary.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
 Emoji: "\U0001F4A1"
 id: bafyreiepzjscrncszy2xoc5dvdwcznmuyga427mqcviyctixtrh4e2bn3u
 ---
@@ -106,7 +106,7 @@ Humility fuels doubt; Negative Capability holds the discomfort that doubt produc
 - **Required By →** Recursive Pattern-Verification Loop (RPVL) — sustains the doubt that fuels each verification cycle   
 - **Required By →** [Reflective Prompting](reflective-prompting.md) — prerequisite stance for all phases   
 - **Required By →** [Judgment–Expertise Boundary](judgment-expertise-boundary.md) — enables discrimination of what can vs. cannot be delegated   
-- **Requires →** [Internalized Holding Function](internalized-holding-function-post-interperson.md) — productive doubt is only tolerable when internal holding is stable   
+- **Requires →** [Protected Self-Holding Principle](protected-self-holding-principle.md) — productive doubt is only tolerable when internal holding is stable   
 - **Enables →** [Functional Alterity](functional-alterity.md) to operate generatively — without it, alterity becomes threat   
 - **Prevents →** Category Error — maintains AI as DTO rather than Subject   
 - **Antidote To →** PSB (specifically rush-to-certainty and low-negative-capability markers)   

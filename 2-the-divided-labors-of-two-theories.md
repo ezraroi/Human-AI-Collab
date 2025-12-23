@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:49:31Z"
@@ -11,6 +9,7 @@ Created by:
     - Roi Ezra
 Links:
     - potential-space.md
+    - false-self.md
     - third-intelligence.md
     - ai.md
     - dynamic-transitional-object-dto.md
@@ -35,7 +34,7 @@ Describes the phenomenology of emergent self:
 - Survival of the object   
 - Transitional space ([Potential Space](potential-space.md))   
 - Return of vitality   
-- Loosening of False Self   
+- Loosening of [False Self](false-self.md)   
 - Surfacing of unexperienced breakdown   
 - Daring of spontaneous gesture   
    

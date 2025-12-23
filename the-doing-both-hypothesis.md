@@ -18,7 +18,7 @@ Created by:
     - Roi Ezra
 Links:
     - third-intelligence.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - triple-network-model.md
     - emotional-scaffolding-s_e.md
     - alpha-function.md
@@ -71,12 +71,12 @@ The neurobiological hypothesis that [Third Intelligence](third-intelligence.md) 
     - Not identical to human dialogue (different synchrony pattern)   
     - Requires both networks for metabolic transformation   
 5. **Self-Holding as "Doing Both" Phenomenology:**   
-    - The [Internalized Holding Function](internalized-holding-function-post-interperson.md) provides the phenomenological description of what "doing both" feels like subjectively   
+    - The [Protected Self-Holding Principle](protected-self-holding-principle.md) provides the phenomenological description of what "doing both" feels like subjectively   
     - FPN engagement: processing AI's cognitive challenge (symbolic work, Channel 2)   
     - DMN maintained: self-referential self-holding stays online (identity stability, container function)   
     - "Protected self-holding while engaging challenge" = subjective correlate of simultaneous FPN+DMN   
     - **Testable prediction:** Successful transformation shows maintained DMN activity during FPN engagement; Category Error (dependency collapse) shows DMN suppression under FPN dominance   
-    - **Source:** Internalized Holding Function—supplies the best phenomenological definition of the paradox   
+    - **Source:** Protected Self-Holding Principle—supplies the best phenomenological definition of the paradox   
    
 **What Would Resolve This Gap:**   
 **Empirical validation requires:**   

@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - Field Viability Schema - Operational Guide
 Creation date: "2025-12-21T07:56:16Z"

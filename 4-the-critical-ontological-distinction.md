@@ -22,7 +22,8 @@ Links:
     - channel-1-embodied-sensorimotor-pathway.md
     - journal.md
     - c-capacity.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
+    - category-error.md
     - d-w-winnicott.md
 id: bafyreihsyfnfslwkyop2zpzzzk7humfo7xr7olipctvway34ousy2esx5y
 ---
@@ -55,7 +56,7 @@ id: bafyreihsyfnfslwkyop2zpzzzk7humfo7xr7olipctvway34ousy2esx5y
 - Owns the transformation and [Capacity](c-capacity.md) growth (C)   
    
 This boundary preserves the integrity of both theories and prevents category confusion.   
-**THE INTERNALIZED HOLDING FUNCTION: Post-Internalization Facilitation (**[Internalized Holding Function](internalized-holding-function-post-interperson.md)**)**   
+**[Protected Self-Holding Principle](protected-self-holding-principle.md): Post-Internalization Facilitation**   
 ### The classical Winnicottian model   
 - Mother/analyst provides holding environment (external source)   
 - The holding function is internalized over time (developmental achievement)   
@@ -63,11 +64,11 @@ This boundary preserves the integrity of both theories and prevents category con
 - This requires real human emotional availability   
    
 ### The shift in AI-mediated context   
-**Because AI has no inner world, it cannot provide holding.** The Third Intelligence operates in a **post-internalization** context: the human’s already-internalized holding function is **activated and protected** by a structurally non-demanding, non-intrusive dialogic field. In other words, AI facilitates **by subtraction** (reducing relational pressures that disrupt self-holding), not by supplying emotional containment.   
+**Because AI has no inner world, it cannot provide holding.** The Third Intelligence operates in a **post-internalization** context: the human’s Protected Self-Holding Principle is **activated and protected** by a structurally non-demanding, non-intrusive dialogic field. In other words, AI facilitates **by subtraction** (reducing relational pressures that disrupt self-holding), not by supplying emotional containment.   
 What supports self-holding in this system:   
 - Human’s **Container function** (internalized holding capacity)   
-- [DTO](dynamic-transitional-object-dto.md) positioning + Category Error prevention (ontological clarity)   
-- Iron Man Mentality (metacognitive monitoring + regulation protecting authorship)   
+- [DTO](dynamic-transitional-object-dto.md) positioning + [Category Error](category-error.md) prevention (ontological clarity)   
+- [Iron Man Mentality](iron-man-mentality.md) (metacognitive monitoring + regulation protecting authorship)   
 - Journal as continuity + externalization substrate (supporting self-holding over time)   
    
 **Conceptual reframe (functional, not literal):**   

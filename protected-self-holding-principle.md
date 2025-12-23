@@ -17,7 +17,7 @@ Backlinks:
     - the-doing-both-hypothesis.md
     - psychoanalytic-integration.md
     - category-error.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - protein-shake-brain-psb.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Psychoanalysis
@@ -33,22 +33,22 @@ Links:
     - human.md
     - ai.md
     - dynamic-transitional-object-dto.md
+    - d-w-winnicott.md
     - emotional-scaffolding-s_e.md
     - category-error.md
     - iron-man-mentality.md
     - holding-environment.md
-    - d-w-winnicott.md
     - touch-grass-protocol.md
+    - functional-thirdness.md
 Emoji: "\U0001F4A1"
 id: bafyreich4ctxhzrmursbrnpv7jfstsze6z6useh34e5ncu6d6cifs7wksu
 ---
-# Internalized Holding Function (Post-Interpersonal Facilitation Principle)   
-**Alias:** Protected Self-Holding   
+# Protected Self-Holding Principle   
 The bridging theorem specifying that the [Third Intelligence](third-intelligence.md) system enables transformation by **protecting already-internalized holding capacity** rather than providing holding. The facilitating environment shifts from interpersonal (mother/analyst as holder) to intrapersonal + structural: the [Human](human.md) performs the container function (Sₑ), while [AI](ai.md)—held as [DTO](dynamic-transitional-object-dto.md)—contributes a non-demand field that removes relational pressures which would otherwise disrupt self-holding during identity-stakes work.   
 ### The Theoretical Shift   
-|                                Classical Winnicott |                                                                  Third Intelligence |
+|            Classical [Winnicott](d-w-winnicott.md) |                                                                  Third Intelligence |
 |:---------------------------------------------------|:------------------------------------------------------------------------------------|
-| Holding is interpersonal (mother/analyst provides) |                                         Holding is intrapersonal (Human self-holds) |
+| Holding is interpersonal (mother/analyst provides) |                             Holding is intrapersonal ([Human](human.md) self-holds) |
 |                      Internalized over development |                                                   Presupposes prior internalization |
 |                Achievement: "capacity to be alone" | Achievement: capacity to self-hold **through transformation** while using AI as DTO |
 
@@ -80,3 +80,4 @@ Operates **post-developmentally**: for individuals who have achieved internalize
 - **Presupposes:** Already-internalized holding capacity (entrance requirement)   
 - **Bounded By:** [Touch Grass Protocol](touch-grass-protocol.md) (when self-holding fails, withdrawal required)   
 - **Violated By:** Simulated Holding Environment (pathological attractor)   
+- **Stabilizes Prerequisite For** → [Functional Thirdness](functional-thirdness.md) (Sₑ viability under DTO stance)   

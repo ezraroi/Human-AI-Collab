@@ -11,13 +11,12 @@ Backlinks:
     - reverie.md
     - section-9-container-as-function-authorization.md
     - 4-the-system-architecture-v2-0.md
-    - executive-summary.md
+    - executive-summary_h.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
     - hpa-axis.md
     - 9-final-integration-principles.md
     - 7-what-each-framework-gains-from-integration.md
-    - third-intelligence.md
     - field-viability-schema.md
     - neuroscience-of-transformation.md
     - emotional-scaffolding-s_e.md
