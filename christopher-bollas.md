@@ -12,11 +12,10 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - 3-implications-for-positioning.md
     - transmissive-self.md
-    - dynamic-transitional-object-dto.md
     - psychoanalytic-integration.md
     - protein-shake-brain-psb.md
     - 2-the-unbundled-rationale-architecture.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md

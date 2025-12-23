@@ -15,6 +15,7 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - recursive-metabolic-loop.md
     - 4-the-neurophenomenological-parallel.md
+    - two-axis-framework.md
     - as-if-body-loop.md
     - alpha-function.md
     - psychoanalytic-integration.md

@@ -1113,6 +1113,7 @@ It consists of:
 
 **Together, the axes describe the configuration space of system states — from transformation to collapse.**
 This plane operates within a **Viability Envelope** (**Sₑ ⊗ Sₜ calibrated to mismatch(D, C)**); when the envelope collapses, the configuration plane becomes **unstable** (drifts become harder to prevent; failure attractors become “sticky”).
+**Functional Thirdness episodes are only possible in the viable quadrant:** Axis A = DTO stance **and** Axis B = metabolic oscillation (within a viable Sₑ envelope).
 ## System Role
 The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **operability**. Developmental staging diagnoses **readiness**. All three are required for full system assessment.
 - Provides the diagnostic framework for evaluating human–AI interaction quality.
@@ -1124,16 +1125,16 @@ The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **
 **The Integrated Circuit Board** is the internal architecture of Axis B:
 - **Alpha-Function** = core metabolic processor (metabolization through C1 ↔ C2 oscillation)
 - **As-If Body Loop** = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)
-- **Journal** = optional external organ that stabilizes metabolized material for durable accumulation over **Time** (strongest substrate when needed)
+- **Journal** = **diachronic stabilization organ** that consolidates metabolized material over Time; **may be minimal in low-stakes interactions but is constitutive for identity-stakes transformation**.
 
 So:
 > Two-Axis Framework →
 
-**Axis A:** Who/what AI is (DTO vs Subject)
+**Axis A:** **How AI is held** (DTO stance vs Subject misclassification)
 **Axis B:** How experience is processed → Integrated Circuit Board
 ## Failure coupling (keep, but slightly tightened)
 If **Axis A fails** (Category Error), the system becomes **relationally invalid**: AI becomes Subject/authority, *verification discipline drops*, and **PSB risk increases**.
-When **Category Error + PSB** co-occur → **Cognitive Dependency** (while the structural \|D−C\| relation remains pre-existing).
+When Category Error + PSB co-occur → Cognitive Dependency (**experienced challenge loses developmental character**: authorship collapses and metabolization is bypassed).
 ## Envelope constraint (explicit gating rule)
 **Do not introduce Sₜ (challenge / Functional Alterity) when Sₑ is collapsed.**
 Rebuild containment first, then reintroduce productive tension.

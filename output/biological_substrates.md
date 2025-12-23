@@ -98,7 +98,7 @@ The fast-acting physiological regulation system that governs arousal and recover
 - **Touch Grass Protocol efficacy:** should correlate with restoration of regulation markers (recovery architecture).
 
 **Relations (wiring)**
-- **Supports:** Self-Holding Function; Sₑ (Emotional Scaffolding); Field Viability Schema
+- **Supports:** Protected Self-Holding Principle; Sₑ (Emotional Scaffolding); Field Viability Schema
 - **Interacts with:** HPA-Axis (slower stress axis); Felt Sense (interoceptive channel)
 - **Boundary conditions for:** Touch Grass Protocol; Category Error / dependency collapse states
 - **Operationalizes:** “Protected self-holding” vs “collapse” as measurable physiology (triangulation required)

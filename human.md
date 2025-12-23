@@ -24,13 +24,13 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_h.md
     - cognitive-style-bias.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
-    - internalized-holding-function-post-interperson.md
-    - executive-summary_6.md
+    - protected-self-holding-principle.md
+    - executive-summary_w.md
     - selected-fact.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -66,9 +66,9 @@ Backlinks:
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary.md
+    - 1-executive-summary_m.md
     - 3-the-mechanism-catalytic-externalization.md
+    - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md
     - 11-what-youve-actually-discovered-meta-level.md

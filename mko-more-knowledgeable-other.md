@@ -14,6 +14,7 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
+    - dynamic-transitional-object-dto.md
     - technical-scaffolding-s_t.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - 1-what-this-review-established.md

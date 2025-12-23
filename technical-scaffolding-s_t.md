@@ -47,7 +47,6 @@ Backlinks:
     - section-6-journal-function-refinement.md
     - 5-worked-diagnostic-examples.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - functional-alterity.md
     - zpd.md
     - 4-the-critical-ontological-distinction.md
     - section-9-pathology-explained-protein-shake-br.md

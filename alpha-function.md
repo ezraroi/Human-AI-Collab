@@ -39,7 +39,7 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary.md
+    - executive-summary_h.md
     - self-explanation.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -83,6 +83,7 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - 4-the-neurophenomenological-parallel.md
+    - two-axis-framework.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
@@ -96,6 +97,7 @@ Backlinks:
     - felt-sense.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
+    - 1-introduction-why-functional-alterity-is-nece.md
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
@@ -111,11 +113,10 @@ Backlinks:
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - 1-executive-summary_m.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
-    - functional-thirdness.md
     - psychoanalytic-prerequisites.md
     - section-3-causal-sequence-placement.md
     - internally-persuasive-discourse.md

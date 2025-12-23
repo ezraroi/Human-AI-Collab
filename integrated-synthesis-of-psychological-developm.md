@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - Integrated Synthesis of Psychological Development Mechanisms
 Creation date: "2025-11-22T13:41:41Z"

@@ -28,12 +28,13 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - 15-is-your-model-suggesting-something-new.md
+    - dynamic-transitional-object-dto.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
     - 2-the-unbundled-rationale-architecture.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - section-13-significance-and-forward-direction.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md

@@ -10,7 +10,6 @@ Tag:
     - 'System Role: Output'
 Backlinks:
     - authoritative-discourse.md
-    - selected-fact.md
     - section-3-foundational-theoretical-integration.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - felt-sense.md

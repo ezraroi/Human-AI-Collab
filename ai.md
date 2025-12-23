@@ -33,7 +33,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_h.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - llm-embedding.md
@@ -41,8 +41,8 @@ Backlinks:
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
-    - internalized-holding-function-post-interperson.md
-    - executive-summary_6.md
+    - protected-self-holding-principle.md
+    - executive-summary_w.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -85,9 +85,10 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - 1-executive-summary_m.md
     - 3-the-mechanism-catalytic-externalization.md
+    - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md

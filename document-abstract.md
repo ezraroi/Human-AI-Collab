@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - 'The Architecture of the Mind: A Synthesis of Piaget and Vygotsky'
 Creation date: "2025-11-22T14:30:51Z"

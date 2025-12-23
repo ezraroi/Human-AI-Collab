@@ -14,8 +14,9 @@ Backlinks:
     - the-container.md
     - ai.md
     - third-intelligence.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - functional-thirdness.md
+    - functional-alterity.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

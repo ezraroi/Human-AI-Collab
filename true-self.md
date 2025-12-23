@@ -23,7 +23,7 @@ Backlinks:
     - c-capacity.md
     - potential-space.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - internally-persuasive-discourse.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

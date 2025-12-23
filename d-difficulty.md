@@ -21,7 +21,6 @@ Backlinks:
     - field-viability-schema.md
     - c-capacity.md
     - 5-worked-diagnostic-examples.md
-    - functional-alterity.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

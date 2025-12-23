@@ -18,7 +18,6 @@ Backlinks:
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - category-error.md
-    - functional-thirdness.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -32,12 +31,14 @@ Links:
     - alpha-function.md
     - challenge-gap-d-c.md
     - transmissive-self.md
+    - two-axis-framework.md
+    - functional-thirdness.md
 Emoji: "\U0001F4A1"
 id: bafyreieso2r5hzjovo6dugzw754wggjdsqjym42at7y52rss3a7unqerr4
 ---
 # Cognitive Dependency   
 Cognitive Dependency is the **system-level collapse** that occurs when both axes of the Third Intelligence fail simultaneously.   
-It emerges when the user **misclassifies the AI as a Subject** ([Category Error](category-error.md)) *and* bypasses embodied metabolic processing ([PSB](protein-shake-brain-psb.md)), resulting in the **atrophy of the [Alpha-Function](alpha-function.md)**.   
+It emerges when the user **misclassifies the AI as a Subject** ([Category Error](category-error.md)) *and* bypasses embodied metabolic processing ([PSB](protein-shake-brain-psb.md)), resulting in the under-engagement** of the [Alpha-Function](alpha-function.md)**.   
 ### System Role   
 - Represents the **combined pathology** of relational collapse + metabolic collapse.   
 - Describes the state where the user outsources both **validation** (emotional) and **cognition** (processing) to the AI.   
@@ -47,9 +48,10 @@ It emerges when the user **misclassifies the AI as a Subject** ([Category Error]
 ### Wiring (Relations)   
 - **Composed of:**   
     - Category Error   
-    - Protein Shake Brain (PSB)   
+    - Protein Shake Brain ([PSB](protein-shake-brain-psb.md))   
 - **Results In:** [Transmissive Self](transmissive-self.md)   
-- **Mapped By:** Two-Axis Framework   
+- **Mapped By:** [Two-Axis Framework](two-axis-framework.md)   
+- **Often Preceded By** → [Functional Thirdness](functional-thirdness.md) collapse   
    
 **Notes:** Axis A + Axis B failure at the same time.   
    

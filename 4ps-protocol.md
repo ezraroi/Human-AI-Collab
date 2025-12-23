@@ -21,6 +21,7 @@ Backlinks:
     - 10-the-integrated-claim.md
     - 7-what-each-framework-gains-from-integration.md
     - 3-the-13-stage-development-sequence.md
+    - protein-shake-brain-psb.md
     - internally-persuasive-discourse.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:

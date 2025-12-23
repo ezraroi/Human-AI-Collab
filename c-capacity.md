@@ -50,7 +50,6 @@ Backlinks:
     - internally-persuasive-discourse.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 5-worked-diagnostic-examples.md
-    - functional-alterity.md
     - 4-the-critical-ontological-distinction.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

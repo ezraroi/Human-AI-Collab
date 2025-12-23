@@ -16,11 +16,12 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - section-10-open-edges-to-bridge-later.md
     - authoritative-discourse.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - 2-the-divided-labors-of-two-theories.md
     - cognitive-offloading.md
     - judgment-expertise-boundary.md
     - 7-what-each-framework-gains-from-integration.md
+    - dynamic-transitional-object-dto.md
     - 3-the-13-stage-development-sequence.md
     - recursive-pattern-verification-loop.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
@@ -49,7 +50,7 @@ Links:
     - touch-grass-protocol.md
     - felt-sense.md
     - as-if-body-loop.md
-    - internalized-holding-function-post-interperson.md
+    - protected-self-holding-principle.md
     - recursive-pattern-verification-loop.md
     - enacted-alpha-work-eaw.md
     - cognitive-offloading.md
@@ -129,7 +130,7 @@ IMM tracks expert decision patterns:
    
 PSB fails by violating these patterns (certainty-seeking, exhaustive comparison, bypassing embodied verification).   
 ## Relations (Wiring)   
-- **[Internalized Holding Function](internalized-holding-function-post-interperson.md) — Operationalizes**
+- **[Protected Self-Holding Principle](protected-self-holding-principle.md)** **— Operationalizes**
 IMM is the method-level discipline that maintains the human's self-holding function and DTO stance under pressure.   
 - **[Reflective Prompting](reflective-prompting.md) — Governs**
 Provides the stance required for RP to operate as metabolic development rather than productivity technique.   

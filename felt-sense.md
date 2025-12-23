@@ -22,7 +22,7 @@ Backlinks:
     - salience-network-core-aic-dacc.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary.md
+    - executive-summary_h.md
     - iron-man-mentality.md
     - human.md
     - eugene-gendlin.md
@@ -46,7 +46,6 @@ Backlinks:
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
     - emotional-scaffolding-s_e.md
     - negative-capability.md

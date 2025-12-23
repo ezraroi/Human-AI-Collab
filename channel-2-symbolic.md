@@ -36,7 +36,6 @@ Backlinks:
     - 15-is-your-model-suggesting-something-new.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
-    - dynamic-transitional-object-dto.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - 3-the-13-stage-development-sequence.md
@@ -48,9 +47,8 @@ Backlinks:
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - 3-critical-connection-1-the-two-channel-model-.md
-    - functional-thirdness.md
     - internally-persuasive-discourse.md
     - embodied-cognition.md
     - 11-what-youve-actually-discovered-meta-level.md

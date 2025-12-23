@@ -36,6 +36,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - dynamic-transitional-object-dto.md
     - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
@@ -44,8 +45,8 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
+    - 1-introduction-why-functional-alterity-is-nece.md
     - c-capacity.md
-    - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
@@ -61,7 +62,7 @@ Backlinks:
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Evergreen
+Research Status: Drafting
 Creation date: "2025-12-06T13:52:55Z"
 Created by:
     - Roi Ezra

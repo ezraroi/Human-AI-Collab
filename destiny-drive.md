@@ -25,7 +25,7 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - psychoanalytic-integration.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - psychoanalytic-prerequisites.md
     - internally-persuasive-discourse.md
     - the-unified-architecture.md

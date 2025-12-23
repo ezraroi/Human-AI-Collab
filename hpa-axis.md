@@ -8,15 +8,15 @@ Tag:
 Backlinks:
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary.md
+    - executive-summary_h.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - human.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
     - 3-the-discriminator-framework.md
-    - 1-purpose-and-scope_u.md
+    - 1-purpose-and-scope.md
     - protein-shake-brain-psb.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - the-recursive-third-intelligence-system-archit.md

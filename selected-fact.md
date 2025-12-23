@@ -38,90 +38,88 @@ Links:
     - third-intelligence.md
     - beta-elements.md
     - alpha-function.md
-    - ai.md
+    - functional-thirdness.md
     - functional-alterity.md
     - human.md
-    - negative-capability.md
-    - functional-thirdness.md
-    - bafyreibrrmzr35qswwrjwth6r4v36zfqbsjohccphvaeu7sxspfql7euxi
-    - journal.md
     - time.md
-    - protein-shake-brain-psb.md
-    - internally-persuasive-discourse.md
+    - ai.md
+    - journal.md
 Emoji: "\U0001F4A1"
 id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 ---
 # Selected Fact   
-A Selected Fact ([Bion](wilfred-bion.md); adapted from Poincaré) is an **event of organizing coherence**: a discontinuous moment in which previously scattered, contradictory, or chaotic material becomes unified by a single configuration that makes the whole suddenly intelligible and usable.   
-**Event-type, not content-type:** it is not "a statement," "an interpretation," or "a good explanation" that can be owned by whoever phrased it. It is the emergence of a unifying organization that becomes real only through **human integration**.   
+A Selected Fact ([Bion](wilfred-bion.md); adapted from Poincaré) is an event of organizing coherence: a discontinuous moment in which previously scattered, contradictory, or chaotic material becomes unified by a single configuration that makes the whole suddenly intelligible and usable.   
+Event-type, not content-type: it is not "a statement," "an interpretation," or "a good explanation" that can be owned by whoever phrased it. It is the emergence of a unifying organization that becomes real only through human integration.   
 ### Distinctions (What SF Is NOT)   
-- **Not interpretation:** interpretations may help conditions, but SF is the organizing coherence that makes interpretation possible.   
-- **Not explanation:** an explanation can be rhetorically strong without reorganizing the underlying material.   
-- **Not narrative closure:** "feels complete" can be defensive; SF remains open to probationary validation.   
-- **Not verbal fluency / "pretty coherence":** elegance is neither necessary nor sufficient.   
+- Not interpretation: interpretations may help conditions, but SF is the organizing coherence that makes interpretation possible.   
+- Not explanation: an explanation can be rhetorically strong without reorganizing the underlying material.   
+- Not narrative closure: "feels complete" can be defensive; SF remains open to probationary validation.   
+- Not verbal fluency / "pretty coherence": elegance is neither necessary nor sufficient.   
    
 ### System Role   
 Selected Fact is the organizing event that precipitates coherence: the catalytic discovery through which previously scattered [alpha-elements](alpha-elements.md) become unified into a stable configuration. It is the essential emotional experience that triggers the transition from fragmented material (PS position) into usable knowing (D position) inside the [Third Intelligence](third-intelligence.md) system.   
-**Causal placement:**   
-[beta-elements](beta-elements.md) → conditions for digestion (containment + tolerable not-knowing) → [alpha-function](alpha-function.md) activity → [alpha-elements](alpha-elements.md) → **Selected Fact** → coherent knowing / interpretation (K)   
+Causal placement:
+[beta-elements](beta-elements.md) → conditions for digestion (containment + tolerable not-knowing) → [alpha-function](alpha-function.md) activity → alpha-elements → Selected Fact → coherent knowing / interpretation (K)   
 ### Attribution Logic   
-- **Field authorship:** SF may emerge from the interactional field; [AI](ai.md) can contribute here via [functional alterity](functional-alterity.md) + candidate linkages + symbolic structure.   
-- **Operational ownership:** SF belongs to the [Human](human.md) only when it becomes **metabolically real**: embodied uptake + capacity shift + diachronic persistence.   
+- Field authorship: SF may emerge from the interactional field; AI can contribute here via structured constraint (functional alterity + systematic competence) plus candidate linkages and symbolic structure—while meaning remains metabolized by the Human.   
+- Operational ownership: SF belongs to the Human only when it becomes metabolically real: embodied uptake + capacity shift + diachronic persistence.   
    
-**Attribution rule:** ownership is conferred by **integration over time**, not by who "said the sentence."   
+Attribution rule: ownership is conferred by integration over time, not by who "said the sentence."   
 ### Temporal Architecture (Why Time Is Constitutive)   
-- **Pre-SF ("dark laboring"):** incubation + repeated engagement until material becomes metabolizable.   
-- **SF event ("the click"):** subjective felt coherence appears (candidate, not proof).   
-- **Post-SF (in-futuro validation):** SF is **adopted on probation** and upgraded only if it persists, deepens, and changes constraints at T+n.   
+- Pre-SF ("dark laboring"): incubation + repeated engagement until material becomes metabolizable.   
+- SF event ("the click"): subjective felt coherence appears (candidate, not proof).   
+- Post-SF (in-futuro validation): SF is adopted on probation and upgraded only if it persists, deepens, and changes constraints at T+n.   
    
 ### Prerequisite Capacities (Boundary Condition)   
 SF formation requires already-internalized developmental achievements:   
-- **Working [alpha-function](alpha-function.md) capacity:** ability to transform raw experience into thinkable form   
-- **Internalized containment:** ability to hold frustration and ambiguity without immediate discharge   
-- **Frustration tolerance / negative capability:** capacity to remain in not-knowing long enough for organization to emerge   
+- Working alpha-function capacity: ability to transform raw experience into thinkable form   
+- Internalized containment: ability to hold frustration and ambiguity without immediate discharge   
+- Frustration tolerance / negative capability: capacity to remain in not-knowing long enough for organization to emerge   
    
-**Scope:** Post-Winnicottian activation, not remedial therapy. The system activates already-internalized functions.   
+Scope: Post-Winnicottian activation, not remedial therapy. The system activates already-internalized functions.   
 ### Observable Markers   
-**Candidate → Confirmed SF requires:**   
+Candidate → Confirmed SF requires:   
 - Affective resonance + felt shift (not only cognition)   
 - Increased actionability / new capacity (not just insight claims)   
 - Persistence across return (doesn't collapse on reread)   
 - Deepening (opens integration rather than closing inquiry)   
    
-**Counterfeit coherence tends toward:**   
+Counterfeit coherence tends toward:   
 - Narrative closure   
 - Intellectualization / fluent linkage without affective reality   
 - Overvalued certainty / premature meaning   
    
 ### Wiring (Relations)   
-**Originator:** [Wilfred Bion](wilfred-bion.md) (via Henri Poincaré)   
+**Originator:** Wilfred Bion (via Henri Poincaré)   
 **Causal Relations:**   
-- **Organizes:** beta-elements; alpha-elements   
-- **Downstream Of:** [alpha-function](alpha-function.md); Containment; Tolerable Not-Knowing / [Negative Capability](negative-capability.md)   
-- **Upstream Of:** Coherent Knowing (K); Interpretation   
+- Organizes → beta-elements; alpha-elements   
+- Downstream Of → alpha-function; Containment; Tolerable Not-Knowing / Negative Capability   
+- Upstream Of → Coherent Knowing (K); Interpretation   
    
 **System Relations:**   
-- **May Emerge Within:** [Functional Thirdness](functional-thirdness.md) (system-structural "field," not ontological intersubjectivity)   
-- **Precipitated By:** Functional Alterity (AI); [Catalytic Externalization](bafyreibrrmzr35qswwrjwth6r4v36zfqbsjohccphvaeu.md); [Journal](journal.md) (cross-temporal corpus)   
-- **Owned By:** [Human](human.md) (metabolic integration only)   
-- **Validated Through:** [Time](time.md) (in-futuro probation); [Journal](journal.md) (return + probation tracking)   
+- May Emerge During → [Functional Thirdness](functional-thirdness.md) episodes (interaction-level dialogical space; not ontological intersubjectivity)   
+- Likelihood Increased By → Functional Thirdness episodes   
+- Precipitated By → [Functional Alterity](functional-alterity.md) (AI); Catalytic Externalization; Journal (cross-temporal corpus)   
+- Owned By → [Human](human.md) (metabolic integration only)   
+- Validated Through → [Time](time.md) (in-futuro probation); Journal (return + probation tracking)   
    
 **Four-Component Mapping:**   
-- **Human:** site of alpha-function; operational owner through embodiment   
-- **AI:** precipitates conditions (candidate linkages, alterity); cannot own   
-- **Journal:** cross-temporal pattern substrate; probation tracker; counterfeit detector   
-- **Time:** constitutive validation medium (not optional backdrop)   
+- Human: site of alpha-function; operational owner through embodiment   
+- [AI](ai.md): precipitates conditions (candidate linkages, alterity); cannot own   
+- [Journal](journal.md): cross-temporal pattern substrate; probation tracker; counterfeit detector   
+- Time: constitutive validation medium (not optional backdrop)   
    
 **Authorization:**   
-- **Container-as-Function:** containment can operate as internalized apparatus; AI contributes structure, not reverie   
+- Container-as-Function: containment can operate as internalized apparatus; AI contributes structure, not reverie   
    
 **Failure Modes / Mimics:**   
-- Narrative Closure; Intellectualization; Overvalued Idea; [PSB](protein-shake-brain-psb.md) patterns; −K (knowledge-attacking)   
+- Narrative Closure; Intellectualization; Overvalued Idea; PSB patterns; −K (knowledge-attacking)   
    
-**Dialogical Frame:**[ Internally Persuasive Discourse](internally-persuasive-discourse.md)   
+**Dialogical Frame:** Internally Persuasive Discourse   
 - Selected Fact often marks the moment discourse becomes Internally Persuasive   
 - The SF experience is the punctual event; IPD is the resulting stable state   
 - SF is Bionian vocabulary; IPD is Bakhtinian vocabulary for overlapping phenomena   
    
-**Notes:** SF is the theory-anchor for distinguishing **genuine organizing transformation** from "pretty coherence." AI can precipitate conditions; the Human retains ownership through embodied integration and temporal validation.   
-   
+### Notes   
+SF is the theory-anchor for distinguishing genuine organizing transformation from "pretty coherence." AI can precipitate conditions; the Human retains ownership through embodied integration and temporal validation.   
+SF can also emerge outside FT episodes (e.g., offline metabolization during journaling or lived experience); FT primarily increases the likelihood that SF crystallizes during live exchange.   
