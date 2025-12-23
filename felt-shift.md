@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - 5-measurement-program-menu.md
+    - authoritative-discourse.md
     - 3-the-discriminator-framework.md
     - reward-reinforcement-circuitry.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -18,7 +19,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - internally-persuasive-discourse.md
     - mikhail-bakhtin.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary_q.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

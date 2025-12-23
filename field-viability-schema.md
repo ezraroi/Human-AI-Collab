@@ -7,13 +7,15 @@ Tag:
     - 'System Role: Meta'
     - 'Temporal: Static'
     - 'Operational Flags: Core'
+    - DRAFTING
 Backlinks:
     - kurt-lewin.md
     - developmental-sequence.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction.md
+    - 3-the-mechanism-vs-existence-distinction_c.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - section-1-introduction-and-framework-positioning.md
+    - digital-neurophenomenology.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
     - 1-purpose-and-scope.md
@@ -47,13 +49,6 @@ Links:
     - d-difficulty.md
     - zpd.md
     - protein-shake-brain-psb.md
-    - category-error.md
-    - human.md
-    - ai.md
-    - journal.md
-    - time.md
-    - alpha-elements.md
-    - c-capacity.md
     - two-axis-framework.md
     - functional-alterity.md
     - alpha-function.md
@@ -105,15 +100,22 @@ Experienced mismatch must remain within a workable range—neither bypassed nor 
 - Optimal → ZPD (tension exists but remains containable)   
    
 ### Architectural Position   
-The schema sits at Level 2 of a four-level hierarchy:   
-| Level |                        Name |                                                                                                                                                                       Function |
-|:------|:----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | Relational Posture (Axioms) | Determines field interpretability; **[Category Error](category-error.md) is an axiom violation that distorts perceived S\_e/S\_t and corrupts verification (false viability)** |
-| **2** |  **Field Viability Schema** |                                                                                                                               **Describes conditions for process to function** |
-|     3 |           Recursive Process |                                                                         [Human](human.md) + [AI](ai.md) + [Journal](journal.md) + [Time](time.md); where metabolization occurs |
-|     4 |                Accumulation |                                                              [Journal](journal.md) materializes [alpha-elements](alpha-elements.md); [Capacity](c-capacity.md) grows over time |
-
-**Key distinction:** The schema describes *conditions*; it does not contain Journal or Time because they operate at the Process (Level 3) and Accumulation (Level 4) levels.   
+The Field Viability Schema describes **conditions**, not mechanisms or outcomes.   
+**Dependency structure:**   
+- **Presupposes:** Correct relational stance (Two-Axis Axis A). If Category Error is present, the schema becomes uninterpretable—perceived Sₑ/Sₜ inflate artificially, creating false viability.   
+- **Enables:** Metabolic processing (Alpha-Function operating within the ICB). When field viability holds, processing can occur.   
+- **Does not contain:** Journal or Time—these operate at the accumulation level (between-session), while the schema describes ongoing conditions.   
+   
+**Temporal scope:** Continuous. Field viability must be sustained throughout processing, not merely checked at a single point.   
+**Relationship to Two-Axis Framework:**
+The Field Viability Schema functions as the **Viability Envelope** within which the Two-Axis configuration plane operates.   
+- **Viable:** Configuration plane is operative; stance can be maintained   
+- **Marginal:** Configuration unstable; drift toward failure modes likely   
+- **Non-viable:** Configuration collapses regardless of intention   
+   
+The [Two-Axis Framework](two-axis-framework.md) diagnoses **configuration**.
+The Field Viability Schema diagnoses **operability**.   
+For full temporal dynamics mapping, see Section 7: Temporal Dynamics Across the Architecture.   
 ### Relationship to [Two-Axis Framework](two-axis-framework.md) (Viability Envelope)   
 The Field Viability Schema functions as the **Viability Envelope**
 within which the Two-Axis configuration plane operates.   

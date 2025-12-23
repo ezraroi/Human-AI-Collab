@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - digital-neurophenomenology.md
     - the-integrated-circuit-board.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - section-6-journal-function-refinement.md

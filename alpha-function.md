@@ -41,7 +41,6 @@ Backlinks:
     - holding-environment.md
     - executive-summary.md
     - self-explanation.md
-    - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - iron-man-mentality.md
@@ -69,6 +68,7 @@ Backlinks:
     - 9-final-integration-principles.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
+    - section-7-temporal-dynamics-across-the-archite.md
     - gap-filling-inference-generation.md
     - 10-the-integrated-claim.md
     - transmissive-self.md
@@ -82,9 +82,11 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
+    - 4-the-neurophenomenological-parallel.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
+    - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
@@ -116,9 +118,11 @@ Backlinks:
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
     - section-3-causal-sequence-placement.md
+    - internally-persuasive-discourse.md
     - emotional-scaffolding-s_e.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
+    - embodied-cognition.md
     - 11-what-youve-actually-discovered-meta-level.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
@@ -126,7 +130,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary_q.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
@@ -206,6 +210,6 @@ Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha
 - **Requires:** As-If Body Loop for **[C1 ](channel-1-embodied-sensorimotor-pathway.md)↔ C2 coupling** capability; sufficient **Sₑ** for frustration tolerance   
 - **Counteracted By:** [PSB](protein-shake-brain-psb.md) (when Alpha-Function is bypassed)   
 - **Constrained By:** Axis A ([Category Error](category-error.md) increases vulnerability and PSB risk by making the relational stance invalid)   
-- **Feeds:** [Recursive Metabolic Loop](recursive-metabolic-loop.md)   
+- **Enables:** [Recursive Metabolic Loop](recursive-metabolic-loop.md) (crystallization enables materialization and re-entry   
    
    

@@ -545,7 +545,7 @@ S\_e is your contribution: the operationalization of Winnicott/Bion concepts int
 ---
 
 ## [RESEARCH COMPONENT] Field Viability Schema
-[Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core
+[Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core, DRAFTING
 
 A relational schema describing the ongoing field conditions that must continuously hold for the recursive transformative process to remain metabolically possible.
 **Notation:**
@@ -581,15 +581,22 @@ Experienced mismatch must remain within a workable range—neither bypassed nor 
 - Optimal → ZPD (tension exists but remains containable)
 
 ### Architectural Position
-The schema sits at Level 2 of a four-level hierarchy:
-| Level |                        Name |                                                                                                                                                                       Function |
-|:------|:----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | Relational Posture (Axioms) | Determines field interpretability; **Category Error is an axiom violation that distorts perceived S\_e/S\_t and corrupts verification (false viability)** |
-| **2** |  **Field Viability Schema** |                                                                                                                               **Describes conditions for process to function** |
-|     3 |           Recursive Process |                                                                         Human + AI + Journal + Time; where metabolization occurs |
-|     4 |                Accumulation |                                                              Journal materializes alpha-elements; Capacity grows over time |
+The Field Viability Schema describes **conditions**, not mechanisms or outcomes.
+**Dependency structure:**
+- **Presupposes:** Correct relational stance (Two-Axis Axis A). If Category Error is present, the schema becomes uninterpretable—perceived Sₑ/Sₜ inflate artificially, creating false viability.
+- **Enables:** Metabolic processing (Alpha-Function operating within the ICB). When field viability holds, processing can occur.
+- **Does not contain:** Journal or Time—these operate at the accumulation level (between-session), while the schema describes ongoing conditions.
 
-**Key distinction:** The schema describes *conditions*; it does not contain Journal or Time because they operate at the Process (Level 3) and Accumulation (Level 4) levels.
+**Temporal scope:** Continuous. Field viability must be sustained throughout processing, not merely checked at a single point.
+**Relationship to Two-Axis Framework:**
+The Field Viability Schema functions as the **Viability Envelope** within which the Two-Axis configuration plane operates.
+- **Viable:** Configuration plane is operative; stance can be maintained
+- **Marginal:** Configuration unstable; drift toward failure modes likely
+- **Non-viable:** Configuration collapses regardless of intention
+
+The Two-Axis Framework diagnoses **configuration**.
+The Field Viability Schema diagnoses **operability**.
+For full temporal dynamics mapping, see Section 7: Temporal Dynamics Across the Architecture.
 ### Relationship to Two-Axis Framework (Viability Envelope)
 The Field Viability Schema functions as the **Viability Envelope**
 within which the Two-Axis configuration plane operates.
@@ -1024,11 +1031,11 @@ If the model were fake, removing safety would do nothing. Because removing safet
 Time is the fourth non-negotiable component of the Human + Journal + AI + Time tetrad. Time is the dimensional medium that makes transformation cumulative and sustainable rather than merely productive. It operates as the temporal scaffold that distinguishes single-session viability from multi-session developmental trajectory.
 ### Unique System Function
 Time provides what no other component can:
-1.Temporal medium that enables cumulative momentum (Flywheel Effect)
+1.Temporal medium that enables cumulative momentum (Coherence Flywheel Effect)
 - Iteration builds on previous iteration
 - C (Capacity) compounds across sessions
 - Small consistent actions → reinforcing momentum
-- Transformation trajectory emerges from repeated cycles (not from a single session)
+- Transformation trajectory emerges from repeated Recursive Metabolic Loop cycles that complete (crystallization → materialization → re-entry), not from a single session.
 
 2. Recovery Architecture (Spacing)
 - Enables Emotional Scaffolding replenishment between sessions
@@ -1044,7 +1051,7 @@ Time provides what no other component can:
 
 4. Transformation vs. Productivity Distinction
 - A single session can be productive (answer obtained) and may contribute to transformation, but it does not constitute trajectory by itself
-- Transformation requires repeated iterations over time in which C changes and stabilizes
+- Transformation requires repeated cycles over time in which integration completes (crystallization → materialization → re-entry) and C changes and stabilizes.
 - Field Viability diagnoses whether an iteration is metabolically possible; Time enables the compounding of iterations into development
 
 ### Critical Boundary Condition (Manic Episode)
@@ -1073,8 +1080,8 @@ Cumulative (Months–Years):
 - Identity-level transformation manifests
 
 ### Field Viability vs. Time
-- Field Viability (Level 2) is a session-level diagnosis of whether the current iteration is metabolically possible under (Sₑ ⊗ Sₜ) calibrated to mismatch(D,C).
-- Time (Level 4) is the medium through which iterations accumulate, recovery becomes possible, consolidation occurs, and Capacity compounds.
+- Field Viability is a session-level diagnosis of whether the current iteration is metabolically possible under (Sₑ ⊗ Sₜ) calibrated to mismatch(D,C).
+- Time is the medium through which iterations accumulate, recovery becomes possible, consolidation occurs, and Capacity compounds.
 
 ### Relations (Wiring)
 - Component Of: Third Intelligence Tetrad (fourth element)
@@ -1083,7 +1090,7 @@ Cumulative (Months–Years):
 - Required For: Sustainable transformation (trajectory), not just isolated productive sessions
 - Validated By: Manic Episode (collapse when spacing is violated; false viability under Sₑ depletion)
 - Distinct From: Field Viability variables (Sₑ, Sₜ, D, C, mismatch(D,C)) — Time is a dimensional medium, not a session-state variable
-- Interacts With: Journal (accumulation requires duration), Human (recovery requires spacing), Recursive Loop (iteration requires time)
+- Interacts With: Journal (accumulation requires duration), Human (recovery requires spacing), Recursive Metabolic Loop (cycles require time to complete and accumulate)
 
 ### Notes
 Time is not “things take time.” It is an architectural component that makes cumulative transformation possible.

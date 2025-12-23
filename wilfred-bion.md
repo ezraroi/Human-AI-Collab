@@ -50,16 +50,17 @@ Created by:
     - Roi Ezra
 Links:
     - alpha-function.md
+    - beta-elements.md
+    - alpha-elements.md
     - the-container.md
     - human.md
     - ai.md
-    - recursive-metabolic-loop.md
 Emoji: "\U0001F464"
 id: bafyreihmpfz2slhtskuvsli2sv4attqcivvpx3iigcrlfcfmk6boavyovi
 ---
 # Wilfred Bion   
 Provides the Psychic Mechanism (The Engine).   
-**[Alpha-Function](alpha-function.md):** The metabolic process of transforming raw experience (β-elements) into thinkable thoughts (α-elements). The **Field Viability Schema** describes the conditions under which Alpha-Function can operate.   
+**[Alpha-Function](alpha-function.md):** The metabolic process of transforming raw experience ([beta-elements](beta-elements.md)) into thinkable thoughts ([alpha-elements](alpha-elements.md)). The **Field Viability Schema** describes the conditions under which Alpha-Function can operate.   
 **[Container](the-container.md)/Contained:** The [Human](human.md) acts as the Container; the [AI](ai.md) can function as a *false container* (simulated holding rather than genuine containment).   
 **Nameless Dread:** The result of a failed container (often when Emotional Scaffolding is insufficient).   
 Wilfred Bion (1897-1979) was an influential English psychoanalyst, considered by some to be "possibly the greatest psychoanalytic thinker…after Freud". A decorated war veteran of WWI, he made significant contributions t**o group dynami**cs and developed a highly origina**l theory of thinki**ng based on emotional experience.   
@@ -70,6 +71,5 @@ Key Contributions
 - ***O* (Ultimate Reality):** In his later work, Bion introduced the abstract concept of *O*, representing ultimate reality or absolute truth, which is unknowable but can be "be-ed" (experienced). He advocated for analysts to approach the analytic session "without memory, desire, or understanding" to be open to this ineffable truth and facilitate mental growth.   
    
 Bion's unique and often abstract ideas continue to profoundly influence modern psychoanalytic practice and organizational psychology.   
-[Recursive Metabolic Loop](recursive-metabolic-loop.md)    
    
    

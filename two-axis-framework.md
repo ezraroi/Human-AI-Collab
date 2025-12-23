@@ -11,17 +11,19 @@ Tag:
 Backlinks:
     - developmental-sequence.md
     - conclusion-on-novelty-and-contribution.md
+    - recursive-metabolic-loop.md
     - the-integrated-circuit-board.md
     - field-viability-schema.md
     - category-error.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Drafting
+Research Status: Sealed
 Creation date: "2025-12-06T09:24:09Z"
 Created by:
     - Roi Ezra
 Links:
+    - third-intelligence.md
     - dynamic-transitional-object-dto.md
     - category-error.md
     - protein-shake-brain-psb.md
@@ -32,7 +34,7 @@ Emoji: "\U0001F9E9"
 id: bafyreiezyquxeohb5ofnxdkxkz3ey4lqhc53qxrv42kqlkmjn3wzdbkcry
 ---
 # Two-Axis Framework   
-**The Two-Axis Framework** is the structural map that organizes success modes and failure modes in the Third Intelligence system.   
+**The Two-Axis Framework** is the structural map that organizes success modes and failure modes in the [Third Intelligence](third-intelligence.md) system.   
 It consists of:   
 ### Axis A — Relational Ontology   
 - **Goal:** Hold AI as **[DTO](dynamic-transitional-object-dto.md) (Dynamic Transitional Object)** (i.e., not a Subject; not a “someone”).   
@@ -63,7 +65,7 @@ So:
 **Axis A:** Who/what AI is (DTO vs Subject)   
 **Axis B:** How experience is processed → Integrated Circuit Board   
 ## Failure coupling (keep, but slightly tightened)   
-If **Axis A fails** (Category Error), the system becomes **relationally invalid**: AI becomes Subject/authority, *verification discipline drops*, and **PSB risk increases**.   
+If **Axis A fails** ([Category Error](category-error.md)), the system becomes **relationally invalid**: AI becomes Subject/authority, *verification discipline drops*, and **PSB risk increases**.   
 When **Category Error + PSB** co-occur → **Cognitive Dependency** (while the structural \|D−C\| relation remains pre-existing).   
 ## Envelope constraint (explicit gating rule)   
 **Do not introduce Sₜ (challenge / Functional Alterity) when Sₑ is collapsed.**   

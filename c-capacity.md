@@ -41,12 +41,13 @@ Backlinks:
     - as-if-body-loop.md
     - 6-integration-points.md
     - the-integrated-circuit-board.md
+    - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
-    - field-viability-schema.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md
+    - internally-persuasive-discourse.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 5-worked-diagnostic-examples.md
     - functional-alterity.md

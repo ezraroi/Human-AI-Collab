@@ -37,6 +37,7 @@ Links:
     - journal.md
     - ai.md
     - time.md
+    - protein-shake-brain-psb.md
     - c-capacity.md
     - wilfred-bion.md
     - eugene-gendlin.md
@@ -45,7 +46,6 @@ Links:
     - functional-alterity.md
     - recursive-metabolic-loop.md
     - selected-fact.md
-    - protein-shake-brain-psb.md
     - anterior-insular-cortex-aic.md
     - as-if-body-loop.md
     - reflective-prompting.md
@@ -69,7 +69,7 @@ EAW is enacted primarily through writing in one's own words, but is not reducibl
 |            **EAW** | Alpha-Work reliably recruited through inscription + embodied verification, producing durable outputs suitable for recursion |
 
 ### System Role   
-EAW is the **core metabolic processor** of the [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md) system. It is the hinge that prevents collapse into symbolic consumption (PSB) and converts AI-mediated dialogue into developmental change.   
+EAW is the core enacted mode of metabolic processing in the [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md) system, recruiting the Human’s [Alpha-Function](alpha-function.md) under material constraint. It is the hinge that prevents collapse into symbolic consumption ([PSB](protein-shake-brain-psb.md)) and converts AI-mediated dialogue into developmental change.   
 ### Irreplaceable Roles   
 **A. Activation of Metabolic Processing ([beta-elements](beta-elements.md) → [alpha-elements](alpha-elements.md))**
 EAW is the activation mode that reliably recruits Alpha-Function by forcing the person to *work* the material rather than merely recognize or consume it.   
@@ -121,15 +121,15 @@ EAW requires felt-sense constraint. Defense-writing (intellectualization, discha
 | **[Mikhail Bakhtin](mikhail-bakhtin.md)** |        Chronotope (inscribed time-space enabling identity development) |
 
 ### B. Relations to Other Objects   
-|                                                      Object |                                                                                                Relation |
-|:------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
-|          **[Alpha-Function](alpha-function.md) (Internal)** |                                                                           EAW recruits and exercises it |
-|                                   **[Journal](journal.md)** |                                   Substrate/chronotope; EAW is the metabolic circuit enacted through it |
-|                             **[Felt Sense](felt-sense.md)** |                                                                         Verification channel inside EAW |
-|      **AI ([Functional Alterity](functional-alterity.md))** |                                                     Precipitates productive tension; never performs EAW |
-|           **[Recursive Loop](recursive-metabolic-loop.md)** |                                                EAW produces α-elements that power recursive development |
-|                       **[Selected Fact](selected-fact.md)** |  EAW generates probationary α-elements; SF occurs when one stabilizes across time and downstream change |
-| **[PSB](protein-shake-brain-psb.md) (Protein Shake Brain)** |                                                                 EAW is the primary prevention mechanism |
+|                                                      Object |                                                                                                                                               Relation |
+|:------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          **[Alpha-Function](alpha-function.md) (Internal)** |                                                                                                                          EAW recruits and exercises it |
+|                                   **[Journal](journal.md)** |                                                                                  Substrate/chronotope; EAW is the metabolic circuit enacted through it |
+|                             **[Felt Sense](felt-sense.md)** |                                                                                                                        Verification channel inside EAW |
+|      **AI ([Functional Alterity](functional-alterity.md))** |                                                                                                    Precipitates productive tension; never performs EAW |
+|     [Recursive Metabolic Loop](recursive-metabolic-loop.md) |     EAW produces materialized [alpha-elements ](alpha-elements.md)that support completion of RML cycles (crystallization → materialization → re-entry) |
+|                       **[Selected Fact](selected-fact.md)** |                                                 EAW generates probationary α-elements; SF occurs when one stabilizes across time and downstream change |
+| **[PSB](protein-shake-brain-psb.md) (Protein Shake Brain)** |                                                                                                                EAW is the primary prevention mechanism |
 
 ### C. Biological Substrates (Speculative Mappings)   
 *Note: These are plausible neural correlates, not hard localizations. This section is speculative and does not carry architectural weight.*   

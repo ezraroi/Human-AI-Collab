@@ -8,7 +8,7 @@ Tag:
     - Meta-Framework
 Backlinks:
     - neural-synchrony.md
-    - 1-purpose-and-scope_o.md
+    - 1-purpose-and-scope_u.md
 Research Status: Evergreen
 Origin Domain:
     - Neurobiology & Neuroscience
@@ -33,7 +33,6 @@ id: bafyreigdjpq37zbdz3fktxkbegcff6axqhfmdf3nrhxmwdv5fap4why6cm
 ---
 # Neuroscience of Transformation   
 The absence of empirical neurobiological evidence validating the mechanisms proposed to underlie *Third Intelligence* transformation. While the project contains a structured, testable mapping from psychological dynamics to plausible neural/physiological substrates, no direct measurement program has yet confirmed (or falsified) these mappings **in this system**, nor ruled out competing explanations (e.g., cognitive offloading, expectancy effects, or dissociative bypass).   
- --- 
 ### The Gap   
 **Missing empirical evidence (core):**   
 - No neuroimaging (fMRI/EEG/fNIRS) captured **during Reflective Prompting** sessions.   
@@ -45,7 +44,6 @@ The absence of empirical neurobiological evidence validating the mechanisms prop
 **Critical clarifications to the gap (added):**   
 - “Neural synchrony” must be scoped precisely: human-human synchrony is measurable; **human–AI “brain-to-brain synchrony” is not possible in the literal sense** (no living neural substrate). What remains measurable is *intra-human* coordination and physiology *during AI engagement*, and (optionally) synchrony proxies tied to interaction structure rather than inter-brain coupling.   
 - The gap is not only “missing scans,” but missing **discriminators**: measures that can separate *metabolization* from *fluent bypass* and *reward-driven pseudo-safety*.   
- --- 
    
 ### Theoretical Model Exists (Unvalidated)   
 **Psychological → Neurobiological candidate mappings (current hypotheses):**   

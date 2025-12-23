@@ -12,7 +12,7 @@ Backlinks:
     - narrative-self.md
     - developmental-sequence.md
     - idiom-aligned-scaffolding.md
-    - 4-analytic-vs-statistical-generalization_3.md
+    - 4-analytic-vs-statistical-generalization.md
     - identity-stakes.md
     - iron-man-mentality.md
     - christopher-bollas.md
@@ -27,6 +27,7 @@ Backlinks:
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
+    - internally-persuasive-discourse.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
 Origin Domain:
@@ -40,11 +41,11 @@ Links:
     - true-self.md
     - third-intelligence.md
     - recursive-metabolic-loop.md
-    - identity-stakes.md
     - alpha-function.md
     - false-self.md
     - c-capacity.md
     - christopher-bollas.md
+    - identity-stakes.md
     - journal.md
 Emoji: "\U0001F4A1"
 id: bafyreiaioafobtw6w7iwuplocr3ijtdbzqddgye2aq6jfpi566geyfo5hi
@@ -55,7 +56,7 @@ It exists in **latent form** in all individuals and becomes **phenomenologically
 ## System Role   
 Destiny Drive is **not a mechanism** in the [Third Intelligence](third-intelligence.md) system.   
 It is an **emergent experiential outcome** that appears when:   
-- the [recursive](recursive-metabolic-loop.md) loop is operating effectively on material **that carries [Identity Stakes](identity-stakes.md)**   
+- the [Recursive Metabolic Loop](recursive-metabolic-loop.md) is completing cycles on material that carries Identity Stakes   
 - [Alpha-Function](alpha-function.md) is repeatedly activated through structured tension + support   
 - Winnicottian [False Self](false-self.md) defensive compliance weakens as sufficient holding makes spontaneity safer   
 - transformation becomes self-sustaining   
@@ -67,7 +68,6 @@ When articulated, Destiny Drive is **felt** as:
 - coherence (alignment between inner idiom and external action)   
    
 Destiny Drive explains the **vector** of transformation—*where the increased [C](c-capacity.md) is spent*—once the system has removed the obstructions to idiom articulation.   
- --- 
 ## Wiring (Relations)   
 ### Who Thought It?   
 - **[Christopher Bollas](christopher-bollas.md)** (Originator; extends Winnicott’s True Self and object usage)   

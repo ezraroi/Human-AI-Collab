@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:49:31Z"
@@ -18,9 +20,9 @@ Links:
     - emotional-scaffolding-s_e.md
     - technical-scaffolding-s_t.md
     - recursive-metabolic-loop.md
-    - alpha-elements.md
     - functional-alterity.md
     - journal.md
+    - chronotope.md
     - destiny-drive.md
     - c-capacity.md
     - d-w-winnicott.md
@@ -53,13 +55,13 @@ Describes the **functional architecture** that transforms accessible experience 
 - **Sₑ ⊗ Sₜ** ([emotional scaffolding](emotional-scaffolding-s_e.md) coupled with [technical scaffolding](technical-scaffolding-s_t.md); non-substitutable)   
    
 **Core mechanism (engine of transformation):**   
-- [Recursive Metabolic Loop](recursive-metabolic-loop.md) (embodied ↔ symbolic oscillation until owned [alpha-elements](alpha-elements.md) form)   
+- [Recursive Metabolic Loop](recursive-metabolic-loop.md) (embodied ↔ symbolic oscillation → crystallization → materialization → re-entry as new capacity baseline)   
    
 **AI local function (preserves productive tension turn-by-turn):**   
 - [Functional Alterity](functional-alterity.md) (irreducible difference that prevents collapse into sycophancy or monologue)   
    
-**Materialization infrastructure (durability + cross-time continuity):**   
-- [Journal](journal.md) = materialization substrate and continuity infrastructure (Chronotope; surviving object)   
+**Materialization infrastructure (**required for RML completion**):**   
+- [Journal](journal.md) = materialization substrate enabling [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles to complete and accumulate ([Chronotope](chronotope.md); surviving object)   
    
 **Emergent outcome (revealed vector, not mechanism):**   
 - [Destiny Drive](destiny-drive.md) = emergent directionality of idiom articulation (the “where the grown [C](c-capacity.md) goes” once obstructions clear)   

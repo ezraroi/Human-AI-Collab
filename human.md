@@ -21,6 +21,7 @@ Backlinks:
     - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
+    - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - executive-summary.md
@@ -29,7 +30,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - internalized-holding-function-post-interperson.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - selected-fact.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -45,20 +46,19 @@ Backlinks:
     - d-w-winnicott.md
     - 6-the-failsafe-externalized-drift-monitoring.md
     - 9-final-integration-principles.md
-    - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - reward-reinforcement-circuitry.md
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
+    - 4-the-neurophenomenological-parallel.md
     - 5-final-positioning-statement.md
     - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
     - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
-    - field-viability-schema.md
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md

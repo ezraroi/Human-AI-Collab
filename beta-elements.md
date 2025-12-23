@@ -16,6 +16,7 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - conflict-detection-model-repair.md
     - extended-mind-hypothesis-hec.md
+    - authoritative-discourse.md
     - self-explanation.md
     - the-large-language-model-as-dynamic-transition.md
     - selected-fact.md
@@ -44,6 +45,7 @@ Backlinks:
     - section-3-causal-sequence-placement.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - unified-architecture-neurobiological-resolutio.md
+    - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:

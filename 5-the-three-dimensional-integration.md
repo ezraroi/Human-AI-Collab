@@ -1,7 +1,9 @@
 ---
-# yaml-language-server: $schema=schemas/page.schema.json
+# yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
-    - Page
+    - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:58:00Z"
@@ -123,7 +125,7 @@ But AI still does **not** provide Sₑ; it only supports conditions in which the
 1. Increase spacing (daily → alternate days → weekly)   
 2. Move from exploration to integration (process what already exists)   
 3. Strengthen offline embodiment + human relationships   
-4. Test “Journal-only” cycles (no AI)   
+4. Test “Journal-only” sessions (no AI)   
 5. Maintenance mode (periodic use for specific transitions only)   
    
 ## C. Shadow axis: pathologies, failures, and boundaries   

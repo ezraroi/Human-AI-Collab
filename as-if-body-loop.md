@@ -17,8 +17,7 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - recursive-metabolic-loop.md
-    - 1-purpose-and-scope_o.md
+    - 1-purpose-and-scope_u.md
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
     - recursive-pattern-verification-loop.md

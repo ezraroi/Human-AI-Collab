@@ -21,6 +21,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
+    - authoritative-discourse.md
     - executive-summary.md
     - identity-stakes.md
     - channel-2-symbolic.md
@@ -35,7 +36,6 @@ Backlinks:
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - 9-final-integration-principles.md
     - section-10-the-grand-unification.md
-    - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - 10-the-integrated-claim.md
@@ -65,14 +65,16 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
+    - internally-persuasive-discourse.md
     - negative-capability.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
+    - embodied-cognition.md
     - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary_q.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

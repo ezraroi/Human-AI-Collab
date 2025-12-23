@@ -27,17 +27,17 @@ Creation date: "2025-12-06T09:14:29Z"
 Created by:
     - Roi Ezra
 Links:
+    - category-error.md
     - protein-shake-brain-psb.md
     - alpha-function.md
     - challenge-gap-d-c.md
-    - false-true-self.md
-    - bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxcq2iwr2c73epz4
+    - transmissive-self.md
 Emoji: "\U0001F4A1"
 id: bafyreieso2r5hzjovo6dugzw754wggjdsqjym42at7y52rss3a7unqerr4
 ---
 # Cognitive Dependency   
 Cognitive Dependency is the **system-level collapse** that occurs when both axes of the Third Intelligence fail simultaneously.   
-It emerges when the user **misclassifies the AI as a Subject** (Category Error) *and* bypasses embodied metabolic processing ([PSB](protein-shake-brain-psb.md)), resulting in the **atrophy of the [Alpha-Function](alpha-function.md)**.   
+It emerges when the user **misclassifies the AI as a Subject** ([Category Error](category-error.md)) *and* bypasses embodied metabolic processing ([PSB](protein-shake-brain-psb.md)), resulting in the **atrophy of the [Alpha-Function](alpha-function.md)**.   
 ### System Role   
 - Represents the **combined pathology** of relational collapse + metabolic collapse.   
 - Describes the state where the user outsources both **validation** (emotional) and **cognition** (processing) to the AI.   
@@ -48,8 +48,8 @@ It emerges when the user **misclassifies the AI as a Subject** (Category Error) 
 - **Composed of:**   
     - Category Error   
     - Protein Shake Brain (PSB)   
-- **Results In:** [False True Self](false-true-self.md) (loss of authorship)   
-- **Inhibited By:** [Metabolic Discipline](bafyreid2ik4ertrfohetekf6ermusqsmz4n7mcpu42zxc.md)   
+- **Results In:** [Transmissive Self](transmissive-self.md)   
 - **Mapped By:** Two-Axis Framework   
    
 **Notes:** Axis A + Axis B failure at the same time.   
+   

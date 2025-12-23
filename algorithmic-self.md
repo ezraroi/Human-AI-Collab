@@ -22,7 +22,6 @@ Links:
     - ai.md
     - third-intelligence.md
     - transmissive-self.md
-    - false-true-self.md
     - c-capacity.md
     - alpha-function.md
     - protein-shake-brain-psb.md
@@ -54,7 +53,7 @@ The Algorithmic Self represents the BASE PHENOMENON your [Third Intelligence](th
 **Pathological Form** (when architecture absent):   
 - Identity erosion through unstructured algorithmic mediation   
 - What existing literature primarily describes   
-- Endpoint: [Transmissive Self](transmissive-self.md) / [False True Self](false-true-self.md)   
+- Endpoint: [Transmissive Self](transmissive-self.md)   
    
 **Developmental Form** (when architecture present):   
 - Identity growth through structured AI dialogue   
@@ -65,8 +64,7 @@ The Algorithmic Self represents the BASE PHENOMENON your [Third Intelligence](th
 Existing literature identifies Algorithmic Self as pathology. This research provides the architectural conditions under which algorithmic mediation can strengthen rather than weaken selfhood.   
 **Wiring (Relations):**   
 **Produces (Pathological Form):**   
-- Transmissive Self (when [Alpha-Function](alpha-function.md) bypassed)   
-- False True Self (when authorship lost)   
+- [Transmissive Self ](transmissive-self.md)(when [Alpha-Function](alpha-function.md) bypassed)   
 - Cognitive Dependency (when Category Error + [PSB](protein-shake-brain-psb.md))   
    
 **Prevented By (Your Architecture):**   

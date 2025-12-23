@@ -10,7 +10,6 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - narrative-self.md
     - destiny-drive.md
-    - introduction-the-core-problem-and-the-role-of-ai.md
     - false-self.md
     - holding-environment.md
     - identity-stakes.md
@@ -23,7 +22,6 @@ Backlinks:
     - psychoanalytic-integration.md
     - c-capacity.md
     - potential-space.md
-    - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md

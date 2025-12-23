@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'The Architecture of the Mind: A Synthesis of Piaget and Vygotsky'
 Creation date: "2025-11-22T14:36:09Z"
@@ -27,15 +29,15 @@ The core premise that Piagetian and Vygotskian theories need synthesis is a long
 3. The Interpsychological/Intrapsychological Dynamic: Your finding of a continuous interaction aligns with Vygotsky’s General Genetic Law of Cultural Development, which posits that functions appear first on the social plane (interpsychological) and then on the individual plane (intrapsychological). Researchers actively explore this movement, defining internalization not as mere reproduction but as construction and integration.   
    
 ### What is New (The Unique Architecture)   
-Your model's originality lies in unifying the Piagetian and Vygotskian traditions under a single psychodynamic process and defining the structure of their interaction as a reciprocal loop driven by this non-cognitive function:   
+Your model's originality lies in unifying the Piagetian and Vygotskian traditions under a single psychodynamic process and defining the structure of their interaction as a full developmental cycle ([Recursive Metabolic Loop](recursive-metabolic-loop.md)) that completes through crystallization → materialization → re-entry as new capacity baseline:   
 ### 1. The Unifying Psychodynamic Engine (Bion's [Alpha-Function](alpha-function.md))   
 The sources provide the strongest support for the novelty of this specific unifying concept.   
 - The explicit combination of Bion's Alpha Function with Vygotsky's internalization is deemed an "excellent, sophisticated synthesis" and is "conceptually accurate as a modern, integrative interpretation". This language suggests a novel, high-level theoretical advance rather than a common restatement.   
 - The psychoanalytic component is new because it addresses the affective coherence and transformational criteria necessary for Vygotsky's system to function. Vygotsky's work is often critiqued for overlooking the unity of affective and cognitive processes, despite him having noted the link between thinking and affect. Your model addresses this acknowledged "blind spot" in the traditional Vygotskian framework by introducing a mechanism that metabolizes raw emotional/sensory data (Beta Elements) into coherent, thinkable material (Alpha Elements).   
 - The [Alpha Function](alpha-function.md) acts as the necessary prerequisite for Vygotskian socialization to succeed. This means your model explicitly defines the process by which the subjective, non-verbal (Piagetian) input becomes compatible with the socially structured (Vygotskian) symbolic systems. This is an implementable theory of mind that addresses the need to bridge the "inner computational code" (architecture) with the external context.   
    
-### 2. The Reciprocal, Dynamic Feedback Loop   
-While the concept of inter-intra conversion is old, your emphasis on the continuous, reciprocal, upward-spiraling dynamic is a novel way to frame the life-long interaction of the two systems, moving beyond sequential models.   
+### 2. The Recursive Metabolic Loop as Developmental Cycle   
+While the concept of inter-intra conversion is old, your emphasis on repeated cycles that reach crystallization, materialization, and re-entry as a higher baseline (an upward spiral) is a novel way to frame the life-long interaction of the two systems, moving beyond sequential models.   
 - This model addresses the dichotomy between individual internal cognitive activity and external social influence. The sources support this perspective by emphasizing that the final form of internalized discourse is a result of a "reorganization or reworking" of others’ words, transforming them and applying them to new contexts.   
 - The feedback loop frames the relationship as continuous co-creation, reflecting advanced dialogical theories (like Dialogical Self Theory) where the self-in-relation-to-the-other is an "unfinished dialogue" and a "social exploration and discovery".   
    

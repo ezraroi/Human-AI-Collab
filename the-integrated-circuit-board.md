@@ -13,6 +13,8 @@ Backlinks:
     - embodied-engagement-conditions.md
     - journal.md
     - conclusion-on-novelty-and-contribution.md
+    - recursive-metabolic-loop.md
+    - 4-the-neurophenomenological-parallel.md
     - as-if-body-loop.md
     - alpha-function.md
     - psychoanalytic-integration.md
@@ -38,7 +40,7 @@ Links:
     - beta-elements.md
     - challenge-gap-d-c.md
     - emotional-scaffolding-s_e.md
-    - the-flywheel.md
+    - coherence-flywheel.md
     - dynamic-transitional-object-dto.md
 Emoji: "\U0001F4A1"
 id: bafyreifcwkg3udzmdnghxr6votkkuow4ejbo7eo4nivcznk22hkyvxadi4
@@ -181,7 +183,7 @@ The circuit's throughput is bounded by available [Emotional Scaffolding](emotion
    
 Sₑ therefore acts as the system's qualitative "power regulator," determining how deeply the metabolic cycle can run at any given moment.   
 ### Relationship to Coherence Flywheel   
-The **Coherence [Flywheel](the-flywheel.md)** describes the phenomenology of the circuit when it's engaged well — how it *feels* from inside. The relationship is complementary, not isomorphic:   
+The **[Coherence Flywheel](coherence-flywheel.md)** describes the phenomenology of the circuit when it's engaged well — how it *feels* from inside. The relationship is complementary, not isomorphic:   
 - **ICB:** Architectural constraints (what must couple for transformation to be possible)   
 - **Flywheel:** Experiential dynamics (how the process feels when engaged)   
    

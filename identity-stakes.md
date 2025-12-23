@@ -18,6 +18,7 @@ Backlinks:
     - d-difficulty.md
     - 7-final-conclusion-the-third-intelligence.md
     - 8-common-misuses-and-anti-patterns.md
+    - recursive-metabolic-loop.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - 3-the-13-stage-development-sequence.md
     - 7-research-usage.md
@@ -39,7 +40,6 @@ Links:
     - embodied-engagement-conditions.md
     - christopher-bollas.md
     - destiny-drive.md
-    - alpha-function.md
     - recursive-metabolic-loop.md
 Emoji: "\U0001F4A1"
 id: bafyreibwvz5w4cq7nwvjea5kzjoqz6ei4hbfoebxhsfpgksku3ucr3upcm
@@ -54,9 +54,8 @@ Identity Stakes represent the **threshold where information becomes self-relevan
 - Explains why reflective writing, leadership questions, and meaning-making activate the body more reliably than technical tasks.   
    
 ### Wiring (Relations)   
-- Derived From: [Christopher Bollas](christopher-bollas.md) (idiom, self-coherence formation; [Destiny Drive](destiny-drive.md) as latent→articulated vector)   
+- **Derived From:** [Christopher Bollas](christopher-bollas.md) (idiom, self-coherence formation; [Destiny Drive](destiny-drive.md) as latent→articulated vector)   
 - **Activates:** [Metabolic Activation](embodied-engagement-conditions.md)   
-- **Enables:** [Alpha-Function](alpha-function.md) engagement   
-- **Part Of:** Conditions for recursive oscillation in the [Recursive Loop](recursive-metabolic-loop.md)   
+- **Enables:** Alpha-Function engagement (when paired with Functional Alterity and ZPD Alignment), which feeds [Recursive Metabolic Loop ](recursive-metabolic-loop.md)cycle completion   
    
 **Notes:** Self-relevant work   

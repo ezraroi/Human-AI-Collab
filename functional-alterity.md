@@ -22,7 +22,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -37,8 +37,10 @@ Backlinks:
     - section-10-the-grand-unification.md
     - 10-the-integrated-claim.md
     - 7-the-three-legged-stool-of-defense.md
+    - epistemological-humility.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
+    - 4-the-neurophenomenological-parallel.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md

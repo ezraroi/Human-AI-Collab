@@ -24,6 +24,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - 4-calibration-playbook.md
     - salience-network-core-aic-dacc.md
+    - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - self-explanation.md
     - channel-2-symbolic.md
@@ -37,6 +38,7 @@ Backlinks:
     - selected-fact.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
+    - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - hyperreflexivity-trap.md
@@ -53,17 +55,20 @@ Backlinks:
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope_o.md
+    - 1-purpose-and-scope_u.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - epistemological-humility.md
     - reward-reinforcement-circuitry.md
     - cognitive-dependency.md
     - 7-what-each-framework-gains-from-integration.md
+    - 4-the-neurophenomenological-parallel.md
     - two-axis-framework.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
+    - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - 7-critical-connection-5-why-psb-happens.md
     - 7-research-usage.md
@@ -77,7 +82,6 @@ Backlinks:
     - part-iv-reflective-prompting-as-system-level-p.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - false-true-self.md
     - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
@@ -121,12 +125,13 @@ id: bafyreig4ybiodgihe6qb62lnoajvvs7givjha5jgneoaasgkq6lanlxjmy
 # Protein Shake Brain (PSB)   
 A processing pathology characterized by **outward fluency without inward capacity**. The user performs understanding (theoretical sophistication, narrative coherence) without metabolizing meaning. [beta-elements](beta-elements.md) remain unprocessed; no felt shifts occur; This is the **diagnostic inverse of transformation**.   
 ### System Role   
-PSB is the primary failure mode of *the [Third Intelligence](third-intelligence.md)*. It breaks the [Recursive Loop](recursive-metabolic-loop.md) by:   
+PSB is the primary failure mode of the [Third Intelligence](third-intelligence.md). It breaks the [Recursive Metabolic Loop](recursive-metabolic-loop.md) by:   
 - Characterized by loss of embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) **when the work carries [Identity Stakes](identity-stakes.md)**   
 - Preventing metabolization ([Alpha-Function](alpha-function.md) dormancy)   
 - Eliminating [Journal](journal.md) materialization (**relevant only when the work carries [Identity Stakes](identity-stakes.md)**)   
 - Stopping [Capacity (C) ](c-capacity.md)growth across Time   
    
+**Phenomenological Deception Risk:** Under PSB conditions, the user may experience a subjective sense of insight, discovery, or "finally understanding myself" that mimics True Self emergence. This occurs because AI mirrors the user's existing idiom back in articulate form, creating recognition-as-discovery. The marker: fluency without time-delayed persistence; "click" without durability; compulsive return rather than settled integration.   
 ### Mechanism: Dual Simultaneous Failures   
 **A. Scaffolding Failure: Counterfeit Emotional Holding**   
 When the user slips toward [Category Error](category-error.md) (AI-as-Subject), the AI’s fluency can be experienced as simulated safety—a dangerous illusion *as if* a perfect holding environment exists:   
@@ -189,7 +194,7 @@ When simulated safety combines with premature technical answers, the result is o
 **Disables:**   
 - Alpha-Function (β → α transformation)   
 - Channel 1 (somatic verification)   
-- [Recursive Loop](recursive-metabolic-loop.md) (metabolization → materialization → capacity growth)   
+- [Recursive Metabolic Loop](recursive-metabolic-loop.md) (crystallization → materialization → re-entry cannot complete)   
    
 **Can Produce:**   
 - [Transmissive Self](transmissive-self.md) ([Bollas](christopher-bollas.md))   
@@ -218,6 +223,5 @@ When simulated safety combines with premature technical answers, the result is o
 - [AIC](anterior-insular-cortex-aic.md) under-engagement (reduced access to [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)verification signals associated with [Felt Sense](felt-sense.md))   
 - [HPA-axis](hpa-axis.md) dysregulation (counterfeit S\_e stress)   
    
-   
-**Notes:** Channel 1 offline; [Channel 2](channel-2-symbolic.md)-only consumption; collapse of metabolism.   
+**Notes:** [Channel 1](channel-1-embodied-sensorimotor-pathway.md) offline; [Channel 2](channel-2-symbolic.md)-only consumption; collapse of metabolism.   
    

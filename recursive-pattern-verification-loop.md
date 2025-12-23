@@ -13,11 +13,13 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
+    - authoritative-discourse.md
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
     - epistemological-humility.md
     - cognitive-debt.md
     - functional-thirdness.md
+    - internally-persuasive-discourse.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Philosophy of Technology & Phenomenology

@@ -33,6 +33,7 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
+    - authoritative-discourse.md
     - executive-summary.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
@@ -40,9 +41,10 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - selected-fact.md
     - human.md
+    - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - time.md
@@ -71,6 +73,7 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - how-journal-entries-are-actually-created.md
     - 15-is-your-model-suggesting-something-new.md
+    - 4-the-neurophenomenological-parallel.md
     - 5-final-positioning-statement.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
@@ -84,7 +87,6 @@ Backlinks:
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
-    - field-viability-schema.md
     - alpha-function.md
     - the-journals-three-essential-functions.md
     - materialization.md
@@ -103,6 +105,7 @@ Backlinks:
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md
+    - internally-persuasive-discourse.md
     - section-6-journal-function-refinement.md
     - final-definition.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md

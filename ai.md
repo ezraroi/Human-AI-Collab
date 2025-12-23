@@ -42,7 +42,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - internalized-holding-function-post-interperson.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -59,14 +59,15 @@ Backlinks:
     - 3-implications-for-positioning.md
     - 8-common-misuses-and-anti-patterns.md
     - section-10-the-grand-unification.md
-    - section-7-temporal-dynamics-across-the-archite.md
     - gap-filling-inference-generation.md
     - 10-the-integrated-claim.md
+    - epistemological-humility.md
     - reward-reinforcement-circuitry.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
+    - 4-the-neurophenomenological-parallel.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - 6-integration-points.md
@@ -74,7 +75,6 @@ Backlinks:
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - 6-the-final-positioning-framework.md
-    - field-viability-schema.md
     - alpha-function.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
@@ -88,7 +88,6 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
-    - false-true-self.md
     - section-3-causal-sequence-placement.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md

@@ -2,6 +2,7 @@
 # yaml-language-server: $schema=schemas/task.schema.json
 Object type:
     - Task
+Done: true
 Due date: "2025-11-24"
 Creation date: "2025-11-24T19:11:53Z"
 Created by:

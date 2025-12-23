@@ -9,7 +9,7 @@ Tag:
 Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
-Research Status: Evergreen
+Research Status: Sealed
 Origin Domain:
     - Psychoanalysis
 Gap Status: Resolved
@@ -28,6 +28,7 @@ Links:
     - true-self.md
     - field-viability-schema.md
     - alpha-function.md
+    - false-self.md
     - internalized-holding-function-post-interperson.md
     - the-unified-architecture.md
     - the-integrated-circuit-board.md
@@ -60,7 +61,7 @@ It is a developmental architecture where each stage **removes an obstruction** b
 - **Ontological status:** Always present in latent form   
 - **NOT produced or activated by the architecture**   
 - Becomes phenomenologically articulated only when both obstacles are removed   
-- Marks shift from: **Fate** (reactive, False Self) → **Destiny** (agentic, [True Self](true-self.md))   
+- Marks shift from: **Fate** (reactive, [False Self](false-self.md)) → **Destiny** (agentic, [True Self](true-self.md))   
    
 ## Unified Resolution   
 The architecture **creates conditions, not content**—it **reveals** the idiom rather than producing it.   
@@ -74,12 +75,12 @@ It removes developmental obstructions, allowing what was latent to become lived 
    
 ## Post-Interpersonal Extension   
 The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The **[Internalized Holding Function](internalized-holding-function-post-interperson.md)** concept extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:   
-| [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) (Developmental Path) |    Internalized Holding Function (Post-Internalization Application) |
-|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
-|                                       Interpersonal holding → internalized over time |                            Presupposes already-internalized holding |
-|                                                  Achievement: "capacity to be alone" | Achievement: self-holding **through transformation** while using AI |
-|                                                      Mother/analyst provides holding |                     Human performs holding; AI removes interference |
-|                                     Explains how development reaches internalization |     Explains how AI can support transformation without providing Sₑ |
+| [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md) (Developmental Path) | [Internalized Holding Function](internalized-holding-function-post-interperson.md) (Post-Internalization Application) |
+|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+|                                       Interpersonal holding → internalized over time |                                                                              Presupposes already-internalized holding |
+|                                                  Achievement: "capacity to be alone" |                                                   Achievement: self-holding **through transformation** while using AI |
+|                                                      Mother/analyst provides holding |                                                                       Human performs holding; AI removes interference |
+|                                     Explains how development reaches internalization |                                                       Explains how AI can support transformation without providing Sₑ |
 
 This extension:   
 - Completes Winnicott's trajectory into post-interpersonal territory   

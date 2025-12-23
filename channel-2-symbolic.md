@@ -19,6 +19,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
+    - authoritative-discourse.md
     - productive-epistemic-tension.md
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
@@ -29,7 +30,6 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - 9-final-integration-principles.md
-    - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - 10-the-integrated-claim.md
@@ -51,10 +51,12 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - functional-thirdness.md
+    - internally-persuasive-discourse.md
+    - embodied-cognition.md
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary_q.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

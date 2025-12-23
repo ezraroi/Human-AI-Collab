@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Field Viability Schema - Operational Guide
 Creation date: "2025-12-21T07:56:16Z"
@@ -14,7 +16,7 @@ Links:
     - alpha-function.md
     - protein-shake-brain-psb.md
     - c-capacity.md
-    - the-flywheel.md
+    - coherence-flywheel.md
     - d-difficulty.md
 id: bafyreiboxilurqvr24jhxxm37takwegwjr2ztqavjafxe5obw3ssizunpq
 ---
@@ -53,7 +55,7 @@ How does **technical guidance and external structuring (Sₜ)** withdraw as [Cap
 - Shrinking mismatch → reduced metabolic pressure → stagnation risk   
 - Gradual withdrawal maintains productive tension as capacity develops   
    
-This is the [flywheel](the-flywheel.md): growth enables tolerance for greater challenge, which enables further growth.   
+This is the [Coherence Flywheel](coherence-flywheel.md) growth enables tolerance for greater challenge, which enables further growth.   
 Bidirectionality:   
 Scaffolding doesn't just "help with" objective difficulty. It modulates experienced mismatch:   
 - Good S\_e makes difficulty feel holdable (threat reduced)   
