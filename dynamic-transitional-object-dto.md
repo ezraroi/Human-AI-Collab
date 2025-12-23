@@ -18,7 +18,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - internalized-holding-function-post-interperson.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
@@ -38,8 +38,9 @@ Backlinks:
     - protein-shake-brain-psb.md
     - touch-grass-protocol.md
     - functional-thirdness.md
+    - internally-persuasive-discourse.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_m.md
+    - 1-executive-summary_1b.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

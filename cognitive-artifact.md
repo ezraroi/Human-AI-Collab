@@ -8,7 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-5-the-category-error-relational-axis-f.md
-    - introduction-the-core-problem-and-the-role-of-ai.md
+    - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

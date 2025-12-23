@@ -31,7 +31,6 @@ Links:
     - felt-sense.md
     - preconditions-for-transformative-ai-dialogue.md
     - category-error.md
-    - false-true-self.md
     - identity-stakes.md
     - cognitive-dependency.md
     - psychoanalytic-prerequisites.md
@@ -42,7 +41,7 @@ id: bafyreian45p6xubzvsjrpclvsie6gwcosvkbslizqnwgacihholkzzqhdi
 # Embodied Engagement Conditions   
 The three content-level prerequisites that determine whether symbolic material ([Channel 2](channel-2-symbolic.md)) can sustain productive **C1 ↔ C2 coupling** rather than remaining purely abstract. These conditions specify what properties symbolic material must possess to become metabolically active and **enable** the transformation pathway. When these conditions are met, the **[Integrated Circuit Board](the-integrated-circuit-board.md) is more likely to engage**; when they are absent, processing tends to remain **Channel-2 dominant** and **[PSB](protein-shake-brain-psb.md) risk increases**.   
 ### System Role:   
-Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether sustained **C1 ↔ C2 coupling** can occur within the [Recursive Metabolic Loop](recursive-metabolic-loop.md). They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, influencing whether [Alpha-Function](alpha-function.md) can engage in genuine transformation versus remaining offline.   
+Embodied Engagement Conditions function as the **input filter** for the transformation system, determining whether sustained C1 ↔ C2 coupling can occur during within-session metabolic processing that may contribute to completed [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles. They govern the critical threshold at which symbolic material transitions from inert information to embodied tension, influencing whether [Alpha-Function](alpha-function.md) can engage in genuine transformation versus remaining offline.   
 This object explains **differential outcomes**: why some AI output produces insight and capacity growth while other output produces limited change—or increases PSB risk.   
 ### The Three Conditions:   
 **1. Functional Alterity**   
@@ -92,17 +91,19 @@ Sustained **C1 ↔ C2 coupling** is less likely to occur reliably (via the As-If
 ### Failure Modes:   
 |                        Missing Condition |                      Failure Mode |                                                                            Result |
 |:-----------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------|
-|                   No Functional Alterity | Echo chamber / validation seeking |   [Category Error](category-error.md) risk; [False True Self](false-true-self.md) |
+|                   No Functional Alterity | Echo chamber / validation seeking |                                         [Category Error](category-error.md) risk; |
 |                         No ZPD Alignment |              Too easy or too hard |                                     Boredom or overwhelm; no Alpha-Function spark |
 | No [Identity Stakes](identity-stakes.md) |               Technical work only |                                      Channel 2 processing only; no transformation |
 |                          Multiple absent |                   Complete bypass |   PSB; (and if Category Error co-occurs → Cognitive Dependency); capacity atrophy |
 
 ### Relations (Wiring):   
-- **Enables (when met):** C1 ↔ C2 coupling, As-If Body Loop engagement, Alpha-Function activation   
-- **Feeds (when met):** Recursive Metabolic Loop   
+- **Enables (when met):** C1 ↔ C2 coupling, [As-If Body Loop](as-if-body-loop.md) engagement, [Alpha-Function](alpha-function.md) activation   
+- **Supports** (when met): completion of [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles   
 - **Risk Of (when absent):** PSB, [Cognitive Dependency](cognitive-dependency.md)   
 - **Distinct From:**   
     - [Preconditions for Transformative AI Dialogue](preconditions-for-transformative-ai-dialogue.md) (human-side capacities)   
     - [Psychoanalytic Prerequisites ](psychoanalytic-prerequisites.md)(developmental architecture)   
 - **Operationalized By:** [Reflective Prompting](reflective-prompting.md)   
 - **Engages:** [Felt Sense](felt-sense.md) (Channel 1 verification signal)   
+   
+   

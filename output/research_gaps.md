@@ -182,7 +182,6 @@ Therefore, the theoretical gap is **Resolved** because the sources provide the c
 [Gap:Hypothesized] Domain: Bio-Embodied, Temporal: Static, Meta-Framework
 
 The absence of empirical neurobiological evidence validating the mechanisms proposed to underlie *Third Intelligence* transformation. While the project contains a structured, testable mapping from psychological dynamics to plausible neural/physiological substrates, no direct measurement program has yet confirmed (or falsified) these mappings **in this system**, nor ruled out competing explanations (e.g., cognitive offloading, expectancy effects, or dissociative bypass).
- ---
 ### The Gap
 **Missing empirical evidence (core):**
 - No neuroimaging (fMRI/EEG/fNIRS) captured **during Reflective Prompting** sessions.
@@ -194,7 +193,6 @@ The absence of empirical neurobiological evidence validating the mechanisms prop
 **Critical clarifications to the gap (added):**
 - “Neural synchrony” must be scoped precisely: human-human synchrony is measurable; **human–AI “brain-to-brain synchrony” is not possible in the literal sense** (no living neural substrate). What remains measurable is *intra-human* coordination and physiology *during AI engagement*, and (optionally) synchrony proxies tied to interaction structure rather than inter-brain coupling.
 - The gap is not only “missing scans,” but missing **discriminators**: measures that can separate *metabolization* from *fluent bypass* and *reward-driven pseudo-safety*.
- ---
 
 ### Theoretical Model Exists (Unvalidated)
 **Psychological → Neurobiological candidate mappings (current hypotheses):**
@@ -301,12 +299,12 @@ It removes developmental obstructions, allowing what was latent to become lived 
 
 ## Post-Interpersonal Extension
 The Psychoanalytic Prerequisites describe the developmental path TO internalized holding. The **Internalized Holding Function** concept extends this into AI-mediated contexts by specifying what happens AFTER internalization is achieved:
-| Psychoanalytic Prerequisites (Developmental Path) |    Internalized Holding Function (Post-Internalization Application) |
-|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
-|                                       Interpersonal holding → internalized over time |                            Presupposes already-internalized holding |
-|                                                  Achievement: "capacity to be alone" | Achievement: self-holding **through transformation** while using AI |
-|                                                      Mother/analyst provides holding |                     Human performs holding; AI removes interference |
-|                                     Explains how development reaches internalization |     Explains how AI can support transformation without providing Sₑ |
+| Psychoanalytic Prerequisites (Developmental Path) | Internalized Holding Function (Post-Internalization Application) |
+|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+|                                       Interpersonal holding → internalized over time |                                                                              Presupposes already-internalized holding |
+|                                                  Achievement: "capacity to be alone" |                                                   Achievement: self-holding **through transformation** while using AI |
+|                                                      Mother/analyst provides holding |                                                                       Human performs holding; AI removes interference |
+|                                     Explains how development reaches internalization |                                                       Explains how AI can support transformation without providing Sₑ |
 
 This extension:
 - Completes Winnicott's trajectory into post-interpersonal territory

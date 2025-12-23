@@ -22,7 +22,7 @@ Backlinks:
     - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -33,7 +33,6 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - 3-implications-for-positioning.md
-    - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
     - reward-reinforcement-circuitry.md
     - systems-consolidation.md
@@ -41,6 +40,7 @@ Backlinks:
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
+    - 4-the-neurophenomenological-parallel.md
     - 5-final-positioning-statement.md
     - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
@@ -48,7 +48,6 @@ Backlinks:
     - third-intelligence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - 6-the-final-positioning-framework.md
-    - field-viability-schema.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - 4-three-key-tensions-surfaced-through-triangul.md
@@ -75,13 +74,13 @@ Links:
     - human.md
     - journal.md
     - ai.md
-    - the-flywheel.md
+    - coherence-flywheel.md
     - c-capacity.md
+    - recursive-metabolic-loop.md
     - emotional-scaffolding-s_e.md
     - field-viability-schema.md
     - the-manic-episode.md
     - third-intelligence.md
-    - recursive-metabolic-loop.md
 Emoji: "\U0001F9E9"
 id: bafyreicyadsmwujhz463kr5re4pwfeb2b3zq6ap7qyk7yz3h4pb4g5hspe
 ---
@@ -89,11 +88,11 @@ id: bafyreicyadsmwujhz463kr5re4pwfeb2b3zq6ap7qyk7yz3h4pb4g5hspe
 Time is the fourth non-negotiable component of the [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + Time tetrad. Time is the dimensional medium that makes transformation cumulative and sustainable rather than merely productive. It operates as the temporal scaffold that distinguishes single-session viability from multi-session developmental trajectory.   
 ### Unique System Function   
 Time provides what no other component can:   
-1.Temporal medium that enables cumulative momentum ([Flywheel](the-flywheel.md) Effect)   
+1.Temporal medium that enables cumulative momentum ([Coherence Flywheel](coherence-flywheel.md) Effect)   
 - Iteration builds on previous iteration   
 - C ([Capacity](c-capacity.md)) compounds across sessions   
 - Small consistent actions → reinforcing momentum   
-- Transformation trajectory emerges from repeated cycles (not from a single session)   
+- Transformation trajectory emerges from repeated [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles that complete (crystallization → materialization → re-entry), not from a single session.   
    
 2. Recovery Architecture (Spacing)   
 - Enables [Emotional Scaffolding](emotional-scaffolding-s_e.md) replenishment between sessions   
@@ -109,7 +108,7 @@ Time provides what no other component can:
    
 4. Transformation vs. Productivity Distinction   
 - A single session can be productive (answer obtained) and may contribute to transformation, but it does not constitute trajectory by itself   
-- Transformation requires repeated iterations over time in which C changes and stabilizes   
+- Transformation requires repeated cycles over time in which integration completes (crystallization → materialization → re-entry) and C changes and stabilizes.   
 - [Field Viability](field-viability-schema.md) diagnoses whether an iteration is metabolically possible; Time enables the compounding of iterations into development   
    
 ### Critical Boundary Condition ([Manic Episode](the-manic-episode.md))   
@@ -138,17 +137,17 @@ Cumulative (Months–Years):
 - Identity-level transformation manifests   
    
 ### Field Viability vs. Time   
-- Field Viability (Level 2) is a session-level diagnosis of whether the current iteration is metabolically possible under (Sₑ ⊗ Sₜ) calibrated to mismatch(D,C).   
-- Time (Level 4) is the medium through which iterations accumulate, recovery becomes possible, consolidation occurs, and Capacity compounds.   
+- Field Viability is a session-level diagnosis of whether the current iteration is metabolically possible under (Sₑ ⊗ Sₜ) calibrated to mismatch(D,C).   
+- Time is the medium through which iterations accumulate, recovery becomes possible, consolidation occurs, and Capacity compounds.   
    
 ### Relations (Wiring)   
 - Component Of: [Third Intelligence](third-intelligence.md) Tetrad (fourth element)   
 - Enables: Flywheel effect, cumulative C growth, pattern recognition across Journal   
 - Provides: Spacing for Sₑ recovery, consolidation for insights   
 - Required For: Sustainable transformation (trajectory), not just isolated productive sessions   
-- Validated By: Manic Episode (collapse when spacing is violated; false viability under Sₑ depletion)   
+- Validated By: [Manic Episode](the-manic-episode.md) (collapse when spacing is violated; false viability under Sₑ depletion)   
 - Distinct From: Field Viability variables (Sₑ, Sₜ, D, C, mismatch(D,C)) — Time is a dimensional medium, not a session-state variable   
-- Interacts With: Journal (accumulation requires duration), Human (recovery requires spacing), [Recursive Loop](recursive-metabolic-loop.md) (iteration requires time)   
+- Interacts With: Journal (accumulation requires duration), Human (recovery requires spacing), [Recursive Metabolic Loop](recursive-metabolic-loop.md) (cycles require time to complete and accumulate)   
    
 ### Notes   
 Time is not “things take time.” It is an architectural component that makes cumulative transformation possible.

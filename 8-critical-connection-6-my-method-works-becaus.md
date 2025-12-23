@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:31:24Z"
@@ -16,6 +18,7 @@ Links:
     - alpha-function.md
     - felt-sense.md
     - recursive-metabolic-loop.md
+    - c-capacity.md
 id: bafyreifd6755px3jaikist5djqdxxzkb6lp5utf5vw3ymxovl3nje2xbzy
 ---
 # 8. CRITICAL CONNECTION #6: My Method Works Because It Engages Both Channels   
@@ -43,7 +46,7 @@ From NoteBook 2 perspective:
 THE SYNTHESIS: My method succeeds because it forces both channels to work together:   
 - Prevents bypass of [felt sense](felt-sense.md) verification by requiring Channel 1 check-ins   
 - Can't avoid semantic articulation (Channel 2 required)   
-- [Journal](journal.md) materialization recruits Channel 2 articulation and enables Channel 1 re-checking through recursive return.   
-- [Recursive loop](recursive-metabolic-loop.md)s strengthen your capacity (C) over time by repeatedly integrating Channel 2 material through Channel 1 verification.   
+- [Journal](journal.md) materialization recruits Channel 2 articulation and enables Channel 1 re-checking through return to the durable trace.   
+- Completed [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles strengthen your [capacity](c-capacity.md) (C) over time when integration reaches crystallization → materialization → re-entry as a new baseline.   
    
    

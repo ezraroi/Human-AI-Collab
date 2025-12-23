@@ -13,11 +13,12 @@ Backlinks:
     - dialogical-knowing.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - ai.md
     - section-10-the-grand-unification.md
+    - epistemological-humility.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - recursive-pattern-verification-loop.md
     - protein-shake-brain-psb.md

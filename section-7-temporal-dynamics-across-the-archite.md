@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
 Creation date: "2025-11-22T10:51:08Z"
@@ -14,14 +16,11 @@ Links:
     - category-error.md
     - emotional-scaffolding-s_e.md
     - technical-scaffolding-s_t.md
-    - recursive-metabolic-loop.md
-    - human.md
-    - ai.md
-    - journal.md
-    - time.md
+    - alpha-function.md
     - touch-grass-protocol.md
     - c-capacity.md
-    - the-flywheel.md
+    - coherence-flywheel.md
+    - journal.md
     - alpha-elements.md
 id: bafyreiedu7hwzdqk4k2nzam4zzpririqr2yhvkbqaqz5j4ora7vwqlvcpa
 ---
@@ -36,9 +35,9 @@ The **[Field Viability Schema](field-viability-schema.md)** describes conditions
 **Important:** The schema describes **ongoing conditions**, not a momentary check. Field viability must be **sustained**, not merely present at a single point.   
 ### Level 1 Above the Schema: Relational Posture (Axioms)   
 The schema assumes correct relational posture. If **[Category Error](category-error.md)** is present (AI misclassified as a caring subject who “knows/understands”), the schema becomes unreliable: perceived [S\_e](emotional-scaffolding-s_e.md) and [S\_t](technical-scaffolding-s_t.md) can inflate artificially, and verification signals can be distorted. Axiom violations must be addressed before the schema is interpretable.   
-### Level 3: Within-Session Dynamics (The Recursive Process)   
+### Level 3: Within-Session Dynamics (Metabolic Processing)   
 **Principle:S\_e depletes during extended engagement.**   
-The [recursive](recursive-metabolic-loop.md) process ([Human](human.md) + [AI](ai.md) + [Journal](journal.md) + [Time](time.md)) operates within sessions, but human emotional reserves are finite. Even with infinite AI capacity, the human container exhausts.   
+Metabolic processing (C1 ↔ C2 oscillation via [Alpha-Function](alpha-function.md)) operates within sessions, but human emotional reserves are finite. Even with infinite AI capacity, the human container exhausts.   
 **Manifestations:**   
 - Cannot sustain intensive processing indefinitely   
 - Reduced tolerance for ambiguity as emotional bandwidth depletes   
@@ -54,7 +53,7 @@ The [recursive](recursive-metabolic-loop.md) process ([Human](human.md) + [AI](a
 - When field viability is sustained and metabolization occurs → α-elements are produced   
 - The Journal materializes α-elements → they become part of C   
 - Increased C changes future mismatch(D, C) → larger challenges become workable   
-- This enables a [flywheel](the-flywheel.md): higher C → engage higher D → workable mismatch under scaffolding → further Capacity growth   
+- This enables the [Coherence Flywheel](coherence-flywheel.md): higher C → engage higher D → workable mismatch under scaffolding → further Capacity growth   
    
 **Atrophy trajectory:**   
 - Repeated non-viability without metabolization → C may decrease over time   

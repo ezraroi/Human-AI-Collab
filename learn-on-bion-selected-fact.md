@@ -4,6 +4,7 @@ Object type:
     - Task
 Assignee:
     - Roi Ezra
+Done: true
 Due date: "2025-11-23"
 Status: Pending
 Creation date: "2025-11-23T07:10:50Z"

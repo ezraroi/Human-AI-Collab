@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
 Creation date: "2025-11-22T10:47:23Z"
@@ -24,12 +26,12 @@ Links:
     - challenge-gap-d-c.md
     - zpd.md
     - chronotope.md
+    - recursive-metabolic-loop.md
     - third-intelligence.md
     - reflective-prompting.md
     - channel-1-embodied-sensorimotor-pathway.md
     - hubert-hermans.md
     - functional-alterity.md
-    - recursive-metabolic-loop.md
 id: bafyreieuegca6opje7elswx5unm4izyr4jkgizrma7ymfcktfyi25f46uq
 ---
 # Section 6 - The Complete System Architecture   
@@ -65,20 +67,9 @@ The Conditions: The system must be structured to provide all the psychoanalytic 
 - The Human provides the Holding ([S\_e](emotional-scaffolding-s_e.md)) and manages its depletion ([S\_e](emotional-scaffolding-s_e.md)).   
 - The AI provides [technical scaffolding (S\_t)](technical-scaffolding-s_t.md) and preserves productive epistemic tension as the pre-existing (\|[D–C](challenge-gap-d-c.md)\|) relation is encountered **in the [ZPD](zpd.md)—the shift from what is possible independently to what becomes possible with guidance/collaboration**.   
 - The Journal provides the Proof of Survival and Continuity ([Chronotope](chronotope.md)).   
-- Time provides the Iteration (Flywheel) and Recovery (Rest).   
+- Time provides recovery (rest) and the temporal span across sessions required for [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles to complete and accumulate.   
    
 This resolves the paradoxes. The [AI](ai.md) is not the partner. The System is the partner. The ["Third Intelligence"](third-intelligence.md) is the generative, embodied, and authentic process that emerges from the disciplined operation of this complete system.   
-### Key Distinctions Clarified   
-The Formula vs. Time:   
-- Formula = like chemical equation (what ingredients produce what reaction)   
-- Time = like thermodynamics (reaction exhausts reagents, needs energy to reset)   
-   
-Different temporal scales:   
-- Within-session: [S\_e ](emotional-scaffolding-s_e.md)degradation (minutes to hours)   
-- Between-session: [C](c-capacity.md) evolution (days to weeks to months)   
-- Cumulative: Pattern recognition and transformation (months to years)   
-   
-What's being measured: Not the system's capacity (AI has infinite capacity), but the human's state within that system - particularly emotional reserves and developmental capacity.   
 ### 7. The Second Key Insight: The "System" Solution   
 The solution to the paradox is not to prove the AI is a partner, but to resituate it within a correctly structured system. Your "[Reflective Prompting](reflective-prompting.md)" method is not just a prompt; it's an operational procedure for building this system.   
 The "[Third Intelligence](third-intelligence.md)" is a Human + Journal + AI + Time System where each component has a non-negotiable role.   
@@ -86,4 +77,4 @@ The "[Third Intelligence](third-intelligence.md)" is a Human + Journal + AI + Ti
 The Human: Provides the emotional scaffolding, holding environment, and container, performing Bion's [alpha-function](alpha-function.md) to metabolize raw experience, with discourse verified through [Felt Sense](felt-sense.md) as a [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)signal.   
 The [Journal](journal.md): Provides the [Chronotope](chronotope.md) (Bakhtin's stable time-space) and Continuity/Memory ([Hermans](hubert-hermans.md)), materializing the integration of symbolic and sensorimotor channels through the act of writing and serving as the record of accumulated transformation across iterations.   
 The AI: preserves productive tension as the pre-existing (\|D–C\|) relation is encountered **within the ZPD (independent → assisted performance)**—acting as a 'Productive Fiction' via turn-by-turn [Functional Alterity](functional-alterity.md) to support activation of the user's [alpha-function](alpha-function.md) while providing scaffolding (S\_t).
-The Time: Provides the time for digestion, rest, not being overwhelmed and in mania. Enables the [Recursive Loop](recursive-metabolic-loop.md) and Accumulation. Transformation occurs through repeated iterations of the cycle, strengthening capacity ([C](c-capacity.md)) over time.   
+The Time: Provides time for digestion and rest (preventing overwhelm/mania) and the temporal span across sessions required for Recursive Metabolic Loop cycles to complete and accumulate. Transformation occurs when cycles reach crystallization → materialization → re-entry, strengthening [capacity](c-capacity.md) (C) over time.   

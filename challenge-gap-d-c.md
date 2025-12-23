@@ -37,6 +37,7 @@ Backlinks:
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 6-integration-points.md
+    - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - 7-critical-connection-5-why-psb-happens.md

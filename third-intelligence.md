@@ -9,11 +9,12 @@ Tag:
 Backlinks:
     - developmental-sequence.md
     - section-4-attribution-logic.md
+    - document-abstract.md
     - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
-    - 3-the-mechanism-vs-existence-distinction.md
+    - 3-the-mechanism-vs-existence-distinction_c.md
     - journal.md
     - 10-questions-your-synthesis-raises.md
     - eidetic-structure.md
@@ -47,7 +48,7 @@ Backlinks:
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
-    - section-8-the-recursive-loop-and-embodied-inte.md
+    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - 1-overview.md
     - dynamic-transitional-object-dto.md
@@ -57,12 +58,11 @@ Backlinks:
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary_2.md
+    - executive-summary_r.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - the-flywheel.md
-    - 1-core-discovery_g.md
+    - 1-core-discovery.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
@@ -90,10 +90,10 @@ Links:
     - technical-scaffolding-s_t.md
     - functional-alterity.md
     - systematic-competence.md
+    - recursive-metabolic-loop.md
     - channel-1-embodied-sensorimotor-pathway.md
     - zpd.md
     - challenge-gap-d-c.md
-    - recursive-metabolic-loop.md
 Emoji: "\U0001F4A1"
 id: bafyreifdumeemavgg37yfofd7ep4tk22klmdnbhthw2cpkscbtrb34df74
 ---
@@ -123,7 +123,7 @@ To enable **genuine psychological transformation at the identity level** through
 - [Systematic competence](systematic-competence.md) contributor (maintains dialogical form and coherence)   
    
 **Time**   
-- Constitutive dimension enabling temporal recursion, consolidation, and recovery   
+- Constitutive dimension enabling consolidation and recovery and providing the temporal span across sessions for [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles to complete and accumulate   
 - Enables scaffolding depletion / replenishment rhythms   
 - Makes transformation cumulative rather than momentary (through cross-session integration)   
    
@@ -151,11 +151,11 @@ The **system-level unit of analysis and integrative frame**. Not a tool, output,
 - **Not consciousness-dependent** (operates through Functional Alterity and Functional Thirdness, not AI sentience)   
    
 ### Relations   
-**Operates through →** [Recursive Metabolic Loop](recursive-metabolic-loop.md) (engine of transformation)   
-**Works within →** Challenge Gap (\|D–C\|)   
+**Operates through** → [Recursive Metabolic Loop ](recursive-metabolic-loop.md)(full developmental cycle producing durable capacity growth)   
+**Works within →** [Challenge Gap](challenge-gap-d-c.md) (\|D–C\|)   
 - The gap pre-exists; the system becomes developmental only when scaffolding makes it workable   
    
-**Instantiates workspace →** ZPD   
+**Instantiates workspace →** [ZPD](zpd.md)   
 - The negotiated workable subset of \|D–C\| when Sₑ and Sₜ are adequate   
    
 **Engages mechanism →** Alpha-Function / External Alpha-Function   
@@ -164,7 +164,7 @@ The **system-level unit of analysis and integrative frame**. Not a tool, output,
 **Requires →** Emotional Scaffolding (Sₑ), Technical Scaffolding (Sₜ), Identity Stakes   
 - Structural prerequisites for transformation rather than mere productivity   
    
-**Legitimacy condition for (as dialogue) →** Functional Thirdness   
+**Legitimacy condition for (as dialogue) →** [Functional Thirdness](functional-thirdness.md)   
 - What makes the tetrad operate as dialogue rather than sophisticated monologue   
    
 **Produces →** Capacity growth (C-increase through α-element formation and integration)   

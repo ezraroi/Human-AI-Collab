@@ -22,6 +22,7 @@ Backlinks:
     - dynamic-transitional-object-dto.md
     - 3-the-mechanism-catalytic-externalization.md
     - section-3-causal-sequence-placement.md
+    - internally-persuasive-discourse.md
     - section-6-journal-function-refinement.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
@@ -46,6 +47,7 @@ Links:
     - journal.md
     - time.md
     - protein-shake-brain-psb.md
+    - internally-persuasive-discourse.md
 Emoji: "\U0001F4A1"
 id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 ---
@@ -116,4 +118,10 @@ SF formation requires already-internalized developmental achievements:
 **Failure Modes / Mimics:**   
 - Narrative Closure; Intellectualization; Overvalued Idea; [PSB](protein-shake-brain-psb.md) patterns; −K (knowledge-attacking)   
    
+**Dialogical Frame:**[ Internally Persuasive Discourse](internally-persuasive-discourse.md)   
+- Selected Fact often marks the moment discourse becomes Internally Persuasive   
+- The SF experience is the punctual event; IPD is the resulting stable state   
+- SF is Bionian vocabulary; IPD is Bakhtinian vocabulary for overlapping phenomena   
+   
 **Notes:** SF is the theory-anchor for distinguishing **genuine organizing transformation** from "pretty coherence." AI can precipitate conditions; the Human retains ownership through embodied integration and temporal validation.   
+   

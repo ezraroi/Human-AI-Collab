@@ -21,6 +21,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - salience-network-core-aic-dacc.md
     - extended-mind-hypothesis-hec.md
+    - authoritative-discourse.md
     - executive-summary.md
     - iron-man-mentality.md
     - human.md
@@ -56,7 +57,8 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary_q.md
+    - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

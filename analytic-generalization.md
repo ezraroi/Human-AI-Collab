@@ -8,8 +8,8 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Static'
 Backlinks:
-    - 4-analytic-vs-statistical-generalization_3.md
-    - 3-the-mechanism-vs-existence-distinction.md
+    - 4-analytic-vs-statistical-generalization.md
+    - 3-the-mechanism-vs-existence-distinction_c.md
     - 7-the-three-legged-stool-of-defense.md
 Origin Domain:
     - Qualitative Research Methodology

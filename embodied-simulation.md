@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
+    - embodied-cognition.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

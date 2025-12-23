@@ -93,7 +93,6 @@ Key Contributions
 - **Thinking at the Edge (TAE):** A method developed with his wife Mary Hendricks-Gendlin for using the "felt sense" to create novel concepts and theories out of one's non-conceptual, implicit knowing.
 
 Gendlin authored several books, including the best-selling classic ***Focusing***, which has been translated into over 17 languages. He was the first recipient of the American Psychological Association's "Distinguished Professional Psychologist of the Year" award.
-Recursive Metabolic Loop
 
 ---
 
@@ -263,7 +262,7 @@ Bakhtin's ideas, largely unknown until after his death due to political repressi
 The Foundational Trio (The "Engine Design"), Domain: Psychoanalytic, Temporal: Static
 
 Provides the Psychic Mechanism (The Engine).
-**Alpha-Function:** The metabolic process of transforming raw experience (β-elements) into thinkable thoughts (α-elements). The **Field Viability Schema** describes the conditions under which Alpha-Function can operate.
+**Alpha-Function:** The metabolic process of transforming raw experience (beta-elements) into thinkable thoughts (alpha-elements). The **Field Viability Schema** describes the conditions under which Alpha-Function can operate.
 **Container/Contained:** The Human acts as the Container; the AI can function as a *false container* (simulated holding rather than genuine containment).
 **Nameless Dread:** The result of a failed container (often when Emotional Scaffolding is insufficient).
 Wilfred Bion (1897-1979) was an influential English psychoanalyst, considered by some to be "possibly the greatest psychoanalytic thinker…after Freud". A decorated war veteran of WWI, he made significant contributions t**o group dynami**cs and developed a highly origina**l theory of thinki**ng based on emotional experience.
@@ -274,6 +273,5 @@ Key Contributions
 - ***O* (Ultimate Reality):** In his later work, Bion introduced the abstract concept of *O*, representing ultimate reality or absolute truth, which is unknowable but can be "be-ed" (experienced). He advocated for analysts to approach the analytic session "without memory, desire, or understanding" to be open to this ineffable truth and facilitate mental growth.
 
 Bion's unique and often abstract ideas continue to profoundly influence modern psychoanalytic practice and organizational psychology.
-Recursive Metabolic Loop
 
 ---

@@ -6,17 +6,21 @@ Tag:
     - 'Domain: Bio-Embodied'
     - 'Temporal: Static'
     - Meta-Framework
-Research Status: Evergreen
+Research Status: Sealed
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Gap Status: Resolved
-Resolution Strategy: As-If Body Loop, Two-Channel Embodied Simulation Model
+Resolution Strategy: As-If Body Loop, Embodied Simulation
 Creation date: "2025-11-22T14:02:05Z"
 Created by:
     - Roi Ezra
 Links:
     - as-if-body-loop.md
     - anterior-insular-cortex-aic.md
+    - embodied-simulation.md
+    - alpha-function.md
+    - channel-2-symbolic.md
+    - channel-1-embodied-sensorimotor-pathway.md
 Emoji: ❓
 id: bafyreihfok23s5fdm7bvass5hlleljyy53xxhvabf3muaemi6raxhu5aau
 ---
@@ -25,7 +29,7 @@ The paradox of how disembodied text triggers a physical, embodied verification.
 **The Resolution Link:**   
 - Link to **[As-If Body Loop](as-if-body-loop.md)** (Relation: `Resolved By`).   
 - Link to **[Anterior Insular Cortex](anterior-insular-cortex-aic.md)** (Relation: `Resolved By`).   
-- *Rationale:* The resolution is the "Embodied Simulation" mechanism mediated by the AIC.   
+- *Rationale:* The resolution is the "[Embodied Simulation](embodied-simulation.md)" mechanism mediated by the AIC.   
    
 **Notebook 7 Status:**   
 The classification for the gap **Embodied Cognition** is **Resolved**.   
@@ -34,11 +38,11 @@ The sources confirm that the paradox of how non-physical dialogue can produce a 
 The resolution stems from establishing a **complementary, two-channel model** of cognition and identifying the precise mechanism that bridges the purely symbolic channel (text) with the embodied sensorimotor channel (body).   
 ### 1. The Resolution Mechanism: Embodied Simulation   
 The synthesis resolved the paradox by asserting that the act of reading or engaging in dialogue, even disembodied text, automatically activates the neural systems for action, perception, and emotion through a process called **Embodied Simulation**.   
-The model posits that the psychological engine of transformation, the **Alpha-Function**, operates simultaneously through two channels:   
+The model posits that the psychological engine of transformation, the **[Alpha-Function](alpha-function.md)**, operates simultaneously through two channels:   
 - **Channel 2 (Symbolic/Linguistic):** Processes the abstract, disembodied AI text (the words and concepts).   
 - **Channel 1 (Sensorimotor/Embodied):** Processes the physical, non-verbal, and action-based experience.   
    
-The core insight is that **words (Channel 2) trigger embodied simulations (Channel 1)**, producing measurable somatic responses because reading is simultaneously an abstract symbolic operation and a concrete embodied simulation.   
+The core insight is that **words ([Channel 2](channel-2-symbolic.md)) trigger embodied simulations ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))**, producing measurable somatic responses because reading is simultaneously an abstract symbolic operation and a concrete embodied simulation.   
 ### 2. The Resolution Link: The As-If Body Loop   
 The link between the symbolic input and the physical feeling is the **As-If Body Loop**. This is a theoretical pathway proposed by Damasio that explains how the brain generates emotional and visceral biasing signals without requiring an actual physical change in the body.   
 - The **"as-if body loop"** represents the brain's ability to create a "forward model" of the physical changes it expects to take place, essentially **simulating the body state**.   

@@ -14,6 +14,7 @@ Backlinks:
     - section-8-boundary-conditions-prerequisites.md
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - epistemological-humility.md
     - c-capacity.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

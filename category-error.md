@@ -15,12 +15,14 @@ Backlinks:
     - embodied-engagement-conditions.md
     - section-5-the-category-error-relational-axis-f.md
     - 2-clarifying-the-category-error-against-the-dt.md
+    - authoritative-discourse.md
     - channel-2-symbolic.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - internalized-holding-function-post-interperson.md
-    - executive-summary_3.md
+    - executive-summary_6.md
     - human.md
+    - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - the-container.md
@@ -30,17 +32,19 @@ Backlinks:
     - 8-common-misuses-and-anti-patterns.md
     - 9-final-integration-principles.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope_o.md
+    - 1-purpose-and-scope_u.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - epistemological-humility.md
     - reward-reinforcement-circuitry.md
+    - cognitive-dependency.md
     - 7-what-each-framework-gains-from-integration.md
+    - 4-the-neurophenomenological-parallel.md
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - 6-integration-points.md
     - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
-    - field-viability-schema.md
     - alpha-function.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md

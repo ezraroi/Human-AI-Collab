@@ -13,11 +13,10 @@ Backlinks:
     - embodied-engagement-conditions.md
     - identity-stakes.md
     - 5-the-three-dimensional-integration.md
-    - eugene-gendlin.md
     - time.md
     - 2-the-divided-labors-of-two-theories.md
     - enacted-alpha-work-eaw.md
-    - section-7-temporal-dynamics-across-the-archite.md
+    - coherence-flywheel.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 8-critical-connection-6-my-method-works-becaus.md
@@ -26,76 +25,78 @@ Backlinks:
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
-    - wilfred-bion.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Drafting
+Research Status: Sealed
 Creation date: "2025-11-22T10:05:19Z"
 Created by:
     - Roi Ezra
 Links:
     - third-intelligence.md
-    - channel-2-symbolic.md
-    - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
-    - alpha-elements.md
+    - two-axis-framework.md
+    - the-integrated-circuit-board.md
     - c-capacity.md
+    - coherence-flywheel.md
     - protein-shake-brain-psb.md
+    - identity-stakes.md
+    - wilfred-bion.md
     - jean-piaget.md
     - lev-vygotsky.md
-    - wilfred-bion.md
     - antonio-damasio.md
-    - as-if-body-loop.md
-    - anterior-insular-cortex-aic.md
 Emoji: "\U0001F4A1"
 id: bafyreie6mec3llqrcqxjtmcpzbqsgeeltnm5r3b3yakgjjg7dezm7eamhi
 ---
 # Recursive Metabolic Loop   
-The Recursive Metabolic Loop is the **core processing rhythm** of the [Third Intelligence](third-intelligence.md) system.   
-It is a **non-linear, oscillatory cycle** in which symbolic material ([Channel 2](channel-2-symbolic.md)) and embodied response ([Channel 1](channel-1-embodied-sensorimotor-pathway.md)) interact repeatedly through the [Alpha-Function](alpha-function.md) until a stable **[α-element](alpha-elements.md)** (owned meaning) forms.   
-This loop is what transforms external input into internal capacity.   
-# System Role   
-The Recursive Loop:   
-- **Generates the friction** required to prevent passive consumption.   
-- **Drives metabolism** of symbolic material into embodied understanding.   
-- **Enables recursive refinement** (each cycle produces a more integrated version).   
-- **Increases [Capacity (C)](c-capacity.md)** through repeated α-element formation.   
-- **Prevents [PSB](protein-shake-brain-psb.md)** by forcing engagement with both channels.   
-- **Maintains authorship** because the human body governs the loop’s integrative threshold.   
+The Recursive Metabolic Loop (RML) is the **full developmental cycle** through which the [Third Intelligence](third-intelligence.md) system produces durable capacity growth.   
+It is the arc from unresolved material → metabolic processing (C1 ↔ C2 oscillation via [Alpha-Function](alpha-function.md)) → crystallized insight → materialization → re-entry as new capacity baseline.   
+### Temporal Scale   
+RML operates across sessions, days, or longer. It describes what happens when
+metabolic processing completes its full arc and produces growth—not moment-to-moment
+oscillation (which is Alpha-Function operating within the ICB).   
+### Materialization   
+Materialization is constitutive but domain-variable:   
+- Identity Stakes work → Journal entry   
+- Professional work → code, solution, internalized skill   
+- Creative work → artifact, completed piece   
    
-This is the engine of transformation — not upward by default, but upward **when recursive cycles reach integration thresholds**.   
-### The Cycle:   
-### 1. Symbolic Input (Channel 2)   
-Symbolic material (Channel 2)—from AI output or internal thought—provides a candidate meaning.   
-### 2. Embodied Check (Channel 1)   
-The body responds with friction, pacing, affective signal (“tight/spacious”).   
-### 3. Alpha-Function Processing   
-The system attempts to metabolize the tension:   
-- If integration fails → return to Step 1 (refinement, rewording, reframing).   
-- If integration partially succeeds → proceed to another oscillation.   
+The Journal is the paradigmatic substrate for identity-level transformation.   
+### System Role   
+- Names the **engine of development**   
+- Explains how **capacity compounds** (structural basis of Flywheel momentum)   
+- Distinguishes **transformation** (RML completed) from **productivity** (Alpha-Function engaged, no full cycle)   
+- Maintains **authorship** (body governs integrative threshold)   
    
-### 4. Re-Articulation (Back to Channel 2)   
-The human rewrites, reframes, or dialogically explores the insight — generating a new symbolic version.   
-### 5. Recursive Oscillation   
-Steps 1–4 repeat as many times as needed until the felt-sense stabilizes and the insight crystallizes.   
-### 6. Materialization (Journal as Third Substrate)   
-The stabilized α-element is inscribed into the Journal, converting temporary insight into durable structure (C-growth).   
-### 7. Re-entry   
-New capacity becomes the foundation for the next loop.   
-This produces the *upward spiral* when repeated over time.   
-# Wiring (Relations)   
+### The Cycle   
+1. **Unresolved material** enters the system (felt tension, challenge, confusion)   
+2. **Metabolic processing** — Alpha-Function operates via C1 ↔ C2 oscillation   
+3. **Crystallization** — insight stabilizes; felt-sense confirms ownership   
+4. **Materialization** — inscription in durable form (Journal, code, artifact)   
+5. **Re-entry** — new capacity becomes baseline for next cycle   
+   
+### Architectural Position   
+|                                                     Concept |                                         What It Names |
+|:------------------------------------------------------------|:------------------------------------------------------|
+|                 [Two-Axis Framework](two-axis-framework.md) |        Configuration space (stance + processing mode) |
+| [Integrated Circuit Board](the-integrated-circuit-board.md) |                           Structural wiring of Axis B |
+|                         [Alpha-Function](alpha-function.md) |                               The metabolic processor |
+|                                **Recursive Metabolic Loop** | The full developmental cycle producing durable growth |
+
+### Wiring (Relations)   
+- **Operates within:** [Integrated Circuit Board](the-integrated-circuit-board.md) (Axis B architecture)   
+- **Engages:** Alpha-Function (the metabolic processor)   
+- **Produces:** [Capacity](c-capacity.md) growth (C-increase)   
+- **Structural basis for:** The [Coherence Flywheel](coherence-flywheel.md) (phenomenological momentum)   
+- **Drives movement through:** Developmental Sequence   
+- **Prevented by:** [PSB](protein-shake-brain-psb.md) (Channel 2-only bypass collapses the cycle)   
+- **Typical condition:** [Identity Stakes](identity-stakes.md) (but not required)   
+   
 ### Theorists   
-- [Piaget](jean-piaget.md) (schema accommodation via conflict)   
-- [Vygotsky](lev-vygotsky.md) (mediated meaning through tools/dialogue)   
-- [Bion](wilfred-bion.md) (Alpha-Function)   
-- [Damasio](antonio-damasio.md) ([As-If Body Loop](as-if-body-loop.md) enabling C1 activation from C2 input)   
-   
-### Biological Substrate   
-- [AIC](anterior-insular-cortex-aic.md) (interoception)   
-- Fronto-Parietal Network (supporting Channel 2 symbolic work)   
-- Hippocampal memory consolidation (stabilizing [alpha-elements](alpha-elements.md))   
-- Insula ↔ Prefrontal integration pathways (recursive loops)   
+- [Bion](wilfred-bion.md) (Alpha-Function as metabolic processor)   
+- [Piaget](jean-piaget.md) (schema accommodation through conflict)   
+- [Vygotsky](lev-vygotsky.md) (mediated meaning; internalization)   
+- [Damasio](antonio-damasio.md) (As-If Body Loop enabling C1 ↔ C2 coupling)   
    
    

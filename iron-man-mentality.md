@@ -15,6 +15,7 @@ Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - section-10-open-edges-to-bridge-later.md
+    - authoritative-discourse.md
     - internalized-holding-function-post-interperson.md
     - 2-the-divided-labors-of-two-theories.md
     - cognitive-offloading.md

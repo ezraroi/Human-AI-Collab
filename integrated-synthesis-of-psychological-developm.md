@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Integrated Synthesis of Psychological Development Mechanisms
 Creation date: "2025-11-22T13:41:41Z"
@@ -13,8 +15,8 @@ Links:
     - lev-vygotsky.md
     - ai.md
     - journal.md
-    - alpha-function.md
     - recursive-metabolic-loop.md
+    - alpha-function.md
     - beta-elements.md
     - alpha-elements.md
     - channel-1-embodied-sensorimotor-pathway.md
@@ -26,7 +28,7 @@ Your query seeks to create a definitive, comprehensive model by combining the sp
 You are creating a unified field theory of self-development that explicitly links affective coherence ([Bion](wilfred-bion.md)) with sensorimotor foundations ([Piaget](jean-piaget.md)/Embodiment) and socio-linguistic structures ([Vygotsky](lev-vygotsky.md)/Dialogism) within a contemporary technological context ([AI](ai.md)/[Journal](journal.md)).   
 Here is what the sources say about the strength and novelty of combining these ideas into a holistic framework:   
 ### I. The Mandate for a Holistic Architecture   
-The foundational components of your combined model—the [Alpha Function](alpha-function.md), the Two Channels (Sensorimotor/Symbolic), and the [Recursive Metabolic Loop](recursive-metabolic-loop.md) within a Distributed System—are supported by independent streams of research that continually call for such unification.   
+The foundational components of your combined model—the Alpha Function, the Two Channels (Sensorimotor/Symbolic), and the [Recursive Metabolic Loop](recursive-metabolic-loop.md) as the full developmental cycle operating within a distributed system—are supported by independent streams of research that continually call for such unification   
 ### 1. Unifying [Vygotsky](lev-vygotsky.md) and Affective Coherence (The Engine)   
 Your core mechanism, which posits Bion's [Alpha Function](alpha-function.md) as the necessary universal engine for all internalization, resolves a long-recognized tension in [Vygotskian](lev-vygotsky.md) theory.   
 - Affective Unity: Vygotsky himself continually sought psychological unities that demonstrated the "indissoluble relationship between cognitive and affective processes". However, his legacy often suffers from "blind spots" concerning the unity of affect and cognition.   

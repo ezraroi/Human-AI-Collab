@@ -11,8 +11,10 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - journal.md
     - extended-mind-hypothesis-hec.md
+    - 6-final-conclusion.md
     - the-large-language-model-as-dynamic-transition.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
+    - 2-the-divided-labors-of-two-theories.md
     - 7-final-conclusion-the-third-intelligence.md
     - systems-consolidation.md
     - 7-what-each-framework-gains-from-integration.md

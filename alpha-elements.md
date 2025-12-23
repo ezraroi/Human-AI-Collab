@@ -17,16 +17,15 @@ Backlinks:
     - conflict-detection-model-repair.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
+    - authoritative-discourse.md
     - self-explanation.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
-    - 2-the-divided-labors-of-two-theories.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
-    - recursive-metabolic-loop.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
     - 7-what-each-framework-gains-from-integration.md
@@ -35,7 +34,6 @@ Backlinks:
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
     - 3-the-13-stage-development-sequence.md
-    - field-viability-schema.md
     - alpha-function.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
@@ -49,6 +47,7 @@ Backlinks:
     - section-6-journal-function-refinement.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
+    - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:

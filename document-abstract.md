@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'The Architecture of the Mind: A Synthesis of Piaget and Vygotsky'
 Creation date: "2025-11-22T14:30:51Z"
@@ -9,19 +11,21 @@ Created by:
     - Roi Ezra
 Links:
     - lev-vygotsky.md
+    - wilfred-bion.md
     - alpha-function.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - wilfred-bion.md
+    - third-intelligence.md
+    - recursive-metabolic-loop.md
     - jean-piaget.md
     - alpha-elements.md
     - llm-embedding.md
     - beta-elements.md
-    - recursive-metabolic-loop.md
 id: bafyreiahfuehapde3aw4zdai6w7d33v5u2fdlsiky7rwxt2qtdfppj76l4
 ---
 # Document Abstract   
-This document outlines a synthesized theory of cognitive development that resolves the long-standing debate between the Piagetian (thought-first) and [Vygotskian](lev-vygotsky.md) (language-first) models. Our central finding is that a single, universal meaning-making engine—Bion's [alpha-function](alpha-function.md)—metabolizes raw experience into thinkable thought. This engine metabolizes [Channel 2](channel-2-symbolic.md) symbolic material through recursive oscillation with [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)embodied sensorimotor/interoceptive evaluation (including action schemas in Piaget’s sense). The primary driver of human development is not a choice between these two, but the continuous, reciprocal feedback loop that operates between them, perpetually co-creating both the individual and their social world. This model moves beyond simple compromise to propose a new, dynamic mechanism for the architecture of the mind.   
+This document outlines a synthesized theory of cognitive development that resolves the long-standing debate between the Piagetian (thought-first) and [Vygotskian](lev-vygotsky.md) (language-first) models. Our central finding is that a single, universal meaning-making engine—[Bion](wilfred-bion.md)'s [alpha-function](alpha-function.md)—metabolizes raw experience into thinkable thought. This engine metabolizes [Channel 2](channel-2-symbolic.md) symbolic material through oscillation with [Channel 1](channel-1-embodied-sensorimotor-pathway.md) embodied sensorimotor/interoceptive evaluation (including action schemas in Piaget's sense). The primary driver of human development is not a choice between these two, but the continuous, reciprocal feedback loop that operates between them, perpetually co-creating both the individual and their social world. This model moves beyond simple compromise to propose a new, dynamic mechanism for the architecture of the mind.   
+In the [Third Intelligence](third-intelligence.md) system, this general developmental dynamic is operationalized as the [Recursive Metabolic Loop](recursive-metabolic-loop.md)—the full cycle from unresolved material through crystallization, materialization, and re-entry as new capacity.   
  --- 
 ### 1. The Initial Question and Hypothesis   
 We began by addressing the core debate: Does thought create language (Piaget), or does language create thought ([Vygotsky](lev-vygotsky.md))?   

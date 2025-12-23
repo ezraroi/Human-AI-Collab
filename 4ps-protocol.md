@@ -13,6 +13,7 @@ Backlinks:
     - reflective-prompting.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - section-5-the-category-error-relational-axis-f.md
+    - authoritative-discourse.md
     - self-explanation.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
@@ -20,6 +21,7 @@ Backlinks:
     - 10-the-integrated-claim.md
     - 7-what-each-framework-gains-from-integration.md
     - 3-the-13-stage-development-sequence.md
+    - internally-persuasive-discourse.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

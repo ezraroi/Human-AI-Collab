@@ -11,6 +11,7 @@ Tag:
     - 'Operational Flags: Pathology'
 Backlinks:
     - section-5-the-category-error-relational-axis-f.md
+    - authoritative-discourse.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - category-error.md
     - 5-worked-diagnostic-examples.md

@@ -23,7 +23,6 @@ Created by:
 Links:
     - felt-sense.md
     - alpha-function.md
-    - recursive-metabolic-loop.md
 Emoji: "\U0001F464"
 id: bafyreicwlzvnukn2xwuxtrzhoz6yzcrj77ubfdomfv7ukoeox4wt7bqxqe
 ---
@@ -39,5 +38,4 @@ Key Contributions
 - **Thinking at the Edge (TAE):** A method developed with his wife Mary Hendricks-Gendlin for using the "felt sense" to create novel concepts and theories out of one's non-conceptual, implicit knowing.   
    
 Gendlin authored several books, including the best-selling classic ***Focusing***, which has been translated into over 17 languages. He was the first recipient of the American Psychological Association's "Distinguished Professional Psychologist of the Year" award.   
-[Recursive Metabolic Loop](recursive-metabolic-loop.md)    
    
