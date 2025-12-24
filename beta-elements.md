@@ -17,7 +17,6 @@ Backlinks:
     - conflict-detection-model-repair.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - self-explanation.md
     - the-large-language-model-as-dynamic-transition.md
     - selected-fact.md
     - human.md

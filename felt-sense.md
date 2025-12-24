@@ -8,13 +8,13 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
-    - 6-translation-existing-practice-as-methodology.md
     - alpha-elements.md
     - 5-the-embodied-connection.md
     - 12-what-this-means-for-your-paper.md
     - minimal-self.md
     - embodied-engagement-conditions.md
     - reflective-awareness.md
+    - 4ps-protocol.md
     - maurice-merleau-ponty.md
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
@@ -22,7 +22,7 @@ Backlinks:
     - salience-network-core-aic-dacc.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary_s.md
+    - executive-summary.md
     - iron-man-mentality.md
     - human.md
     - eugene-gendlin.md
@@ -49,13 +49,14 @@ Backlinks:
     - internally-persuasive-discourse.md
     - emotional-scaffolding-s_e.md
     - negative-capability.md
+    - cognitive-mirror-protege-mode.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - 5-worked-diagnostic-examples.md
     - mikhail-bakhtin.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_b.md
+    - 1-executive-summary_x.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

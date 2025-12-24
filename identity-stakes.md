@@ -12,7 +12,9 @@ Backlinks:
     - reflective-prompting.md
     - destiny-drive.md
     - embodied-engagement-conditions.md
+    - 4ps-protocol.md
     - holding-environment.md
+    - cognitive-style-bias.md
     - 3-diagnostic-workflow.md
     - 2-the-divided-labors-of-two-theories.md
     - d-difficulty.md
@@ -20,11 +22,14 @@ Backlinks:
     - 8-common-misuses-and-anti-patterns.md
     - recursive-metabolic-loop.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - readiness-probes.md
     - 3-the-13-stage-development-sequence.md
     - 7-research-usage.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
+    - activation-conditions.md
     - emotional-scaffolding-s_e.md
+    - cognitive-mirror-protege-mode.md
     - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis

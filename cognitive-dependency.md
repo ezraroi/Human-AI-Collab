@@ -18,6 +18,7 @@ Backlinks:
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - category-error.md
+    - activation-conditions.md
     - the-unified-architecture.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

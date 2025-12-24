@@ -13,6 +13,7 @@ Backlinks:
     - reverie.md
     - beta-elements.md
     - conflict-detection-model-repair.md
+    - self-explanation.md
     - selected-fact.md
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md

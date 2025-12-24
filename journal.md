@@ -23,6 +23,7 @@ Backlinks:
     - 12-what-this-means-for-your-paper.md
     - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
+    - 4ps-protocol.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - ai-project-claude-project-chatgpt-project.md
     - the-journal-in-system-context.md
@@ -34,14 +35,13 @@ Backlinks:
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary_s.md
+    - executive-summary.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
-    - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_0.md
+    - executive-summary_j.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -65,6 +65,7 @@ Backlinks:
     - 9-final-integration-principles.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - reward-reinforcement-circuitry.md
     - systems-consolidation.md
@@ -102,13 +103,14 @@ Backlinks:
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md
     - internally-persuasive-discourse.md
     - section-6-journal-function-refinement.md
     - final-definition.md
+    - cognitive-mirror-protege-mode.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - chronotope.md

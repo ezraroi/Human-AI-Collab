@@ -11,6 +11,7 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
+    - reflective-prompting.md
     - cognitive-artifact.md
     - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
@@ -20,9 +21,9 @@ Backlinks:
     - dialogical-knowing.md
     - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
+    - 4ps-protocol.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - section-9-container-as-function-authorization.md
-    - section-5-the-category-error-relational-axis-f.md
     - ai-project-claude-project-chatgpt-project.md
     - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
@@ -34,7 +35,8 @@ Backlinks:
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_s.md
+    - executive-summary.md
+    - cognitive-style-bias.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - llm-embedding.md
@@ -43,7 +45,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_0.md
+    - executive-summary_j.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -62,6 +64,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - gap-filling-inference-generation.md
     - 10-the-integrated-claim.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - epistemological-humility.md
     - reward-reinforcement-circuitry.md
     - section-6-the-complete-system-architecture.md
@@ -88,13 +91,14 @@ Backlinks:
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
     - section-6-journal-function-refinement.md
+    - cognitive-mirror-protege-mode.md
     - 11-what-youve-actually-discovered-meta-level.md
     - 5-worked-diagnostic-examples.md
     - unified-architecture-neurobiological-resolutio.md

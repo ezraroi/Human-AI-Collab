@@ -16,11 +16,12 @@ Backlinks:
     - section-5-the-category-error-relational-axis-f.md
     - 2-clarifying-the-category-error-against-the-dt.md
     - authoritative-discourse.md
+    - cognitive-style-bias.md
     - channel-2-symbolic.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - protected-self-holding-principle.md
-    - executive-summary_0.md
+    - executive-summary_j.md
     - human.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
@@ -42,7 +43,9 @@ Backlinks:
     - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - 6-integration-points.md
+    - readiness-probes.md
     - 3-the-13-stage-development-sequence.md
+    - the-doing-both-hypothesis.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
@@ -50,7 +53,9 @@ Backlinks:
     - protein-shake-brain-psb.md
     - neuroscience-of-transformation.md
     - functional-thirdness.md
+    - activation-conditions.md
     - emotional-scaffolding-s_e.md
+    - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
     - 4-the-critical-ontological-distinction.md

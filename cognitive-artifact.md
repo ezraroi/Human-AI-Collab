@@ -7,7 +7,6 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Dynamic'
 Backlinks:
-    - section-5-the-category-error-relational-axis-f.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
 Origin Domain:

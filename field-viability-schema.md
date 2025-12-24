@@ -12,25 +12,29 @@ Backlinks:
     - kurt-lewin.md
     - developmental-sequence.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction.md
+    - 3-the-mechanism-vs-existence-distinction_6.md
+    - cognitive-style-bias.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - section-1-introduction-and-framework-positioning.md
     - digital-neurophenomenology.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
-    - 1-purpose-and-scope_w.md
+    - 1-purpose-and-scope_j.md
     - d-difficulty.md
     - challenge-gap-d-c.md
     - 8-common-misuses-and-anti-patterns.md
     - section-10-the-grand-unification.md
     - section-7-temporal-dynamics-across-the-archite.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - 7-what-each-framework-gains-from-integration.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - two-axis-framework.md
+    - analytic-generalization.md
     - psychoanalytic-integration.md
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - section-13-significance-and-forward-direction.md
+    - activation-conditions.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
@@ -117,6 +121,13 @@ The Field Viability Schema functions as the **Viability Envelope** within which 
 The [Two-Axis Framework](two-axis-framework.md) diagnoses **configuration**.
 The Field Viability Schema diagnoses **operability**.   
 For full temporal dynamics mapping, see Section 7: Temporal Dynamics Across the Architecture.   
+### The Viability Envelope (Terminological Note)   
+When the Field Viability Schema is satisfied, the system operates within a **Viability Envelope**—the bounded region of viable field conditions. This term is used throughout the architecture to name the state (not the formula) and to describe dynamics:   
+- **Envelope holds:** Schema satisfied; [Two-Axis Framework](two-axis-framework.md) operates stably   
+- **Envelope collapses:** Schema fails (typically Sₑ → 0); failure attractors become sticky   
+- **Envelope formation:** Depends on Layer 1 (Holding/Sₑ viability) per Activation Conditions   
+   
+The Envelope is not a separate construct—it is the satisfied-state of the Field Viability Schema, given a noun for ease of reference.   
 ### Relationship to [Two-Axis Framework](two-axis-framework.md) (Viability Envelope)   
 The Field Viability Schema functions as the **Viability Envelope**
 within which the Two-Axis configuration plane operates.   

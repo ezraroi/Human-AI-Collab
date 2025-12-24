@@ -7,6 +7,9 @@ Tag:
     - 'Domain: Psychoanalytic'
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
+Backlinks:
+    - hsced-hermeneutic-single-case-efficacy-design.md
+    - analytic-generalization.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

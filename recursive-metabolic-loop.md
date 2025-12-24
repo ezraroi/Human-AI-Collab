@@ -11,6 +11,7 @@ Backlinks:
     - document-abstract.md
     - destiny-drive.md
     - embodied-engagement-conditions.md
+    - cognitive-style-bias.md
     - identity-stakes.md
     - 5-the-three-dimensional-integration.md
     - time.md

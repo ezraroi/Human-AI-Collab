@@ -15,7 +15,7 @@ Backlinks:
     - felt-sense.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - mikhail-bakhtin.md
-    - 1-executive-summary_b.md
+    - 1-executive-summary_x.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'
@@ -72,7 +72,7 @@ Sustained internalization of Internally Persuasive Discourse supports:
 ### In AI-Mediated Work   
 AI output becomes Internally Persuasive Discourse when the user:   
 1. Holds AI as [DTO](dynamic-transitional-object-dto.md) (not authority/SSS)   
-2. Processes output through [4Ps](4ps-protocol.md)/[RPVL](recursive-pattern-verification-loop.md) protocol   
+2. Processes output through [4Ps](4ps-protocol.md) and [RPVL](recursive-pattern-verification-loop.md) verification   
 3. Re-articulates in own words before accepting   
 4. Verifies through Felt Sense   
 5. Inscribes owned meaning in Journal (materialization)   

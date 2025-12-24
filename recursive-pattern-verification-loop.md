@@ -11,14 +11,23 @@ Tag:
     - 'Temporal: Dynamic'
     - 'Operational Flags: Core'
 Backlinks:
+    - 6-translation-existing-practice-as-methodology.md
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
+    - 4ps-protocol.md
+    - section-5-the-category-error-relational-axis-f.md
     - authoritative-discourse.md
+    - cognitive-style-bias.md
+    - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - rrv-cycle-recursive-refine-validate.md
+    - enacted-alpha-work-eaw.md
     - epistemological-humility.md
+    - 3-the-13-stage-development-sequence.md
     - cognitive-debt.md
+    - activation-conditions.md
     - internally-persuasive-discourse.md
+    - cognitive-mirror-protege-mode.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Philosophy of Technology & Phenomenology

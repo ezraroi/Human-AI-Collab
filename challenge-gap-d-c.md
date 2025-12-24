@@ -7,13 +7,11 @@ Tag:
     - 'System Role: Input'
     - 'Temporal: Dynamic'
 Backlinks:
-    - reflective-prompting.md
     - lev-vygotsky.md
     - embodied-engagement-conditions.md
     - in-context-learning.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - section-5-the-category-error-relational-axis-f.md
     - 4-the-system-architecture-v2-0.md
     - journal.md
     - 4-calibration-playbook.md

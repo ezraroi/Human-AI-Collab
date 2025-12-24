@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 9: Positioning the Contribution in Existing AI–Human Collaboration Literature'
 Creation date: "2025-12-18T20:46:45Z"
@@ -11,6 +13,7 @@ Links:
     - alpha-function.md
     - c-capacity.md
     - algorithmic-self.md
+    - channel-2-symbolic.md
     - reflective-prompting.md
     - 4ps-protocol.md
     - human.md
@@ -43,9 +46,9 @@ The MIT “Cognitive Debt” study, [Algorithmic Self](algorithmic-self.md) rese
    
 These map directly onto known failure patterns your work addresses.   
 What the literature lacks is:   
-- a mechanism-level account explaining why these collapses occur (Alpha-Function failure / bypass)   
-- an architectural model explaining how to prevent them (the four-component system)   
-- a methodology explaining how to prevent them ([Reflective Prompting](reflective-prompting.md) and the [4Ps Protocol](4ps-protocol.md))   
+- a mechanism-level account explaining why these collapses occur (**Alpha-Function bypass / [Channel-2](channel-2-symbolic.md)-only ingestion**)   
+- an architectural model explaining how to prevent them (**the tetradic system: Human + Journal + AI + Time**)   
+- a methodology explaining how prevention is operationalized: **[Reflective Prompting](reflective-prompting.md) (macro-structure), RPVL (continuous epistemic loop), and the [4Ps Protocol](4ps-protocol.md) (local acceptance gate at moments of uptake, with Touch Grass as an exit branch when Possess fails)**   
    
 Thus your work completes, rather than contradicts, existing risk narratives by offering a coherent system-level account of these phenomena.   
 ### Insight 3 — The Dyad → Tetrad Shift Is the Architectural Novelty   

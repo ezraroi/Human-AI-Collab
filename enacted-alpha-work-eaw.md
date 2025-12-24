@@ -38,6 +38,7 @@ Links:
     - ai.md
     - time.md
     - protein-shake-brain-psb.md
+    - 4ps-protocol.md
     - c-capacity.md
     - wilfred-bion.md
     - eugene-gendlin.md
@@ -50,7 +51,7 @@ Links:
     - as-if-body-loop.md
     - reflective-prompting.md
     - rrv-cycle-recursive-refine-validate.md
-    - 4ps-protocol.md
+    - recursive-pattern-verification-loop.md
 Emoji: "\U0001F4A1"
 id: bafyreidnizaiakiedl7a4jromwkgd7dowpo75xuayezabtkpqib6fpfd3i
 ---
@@ -83,6 +84,7 @@ Meaning is not merely expressed; it is *created* via lexical choice and revision
 4. Revise until stable fit emerges   
    
 This loop is the micro-engine of "owning" meaning. It is where the phenomenology of EAW lives.   
+Note: This loop maps to the Process→Possess sequence in the [4Ps Protocol](4ps-protocol.md): Process forces semantic commitment (steps 1-2); Possess performs felt-sense verification (step 3); revision continues until stable fit (step 4)   
 **D. Materialization of Meaning into Durable α-Elements**
 EAW produces inscribed α-elements that persist in the Journal (chronotope). Without inscription, insight often remains unstable, non-transferable, or collapses into PSB-like fluency without ownership.   
 **E. Substrate Production for Recursion & Pattern Recognition**
@@ -139,13 +141,14 @@ EAW coordinates neural systems through action + external constraint. Likely enga
 - [As-if body loop](as-if-body-loop.md) / simulation mechanisms → symbols producing embodied states   
    
 ### Operationalization in Protocols   
-|                                                                                                  Protocol |                                                                                  EAW Locus |
-|:----------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
-| **[Reflective Prompting](reflective-prompting.md) ([RRV cycle](rrv-cycle-recursive-refine-validate.md))** |       Enacted during Refine/Validate steps where articulation is rewritten into owned form |
-|                                                                       **[4Ps Protocol](4ps-protocol.md)** | "Process" step is the micro-enactment of EAW (semantic commitment + felt-sense constraint) |
+|                                                                                                  Protocol |                                                                                                                                                                       EAW Locus |
+|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[Reflective Prompting](reflective-prompting.md) ([RRV cycle](rrv-cycle-recursive-refine-validate.md))** |                                                                                            Enacted during Refine/Validate steps where articulation is rewritten into owned form |
+|                                                                       **[4Ps Protocol](4ps-protocol.md)** | Process + Possess steps together enact EAW: Process provides semantic commitment (re-articulation in own idiom); Possess provides felt-sense constraint (embodied verification) |
+|                                                            [RPVL](recursive-pattern-verification-loop.md) |                                                                                                                     Continuous verification context ensuring EAW isn't bypassed |
 
 ### Anti-Claims (Explicit Boundaries)   
 - EAW does **not** claim that metabolism happens "in the notebook"   
 - The human metabolizes; the journal constrains and stabilizes; the AI catalyzes; time accumulates   
-- EAW is a **mode of activation** of Alpha-Function, not a second Alpha-Function located externally   
+- EAW is a **mode of activation** of Alpha-Function, not a second [Alpha-Function](alpha-function.md) located externally   
 - EAW does not guarantee transformation; it creates conditions under which transformation becomes reliably possible   

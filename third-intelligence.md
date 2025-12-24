@@ -13,10 +13,9 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
-    - 3-the-mechanism-vs-existence-distinction.md
+    - 3-the-mechanism-vs-existence-distinction_6.md
     - journal.md
     - 10-questions-your-synthesis-raises.md
-    - eidetic-structure.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - cognitive-style-bias.md
@@ -43,6 +42,7 @@ Backlinks:
     - 10-the-integrated-claim.md
     - 7-the-three-legged-stool-of-defense.md
     - 2-the-alpha-function-as-the-triple-network-the.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - reward-reinforcement-circuitry.md
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
@@ -50,6 +50,7 @@ Backlinks:
     - two-axis-framework.md
     - 1-overview.md
     - dynamic-transitional-object-dto.md
+    - analytic-generalization.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-doing-both-hypothesis.md
     - field-viability-schema.md
@@ -58,13 +59,14 @@ Backlinks:
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
-    - executive-summary.md
+    - executive-summary_u.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - 1-core-discovery_l.md
+    - 1-core-discovery.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
+    - activation-conditions.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
@@ -183,3 +185,4 @@ The "Third" names both:
 2. the macro architecture within which Functional Thirdness episodes can emerge during interaction, which the Journal and Time stabilize into cumulative change.   
    
 Transformation occurs through the Recursive Metabolic Loop when material carries Identity Stakes and adequate scaffolding is present. The system itself—not any single component—is the unit of analysis.   
+**Invariance claim:** Third Intelligence is proposed as the invariant architecture of digital self-transformation, inferred through Structural Stability Verification (cross-AI, cross-context, cross-temporal testing). This is a model-level theoretical claim, not a settled empirical fact. The architecture's necessity is provisional—demonstrated stability across variations, not logical necessity established through eidetic reduction.   

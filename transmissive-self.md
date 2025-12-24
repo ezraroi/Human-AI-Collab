@@ -11,6 +11,7 @@ Tag:
 Backlinks:
     - idiom-aligned-scaffolding.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
+    - cognitive-style-bias.md
     - algorithmic-self.md
     - cognitive-dependency.md
     - protein-shake-brain-psb.md

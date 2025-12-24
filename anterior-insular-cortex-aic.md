@@ -12,7 +12,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - salience-network-core-aic-dacc.md
-    - executive-summary_s.md
+    - executive-summary.md
     - human.md
     - neural-synchrony.md
     - enacted-alpha-work-eaw.md

@@ -7,7 +7,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - salience-network-core-aic-dacc.md
-    - executive-summary_s.md
+    - executive-summary.md
     - 3-the-discriminator-framework.md
     - 1-purpose-and-scope.md
     - 2-the-alpha-function-as-the-triple-network-the.md

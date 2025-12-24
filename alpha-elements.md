@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Output'
     - 'Temporal: Static'
 Backlinks:
+    - reflective-prompting.md
     - document-abstract.md
     - reverie.md
     - section-5-temporal-architecture.md
@@ -18,7 +19,6 @@ Backlinks:
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - self-explanation.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
     - selected-fact.md

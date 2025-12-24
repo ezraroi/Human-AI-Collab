@@ -10,7 +10,7 @@ Backlinks:
     - neural-synchrony.md
     - 1-purpose-and-scope.md
     - the-unified-architecture.md
-Research Status: Evergreen
+Research Status: Sealed
 Origin Domain:
     - Neurobiology & Neuroscience
 Gap Status: Hypothesized

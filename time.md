@@ -19,10 +19,10 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_s.md
+    - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_0.md
+    - executive-summary_j.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -34,6 +34,7 @@ Backlinks:
     - algorithmic-self.md
     - 3-implications-for-positioning.md
     - 10-the-integrated-claim.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - reward-reinforcement-circuitry.md
     - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
@@ -54,7 +55,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md

@@ -11,6 +11,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - self-explanation.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
+    - cognitive-mirror-protege-mode.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

@@ -8,12 +8,13 @@ Tag:
 Backlinks:
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary_s.md
+    - executive-summary.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - human.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
     - 3-the-discriminator-framework.md
     - 1-purpose-and-scope.md
+    - the-doing-both-hypothesis.md
     - protein-shake-brain-psb.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

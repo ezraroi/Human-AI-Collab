@@ -11,7 +11,7 @@ Backlinks:
     - reverie.md
     - section-9-container-as-function-authorization.md
     - 4-the-system-architecture-v2-0.md
-    - executive-summary_s.md
+    - executive-summary.md
     - protected-self-holding-principle.md
     - human.md
     - section-4-the-importance-of-emotional-scaffold.md
