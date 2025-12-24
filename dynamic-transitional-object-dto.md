@@ -21,7 +21,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - protected-self-holding-principle.md
-    - executive-summary_j.md
+    - executive-summary_o.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
@@ -48,7 +48,7 @@ Backlinks:
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
-    - 1-executive-summary_l.md
+    - 1-executive-summary_v.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

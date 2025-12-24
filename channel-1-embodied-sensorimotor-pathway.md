@@ -23,7 +23,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - authoritative-discourse.md
-    - executive-summary.md
+    - executive-summary_9.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -72,7 +72,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_x.md
+    - 1-executive-summary.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

@@ -19,6 +19,7 @@ Creation date: "2025-11-22T12:00:05Z"
 Created by:
     - Roi Ezra
 Links:
+    - felt-sense.md
     - felt-shift.md
     - false-self.md
     - subject-supposed-to-know-sss.md
@@ -28,7 +29,6 @@ Links:
     - touch-grass-protocol.md
     - mikhail-bakhtin.md
     - internally-persuasive-discourse.md
-    - felt-sense.md
     - iron-man-mentality.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
@@ -41,7 +41,7 @@ id: bafyreibu4x2htsjffzbcfe3qiop6dpmjkxcaax2l7omid6b7vx6c5gsdye
 # Authoritative Discourse   
 A mode of discourse internalized as **demand** (compliance, assimilation) rather than integrated as owned meaning. It is taken in "from above"—from authority, coercion, or misattunement—without metabolization, and therefore does not become internally persuasive.   
 ### Phenomenological Signature (Heuristic, Not Absolute)   
-Often registers in Felt Sense as **"tightness"** (constriction, pressure, forced-fit), contrasting with the spaciousness or [Felt Shift](felt-shift.md) that accompanies internally persuasive integration.   
+Often registers in [Felt Sense](felt-sense.md) as **"tightness"** (constriction, pressure, forced-fit), contrasting with the spaciousness or [Felt Shift](felt-shift.md) that accompanies internally persuasive integration.   
 **Boundary:** Tightness alone is not diagnostic. It may also signal high mismatch(D,C), shame, threat, or overload. Tightness becomes evidence of Authoritative Discourse when combined with:   
 - Perceived epistemic authority in the source   
 - Absence of metabolic processing (no re-articulation, no felt verification)   
@@ -66,9 +66,9 @@ If tightness persists after processing, downgrade material to 'not-yet-metaboliz
 - **Theorist:** [Mikhail Bakhtin](mikhail-bakhtin.md)   
 - **Contrast With:** [Internally Persuasive Discourse](internally-persuasive-discourse.md) (positive pole)   
 - **Signals Through:** [Felt Sense](felt-sense.md) (tightness as heuristic)   
-- **Contributes To:** False Self (when chronically internalized)   
-- **Risk Pathway (AI):** Subject Supposed to Know → Category Error → Authoritative Discourse adoption   
-- **Counteracted By:** 4Ps Protocol; RPVL; [Iron Man Mentality](iron-man-mentality.md)   
+- **Contributes To:** [False Self](false-self.md) (when chronically internalized)   
+- **Risk Pathway (AI):** [Subject Supposed to Know](subject-supposed-to-know-sss.md) → [Category Error](category-error.md) → Authoritative Discourse adoption   
+- **Counteracted By:** [4Ps Protocol](4ps-protocol.md); RPVL; [Iron Man Mentality](iron-man-mentality.md)   
 - **Channels:** Arrives via [Channel 2](channel-2-symbolic.md); verified (or flagged) via [Channel 1](channel-1-embodied-sensorimotor-pathway.md)   
    
 ### Transformation Possibility   

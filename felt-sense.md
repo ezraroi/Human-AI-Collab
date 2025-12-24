@@ -22,8 +22,9 @@ Backlinks:
     - salience-network-core-aic-dacc.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary.md
+    - executive-summary_9.md
     - iron-man-mentality.md
+    - rrv-cycle-recursive-refine-validate.md
     - human.md
     - eugene-gendlin.md
     - 3-the-discriminator-framework.md
@@ -56,7 +57,7 @@ Backlinks:
     - mikhail-bakhtin.md
     - unified-architecture-neurobiological-resolutio.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_x.md
+    - 1-executive-summary.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

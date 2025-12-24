@@ -9,7 +9,7 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - 4-analytic-vs-statistical-generalization.md
-    - 3-the-mechanism-vs-existence-distinction_6.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - 7-the-three-legged-stool-of-defense.md
     - hsced-hermeneutic-single-case-efficacy-design.md
 Origin Domain:
@@ -41,8 +41,8 @@ Analytic Generalization here explicitly includes the constraint that the mechani
    
 ### Relations   
 - **Enabled By →** [HSCED](hsced-hermeneutic-single-case-efficacy-design.md) (provides methodological framework for N=1 claims)   
-- **Grounded By →** Structural Stability Verification (HSCED Mechanism 4 — cross-system testing supports invariance claims)   
-- **Constrained By →** Activation Pathway, Field Viability Schema (boundary conditions on all AG claims)   
+- **Grounded By →** Structural Stability Verification ([HSCED](hsced-hermeneutic-single-case-efficacy-design.md) Mechanism 4 — cross-system testing supports invariance claims)   
+- **Constrained By →** Activation Pathway, [Field Viability Schema](field-viability-schema.md) (boundary conditions on all AG claims)   
 - **Distinct From →** Statistical Generalization (explicitly different epistemic claim type)   
 - **Claimed For →** [Third Intelligence](third-intelligence.md) architecture (the specific theoretical contribution)   
    

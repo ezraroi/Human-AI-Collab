@@ -105,7 +105,7 @@ A four-step verification protocol that operationalizes metacognitive monitoring 
 - **Component Of:** [Reflective Prompting](reflective-prompting.md)   
 - **Runs Inside / Local Gate Of:** [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md) (RPVL)   
 - **Operationalizes:** [Metacognition](metacognition.md) (Flavell's monitoring + regulation cycle)   
-- **Prevents:** PSB, passive consumption   
+- **Prevents:** [PSB](protein-shake-brain-psb.md), passive consumption   
 - **Uses:** [Felt Sense](felt-sense.md) (Possess step)   
 - **Uses:** [Self-Explanation](self-explanation.md) (Process step)   
 - **Routes To (on failure):** [Touch Grass Protocol](touch-grass-protocol.md)   
@@ -113,7 +113,7 @@ A four-step verification protocol that operationalizes metacognitive monitoring 
 - **Alternative To:** Automatic acceptance, passive reception   
    
 ### Notes   
-4Ps is the **micro-method** preventing PSB at moment-to-moment level. While Reflective Prompting provides macro-structure (phases) and RPVL provides the continuous epistemic safety loop, 4Ps provides micro-discipline (verification steps) at each acceptance decision.   
+4Ps is the **micro-method** preventing PSB at moment-to-moment level. While [Reflective Prompting](reflective-prompting.md) provides macro-structure (phases) and RPVL provides the continuous epistemic safety loop, 4Ps provides micro-discipline (verification steps) at each acceptance decision.   
 Simple 4-step sequence, but consistency determines whether transformation or consumption occurs.   
 **Critical:** Not a one-time checklist—must be applied repeatedly throughout session whenever accepting AI output. The protocol is simple; the discipline is hard.   
 **Multi-functionality:** 4Ps functions simultaneously as:   

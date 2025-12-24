@@ -10,6 +10,7 @@ Tag:
     - 'Operational Flags: Core'
 Backlinks:
     - section-4-attribution-logic.md
+    - reflective-prompting.md
     - section-10-open-edges-to-bridge-later.md
     - section-5-temporal-architecture.md
     - section-2-definition.md

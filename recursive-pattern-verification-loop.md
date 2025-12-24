@@ -31,36 +31,35 @@ Backlinks:
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Philosophy of Technology & Phenomenology
-Research Status: Evergreen
+Research Status: Drafting
 Creation date: "2025-11-22T14:41:39Z"
 Created by:
     - Roi Ezra
 Links:
+    - alpha-function.md
     - channel-2-symbolic.md
     - category-error.md
-    - enacted-alpha-work-eaw.md
-    - human.md
-    - journal.md
+    - protein-shake-brain-psb.md
+    - reflective-prompting.md
+    - third-intelligence.md
     - zpd.md
     - challenge-gap-d-c.md
     - channel-1-embodied-sensorimotor-pathway.md
     - as-if-body-loop.md
     - productive-epistemic-tension.md
-    - reflective-prompting.md
     - rrv-cycle-recursive-refine-validate.md
     - iron-man-mentality.md
     - felt-sense.md
     - epistemological-humility.md
-    - protein-shake-brain-psb.md
 Emoji: "\U0001F6E0️"
 id: bafyreifhxkvij475kbclygf5ndrilyxh2pl45zr4gmniywdsy57pv6di2y
 ---
 # Recursive Pattern-Verification Loop   
-**Recursive Pattern-Verification Loop (RPVL)** is the real-time verification protocol through which the human tests AI-generated (and self-generated) symbolic material against **embodied knowing, symbolic grammar, and lived experience**. It is the epistemic safety layer that keeps **alpha-function capacity engaged during dialogue** so that insights are **worked and verified** rather than **adopted** via [Channel-2](channel-2-symbolic.md)-only bypass—reducing vulnerability to [Category Error](category-error.md) (Axis A failure), PSB, and collapse of authorship.   
-> Architectural precision: RPVL is not the metabolism. It is upstream quality control that prevents unverified symbolic material from entering the system as “owned meaning.” It prepares material to become a candidate for Enacted Alpha-Work (EAW), which performs durable inscription at the Human↔Journal interface.   
+**Recursive Pattern-Verification Loop (RPVL)** is the real-time verification protocol through which the human tests AI-generated (and self-generated) symbolic material against **embodied knowing, symbolic grammar, and lived experience**. It is the epistemic safety layer that keeps **[alpha-function](alpha-function.md) capacity engaged during dialogue** so that insights are **worked and verified** rather than **adopted** via [Channel-2](channel-2-symbolic.md)-only bypass—reducing vulnerability to [Category Error](category-error.md) (Axis A failure), [PSB](protein-shake-brain-psb.md), and collapse of authorship.   
+> Architectural precision: RPVL is not the metabolism. It is upstream quality control that prevents unverified symbolic material from entering the system as “owned meaning.”    
 
 ### System Role   
-RPVL is the continuous verification protocol running throughout **all phases** of Reflective Prompting—the core anti-collapse mechanism of the Third Intelligence system.   
+RPVL is the continuous verification protocol running throughout **all phases** of [Reflective Prompting](reflective-prompting.md)—the core anti-collapse mechanism of the [Third Intelligence](third-intelligence.md) system.   
 **Scope**   
 - Runs throughout **ALL RP phases** (not only Phase 4).   
 - **Phase 2 (RRV Cycle):** quality control during co-articulation.   
@@ -68,11 +67,10 @@ RPVL is the continuous verification protocol running throughout **all phases** o
 - **Phase 4:** becomes most explicit/formal via periodic check-ins and audits.   
    
 **What it enforces and protects**   
-- Prevents Channel-2-only adoption (PSB pathway).   
+- Prevents [Channel-2](channel-2-symbolic.md)-only adoption (PSB pathway).   
 - Maintains **human authorship** of meaning.   
 - Preserves Axis B integrity by keeping **embodied verification** active.   
 - Prevents premature collapse of struggle (“no struggle” False-[ZPD](zpd.md)) while the structural [challenge gap](challenge-gap-d-c.md) \|D-C\| remains unchanged.   
-- **Prepares material for downstream EAW** by ensuring verification occurs before inscription.   
    
 **Failure mode statement:**   
 Without RPVL, Reflective Prompting becomes scripting, the Journal becomes transcript, and transformation collapses into PSB.   
@@ -81,7 +79,7 @@ Without RPVL, Reflective Prompting becomes scripting, the Journal becomes transc
     Detect flattery, mimicry, premature coherence, over-smooth certainty.   
 2. **Embodied Verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))**   
     Spacious vs. tight; somatic “fit” check.   
-3. **Symbolic Coherence Check (Channel 2)**   
+3. **Symbolic Coherence Check ([Channel 2](channel-2-symbolic.md))**   
     Tests alignment with personal grammar, idiom, and meaning structures.   
 4. **Concrete Grounding**   
     Locates the lived example; prevents abstraction drift and false generalization.   
@@ -108,7 +106,4 @@ Without RPVL, Reflective Prompting becomes scripting, the Journal becomes transc
     Sustains willingness to doubt AI output and one’s first formulation.   
 - **[PSB](protein-shake-brain-psb.md) — Protects Against**   
     Prevents ungrounded fluency from entering the symbolic system.   
-- **[Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md) — Upstream Of / Prepares For**   
-    RPVL ensures dialogue material is verified before it becomes a candidate for inscription and durable ownership.   
-- **EAW Semantic Commitment Loop — Shares Mechanisms With**   
-    Both employ felt-sense verification and revision, but at different junctures (dialogue vs inscription).   
+      RPVL ensures dialogue material is verified before it becomes a candidate for inscription and durable ownership.   

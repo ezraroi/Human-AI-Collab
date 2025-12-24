@@ -34,7 +34,6 @@ Backlinks:
     - the-large-language-model-as-dynamic-transition.md
     - section-7-counterfeit-detection-framework.md
     - section-1-introduction-and-framework-positioning.md
-    - rrv-cycle-recursive-refine-validate.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
     - 5-the-operational-capacity-negative-capability.md
     - human.md
@@ -55,7 +54,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_b.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md

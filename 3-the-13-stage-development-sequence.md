@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:51:12Z"

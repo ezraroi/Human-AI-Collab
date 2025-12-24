@@ -35,7 +35,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary.md
+    - executive-summary_9.md
     - cognitive-style-bias.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
@@ -45,7 +45,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_j.md
+    - executive-summary_o.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -91,7 +91,7 @@ Backlinks:
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary.md
+    - 1-executive-summary_b.md
     - 3-the-mechanism-catalytic-externalization.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md

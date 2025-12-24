@@ -13,6 +13,7 @@ Backlinks:
     - developmental-sequence.md
     - alpha-elements.md
     - section-4-attribution-logic.md
+    - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - document-abstract.md
     - reverie.md
@@ -36,7 +37,7 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary.md
+    - executive-summary_9.md
     - self-explanation.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -91,6 +92,7 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - the-doing-both-hypothesis.md
     - 7-critical-connection-5-why-psb-happens.md
+    - recursive-pattern-verification-loop.md
     - felt-sense.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
@@ -111,7 +113,7 @@ Backlinks:
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary.md
+    - 1-executive-summary_b.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
@@ -128,7 +130,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_x.md
+    - 1-executive-summary.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

@@ -52,7 +52,7 @@ The behavioral capacity to maintain viable quadrant position in the Two-Axis Fra
 
 **Developmental Caution:**
 Verification Posture may have developmental roots that limit universal scaffoldability. The willingness to doubt pleasant-seeming answers requires tolerance for uncertainty discomfort, secure stance that doesn't require validation, and epistemic humility about susceptibility. These may be partially downstream of Layer 1 achievement.
-**Operationally:** Layer 2 is maintained through RPVL (continuous verification posture across dialogue) and enforced at uptake moments by the 4Ps Protocol (Pause/Probe/Process/Possess as the local acceptance gate).
+**Operationally:** Layer 2 is maintained through Reflective Prompting RPVL (continuous verification posture across dialogue) and enforced at uptake moments by the 4Ps Protocol (Pause/Probe/Process/Possess as the local acceptance gate).
 **Layer 3 — Engagement Propensity (Selection Funnel)**
 Factors affecting who participates (not who could succeed):
 - Motivation to do identity-stakes work

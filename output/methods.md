@@ -316,7 +316,7 @@ The method is diagnostic, not gatekeeping. Zone A users are not "failed"—they 
 [Theoretical] Verification, Metabolism, Epistemic Safety, Domain: Synthesis, System Role: Method, Temporal: Dynamic, Operational Flags: Core
 
 **Recursive Pattern-Verification Loop (RPVL)** is the real-time verification protocol through which the human tests AI-generated (and self-generated) symbolic material against **embodied knowing, symbolic grammar, and lived experience**. It is the epistemic safety layer that keeps **alpha-function capacity engaged during dialogue** so that insights are **worked and verified** rather than **adopted** via Channel-2-only bypass—reducing vulnerability to Category Error (Axis A failure), PSB, and collapse of authorship.
-> Architectural precision: RPVL is not the metabolism. It is upstream quality control that prevents unverified symbolic material from entering the system as “owned meaning.” It prepares material to become a candidate for Enacted Alpha-Work (EAW), which performs durable inscription at the Human↔Journal interface.
+> Architectural precision: RPVL is not the metabolism. It is upstream quality control that prevents unverified symbolic material from entering the system as “owned meaning.”
 
 ### System Role
 RPVL is the continuous verification protocol running throughout **all phases** of Reflective Prompting—the core anti-collapse mechanism of the Third Intelligence system.
@@ -331,7 +331,6 @@ RPVL is the continuous verification protocol running throughout **all phases** o
 - Maintains **human authorship** of meaning.
 - Preserves Axis B integrity by keeping **embodied verification** active.
 - Prevents premature collapse of struggle (“no struggle” False-ZPD) while the structural challenge gap \|D-C\| remains unchanged.
-- **Prepares material for downstream EAW** by ensuring verification occurs before inscription.
 
 **Failure mode statement:**
 Without RPVL, Reflective Prompting becomes scripting, the Journal becomes transcript, and transformation collapses into PSB.
@@ -367,10 +366,7 @@ Without RPVL, Reflective Prompting becomes scripting, the Journal becomes transc
     Sustains willingness to doubt AI output and one’s first formulation.
 - **PSB — Protects Against**
     Prevents ungrounded fluency from entering the symbolic system.
-- **Enacted Alpha-Work (EAW) — Upstream Of / Prepares For**
-    RPVL ensures dialogue material is verified before it becomes a candidate for inscription and durable ownership.
-- **EAW Semantic Commitment Loop — Shares Mechanisms With**
-    Both employ felt-sense verification and revision, but at different junctures (dialogue vs inscription).
+      RPVL ensures dialogue material is verified before it becomes a candidate for inscription and durable ownership.
 
 ---
 
@@ -407,7 +403,7 @@ Its purpose is to prevent PSB, preserve authorship, and owned alpha-elements by 
 **Function:** establish epistemic and emotional baseline before AI engagement.
 **Operations**
 - Goal articulation: what would count as a real shift?
-- Resource inventory: notes, prior Journal entries, constraints.
+- Resource inventory: notes, prior Journal entries (if relevant), constraints.
 - Idiom & delegation boundaries: what is non-delegable (judgment, meaning, narrative) vs delegable (enumeration, editing, code, formatting).
 
 **Cognitive role**
@@ -425,7 +421,7 @@ Its purpose is to prevent PSB, preserve authorship, and owned alpha-elements by 
 2. Refine — push back on AI; reject flattery/premature coherence; correct what’s flat or missing.
 3. Validate — ask for synthesis; check against felt sense and task definition; recycle if off.
 
-**Cognitive role (updated to EAW ontology)**
+**Cognitive role**
 - Begins metabolic processing: transforms β-material toward thinkable form through articulation plus felt-sense verification (dual-channel engagement begins here).
 - Recruits alpha-function without surrendering authorship by keeping verification and rejection active inside RRV.
 - Keeps AI in Functional Alterity (difference/resistance), not “perfect agreement” mode.
@@ -491,10 +487,29 @@ This preserves the key boundary condition of EAW (“output persists as a re-ent
 ## [METHOD] RRV Cycle (Recursive–Refine–Validate)
 [Theoretical] Domain: CognitiveScience, System Role: Method, Temporal: Dynamic
 
-**RRV Cycle (Recursive–Refine–Validate)** is a micro-method for metabolic dialogue in which the human and AI iteratively co-articulate meaning through cycles of **Externalize → Refine → Validate**. **RRV is the dialogue structure within which Enacted Alpha-Work (EAW) can be enacted without surrendering authorship.** It is the core engine of **Phase 2** in Reflective Prompting.
-**Architectural precision:** RRV creates the *conditions* for EAW; it does **not** guarantee EAW occurs. The human must still perform **semantic commitment under felt-sense constraint** inside the RRV structure.
+**RRV Cycle (Recursive–Refine–Validate)** is a micro-method for metabolic dialogue in which the human and AI iteratively co-articulate meaning through cycles of **Externalize → Refine → Validate**. It is the core engine of **Phase 2** in Reflective Prompting.
 ### Cognitive Basis
 Reflective Prompting’s RRV Cycle (Externalize → Refine → Validate) mirrors the expert decision pattern Gary Klein identified as **Recognition-Primed Decision (RPD)**: serial evaluation through pattern recognition rather than exhaustive option comparison. This helps explain why iterative refinement outperforms attempts to obtain “perfect” AI output in a single pass.
+### System Role
+- Transforms raw, pre-symbolic or confused material into **stable, thinkable formulations**.
+- Establishes a shared working model between human and AI while preserving the human’s **veto** and **felt-sense authority**.
+- Provides a reusable loop for supervision, analysis, and journaling with an “imagined other.”
+
+### Steps
+**1) Externalize**
+- Human expresses thoughts, confusion, stakes, associations.
+- Often supported by Rubber Duck Debugging.
+
+**2) Refine**
+- AI reflects back a structure, summary, or candidate frame.
+- Human corrects, rejects, or sharpens: “This part is wrong / missing / too flat.”
+- The goal is **tension**, not quick agreement.
+
+**3) Validate**
+- AI produces an updated synthesis: “Here is what I now understand we’re doing.”
+- Human checks against felt sense and task definition; if still off, another RRV cycle begins.
+
+**Note:** RRV is a cognitive micro-loop operationalized as a method. **RRV is structure;**
 ### Relationship to Recursive Pattern-Verification Loop (RPVL)
 RRV is the **turn-structure** for Phase 2 co-articulation.
 RPVL runs continuously **during** RRV as quality control:
@@ -506,34 +521,9 @@ RPVL runs continuously **during** RRV as quality control:
 - **RRV =** assembly line (conversational stations)
 - **RPVL =** quality control at each station
 
-### System Role
-- Transforms raw, pre-symbolic or confused material into **stable, thinkable formulations**.
-- Establishes a shared working model between human and AI while preserving the human’s **veto** and **felt-sense authority**.
-- Provides a reusable loop for supervision, analysis, and journaling with an “imagined other.”
-- Creates the iterative structure within which **EAW’s Semantic Commitment Loop** can be enacted.
-
-### Steps
-**1) Externalize**
-- Human expresses thoughts, confusion, stakes, associations.
-- Often supported by Rubber Duck Debugging.
-- **EAW note:** initial articulation attempt (Channel 2 comes online), usually before stable ownership is achieved.
-
-**2) Refine**
-- AI reflects back a structure, summary, or candidate frame.
-- Human corrects, rejects, or sharpens: “This part is wrong / missing / too flat.”
-- The goal is **tension**, not quick agreement.
-- **EAW note:** this is where metabolic labor must occur. The human must re-articulate in their **own idiom**, performing felt-sense verification against the AI’s offering. If the human merely accepts the AI frame, EAW fails and PSB risk increases.
-
-**3) Validate**
-- AI produces an updated synthesis: “Here is what I now understand we’re doing.”
-- Human checks against felt sense and task definition; if still off, another RRV cycle begins.
-- **EAW note:** stabilization check—does the articulation now hold as **owned meaning**? If not, recycle.
-
-**Note:** RRV is a cognitive micro-loop operationalized as a method. **RRV is structure; EAW is the metabolic work that may or may not occur within that structure.**
-### Relations (updated)
+### Relations
 - **Embedded in →** Reflective Prompting (Phase 2)
 - **Uses →** Rubber Duck Debugging; Metacognitive monitoring and regulation; Felt Sense; RPVL
-- **Creates conditions for →** Enacted Alpha-Work (EAW)
 - **Supports →** Alpha-Function recruitment *(capacity strengthened over time via repeated EAW enactments)*
 
 ---
