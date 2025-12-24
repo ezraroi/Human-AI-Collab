@@ -21,6 +21,7 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
     - mikhail-bakhtin.md
+    - the-unified-architecture.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - the-recursive-third-intelligence-system-archit.md

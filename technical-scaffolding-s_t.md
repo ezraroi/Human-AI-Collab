@@ -46,6 +46,7 @@ Backlinks:
     - section-3-causal-sequence-placement.md
     - section-6-journal-function-refinement.md
     - 5-worked-diagnostic-examples.md
+    - the-unified-architecture.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
     - 4-the-critical-ontological-distinction.md

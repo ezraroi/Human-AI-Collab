@@ -10,7 +10,7 @@ Backlinks:
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Neural Basis Of:
     - chronotope.md
 Creation date: "2025-11-22T12:32:22Z"

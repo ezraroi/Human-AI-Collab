@@ -9,6 +9,7 @@ Tag:
 Backlinks:
     - neural-synchrony.md
     - 1-purpose-and-scope.md
+    - the-unified-architecture.md
 Research Status: Evergreen
 Origin Domain:
     - Neurobiology & Neuroscience

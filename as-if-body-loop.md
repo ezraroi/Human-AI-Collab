@@ -34,7 +34,7 @@ Origin Domain:
     - Neurobiology & Neuroscience
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Empirical Claim: Testable biological or mechanical hypotheses'
-Research Status: Evergreen
+Research Status: Sealed
 Neural Basis Of:
     - felt-sense.md
 Creation date: "2025-11-22T13:36:23Z"

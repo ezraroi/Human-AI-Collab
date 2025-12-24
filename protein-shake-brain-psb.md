@@ -86,6 +86,7 @@ Backlinks:
     - negative-capability.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - 5-worked-diagnostic-examples.md
+    - the-unified-architecture.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:

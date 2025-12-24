@@ -25,6 +25,7 @@ Backlinks:
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
     - emotional-scaffolding-s_e.md
+    - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

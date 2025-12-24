@@ -20,7 +20,7 @@ Backlinks:
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - protected-self-holding-principle.md
-    - executive-summary_w.md
+    - executive-summary_0.md
     - human.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
@@ -52,6 +52,7 @@ Backlinks:
     - functional-thirdness.md
     - emotional-scaffolding-s_e.md
     - 5-worked-diagnostic-examples.md
+    - the-unified-architecture.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology

@@ -13,13 +13,14 @@ Backlinks:
     - developmental-sequence.md
     - section-4-attribution-logic.md
     - 4-revised-contribution-of-notebook-11.md
+    - dialogical-knowing.md
     - section-5-the-category-error-relational-axis-f.md
     - 2-clarifying-the-category-error-against-the-dt.md
     - 1-executive-summary-resolving-the-ontology-cri.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - protected-self-holding-principle.md
-    - executive-summary_w.md
+    - executive-summary_0.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
@@ -34,14 +35,16 @@ Backlinks:
     - two-axis-framework.md
     - the-integrated-circuit-board.md
     - 3-the-13-stage-development-sequence.md
+    - psychoanalytic-integration.md
     - category-error.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - touch-grass-protocol.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - functional-thirdness.md
     - internally-persuasive-discourse.md
     - 5-worked-diagnostic-examples.md
+    - the-unified-architecture.md
     - 1-executive-summary.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md

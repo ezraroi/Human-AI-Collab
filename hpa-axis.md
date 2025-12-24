@@ -8,7 +8,7 @@ Tag:
 Backlinks:
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - human.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
@@ -16,14 +16,14 @@ Backlinks:
     - 1-purpose-and-scope.md
     - protein-shake-brain-psb.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Neural Basis Of:
     - the-container.md
 Creation date: "2025-11-22T12:31:33Z"

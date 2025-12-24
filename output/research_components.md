@@ -437,12 +437,15 @@ lived developmental trajectory.
 - **Operationalizes:** Psychoanalytic Prerequisites
 
 ### Distinction from Two-Axis Framework
-|    Developmental Sequence |               Two-Axis Framework |
-|:--------------------------|:---------------------------------|
-|   Diachronic (trajectory) |               Synchronic (state) |
-|  "What must be achieved?" | "What configuration is present?" |
-| Prerequisites + evolution |                 Current validity |
-|     Non-linear, heuristic |                  Binary per axis |
+|    Developmental Sequence | Two-Axis Framework |
+|:--------------------------|:--------------------------------------------|
+|   Diachronic (trajectory) |                          Synchronic (state) |
+|  "What must be achieved?" |            "What configuration is present?" |
+| Prerequisites + evolution |                            Current validity |
+|     Non-linear, heuristic |                             Binary per axis |
+
+**Notes**
+Functional Thirdness (interaction-level dialogical legitimacy) can operate once DTO stance solidifies (Stage 7) and Sₑ is viable (Stages 1-6). FT supports the Alpha-Function activation phase (Stages 8-11) by maintaining productive epistemic tension during live exchanges
 
 ---
 

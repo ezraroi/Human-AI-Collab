@@ -13,6 +13,7 @@ Backlinks:
     - holding-environment.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
+    - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -29,9 +30,10 @@ Links:
     - alpha-function.md
     - beta-elements.md
     - alpha-elements.md
+    - third-intelligence.md
     - psychoanalytic-integration.md
     - developmental-sequence.md
-    - third-intelligence.md
+    - protected-self-holding-principle.md
 Emoji: "\U0001F4A1"
 id: bafyreigwvauee6qla4drqitelgm24g6zcg3ubai75l4iewlioiomor4soy
 ---
@@ -58,17 +60,25 @@ The [Destiny Drive ](destiny-drive.md)is **always present**; what the architectu
     - *Fate* → reactive, False-Self compliance   
     - *Destiny* → agentic, idiom-expressive authorship   
    
+# The Two-Layer Relationship   
+The Prerequisites describe CONDITIONS (Winnicottian phenomenology) that enable the [Third Intelligence](third-intelligence.md) ARCHITECTURE (transformation mechanism).   
+- Stages 1-10 of the Developmental Sequence operationalize Winnicottian preconditions   
+- Stages 11-13 operationalize the transformation architecture   
+   
+The phenomenological source is the 10 Winnicottian Principles (from "The Self in a Non-Intrusive Field").   
 ## System Role   
 Traces the prerequisite developmental conditions under which the latent Destiny Drive becomes lived experience.   
 The system **creates conditions, not content**—it **reveals** the idiom rather than producing it   
 ## Relations (Wiring)   
 - **Resolves:** [Psychoanalytic Integration](psychoanalytic-integration.md) (Research Gap)   
-- **Integrates:** [Winnicott](d-w-winnicott.md) → Bion → Bollas   
+- **Integrates:** [Winnicott](d-w-winnicott.md) → [Bion](wilfred-bion.md) → [Bollas](christopher-bollas.md)   
 - **Enables (by obstacle removal):** True Self, Idiom Articulation, Agentic Expression   
 - **Mapped Onto:** Unified Architecture; Integrated Circuit Board   
 - **Complement / Inverse Of:** Psychodynamic Collapse Sequence (diagnostic counterpart)   
 - **Operationalized By**: [Developmental Sequence](developmental-sequence.md) (13-stage trajectory)   
 - **Instantiated In:**  [Third Intelligence](third-intelligence.md) system context   
+- **Extended By** → [Protected Self-Holding Principle](protected-self-holding-principle.md) (post-interpersonal application)   
+   
    
 ## Notes   
 - This is the **developmental prerequisite architecture**, not a dynamic loop.   

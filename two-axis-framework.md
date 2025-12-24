@@ -16,6 +16,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - field-viability-schema.md
     - category-error.md
+    - the-unified-architecture.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

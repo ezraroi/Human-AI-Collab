@@ -22,7 +22,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - authoritative-discourse.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -60,7 +60,7 @@ Backlinks:
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - internally-persuasive-discourse.md
     - negative-capability.md
@@ -71,7 +71,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_q.md
+    - 1-executive-summary_b.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

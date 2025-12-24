@@ -11,6 +11,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - section-6-journal-function-refinement.md
+    - the-unified-architecture.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

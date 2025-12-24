@@ -18,6 +18,8 @@ Backlinks:
     - psychoanalytic-integration.md
     - category-error.md
     - protein-shake-brain-psb.md
+    - psychoanalytic-prerequisites.md
+    - the-unified-architecture.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Psychoanalysis
@@ -34,6 +36,7 @@ Links:
     - ai.md
     - dynamic-transitional-object-dto.md
     - d-w-winnicott.md
+    - the-container.md
     - emotional-scaffolding-s_e.md
     - category-error.md
     - iron-man-mentality.md
@@ -53,9 +56,9 @@ The bridging theorem specifying that the [Third Intelligence](third-intelligence
 |                Achievement: "capacity to be alone" | Achievement: capacity to self-hold **through transformation** while using AI as DTO |
 
 ### Core Claims   
-1. **AI does not provide holding** (no attunement, reverie, reciprocity). The Human remains the container.   
+1. **AI does not provide holding** (no attunement, reverie, reciprocity). The [Human](human.md) remains [the container](the-container.md).   
 2. **AI can feel "supportive" because it subtracts**: removes interpersonal demand (judgment, reciprocity, misattunement-management), reducing compliance pressure and protecting subjective continuity.   
-3. **The developmental achievement is self-holding while using AI**, not being held by AI—a post-"capacity to be alone" achievement under tool-mediated conditions.   
+3. **The developmental achievement is self-holding while using AI**, not being held by [AI](ai.md)—a post-"capacity to be alone" achievement under tool-mediated conditions.   
 4. **Architecturally necessary**: if AI is treated as Subject/holder, self-holding drops → regression into dependency and simulated-safety pathologies.   
    
 ### What This Principle Resolves   
@@ -66,7 +69,7 @@ The bridging theorem specifying that the [Third Intelligence](third-intelligence
    
 ### What It Is NOT   
 - Not "AI-as-mother/analyst"   
-- Not emotional scaffolding (Sₑ)   
+- Not [emotional scaffolding](emotional-scaffolding-s_e.md) (Sₑ)   
 - Not therapeutic containment   
 - Not reparative for developmental arrest   
    
@@ -74,7 +77,7 @@ The bridging theorem specifying that the [Third Intelligence](third-intelligence
 Operates **post-developmentally**: for individuals who have achieved internalized holding. Cannot substitute for therapeutic holding in cases of developmental arrest, active trauma/PTSD, or structural ego deficits.   
 ### Relations (Wiring)   
 - **Extends:** [Holding Environment](holding-environment.md) ([Winnicott](d-w-winnicott.md) → post-internalization application)   
-- **Explains Why:** Category Error is dangerous; IMM is necessary; DTO stance must be maintained   
+- **Explains Why:** [Category Error](category-error.md) is dangerous; IMM is necessary; [DTO](dynamic-transitional-object-dto.md) stance must be maintained   
 - **Enables:** Sₑ stabilization (through pressure removal, not provision)   
 - **Operationalized By:** Iron Man Mentality (active self-holding maintenance)   
 - **Presupposes:** Already-internalized holding capacity (entrance requirement)   

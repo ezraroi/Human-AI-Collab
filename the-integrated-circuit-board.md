@@ -19,6 +19,7 @@ Backlinks:
     - as-if-body-loop.md
     - alpha-function.md
     - psychoanalytic-integration.md
+    - the-unified-architecture.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

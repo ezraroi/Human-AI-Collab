@@ -10,7 +10,6 @@ Backlinks:
     - reflective-prompting.md
     - lev-vygotsky.md
     - embodied-engagement-conditions.md
-    - dialogical-knowing.md
     - in-context-learning.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
