@@ -16,6 +16,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - field-viability-schema.md
     - category-error.md
+    - activation-conditions.md
     - the-unified-architecture.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
@@ -28,12 +29,12 @@ Links:
     - third-intelligence.md
     - dynamic-transitional-object-dto.md
     - functional-thirdness.md
+    - category-error.md
+    - protein-shake-brain-psb.md
     - the-integrated-circuit-board.md
     - alpha-function.md
     - as-if-body-loop.md
     - journal.md
-    - category-error.md
-    - protein-shake-brain-psb.md
     - cognitive-dependency.md
     - field-viability-schema.md
     - developmental-sequence.md
@@ -61,6 +62,8 @@ The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **
 - Anchors definitions of **Cognitive Dependency**, **PSB**, and **Category Error**.   
 - Acts as a top-level organizing schema for both theory and intervention.   
    
+## Activation Conditions (Accessibility Link)   
+The Two-Axis plane presupposes minimum holding viability (envelope not collapsed). Users differ in baseline verification posture, which affects drift rates toward [Category Error](category-error.md) and [PSB](protein-shake-brain-psb.md). The Activation Conditions model (Zone A/B/C) assesses whether a given user can establish this envelope (Layer 1) and maintain viable quadrant position (Layer 2). Zone A users cannot safely operate within the configuration space; Zone B users require scaffolding; Zone C users can maintain viable quadrant without external support.   
 ## Axis B internal architecture   
 [**The Integrated Circuit Board** ](the-integrated-circuit-board.md)is the internal architecture of Axis B:   
 - **[Alpha-Function](alpha-function.md)** = core metabolic processor (metabolization through C1 ↔ C2 oscillation)   
@@ -86,4 +89,9 @@ The Third Intelligence system is a **configuration** (Axis A × Axis B) operatin
 - **Evolves along:** Developmental Staging (trajectory/readiness layer)   
 - **Defines:** systemic success vs systemic collapse boundaries   
 - **Prerequisites Specified By:** [Developmental Sequence](developmental-sequence.md)   
-- **Axis B Internal Architecture:** Integrated Circuit Board   
+- **Axis B Internal Architecture:** [Integrated Circuit Board](the-integrated-circuit-board.md)   
+- **Accessibility Assessed By:** Activation Conditions   
+- **Scaffolded By:** Cognitive Mirror (for Zone B)   
+- **Boundary Detected By:** Readiness Probes   
+   
+   

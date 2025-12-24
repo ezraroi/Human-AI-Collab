@@ -16,6 +16,7 @@ Backlinks:
     - 4-revised-contribution-of-notebook-11.md
     - minimal-self.md
     - why-this-architecture-is-powerful.md
+    - 4ps-protocol.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - teleological-drift.md
     - section-9-container-as-function-authorization.md
@@ -24,13 +25,14 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_s.md
+    - executive-summary.md
     - cognitive-style-bias.md
+    - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_0.md
+    - executive-summary_j.md
     - selected-fact.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
@@ -47,6 +49,7 @@ Backlinks:
     - 6-the-failsafe-externalized-drift-monitoring.md
     - 9-final-integration-principles.md
     - 10-the-integrated-claim.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - reward-reinforcement-circuitry.md
     - 7-what-each-framework-gains-from-integration.md
@@ -66,10 +69,11 @@ Backlinks:
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - 1-executive-summary_7.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
+    - activation-conditions.md
     - emotional-scaffolding-s_e.md
     - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md

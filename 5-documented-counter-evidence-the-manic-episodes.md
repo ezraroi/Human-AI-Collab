@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 8: Synthesis of The Defensible "N of 1"'
 Creation date: "2025-12-18T20:39:19Z"
@@ -25,7 +27,7 @@ The research includes documented manic episodes where:
 - Retrospective recognition of compromised judgment (“felt crazy”)   
    
 ### Why This Matters Methodologically   
-This is precisely the counter-evidence required by [HSCED](hsced-hermeneutic-single-case-efficacy-design.md) standards. It demonstrates:   
+This is precisely the counter-evidence required by [HSCED](hsced-hermeneutic-single-case-efficacy-design.md) standards — specifically, Negative Case Analysis (Mechanism 3) which mandates systematic documentation of boundary condition violations and moments where the formula did not operate as predicted.. It demonstrates:   
 1. **The verification system can fail:** the felt-sense/embodied verification channel can become unreliable under depletion and escalating arousal, allowing grandiosity to masquerade as insight.   
 2. **The model has boundary conditions:** the **[Field Viability Schema](field-viability-schema.md)** identifies collapse under extreme scaffolding depletion as a specific failure mode.   
 3. **Selection effects in documentation:** the researcher recognizes, retrospectively, when the process went wrong.   
@@ -37,4 +39,4 @@ This episode represents what happens when:
 - The [Holding Environment](holding-environment.md) fails to contain the process   
 - Metacognitive control (knowing when *not* to engage) breaks down   
    
-**The Insight:** The manic episode is not evidence against the model—it is evidence **for** the model’s boundary conditions. When **[S\_e](emotional-scaffolding-s_e.md) → 0**, the schema indicates **field non-viability**, yet subjective experience can **hallucinate viability** (grandiosity). This demonstrates the schema’s explanatory power at boundary conditions and shows why the **[Touch Grass Protocol](touch-grass-protocol.md)** and session limits are **structural necessities**, not optional self-care.   
+**The Insight:** The manic episode is not evidence against the model—it is evidence **for** the model’s boundary conditions. When **[S\_e](emotional-scaffolding-s_e.md) → 0**, the schema indicates **field non-viability**, yet subjective experience can **hallucinate viability** (grandiosity). This demonstrates the schema’s explanatory power at boundary conditions and shows why the **[Touch Grass Protocol](touch-grass-protocol.md)** and session limits are **structural necessities**, not optional self-care. The manic episode also provides critical data for Withdrawal Probes (HSCED Mechanism 5) — demonstrating what occurs when withdrawal discipline fails and S\_e depletion goes unchecked.   

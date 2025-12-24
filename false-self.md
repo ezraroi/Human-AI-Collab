@@ -20,6 +20,7 @@ Backlinks:
     - d-w-winnicott.md
     - transmissive-self.md
     - true-self.md
+    - 7-what-each-framework-gains-from-integration.md
     - dynamic-transitional-object-dto.md
     - 3-the-13-stage-development-sequence.md
     - psychoanalytic-integration.md

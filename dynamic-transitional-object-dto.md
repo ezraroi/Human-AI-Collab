@@ -17,10 +17,11 @@ Backlinks:
     - section-5-the-category-error-relational-axis-f.md
     - 2-clarifying-the-category-error-against-the-dt.md
     - 1-executive-summary-resolving-the-ontology-cri.md
+    - cognitive-style-bias.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - protected-self-holding-principle.md
-    - executive-summary_0.md
+    - executive-summary_j.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
@@ -42,10 +43,12 @@ Backlinks:
     - touch-grass-protocol.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - functional-thirdness.md
+    - activation-conditions.md
     - internally-persuasive-discourse.md
+    - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
-    - 1-executive-summary.md
+    - 1-executive-summary_l.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

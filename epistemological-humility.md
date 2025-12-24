@@ -11,6 +11,8 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - judgment-expertise-boundary.md
     - recursive-pattern-verification-loop.md
+    - activation-conditions.md
+    - cognitive-mirror-protege-mode.md
     - the-unified-architecture.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
@@ -31,6 +33,8 @@ Links:
     - reflective-prompting.md
     - judgment-expertise-boundary.md
     - protected-self-holding-principle.md
+    - cognitive-mirror-protege-mode.md
+    - readiness-probes.md
 Emoji: "\U0001F4A1"
 id: bafyreiepzjscrncszy2xoc5dvdwcznmuyga427mqcviyctixtrh4e2bn3u
 ---
@@ -113,6 +117,8 @@ Humility fuels doubt; Negative Capability holds the discomfort that doubt produc
 - **Antidote To →** PSB (specifically rush-to-certainty and low-negative-capability markers)   
 - **Supports →** Productive Epistemic Tension — makes the tension tolerable rather than collapsing it   
 - **Supported By →** Negative Capability — which holds the discomfort that doubt produces   
+- **Operationalized/Scaffolded by**: [Cognitive Mirror ](cognitive-mirror-protege-mode.md)   
+- **Assessed by:** [Readiness Probes](readiness-probes.md) (verification tasks)   
    
 ### Notes   
 - Epistemological Humility is categorized under the ESCAPE framework's "Ego-Free Humility" (the "E") in pedagogical materials; the formal object retains the more precise name.   

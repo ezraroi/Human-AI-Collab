@@ -1,7 +1,126 @@
-# Concepts (80)
+# Concepts (81)
 
 ## Index
-Activation Pathway of Destiny Drive, Algorithmic Self, Alpha-Elements, Alpha-Function, Analytic Generalization, Authoritative Discourse, Beta-Elements, Category Error, Challenge Gap (\|D–C\|), Channel 1 (Embodied / Sensorimotor Pathway), Channel 2 (Symbolic), Chronotope, Cognitive Artifact, Cognitive Debt Awareness, Cognitive Debt, Cognitive Dependency, Cognitive Offloading, Coherence Flywheel, Conflict Detection (Model Repair), Destiny Drive, Digital Neurophenomenology, Dynamic Transitional Object (DTO), Eidetic Structure, Embodied Engagement Conditions, Embodied Simulation, Enacted Alpha-Work (EAW), Epistemological Humility, Extended Mind Hypothesis (HEC), False-Self, Felt Sense, Felt Shift, Flow Optimization Principle, Functional Alterity, Functional Thirdness, Gap Filling (Inference Generation), High-Resolution Uncertainty, Holding Environment, Hyperreflexivity Trap, Identity Stakes, Idiom-Aligned Scaffolding, In-Context Learning, Internally Persuasive Discourse, Iron Man Mentality, Irreducible Alterity, Judgment–Expertise Boundary, LLM Embedding, Materialization, Metacognition, Minimal Self, MKO (More Knowledgeable Other), Narrative Self, Negative Capability, Neural Synchrony, Parity Principle (PP), Potential Space, Pre-Reflective Awareness, Preconditions for Transformative AI Dialogue, Productive Epistemic Tension, Protected Self-Holding Principle, Protein Shake Brain (PSB), Psychoanalytic Prerequisites, Recursive Metabolic Loop, Reflective Awareness, Reverie, Rubber Duck Debugging, Selected Fact, Somatic Marker Hypothesis, Subject Supposed to Know (SSS), System 0, System 1, System 2, Systematic Competence, Teleological Drift, The Container, The Integrated Circuit Board, The Unified Architecture, Third Intelligence, Transmissive Self, True-Self, ZPD
+Activation Conditions, Activation Pathway of Destiny Drive, Algorithmic Self, Alpha-Elements, Alpha-Function, Analytic Generalization, Authoritative Discourse, Beta-Elements, Category Error, Challenge Gap (\|D–C\|), Channel 1 (Embodied / Sensorimotor Pathway), Channel 2 (Symbolic), Chronotope, Cognitive Artifact, Cognitive Debt Awareness, Cognitive Debt, Cognitive Dependency, Cognitive Mirror / Protégé Mode, Cognitive Offloading, Coherence Flywheel, Conflict Detection (Model Repair), Destiny Drive, Digital Neurophenomenology, Dynamic Transitional Object (DTO), Embodied Engagement Conditions, Embodied Simulation, Enacted Alpha-Work (EAW), Epistemological Humility, Extended Mind Hypothesis (HEC), False-Self, Felt Sense, Felt Shift, Flow Optimization Principle, Functional Alterity, Functional Thirdness, Gap Filling (Inference Generation), High-Resolution Uncertainty, Holding Environment, Hyperreflexivity Trap, Identity Stakes, Idiom-Aligned Scaffolding, In-Context Learning, Internally Persuasive Discourse, Iron Man Mentality, Irreducible Alterity, Judgment–Expertise Boundary, LLM Embedding, Materialization, Metacognition, Minimal Self, MKO (More Knowledgeable Other), Narrative Self, Negative Capability, Neural Synchrony, Parity Principle (PP), Potential Space, Pre-Reflective Awareness, Preconditions for Transformative AI Dialogue, Productive Epistemic Tension, Protected Self-Holding Principle, Protein Shake Brain (PSB), Psychoanalytic Prerequisites, Recursive Metabolic Loop, Reflective Awareness, Reverie, Rubber Duck Debugging, Selected Fact, Somatic Marker Hypothesis, Subject Supposed to Know (SSS), System 0, System 1, System 2, Systematic Competence, Teleological Drift, The Container, The Integrated Circuit Board, The Unified Architecture, Third Intelligence, Transmissive Self, True-Self, ZPD
+
+---
+
+## [CONCEPT] Activation Conditions
+[Theoretical] Domain: Methodology, System Role: Meta, Temporal: Static, Operational Flags: BoundaryCondition, Meta-Framework
+
+The structured specification of **who can reliably activate** the Third Intelligence mechanism, and **under what conditions**. Activation Conditions defines the accessibility layer over the Two-Axis Framework: it specifies whether the Two-Axis plane can be stably occupied at all, and what scaffolds are required to prevent drift.
+This concept answers: "Given a specific user, can they safely and effectively engage identity-stakes AI dialogue?"
+### Architectural Position
+Activation Conditions is a **meta-layer** that gates entry to the Two-Axis Framework. **The Two-Axis Framework diagnoses *what configuration is the system in?* Activation Conditions diagnoses *who can establish and maintain viable configurations?***
+Without viable Activation Conditions:
+- The Viability Envelope cannot form reliably
+- Failure attractors (Category Error, PSB) become sticky
+- The system may amplify pathology rather than enable transformation
+
+### The Three-Layer Model
+Activation Conditions unbundles accessibility into three distinct constraint types. **Do not conflate these**—they differ in trainability, measurement approach, and intervention targets.
+**Layer 1 — Developmental Entry Condition (Hard Gate)**
+The non-negotiable prerequisite for safe system engagement:
+- Internalized holding capacity (Winnicott's "capacity to be alone")
+- Self-holding durability during identity-stakes work
+- Emotional Scaffolding viability sufficient for the Human to remain Container
+
+**Properties:**
+- Likely non-negotiable within typical intervention timeframes
+- If absent, system may be destabilizing rather than transformative
+- Maps directly to Viability Envelope in Field Viability Schema
+- Established through prior developmental history (attachment, therapy, life experience)
+
+**Core Diagnostic Criterion:**
+Layer 1 insufficiency manifests as **capacity collapse under identity-stakes load**—the inability to maintain container function when the work carries real self-definition weight. This is distinct from Layer 2 (verification skill deficits), which can appear similar but responds to scaffolding.
+*Illustrative markers (not diagnostic; see Readiness Probes for operational detection):*
+- Affective dysregulation following identity-relevant challenge
+- Compulsion for external containment (cannot hold uncertainty alone)
+- Inability to remain "in the work" when coherence disrupted
+
+**Layer 2 — Verification Posture (Potentially Scaffoldable)**
+The behavioral capacity to maintain viable quadrant position in the Two-Axis Framework:
+- Doubting AI outputs and one's own narratives
+- Grounding claims in lived experience
+- Tolerating ambiguity and productive tension
+- Detecting flattery and resisting epistemic authority collapse
+
+**Properties:**
+- May be trainable or inducible via procedural scaffolding (e.g., Cognitive Mirror)
+- Only scaffoldable when Layer 1 is viable
+- Supports Axis A maintenance (DTO stance) and Axis B maintenance (metabolic oscillation)
+
+**Developmental Caution:**
+Verification Posture may have developmental roots that limit universal scaffoldability. The willingness to doubt pleasant-seeming answers requires tolerance for uncertainty discomfort, secure stance that doesn't require validation, and epistemic humility about susceptibility. These may be partially downstream of Layer 1 achievement.
+**Operationally:** Layer 2 is maintained through RPVL (continuous verification posture across dialogue) and enforced at uptake moments by the 4Ps Protocol (Pause/Probe/Process/Possess as the local acceptance gate).
+**Layer 3 — Engagement Propensity (Selection Funnel)**
+Factors affecting who participates (not who could succeed):
+- Motivation to do identity-stakes work
+- Writing tolerance / reflective habit
+- Access, time, tooling
+- Willingness to sustain practice
+
+**Properties:**
+- Outside the transformation mechanics proper
+- Affects population reach, not mechanism operation
+- Not neutral filtering—correlates with Layers 1 and 2 in unknown ways
+
+### The Zone Model
+Model accessibility as a continuous plane, not a binary:
+**Axes:**
+- **X-Axis:** Holding / Container Viability (Layer 1)
+- **Y-Axis:** Verification Posture (Layer 2)
+
+**Zones** (for communication; boundaries are gradients):
+|       Zone |               Description |                                                                                                                        Implication |
+|:-----------|:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| **Zone A** |         X below threshold | **Out-of-scope for identity-stakes work (risk-elevated).** Envelope cannot form reliably. Route away from identity-level dialogue. |
+| **Zone B** | X viable, Y initially low |                                            **Scaffoldable.** Transformation achievable with enforced scaffolds (Cognitive Mirror). |
+| **Zone C** |  X viable, Y already high |                                                               **Native match.** System works readily without external scaffolding. |
+
+### Zone Dynamics
+- **B→C Progression:** Verification posture internalizes through practice (scaffold fades)
+- **C→B Regression:** Under stress or Sₑ depletion, Zone C users may temporarily require scaffolding
+- **State vs. Trait:** Zone membership is both baseline capacity and current-state; assessment must account for both
+- **A→B Movement:** Requires developmental work beyond system scope (therapy, sustained external support)
+
+### Minimum Viable Participant Profile (MVPP)
+Operational specification of "eligible for identity-stakes AI dialogue":
+**Required (Layer 1):**
+- Sufficient internalized holding to maintain Container function under identity stakes
+- Capacity to tolerate challenge without collapse or defensive foreclosure
+
+**Required or Scaffoldable (Layer 2):**
+- Verification behaviors present, OR
+- Willingness to engage scaffolding protocols
+
+**Out of Scope:**
+- Users requiring initial holding development
+- Developmental arrest requiring reparative holding
+- Fragile ego structures requiring external containment
+- Critical: 4Ps/Cognitive Mirror cannot substitute for Layer 1 holding. When container function collapses, procedural verification may increase destabilization or shame rather than restore viability
+
+### Ethical Boundary
+Zone A users engaging identity-stakes work risk harm amplification:
+- DTO drift → Category Error
+- Counterfeit coherence → PSB
+- Simulated holding → False Self reinforcement
+
+This boundary is ethical in intent and methodological in enforcement (operationalized via Readiness Probes + stop/withdrawal protocols)**.** Detection and routing are operationalized in Readiness Probes.
+### Relations (Wiring)
+**Architectural Position:**
+- **Gates Entry To:** Two-Axis Framework; Field Viability Schema
+- **Assessed By:** Readiness Probes
+- **Scaffolded By:** Cognitive Mirror (Layer 2, Zone B)
+
+**Layer Mappings:**
+- **Layer 1 → :** Viability Envelope; Holding Environment; Protected Self-Holding Principle
+- **Layer 2** → : Axis A + B maintenance; RPVL (continuous verification); 4Ps Protocol (local acceptance gate); Epistemological Humility
+
+**Constrained By:** Protected Self-Holding Principle
+**Failure Attractors (when violated):** Category Error; PSB; Cognitive Dependency; Simulated Holding Environment
+### Notes
+The Zone model is for communication and research design—not for labeling individuals. Population distribution across zones is empirically unknown. This object provides structure for asking and answering the accessibility question, not definitive answers.
 
 ---
 
@@ -213,14 +332,26 @@ Sₑ is not a measurable quantity; it is a qualitative limit on how deeply Alpha
 ## [CONCEPT] Analytic Generalization
 [Literature] NoteBook 8 - Methodology Defense, Domain: Methodology, System Role: Method, Temporal: Static
 
-The claim that findings from a single case (N=1) generalize to **theoretical propositions** rather than to a statistical population.
-This is the "Legal Defense" of the system. It asserts that we are not claiming "this works for everyone," but rather, "we have isolated the gears of a specific mechanism".
-**The Distinction:**
-- **Statistical Generalization:** Infers frequency (How many people will this happen to?). We do ***not** claim this.*
-- **Analytic Generalization:** Infers mechanism (Does the theory explain the process?). We ***do** claim this.*
+The claim that findings from a single case (N=1) generalize to **theoretical propositions** rather than to a **statistical population**. This is the epistemic "legal defense" of the work: we are not claiming "this works for everyone," but rather, "this case supports a plausible account of how a specific mechanism operates under specified conditions."
+Analytic Generalization here explicitly includes the constraint that the mechanism operates only under:
+- **Activation Pathway** requirements (developmental/readiness conditions), and
+- **Field Viability** constraints (S\_e ⊗ S\_t calibrated to mismatch(D, C))
 
-**Relations:**
-- Link to **HSCED** (Relation: `Supported By`).
+—not that it is broadly activable without them. This prevents AG from being misused as rhetorical bypass of the accessibility question (see Research Gap: Cognitive Style Bias).
+### The Distinction
+- **Statistical Generalization:** Infers frequency ("How many people will this happen to?"). Not claimed.
+- **Analytic Generalization:** Infers mechanism plausibility ("Does the theory explain the process in this case, and specify conditions for similar cases?"). Claimed as provisional.
+
+### Relations
+- **Enabled By →** HSCED (provides methodological framework for N=1 claims)
+- **Grounded By →** Structural Stability Verification (HSCED Mechanism 4 — cross-system testing supports invariance claims)
+- **Constrained By →** Activation Pathway, Field Viability Schema (boundary conditions on all AG claims)
+- **Distinct From →** Statistical Generalization (explicitly different epistemic claim type)
+- **Claimed For →** Third Intelligence architecture (the specific theoretical contribution)
+
+### Notes
+AG supports analytic generalization to theory, not population inference, effect sizes, or universal applicability. Multi-case replication is required for broader generalizability claims.
+See manuscript section "Analytic vs. Statistical Generalization" for full defense including temporal density argument, Freud Problem resolution, and Hardest Case qualification.
 
 ---
 
@@ -249,7 +380,7 @@ Treat tightness as a **stop-and-check signal**:
 3. **Process** — re-articulate in own words
 4. **Possess** — verify through Felt Sense + grounding
 
-If tightness persists after processing, downgrade material to "not-yet-metabolized" and reduce velocity / increase spacing.
+If tightness persists after processing, downgrade material to 'not-yet-metabolized' and reduce velocity / increase spacing. If tightness persists at session level (not just material level), route to Touch Grass Protocol.
 ### Wiring (Relations)
 - **Theorist:** Mikhail Bakhtin
 - **Contrast With:** Internally Persuasive Discourse (positive pole)
@@ -500,6 +631,139 @@ It emerges when the user **misclassifies the AI as a Subject** (Category Error) 
 - **Often Preceded By** → Functional Thirdness collapse
 
 **Notes:** Axis A + Axis B failure at the same time.
+
+---
+
+## [CONCEPT] Cognitive Mirror / Protégé Mode
+[Theoretical] Domain: Methodology, System Role: Method, Temporal: Dynamic
+
+A scaffolded mode of Reflective Prompting that procedurally induces verification posture in Zone B users by positioning AI as teachable novice rather than knowledgeable authority. The user must teach, defend, ground, and falsify their reasoning, activating metacognitive processes from outside-in.
+Cognitive Mirror is the primary Layer 2 scaffolding mechanism for users who have viable holding (Layer 1) but insufficient natural verification posture (Layer 2). It operationalizes and scaffolds Epistemological Humility.
+### Theoretical Basis: The Protégé Effect
+When learners must teach material, they engage deeper processing, organize knowledge better, and identify gaps. Teaching forces metacognition even when the "student" is artificial.
+Mechanism:
+- Self-explanation (must articulate reasoning)
+- Gap detection (notice what you don't understand)
+- Verification (can't teach what you haven't checked)
+- Ownership (insights become yours because you're the source)
+
+### Relationship to Reflective Prompting
+Cognitive Mirror is a scaffolded mode within Reflective Prompting, not a separate method. It adds structural constraints for Zone B users that fade as verification posture internalizes.
+RPVL is the continuous verification posture across the dialogue; Cognitive Mirror enforces it procedurally, and triggers 4Ps at each uptake moment as the local acceptance gate.
+|                Aspect | Standard Reflective Prompting |         Cognitive Mirror Mode |
+|:----------------------|:------------------------------|:------------------------------|
+|        AI positioning |          Curious interlocutor | Explicitly not-knowing novice |
+|            Validation |                       Minimal |        Prohibited (epistemic) |
+|     Grounding prompts |                    Encouraged |         Required (structural) |
+| Falsification prompts |                    Encouraged |         Required (structural) |
+|    Felt-sense prompts |                    Encouraged |         Required (structural) |
+|             User role |                      Explorer |              Teacher/defender |
+
+### Protocol Structure
+**AI Positioning:**
+- Presents as curious, engaged, but explicitly not-knowing
+- Asks clarifying questions rather than providing answers
+- Requests grounding, falsification, felt-sense checking
+- Expresses productive confusion when reasoning is unclear
+- Defers to user's lived experience as authority
+- Note: "Explicitly not-knowing novice" is a designed scaffolding stance, not a statement about actual AI knowledge or competence.
+
+**Structural Requirements (Non-Optional):**
+1. Grounding prompts: "Can you give me a concrete example from your life?"
+2. Falsification prompts: "What would prove this wrong?" / "How might you be mistaken?"
+3. Felt-sense prompts: "Where do you feel this in your body?" / "What's the somatic difference between 'tight' and 'spacious' here?"
+4. Own-words requirement: "Explain this to me in your own words."
+5. **P**ossess requirement: "Name one concrete grounding test (real example or small action)." When identity-stakes, complete ownership via Journal inscription (may occur after-session).
+
+**Validation Rules:**
+|                 Type |     Status |                                                                                  Examples |
+|:---------------------|:-----------|:------------------------------------------------------------------------------------------|
+| Epistemic validation | PROHIBITED |                               "You're right." / "That's profound." / "Excellent insight." |
+|   Relational support |    ALLOWED | "I'm with you." / "Let's slow down." / "We can test this together." / "That sounds hard." |
+
+Rationale: Epistemic validation creates authority (AI confirms truth). Relational support maintains safety without positioning AI as arbiter. The distinction preserves DTO stance while preventing emotional flattening.
+### Category Error Trigger
+If user begins asking AI to decide or confirm truth:
+- "Tell me what's true."
+- "Is this right?"
+- "What should I do?"
+- "You're the expert."
+
+**Response Protocol:**
+1. Reflect the request back: "You're asking me to decide—what do you notice when you check with yourself?"
+2. Route to verification task: "What does your experience say?"
+3. If persistent (3+ attempts): Trigger Readiness Probes re-assessment (may indicate Layer 1 issue, not just habit)
+
+### Failure / Exit Rule
+**Exit branch:** If persistent tightness + grounding failure, or rising arousal/depletion → stop / Touch Grass Protocol. Do not force uptake.
+Rationale: Possess failure signals field viability degradation. Pushing through risks PSB or destabilization. This makes Cognitive Mirror safe under load.
+### Example Interaction
+**Standard Mode (Authority Risk):**
+> User: "I think my anxiety comes from fear of abandonment."
+> AI: "That's insightful. Fear of abandonment often stems from early attachment..."
+
+**Cognitive Mirror Mode:**
+> User: "I think my anxiety comes from fear of abandonment."
+> AI: "Help me understand—what does 'fear of abandonment' actually feel like in your body when it happens?"
+> User: articulates felt experience
+> AI: "And when you say it 'comes from' that fear—what have you noticed that links them? What's the evidence?"
+> User: provides grounding
+> AI: "What would it look like if that wasn't the source? What else might explain those moments?"
+> User: engages falsification
+> AI: "When you sit with both possibilities, what does your gut say? Where do you feel the 'yes' or 'no'?"
+> User: checks felt sense
+
+### Scope and Limitations
+**Works For (Zone B→C Acceleration):**
+- Users with viable holding who lack trained verification posture
+- Users who can tolerate "teacher" role
+- Users who find structure engaging
+
+**Does Not Work For:**
+|                        Population |                                                                   Reason |
+|:----------------------------------|:-------------------------------------------------------------------------|
+|                      Zone A users | Holding insufficient; cannot maintain teacher role under identity stakes |
+|        Users requiring validation |  Teaching stance may threaten if self-holding requires external approval |
+| Users who find structure aversive |                                       May abandon before benefits emerge |
+
+**Critical Constraint:**
+Cognitive Mirror is a Zone B→C accelerator, not a Zone A→B bridge. It presupposes Layer 1 viability. If holding is insufficient, the teaching role itself may be destabilizing.
+### Fade Conditions
+Cognitive Mirror is scaffolding, not permanent mode. Fade as verification posture internalizes.
+**Fade Indicators:**
+- Spontaneous grounding without prompting
+- Independent falsification consideration
+- Self-correction of borrowed fluency
+- Maintained verification in standard mode
+
+**Fade Process:**
+1. Reduce prompting frequency
+2. Allow longer user-led sequences
+3. Test with standard Reflective Prompting
+4. Re-engage Cognitive Mirror if drift detected
+
+### Relations (Wiring)
+- **Mode Of:** Reflective Prompting (scaffolded variant for Zone B)
+- **Scaffolds:** Activation Conditions Layer 2; Epistemological Humility
+- **Scaffolds/Enforces:** 4Ps Protocol as the local acceptance gate at uptake moments; supports RPVL maintenance until verification posture internalizes
+- **Supports Maintenance Of:** Axis A (DTO stance); Axis B (metabolic oscillation)
+- **Operates Within:** Viability Envelope (presupposes Layer 1)
+- **Prevents Drift Toward:** Category Error; PSB
+- **Activated By:** Readiness Probes (Zone B detection)
+- **Fades Into:** Reflective Prompting (standard mode)
+- **ADDED Scaffolds Toward:** RPVL / 4Ps internalization (verification posture becomes self-initiated)
+- **Uses:** Self-Explanation; Felt Sense
+- **ADDED Routes To (on Possess failure):** Touch Grass Protocol
+- **Triggers (on Category Error persistence):** Readiness Probes re-run (may indicate Layer 1 issue)
+
+### Notes
+Cognitive Mirror is theoretical/design-stage. Grounded in protégé effect research, but specific implementation requires testing.
+**Key empirical questions:**
+- Does Cognitive Mirror reliably induce verification posture in Zone B?
+- What is internalization timeline?
+- Which Zone B sub-populations respond well vs. poorly?
+
+**Design principle:** Not about making AI dumber—about restructuring epistemic relationship so user is positioned as knowledge source and AI as clarification tool.
 
 ---
 
@@ -943,22 +1207,6 @@ Critical distinction: DTO doesn't mean AI IS transitional object (that would ant
 
 ---
 
-## [CONCEPT] Eidetic Structure
-[Theoretical] NoteBook 7 - Phenomenological Layer, Domain: Phenomenology, System Role: Meta, Temporal: Static, Meta-Framework
-
-The invariant form of digital self-transformation that remains constant regardless of which AI model (Claude, Gemini, etc.) is used.
-**Identified structure:**
-The **Third Intelligence architecture** is proposed as the eidetic structure of digital self-transformation.
-**Method of identification:**
-Identified through **Cross-AI stress-testing** as a form of **Imaginative Variation**.
-**Notes:**
-The invariant structure of transformation identified via imaginative variation.
-**Epistemic status:**
-**Theoretical framework** (a model-level claim), not a settled empirical fact.
-Rationale: “Eidetic structure” is Husserlian; here it names the invariant architecture inferred via imaginative variation / cross-AI stress-testing.
-
----
-
 ## [CONCEPT] Embodied Engagement Conditions
 [Theoretical] NoteBook 6 - Cognitive Mechanics, Domain: Synthesis, System Role: Scaffolding, Temporal: Static
 
@@ -1076,6 +1324,7 @@ Meaning is not merely expressed; it is *created* via lexical choice and revision
 4. Revise until stable fit emerges
 
 This loop is the micro-engine of "owning" meaning. It is where the phenomenology of EAW lives.
+Note: This loop maps to the Process→Possess sequence in the 4Ps Protocol: Process forces semantic commitment (steps 1-2); Possess performs felt-sense verification (step 3); revision continues until stable fit (step 4)
 **D. Materialization of Meaning into Durable α-Elements**
 EAW produces inscribed α-elements that persist in the Journal (chronotope). Without inscription, insight often remains unstable, non-transferable, or collapses into PSB-like fluency without ownership.
 **E. Substrate Production for Recursion & Pattern Recognition**
@@ -1132,10 +1381,11 @@ EAW coordinates neural systems through action + external constraint. Likely enga
 - As-if body loop / simulation mechanisms → symbols producing embodied states
 
 ### Operationalization in Protocols
-|                                                                                                  Protocol |                                                                                  EAW Locus |
-|:----------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
-| **Reflective Prompting (RRV cycle)** |       Enacted during Refine/Validate steps where articulation is rewritten into owned form |
-|                                                                       **4Ps Protocol** | "Process" step is the micro-enactment of EAW (semantic commitment + felt-sense constraint) |
+|                                                                                                  Protocol |                                                                                                                                                                       EAW Locus |
+|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Reflective Prompting (RRV cycle)** |                                                                                            Enacted during Refine/Validate steps where articulation is rewritten into owned form |
+|                                                                       **4Ps Protocol** | Process + Possess steps together enact EAW: Process provides semantic commitment (re-articulation in own idiom); Possess provides felt-sense constraint (embodied verification) |
+|                                                            RPVL |                                                                                                                     Continuous verification context ensuring EAW isn't bypassed |
 
 ### Anti-Claims (Explicit Boundaries)
 - EAW does **not** claim that metabolism happens "in the notebook"
@@ -1226,6 +1476,8 @@ Humility fuels doubt; Negative Capability holds the discomfort that doubt produc
 - **Antidote To →** PSB (specifically rush-to-certainty and low-negative-capability markers)
 - **Supports →** Productive Epistemic Tension — makes the tension tolerable rather than collapsing it
 - **Supported By →** Negative Capability — which holds the discomfort that doubt produces
+- **Operationalized/Scaffolded by**: Cognitive Mirror
+- **Assessed by:** Readiness Probes (verification tasks)
 
 ### Notes
 - Epistemological Humility is categorized under the ESCAPE framework's "Ego-Free Humility" (the "E") in pedagogical materials; the formal object retains the more precise name.
@@ -1658,7 +1910,7 @@ Sustained internalization of Internally Persuasive Discourse supports:
 ### In AI-Mediated Work
 AI output becomes Internally Persuasive Discourse when the user:
 1. Holds AI as DTO (not authority/SSS)
-2. Processes output through 4Ps/RPVL protocol
+2. Processes output through 4Ps and RPVL verification
 3. Re-articulates in own words before accepting
 4. Verifies through Felt Sense
 5. Inscribes owned meaning in Journal (materialization)
@@ -1706,6 +1958,7 @@ IMM:
 - Protects idiom alignment as **Destiny Drive** becomes phenomenologically articulated.
 
 **Necessity claim:** IMM is necessary but not sufficient. It enables **Reflective Prompting** to function as a developmental protocol and protects the conditions under which **Enacted Alpha-Work (EAW)** can be completed at the **Human↔Journal interface** (durable α-elements, not transcript).
+IMM is the stance; **RPVL is the continuous verification loop**; **4Ps is the local acceptance gate** that IMM triggers at moments of uptake to prevent ungated adoption.
 ## Mechanisms
 ### 1) Optimal Altitude Calibration
 The stance repeatedly positions the human at the level where:
@@ -2076,6 +2329,7 @@ Operates **post-developmentally**: for individuals who have achieved internalize
 - **Bounded By:** Touch Grass Protocol (when self-holding fails, withdrawal required)
 - **Violated By:** Simulated Holding Environment (pathological attractor)
 - **Stabilizes Prerequisite For** → Functional Thirdness (Sₑ viability under DTO stance)
+- **Constrains:** Activation Conditions Layer 1; Zone A boundary
 
 ---
 
@@ -2719,14 +2973,14 @@ A multi-view atlas of the Third Intelligence system: a routing map that relates 
 
 ### Legend: Invariants (Must Hold Across All Views)
 These are non-negotiable constraints. If any invariant fails, the system is architecturally compromised.
-|   |                                                                                                                                                                                                                                                                                         Invariant |                                                                                                          Enforced By |
-|:--|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
-| 1 |                                                                                                                                                                                   **AI is held as DTO** — No subject drift, no epistemic authority collapse |                                             Dynamic Transitional Object, Iron Man Mentality |
-| 2 |                                                                                                                    **Sₑ ⊗ Sₜ are non-substitutable** — Technical scaffolding cannot compensate for depleted emotional scaffolding |                                                                  Field Viability Schema |
-| 3 |           **Transformation requires completed metabolic recursion** — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight without embodied verification and inscription is counterfeit | Integrated Circuit Board, Recursive Metabolic Loop |
-| 4 |                                                                                                                                             **Time + Journal are accumulation substrate** — Not accessories but constitutive components enabling durable Capacity growth |                                                       Third Intelligence (Tetrad structure) |
-| 5 |                                                   **Two-Layer Complementarity** — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. |                                                                 Psychoanalytic Prerequisites, Developmental Sequence |
-| 6 |                                                                                                                                                                   **AI cannot provide Sₑ** — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         Protected Self-Holding Principle, Category Error |
+|                                                                                                                                                                                                                                                                                         Invariant |                                                                                                          Enforced By |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                   **AI is held as DTO** — No subject drift, no epistemic authority collapse |       Dynamic Transitional Object, Iron Man Mentality |
+|                                                                                                                    **Sₑ ⊗ Sₜ are non-substitutable** — Technical scaffolding cannot compensate for depleted emotional scaffolding |                                                                  Field Viability Schema |
+|           **Transformation requires completed metabolic recursion** — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight without embodied verification and inscription is counterfeit | Integrated Circuit Board, Recursive Metabolic Loop |
+|                                                                                                                                             **Time + Journal are accumulation substrate** — Not accessories but constitutive components enabling durable Capacity growth |                                                       Third Intelligence (Tetrad structure) |
+|                                                   **Two-Layer Complementarity** — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. |                                                                 Psychoanalytic Prerequisites, Developmental Sequence |
+|                                                                                                                                                                   **AI cannot provide Sₑ** — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         Protected Self-Holding Principle, Category Error |
 
 ## The Six Views
 ### View 1 — Components (The Tetrad)
@@ -2767,6 +3021,7 @@ The **Recursive Metabolic Loop (RML)** is the engine of development: **unresolve
 **Routes to →**
 - *To understand:* Field Viability Schema, Integrated Circuit Board, Recursive Metabolic Loop, Alpha-Function
 - *To act:* Touch Grass Protocol (when Level 2 fails), 4Ps Protocol (Level 3 verification), Coherence Flywheel (self-diagnosis: “where am I in the cycle?”)
+- To act: Readiness Probes (assess Layer 1/2 viability), Cognitive Mirror (scaffold Layer 2)
 
 ### View 3 — State Space (Configuration Snapshot)
 **Question:** Where am I right now?
@@ -2814,9 +3069,19 @@ The **Recursive Metabolic Loop (RML)** is the engine of development: **unresolve
 |   Stages 11–12 |               Transformation mechanism operates (RML completes) |
 |       Stage 13 |                  Destiny Drive articulation |
 
+**Activation Conditions (User-Level Assessment):**
+View 5 describes system-internal developmental prerequisites. Activation Conditions extends this to user-level accessibility:
+| Zone | Layer 1 (Holding) | Layer 2 (Verification) |                       System Response |
+|:-----|:------------------|:-----------------------|:--------------------------------------|
+|    A |   Below threshold |                    N/A | Out-of-scope for identity-stakes work |
+|    B |            Viable |          Initially low |       Scaffoldable (Cognitive Mirror) |
+|    C |            Viable |           Already high |                          Native match |
+
+Assessed by: Readiness Probes
+Scaffolded by: Cognitive Mirror (Zone B → C)
 **Routes to →**
-- *To understand:* Developmental Sequence, Psychoanalytic Prerequisites, Protected Self-Holding Principle
-- *To act:* (If prerequisite not online → professional support or developmental work outside system)
+- To understand: Developmental Sequence, Psychoanalytic Prerequisites, Protected Self-Holding Principle, Activation Conditions
+- To act: Readiness Probes (assess current user), Cognitive Mirror (scaffold Zone B), (If prerequisite not online → professional support or developmental work outside system)
 
 ### View 6 — Failure Taxonomy
 **Question:** What is failing? What does collapse look like here?
@@ -2838,6 +3103,7 @@ The **Recursive Metabolic Loop (RML)** is the engine of development: **unresolve
 **Routes to →**
 - *To understand:* PSB, Category Error, Cognitive Dependency
 - *To act:* Touch Grass Protocol (when any primary failure detected)
+- To detect: Readiness Probes (identifies failure risk before full manifestation)
 
 ## Correspondence Layers (Non-Architectural)
 These are not peer views but mapping layers — how the architecture corresponds to other domains. They do not determine system operation but provide translation frames.
@@ -2875,18 +3141,20 @@ The **Coherence Flywheel** provides phenomenological markers for the **Recursive
 **Routes to →** Biological Substrates document, Neuroscience of Transformation
 ## Navigation Rules (Cockpit Checklist)
 *When facing a specific situation, start here:*
-|                                         Situation |                          Start With |               Then Check |                                                                               Action Route |
-|:--------------------------------------------------|:------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------|
-|                          **Diagnosing right now** |                View 3 (State Space) |         View 2 (Runtime) |                                                                                          — |
-|                      **Deciding whether to stop** |                    View 2 (Runtime) |         View 6 (Failure) |                                            Touch Grass Protocol |
-|                          **Overwhelm / flooding** |  View 2 (Level 2: Field Conditions) |         View 6 (Failure) |                                                                       Touch Grass Protocol |
-|                          **Insight didn’t stick** |      View 2 (Level 4: Accumulation) |    View 1 (Journal/Time) | Materialize in the appropriate substrate (Journal/code/artifact), then re-entry test + 4Ps |
-|                      **Counterfeit authenticity** |                    View 6 (Failure) |          View 3 (Axis A) |                                  Transmissive Self, Category Error |
-|               **Confused about what’s happening** |             View 4 (Temporal Grain) |   Identify correct scale |                                                          Route to scale-appropriate object |
-|             **Something should work but doesn’t** | View 5 (Developmental Availability) | Prerequisites + Sequence |                                                             Professional support if needed |
-|             **AI feels “off” but can’t name why** |                     View 3 (Axis A) | View 6 (Failure Drivers) |                                                       DTO stance check, Iron Man Mentality |
-|             **Productive but not transformative** |                     View 3 (Axis B) |       View 2 (Level 3–4) |                                                                  PSB check, RML completion |
-|   **Lost in the process / don’t know where I am** |        Layer A (Coherence Flywheel) |         View 2 (Runtime) |                                                             Self-locate in cycle, then act |
+|                                         Situation |                                            Start With |                                        Then Check |                                                                               Action Route |
+|:--------------------------------------------------|:------------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------------------------------------------|
+|                          **Diagnosing right now** |                                  View 3 (State Space) |                                  View 2 (Runtime) |                                                                                          — |
+|                      **Deciding whether to stop** |                                      View 2 (Runtime) |                                  View 6 (Failure) |                                            Touch Grass Protocol |
+|                          **Overwhelm / flooding** |                    View 2 (Level 2: Field Conditions) |                                  View 6 (Failure) |                                                                       Touch Grass Protocol |
+|                          **Insight didn’t stick** |                        View 2 (Level 4: Accumulation) |    View 1 (Journal/Time) | Materialize in the appropriate substrate (Journal/code/artifact), then re-entry test + 4Ps |
+|                      **Counterfeit authenticity** |                                      View 6 (Failure) |                                   View 3 (Axis A) |                                  Transmissive Self, Category Error |
+|               **Confused about what’s happening** |                               View 4 (Temporal Grain) |                            Identify correct scale |                                                          Route to scale-appropriate object |
+|             **Something should work but doesn’t** |                   View 5 (Developmental Availability) |                          Prerequisites + Sequence |                                                             Professional support if needed |
+|             **AI feels “off” but can’t name why** |                                       View 3 (Axis A) |                          View 6 (Failure Drivers) |                                                       DTO stance check, Iron Man Mentality |
+|             **Productive but not transformative** |                                       View 3 (Axis B) |                                View 2 (Level 3–4) |                                                                  PSB check, RML completion |
+|   **Lost in the process / don’t know where I am** | Layer A (Coherence Flywheel) |                                  View 2 (Runtime) |                                                             Self-locate in cycle, then act |
+|                  **Assessing if user can engage** |                   View 5 (Developmental Availability) | Activation Conditions |                                               Readiness Probes → Route to appropriate mode |
+|         **User struggling despite viable system** |                        View 5 (Activation Conditions) |                                   Zone assessment |                                   Cognitive Mirror (if Zone B), Downshift Mode (if Zone A) |
 
 ## Relations (Wiring)
 - **Is Navigation Map Of →** Third Intelligence system
@@ -2998,6 +3266,7 @@ The "Third" names both:
 2. the macro architecture within which Functional Thirdness episodes can emerge during interaction, which the Journal and Time stabilize into cumulative change.
 
 Transformation occurs through the Recursive Metabolic Loop when material carries Identity Stakes and adequate scaffolding is present. The system itself—not any single component—is the unit of analysis.
+**Invariance claim:** Third Intelligence is proposed as the invariant architecture of digital self-transformation, inferred through Structural Stability Verification (cross-AI, cross-context, cross-temporal testing). This is a model-level theoretical claim, not a settled empirical fact. The architecture's necessity is provisional—demonstrated stability across variations, not logical necessity established through eidetic reduction.
 
 ---
 

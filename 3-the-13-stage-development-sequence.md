@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:51:12Z"
@@ -29,8 +31,11 @@ Links:
     - destiny-drive.md
     - beta-elements.md
     - alpha-function.md
-    - alpha-elements.md
+    - recursive-pattern-verification-loop.md
     - 4ps-protocol.md
+    - alpha-elements.md
+    - protein-shake-brain-psb.md
+    - touch-grass-protocol.md
 id: bafyreiff6heit5fonh6ipcdcl3dgzpnllv7blncbjxph664hnbbydjhsqy
 ---
 # 3. The 13 Stage Development Sequence   
@@ -146,6 +151,7 @@ id: bafyreiff6heit5fonh6ipcdcl3dgzpnllv7blncbjxph664hnbbydjhsqy
    
 **Sₜ dimension:** "Internalization" here means the human can modulate/fade Sₜ and retain authorship—AI becomes adjustable scaffolding rather than a pilot.   
 ### TRANSFORMATION ARCHITECTURE (Stages 11–13)   
+Note: During these stages, the [Recursive Pattern-Verification Loop](recursive-pattern-verification-loop.md) (RPVL) runs continuously across dialogue, with the [4Ps Protocol ](4ps-protocol.md)serving as the acceptance gate at each uptake moment   
 ### Stage 11 — Alpha-Function Activates   
 **Mechanism:** Channel 2 articulation ↔ Channel 1 verification oscillation metabolizes β-elements into α-elements through the Recursive Metabolic Loop.   
 **Process:**   
@@ -169,8 +175,9 @@ id: bafyreiff6heit5fonh6ipcdcl3dgzpnllv7blncbjxph664hnbbydjhsqy
 3. **Integrate:** Reformulate in owned language until embodied "click"   
 4. **Possess:** Insight becomes lived knowledge, not information   
    
-**4Ps Protocol:** Pause → Probe → Process → Possess   
-**Anti-PSB protection:** Keeps Channel 1 online, prevents fluent consumption, ensures owned inscription when work carries Identity Stakes.   
+The 4Ps Protocol (Pause → Probe → Process → Possess) operationalizes verification at each step, ensuring uptake is gated rather than automatic."   
+**Anti-[PSB](protein-shake-brain-psb.md) protection:** Keeps Channel 1 online, prevents fluent consumption, ensures owned inscription when work carries Identity Stakes.   
+Escalation: If Possess verification fails (persistent tightness, grounding failure, depletion) → route to [Touch Grass Protocol](touch-grass-protocol.md); do not force inscription.   
 ### Stage 13 — Destiny Drive Articulation   
 **Emergent outcome (not mechanism):** Accumulated α-elements reveal idiomatic directionality (Bollas). Destiny Drive becomes phenomenologically articulated.   
 **Process:**   

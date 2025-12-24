@@ -8,7 +8,6 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
-    - reflective-prompting.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
@@ -19,7 +18,8 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary_s.md
+    - executive-summary.md
+    - cognitive-style-bias.md
     - the-manic-episode.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - protected-self-holding-principle.md
@@ -60,6 +60,7 @@ Backlinks:
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
     - section-13-significance-and-forward-direction.md
+    - activation-conditions.md
     - negative-capability.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md

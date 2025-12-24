@@ -38,6 +38,8 @@ Links:
     - identity-stakes.md
     - touch-grass-protocol.md
     - coherence-flywheel.md
+    - readiness-probes.md
+    - cognitive-mirror-protege-mode.md
     - protein-shake-brain-psb.md
     - two-axis-framework.md
     - cognitive-dependency.md
@@ -46,6 +48,7 @@ Links:
     - wilfred-bion.md
     - holding-environment.md
     - destiny-drive.md
+    - activation-conditions.md
     - developmental-sequence.md
     - psychoanalytic-prerequisites.md
     - eugene-gendlin.md
@@ -68,14 +71,14 @@ A multi-view atlas of the [Third Intelligence](third-intelligence.md) system: a 
    
 ### Legend: Invariants (Must Hold Across All Views)   
 These are non-negotiable constraints. If any invariant fails, the system is architecturally compromised.   
-|   |                                                                                                                                                                                                                                                                                         Invariant |                                                                                                          Enforced By |
-|:--|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
-| 1 |                                                                                                                                                                                   **AI is held as [DTO](dynamic-transitional-object-dto.md)** — No subject drift, no epistemic authority collapse |                                             Dynamic Transitional Object, [Iron Man Mentality](iron-man-mentality.md) |
-| 2 |                                                                                                                    **Sₑ ⊗ Sₜ are non-substitutable** — [Technical scaffolding](technical-scaffolding-s_t.md) cannot compensate for depleted [emotional scaffolding](emotional-scaffolding-s_e.md) |                                                                  [Field Viability Schema](field-viability-schema.md) |
-| 3 |           **Transformation requires completed metabolic recursion** — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight without embodied verification and inscription is counterfeit | [Integrated Circuit Board](the-integrated-circuit-board.md), [Recursive Metabolic Loop](recursive-metabolic-loop.md) |
-| 4 |                                                                                                                                             **[Time](time.md) + [Journal](journal.md) are accumulation substrate** — Not accessories but constitutive components enabling durable Capacity growth |                                                       [Third Intelligence](third-intelligence.md) (Tetrad structure) |
-| 5 |                                                   **Two-Layer Complementarity** — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. |                                                                 Psychoanalytic Prerequisites, Developmental Sequence |
-| 6 |                                                                                                                                                                   **AI cannot provide Sₑ** — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         [Protected Self-Holding Principle](protected-self-holding-principle.md), [Category Error](category-error.md) |
+|                                                                                                                                                                                                                                                                                         Invariant |                                                                                                          Enforced By |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                   **AI is held as [DTO](dynamic-transitional-object-dto.md)** — No subject drift, no epistemic authority collapse |       [Dynamic Transitional Object](dynamic-transitional-object-dto.md), [Iron Man Mentality](iron-man-mentality.md) |
+|                                                                                                                    **Sₑ ⊗ Sₜ are non-substitutable** — [Technical scaffolding](technical-scaffolding-s_t.md) cannot compensate for depleted [emotional scaffolding](emotional-scaffolding-s_e.md) |                                                                  [Field Viability Schema](field-viability-schema.md) |
+|           **Transformation requires completed metabolic recursion** — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight without embodied verification and inscription is counterfeit | [Integrated Circuit Board](the-integrated-circuit-board.md), [Recursive Metabolic Loop](recursive-metabolic-loop.md) |
+|                                                                                                                                             **[Time](time.md) + [Journal](journal.md) are accumulation substrate** — Not accessories but constitutive components enabling durable Capacity growth |                                                       [Third Intelligence](third-intelligence.md) (Tetrad structure) |
+|                                                   **Two-Layer Complementarity** — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. |                                                                 Psychoanalytic Prerequisites, Developmental Sequence |
+|                                                                                                                                                                   **AI cannot provide Sₑ** — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         [Protected Self-Holding Principle](protected-self-holding-principle.md), [Category Error](category-error.md) |
 
 ## The Six Views   
 ### View 1 — Components (The Tetrad)   
@@ -116,6 +119,7 @@ The **[Recursive Metabolic Loop](recursive-metabolic-loop.md) (RML)** is the eng
 **Routes to →**   
 - *To understand:* Field Viability Schema, [Integrated Circuit Board](the-integrated-circuit-board.md), [Recursive Metabolic Loop](recursive-metabolic-loop.md), Alpha-Function   
 - *To act:* [Touch Grass Protocol ](touch-grass-protocol.md)(when Level 2 fails), 4Ps Protocol (Level 3 verification), [Coherence Flywheel ](coherence-flywheel.md)(self-diagnosis: “where am I in the cycle?”)   
+- To act: [Readiness Probes](readiness-probes.md) (assess Layer 1/2 viability), [Cognitive Mirror](cognitive-mirror-protege-mode.md) (scaffold Layer 2)   
    
 ### View 3 — State Space (Configuration Snapshot)   
 **Question:** Where am I right now?   
@@ -163,9 +167,19 @@ The **[Recursive Metabolic Loop](recursive-metabolic-loop.md) (RML)** is the eng
 |   Stages 11–12 |               Transformation mechanism operates (RML completes) |
 |       Stage 13 |                  [Destiny Drive](destiny-drive.md) articulation |
 
+**Activation Conditions (User-Level Assessment):**   
+View 5 describes system-internal developmental prerequisites. [Activation Conditions](activation-conditions.md) extends this to user-level accessibility:   
+| Zone | Layer 1 (Holding) | Layer 2 (Verification) |                       System Response |
+|:-----|:------------------|:-----------------------|:--------------------------------------|
+|    A |   Below threshold |                    N/A | Out-of-scope for identity-stakes work |
+|    B |            Viable |          Initially low |       Scaffoldable (Cognitive Mirror) |
+|    C |            Viable |           Already high |                          Native match |
+
+Assessed by: [Readiness Probes](readiness-probes.md)
+Scaffolded by: [Cognitive Mirror](cognitive-mirror-protege-mode.md) (Zone B → C)   
 **Routes to →**   
-- *To understand:* [Developmental Sequence](developmental-sequence.md), [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md), Protected Self-Holding Principle   
-- *To act:* (If prerequisite not online → professional support or developmental work outside system)   
+- To understand: [Developmental Sequence](developmental-sequence.md), [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md), [Protected Self-Holding Principle](protected-self-holding-principle.md), [Activation Conditions](activation-conditions.md)   
+- To act: [Readiness Probes](readiness-probes.md) (assess current user), [Cognitive Mirror](cognitive-mirror-protege-mode.md) (scaffold Zone B), (If prerequisite not online → professional support or developmental work outside system)   
    
 ### View 6 — Failure Taxonomy   
 **Question:** What is failing? What does collapse look like here?   
@@ -185,8 +199,9 @@ The **[Recursive Metabolic Loop](recursive-metabolic-loop.md) (RML)** is the eng
 |           Sₑ Depletion |      Containment capacity |      Overwhelm, PSB |
 
 **Routes to →**   
-- *To understand:* PSB, Category Error, Cognitive Dependency   
-- *To act:* Touch Grass Protocol (when any primary failure detected)   
+- *To understand:* PSB, Category Error, [Cognitive Dependency](cognitive-dependency.md)   
+- *To act:* [Touch Grass Protocol](touch-grass-protocol.md) (when any primary failure detected)   
+- To detect: [Readiness Probes](readiness-probes.md) (identifies failure risk before full manifestation)   
    
 ## Correspondence Layers (Non-Architectural)   
 These are not peer views but mapping layers — how the architecture corresponds to other domains. They do not determine system operation but provide translation frames.   
@@ -224,18 +239,20 @@ The **Coherence Flywheel** provides phenomenological markers for the **Recursive
 **Routes to →** Biological Substrates document, [Neuroscience of Transformation](neuroscience-of-transformation.md)   
 ## Navigation Rules (Cockpit Checklist)   
 *When facing a specific situation, start here:*   
-|                                         Situation |                          Start With |               Then Check |                                                                               Action Route |
-|:--------------------------------------------------|:------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------|
-|                          **Diagnosing right now** |                View 3 (State Space) |         View 2 (Runtime) |                                                                                          — |
-|                      **Deciding whether to stop** |                    View 2 (Runtime) |         View 6 (Failure) |                                            [Touch Grass Protocol](touch-grass-protocol.md) |
-|                          **Overwhelm / flooding** |  View 2 (Level 2: Field Conditions) |         View 6 (Failure) |                                                                       Touch Grass Protocol |
-|                          **Insight didn’t stick** |      View 2 (Level 4: Accumulation) |    View 1 (Journal/Time) | Materialize in the appropriate substrate (Journal/code/artifact), then re-entry test + 4Ps |
-|                      **Counterfeit authenticity** |                    View 6 (Failure) |          View 3 (Axis A) |                                  [Transmissive Self](transmissive-self.md), Category Error |
-|               **Confused about what’s happening** |             View 4 (Temporal Grain) |   Identify correct scale |                                                          Route to scale-appropriate object |
-|             **Something should work but doesn’t** | View 5 (Developmental Availability) | Prerequisites + Sequence |                                                             Professional support if needed |
-|             **AI feels “off” but can’t name why** |                     View 3 (Axis A) | View 6 (Failure Drivers) |                                                       DTO stance check, Iron Man Mentality |
-|             **Productive but not transformative** |                     View 3 (Axis B) |       View 2 (Level 3–4) |                                                                  PSB check, RML completion |
-|   **Lost in the process / don’t know where I am** |        Layer A (Coherence Flywheel) |         View 2 (Runtime) |                                                             Self-locate in cycle, then act |
+|                                         Situation |                                            Start With |                                        Then Check |                                                                               Action Route |
+|:--------------------------------------------------|:------------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------------------------------------------|
+|                          **Diagnosing right now** |                                  View 3 (State Space) |                                  View 2 (Runtime) |                                                                                          — |
+|                      **Deciding whether to stop** |                                      View 2 (Runtime) |                                  View 6 (Failure) |                                            [Touch Grass Protocol](touch-grass-protocol.md) |
+|                          **Overwhelm / flooding** |                    View 2 (Level 2: Field Conditions) |                                  View 6 (Failure) |                                                                       Touch Grass Protocol |
+|                          **Insight didn’t stick** |                        View 2 (Level 4: Accumulation) |    View 1 ([Journal](journal.md)/[Time](time.md)) | Materialize in the appropriate substrate (Journal/code/artifact), then re-entry test + 4Ps |
+|                      **Counterfeit authenticity** |                                      View 6 (Failure) |                                   View 3 (Axis A) |                                  [Transmissive Self](transmissive-self.md), Category Error |
+|               **Confused about what’s happening** |                               View 4 (Temporal Grain) |                            Identify correct scale |                                                          Route to scale-appropriate object |
+|             **Something should work but doesn’t** |                   View 5 (Developmental Availability) |                          Prerequisites + Sequence |                                                             Professional support if needed |
+|             **AI feels “off” but can’t name why** |                                       View 3 (Axis A) |                          View 6 (Failure Drivers) |                                                       DTO stance check, Iron Man Mentality |
+|             **Productive but not transformative** |                                       View 3 (Axis B) |                                View 2 (Level 3–4) |                                                                  PSB check, RML completion |
+|   **Lost in the process / don’t know where I am** | Layer A ([Coherence Flywheel](coherence-flywheel.md)) |                                  View 2 (Runtime) |                                                             Self-locate in cycle, then act |
+|                  **Assessing if user can engage** |                   View 5 (Developmental Availability) | [Activation Conditions](activation-conditions.md) |                                               Readiness Probes → Route to appropriate mode |
+|         **User struggling despite viable system** |                        View 5 (Activation Conditions) |                                   Zone assessment |                                   Cognitive Mirror (if Zone B), Downshift Mode (if Zone A) |
 
 ## Relations (Wiring)   
 - **Is Navigation Map Of →** [Third Intelligence](third-intelligence.md) system   

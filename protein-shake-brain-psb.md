@@ -26,6 +26,7 @@ Backlinks:
     - salience-network-core-aic-dacc.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
+    - cognitive-style-bias.md
     - self-explanation.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -62,13 +63,14 @@ Backlinks:
     - epistemological-humility.md
     - reward-reinforcement-circuitry.md
     - cognitive-dependency.md
-    - 7-what-each-framework-gains-from-integration.md
     - 4-the-neurophenomenological-parallel.md
     - two-axis-framework.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
+    - readiness-probes.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
+    - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
     - 7-research-usage.md
     - recursive-pattern-verification-loop.md
@@ -81,9 +83,11 @@ Backlinks:
     - part-iv-reflective-prompting-as-system-level-p.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
+    - activation-conditions.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
     - negative-capability.md
+    - cognitive-mirror-protege-mode.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md

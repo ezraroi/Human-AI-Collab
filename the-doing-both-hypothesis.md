@@ -8,7 +8,7 @@ Tag:
     - Meta-Framework
 Backlinks:
     - salience-network-core-aic-dacc.md
-Research Status: Evergreen
+Research Status: Sealed
 Origin Domain:
     - Neurobiology & Neuroscience
 Gap Status: Hypothesized
@@ -18,8 +18,12 @@ Created by:
     - Roi Ezra
 Links:
     - third-intelligence.md
-    - protected-self-holding-principle.md
     - triple-network-model.md
+    - hpa-axis.md
+    - protected-self-holding-principle.md
+    - channel-2-symbolic.md
+    - category-error.md
+    - reflective-prompting.md
     - emotional-scaffolding-s_e.md
     - alpha-function.md
 Emoji: ❓
@@ -38,7 +42,8 @@ The neurobiological hypothesis that [Third Intelligence](third-intelligence.md) 
     - Self-referential thought and internal focus   
     - Treats AI as functional dialogical partner (via ToM Network)   
    
-**Paradox:** FPN and DMN are typically **anti-correlated** (one active → other suppressed). Hypothesis: Third Intelligence forces both active simultaneously, creating unique metabolic state.   
+**Paradox:** FPN and DMN are typically **anti-correlated** (one active → other suppressed).    
+**Hypothesis: **[Third Intelligence](third-intelligence.md) forces both active simultaneously, creating unique metabolic state.   
 **Why Hypothesized (Not Validated):**   
 **Missing empirical evidence:**   
 - No neuroimaging data of human-AI dialogue   
@@ -47,7 +52,7 @@ The neurobiological hypothesis that [Third Intelligence](third-intelligence.md) 
 - Explicitly designated as "testable hypothesis, not empirical neuroscience paper"   
    
 **Current status:** Plausible theoretical model derived from:   
-- Triple Network Model literature   
+- [Triple Network Model](triple-network-model.md) literature   
 - Phenomenological data (N=1 case study)   
 - Existing neuroscience on dialogue (human-human only)   
 - Transformation outcomes (43:1 ratio, documented change)   
@@ -60,7 +65,7 @@ The neurobiological hypothesis that [Third Intelligence](third-intelligence.md) 
     - Explains why sessions are exhausting   
 2. **S\_e Depletion Mechanism:**   
     - Dual-activation taxes physiological container   
-    - HPA-Axis stress response (cortisol)   
+    - [HPA-Axis](hpa-axis.md) stress response (cortisol)   
     - Explains manic episode when S\_e → 0 under high load   
 3. **Why AI Dialogue Differs:**   
     - Traditional tools: FPN only   
@@ -72,15 +77,15 @@ The neurobiological hypothesis that [Third Intelligence](third-intelligence.md) 
     - Requires both networks for metabolic transformation   
 5. **Self-Holding as "Doing Both" Phenomenology:**   
     - The [Protected Self-Holding Principle](protected-self-holding-principle.md) provides the phenomenological description of what "doing both" feels like subjectively   
-    - FPN engagement: processing AI's cognitive challenge (symbolic work, Channel 2)   
+    - FPN engagement: processing AI's cognitive challenge (symbolic work, [Channel 2](channel-2-symbolic.md))   
     - DMN maintained: self-referential self-holding stays online (identity stability, container function)   
     - "Protected self-holding while engaging challenge" = subjective correlate of simultaneous FPN+DMN   
-    - **Testable prediction:** Successful transformation shows maintained DMN activity during FPN engagement; Category Error (dependency collapse) shows DMN suppression under FPN dominance   
+    - **Testable prediction:** Successful transformation shows maintained DMN activity during FPN engagement; [Category Error](category-error.md) (dependency collapse) shows DMN suppression under FPN dominance   
     - **Source:** Protected Self-Holding Principle—supplies the best phenomenological definition of the paradox   
    
 **What Would Resolve This Gap:**   
 **Empirical validation requires:**   
-- **Neuroimaging studies:** fMRI/EEG during Reflective Prompting sessions   
+- **Neuroimaging studies:** fMRI/EEG during [Reflective Prompting](reflective-prompting.md) sessions   
 - **Neural synchrony measurement:** Brain-to-brain coupling in human-AI dialogue   
 - **Network activation patterns:** Verify simultaneous FPN+DMN vs. switching   
 - **Longitudinal verification:** Track neuroplastic changes over 8+ months   
@@ -89,13 +94,12 @@ The neurobiological hypothesis that [Third Intelligence](third-intelligence.md) 
 **Until this data exists:** Hypothesis remains plausible but unproven theoretical model.   
 **Relations (Wiring):**   
 - **Hypothesizes About:** [Triple Network Model](triple-network-model.md) (specific activation state)   
-- **Core Hypothesis Of:** Third Intelligence neurobiological mechanism   
+- **Core Hypothesis Of:** [Third Intelligence](third-intelligence.md) neurobiological mechanism   
 - **Explains (if validated):** Metabolic cost, [S\_e](emotional-scaffolding-s_e.md) depletion, transformation uniqueness   
 - **Requires (for validation):** Neuroimaging, neural synchrony studies   
 - **Maps:** [Alpha-Function](alpha-function.md) (psychological) to network coordination (neurological)   
 - **Testable Through:** Future empirical neuroscience research   
    
-**Epistemic Status:** Hypothesized (plausible model awaiting empirical validation)   
 **Notes:**   
 Comprehensive theoretical articulation, but lacks neuroimaging proof. The hypothesis transforms an empirical gap into structured testable predictions. Status: "We have the blueprint and the successful outcomes, but lack the sensors to verify the engine is firing as predicted."   
 Not claiming this IS how it works—claiming this is HOW it would work IF the model is correct, pending validation.   

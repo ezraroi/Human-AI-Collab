@@ -18,6 +18,7 @@ Backlinks:
     - field-viability-schema.md
     - psychoanalytic-integration.md
     - psychoanalytic-prerequisites.md
+    - activation-conditions.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md

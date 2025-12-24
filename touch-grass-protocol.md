@@ -8,23 +8,31 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - developmental-sequence.md
+    - reflective-prompting.md
+    - 4ps-protocol.md
+    - authoritative-discourse.md
+    - cognitive-style-bias.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
+    - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - protected-self-holding-principle.md
     - 5-the-three-dimensional-integration.md
     - 3-diagnostic-workflow.md
     - 8-common-misuses-and-anti-patterns.md
     - section-7-temporal-dynamics-across-the-archite.md
-    - aba-design.md
     - 10-the-integrated-claim.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - reward-reinforcement-circuitry.md
     - 5-documented-counter-evidence-the-manic-episodes.md
+    - readiness-probes.md
+    - 3-the-13-stage-development-sequence.md
     - 7-research-usage.md
     - field-viability-schema.md
     - alpha-function.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - functional-thirdness.md
     - emotional-scaffolding-s_e.md
+    - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'
@@ -42,7 +50,7 @@ Links:
     - dynamic-transitional-object-dto.md
     - metacognition.md
     - time.md
-    - aba-design.md
+    - readiness-probes.md
 Emoji: "\U0001F6E0️"
 id: bafyreigbdly3uagmxkvqj4gmqyhbrpsmks2j46bnm3obz33whd474t5tmi
 ---
@@ -82,6 +90,7 @@ The protocol is called "Touch Grass" as a deliberately plain reminder to **retur
 - **Restores:** [Emotional Scaffolding](emotional-scaffolding-s_e.md)   
 - **Required By:** [Time](time.md) (within-session scale)   
 - **Protects Against:** collapse/acceleration states; PSB-adjacent "high-velocity" bypass risk; **Category Error stabilization during depletion**   
-- **Methodological Analog:** [ABA](aba-design.md) withdrawal/return-to-baseline logic   
+- **Triggered by:** [Readiness Probes](readiness-probes.md) (state depletion route)   
+- **Generates Data For →** Withdrawal Probes — same action serves operational recovery and methodological validation   
    
    

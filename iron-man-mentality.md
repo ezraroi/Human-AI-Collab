@@ -41,19 +41,20 @@ Links:
     - ai.md
     - dynamic-transitional-object-dto.md
     - protein-shake-brain-psb.md
+    - alpha-function.md
     - productive-epistemic-tension.md
     - channel-2-symbolic.md
     - destiny-drive.md
-    - journal.md
-    - alpha-function.md
-    - 4ps-protocol.md
     - reflective-prompting.md
+    - enacted-alpha-work-eaw.md
+    - human.md
+    - journal.md
+    - recursive-pattern-verification-loop.md
+    - 4ps-protocol.md
     - touch-grass-protocol.md
     - felt-sense.md
     - as-if-body-loop.md
     - protected-self-holding-principle.md
-    - recursive-pattern-verification-loop.md
-    - enacted-alpha-work-eaw.md
     - cognitive-offloading.md
 Emoji: "\U0001F4A1"
 id: bafyreic5pzgmiar564ghmupdoitpzmymz4tmg3tzumw3kzfwgijxejxyyu
@@ -64,13 +65,14 @@ A dynamic stance that relies on **[metacognitive](metacognition.md) monitoring a
 **The human-side boundary condition of the [Third Intelligence ](third-intelligence.md)system.**   
 IMM:   
 - Prevents **[Category Error](category-error.md)** (Axis A failure) by keeping [AI](ai.md) firmly as **[DTO](dynamic-transitional-object-dto.md)/tool**, never as Subject.   
-- Prevents **[PSB](protein-shake-brain-psb.md)** (Axis B failure) by ensuring the human remains the **processor of symbolic meaning** (Alpha-Function capacity engaged rather than bypassed).   
+- Prevents **[PSB](protein-shake-brain-psb.md)** (Axis B failure) by ensuring the human remains the **processor of symbolic meaning** ([Alpha-Function](alpha-function.md) capacity engaged rather than bypassed).   
 - Preserves **[productive epistemic tension](productive-epistemic-tension.md)** by preventing premature collapse into agreement, sycophancy, and **[Channel 2](channel-2-symbolic.md)–only adoption**.   
 - Protects **germane load** by offloading only lower-level retrieval/storage/formatting (extraneous load), never the **metabolic labor** of meaning ownership.   
 - Ensures transformation occurs without collapse of **self-authorship** or **symbolic integrity**.   
 - Protects idiom alignment as **[Destiny Drive](destiny-drive.md)** becomes phenomenologically articulated.   
    
-**Necessity claim:** IMM is necessary but not sufficient. It enables **Reflective Prompting** to function as a developmental protocol and protects the conditions under which **Enacted Alpha-Work (EAW)** can be completed at the **Human↔[Journal](journal.md) interface** (durable α-elements, not transcript).   
+**Necessity claim:** IMM is necessary but not sufficient. It enables **[Reflective Prompting](reflective-prompting.md)** to function as a developmental protocol and protects the conditions under which **[Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md)** can be completed at the **[Human](human.md)↔[Journal](journal.md) interface** (durable α-elements, not transcript).   
+IMM is the stance; **[RPVL](recursive-pattern-verification-loop.md) is the continuous verification loop**; **[4Ps](4ps-protocol.md) is the local acceptance gate** that IMM triggers at moments of uptake to prevent ungated adoption.   
 ## Mechanisms   
 ### 1) Optimal Altitude Calibration   
 The stance repeatedly positions the human at the level where:   

@@ -14,11 +14,13 @@ Backlinks:
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - epistemological-humility.md
+    - readiness-probes.md
     - the-doing-both-hypothesis.md
     - psychoanalytic-integration.md
     - category-error.md
     - protein-shake-brain-psb.md
     - psychoanalytic-prerequisites.md
+    - activation-conditions.md
     - the-unified-architecture.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
@@ -43,6 +45,7 @@ Links:
     - holding-environment.md
     - touch-grass-protocol.md
     - functional-thirdness.md
+    - activation-conditions.md
 Emoji: "\U0001F4A1"
 id: bafyreich4ctxhzrmursbrnpv7jfstsze6z6useh34e5ncu6d6cifs7wksu
 ---
@@ -84,3 +87,6 @@ Operates **post-developmentally**: for individuals who have achieved internalize
 - **Bounded By:** [Touch Grass Protocol](touch-grass-protocol.md) (when self-holding fails, withdrawal required)   
 - **Violated By:** Simulated Holding Environment (pathological attractor)   
 - **Stabilizes Prerequisite For** → [Functional Thirdness](functional-thirdness.md) (Sₑ viability under DTO stance)   
+- **Constrains:** [Activation Conditions](activation-conditions.md) Layer 1; Zone A boundary   
+   
+   

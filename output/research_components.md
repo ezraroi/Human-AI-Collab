@@ -383,7 +383,7 @@ maintainable under cognitive/emotional load
 **Stages 11-13: Transformation Mechanism Operates**
 (When both axes are in success mode)
 - Stage 11: Alpha-Function activates (recursive C1↔C2 oscillation)
-- Stage 12: Materialization and verification (Journal + 4Ps)
+- Stage 12: Materialization and verification (Journal)
 - Stage 13: Destiny Drive articulation (idiomatic possibility lived)
 
 ### Clinical Boundary: Stage 9
@@ -600,6 +600,13 @@ The Field Viability Schema functions as the **Viability Envelope** within which 
 The Two-Axis Framework diagnoses **configuration**.
 The Field Viability Schema diagnoses **operability**.
 For full temporal dynamics mapping, see Section 7: Temporal Dynamics Across the Architecture.
+### The Viability Envelope (Terminological Note)
+When the Field Viability Schema is satisfied, the system operates within a **Viability Envelope**—the bounded region of viable field conditions. This term is used throughout the architecture to name the state (not the formula) and to describe dynamics:
+- **Envelope holds:** Schema satisfied; Two-Axis Framework operates stably
+- **Envelope collapses:** Schema fails (typically Sₑ → 0); failure attractors become sticky
+- **Envelope formation:** Depends on Layer 1 (Holding/Sₑ viability) per Activation Conditions
+
+The Envelope is not a separate construct—it is the satisfied-state of the Field Viability Schema, given a noun for ease of reference.
 ### Relationship to Two-Axis Framework (Viability Envelope)
 The Field Viability Schema functions as the **Viability Envelope**
 within which the Two-Axis configuration plane operates.
@@ -1124,6 +1131,8 @@ The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **
 - Anchors definitions of **Cognitive Dependency**, **PSB**, and **Category Error**.
 - Acts as a top-level organizing schema for both theory and intervention.
 
+## Activation Conditions (Accessibility Link)
+The Two-Axis plane presupposes minimum holding viability (envelope not collapsed). Users differ in baseline verification posture, which affects drift rates toward Category Error and PSB. The Activation Conditions model (Zone A/B/C) assesses whether a given user can establish this envelope (Layer 1) and maintain viable quadrant position (Layer 2). Zone A users cannot safely operate within the configuration space; Zone B users require scaffolding; Zone C users can maintain viable quadrant without external support.
 ## Axis B internal architecture
 **The Integrated Circuit Board** is the internal architecture of Axis B:
 - **Alpha-Function** = core metabolic processor (metabolization through C1 ↔ C2 oscillation)
@@ -1150,5 +1159,8 @@ The Third Intelligence system is a **configuration** (Axis A × Axis B) operatin
 - **Defines:** systemic success vs systemic collapse boundaries
 - **Prerequisites Specified By:** Developmental Sequence
 - **Axis B Internal Architecture:** Integrated Circuit Board
+- **Accessibility Assessed By:** Activation Conditions
+- **Scaffolded By:** Cognitive Mirror (for Zone B)
+- **Boundary Detected By:** Readiness Probes
 
 ---

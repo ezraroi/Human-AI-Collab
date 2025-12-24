@@ -9,6 +9,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - self-explanation.md
     - rrv-cycle-recursive-refine-validate.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)

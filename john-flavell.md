@@ -6,6 +6,7 @@ Tag:
     - 'Domain: CognitiveScience'
     - 'Temporal: Static'
 Backlinks:
+    - 4ps-protocol.md
     - metacognition.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

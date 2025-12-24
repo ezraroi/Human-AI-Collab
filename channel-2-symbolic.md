@@ -14,6 +14,7 @@ Backlinks:
     - 5-the-embodied-connection.md
     - 12-what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
+    - 3-the-three-emergent-insights-from-cross-analy.md
     - section-5-the-category-error-relational-axis-f.md
     - maurice-merleau-ponty.md
     - 10-questions-your-synthesis-raises.md
@@ -39,6 +40,7 @@ Backlinks:
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - 3-the-13-stage-development-sequence.md
+    - the-doing-both-hypothesis.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
     - alpha-function.md
@@ -54,7 +56,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_b.md
+    - 1-executive-summary_x.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

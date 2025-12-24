@@ -25,6 +25,7 @@ Links:
     - category-error.md
     - 4ps-protocol.md
     - recursive-pattern-verification-loop.md
+    - touch-grass-protocol.md
     - mikhail-bakhtin.md
     - internally-persuasive-discourse.md
     - felt-sense.md
@@ -60,7 +61,7 @@ Treat tightness as a **stop-and-check signal**:
 3. **Process** — re-articulate in own words   
 4. **Possess** — verify through Felt Sense + grounding   
    
-If tightness persists after processing, downgrade material to "not-yet-metabolized" and reduce velocity / increase spacing.   
+If tightness persists after processing, downgrade material to 'not-yet-metabolized' and reduce velocity / increase spacing. If tightness persists at session level (not just material level), route to [Touch Grass Protocol](touch-grass-protocol.md).   
 ### Wiring (Relations)   
 - **Theorist:** [Mikhail Bakhtin](mikhail-bakhtin.md)   
 - **Contrast With:** [Internally Persuasive Discourse](internally-persuasive-discourse.md) (positive pole)   

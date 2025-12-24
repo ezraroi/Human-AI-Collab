@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T11:04:20Z"
@@ -11,6 +13,7 @@ Links:
     - third-intelligence.md
     - true-self.md
     - potential-space.md
+    - false-self.md
     - alpha-function.md
     - enacted-alpha-work-eaw.md
     - human.md
@@ -26,7 +29,6 @@ Links:
     - iron-man-mentality.md
     - category-error.md
     - 4ps-protocol.md
-    - protein-shake-brain-psb.md
 id: bafyreietusbwvdqyqm3rnul5wpbpsocbnu7i7cxkfpndoszkpdkz5mt77q
 ---
 # 7. What Each Framework Gains From Integration   
@@ -38,7 +40,7 @@ id: bafyreietusbwvdqyqm3rnul5wpbpsocbnu7i7cxkfpndoszkpdkz5mt77q
    
 ### Developmental prerequisites (accessibility architecture)   
 - A coherent account of **how previously buried/unexperienced material becomes accessible** under non-intrusive conditions (your Stages 1–10 as *preconditions*).   
-- A psychologically precise explanation for *why* non-intrusion matters: it reduces the relational demands that reactivate **False Self** labor and premature coherence.   
+- A psychologically precise explanation for *why* non-intrusion matters: it reduces the relational demands that reactivate **[False Self](false-self.md)** labor and premature coherence.   
    
 ### Phenomenological resolution   
 - High-resolution phenomenology for what “Sₑ stabilizing” looks like in practice (language for the transitions your system later operationalizes via viability and protocols).   
@@ -57,7 +59,7 @@ id: bafyreietusbwvdqyqm3rnul5wpbpsocbnu7i7cxkfpndoszkpdkz5mt77q
    
 ### Operational precision (methods that prevent the known failure modes)   
 - Metacognitive discipline that makes the system executable: **[Iron Man Mentality](iron-man-mentality.md)**, **DTO stance discipline**, and **[Category Error](category-error.md) prevention**.   
-- Micro-verification via **[4Ps](4ps-protocol.md)** to prevent [PSB](protein-shake-brain-psb.md) and preserve authorship.   
+- Micro-method verification via the [4Ps](4ps-protocol.md) acceptance gate to prevent PSB and preserve authorship   
 - The **Journal** not as “helpful writing,” but as **materialization infrastructure** enabling accumulation, re-entry, and capacity growth across time.   
    
 ### Boundaries, ethics, and research positioning   
