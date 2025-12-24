@@ -17,6 +17,7 @@ Backlinks:
     - 4-revised-contribution-of-notebook-11.md
     - 5-measurement-program-menu.md
     - embodied-engagement-conditions.md
+    - dialogical-knowing.md
     - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
     - 3-the-three-emergent-insights-from-cross-analy.md
@@ -33,7 +34,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - llm-embedding.md
@@ -42,7 +43,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_w.md
+    - executive-summary_0.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -76,6 +77,7 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - 6-the-final-positioning-framework.md
     - alpha-function.md
+    - psychoanalytic-integration.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - integrated-synthesis-of-psychological-developm.md
@@ -85,8 +87,8 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
-    - 1-executive-summary_m.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - 1-executive-summary_7.md
     - 3-the-mechanism-catalytic-externalization.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md

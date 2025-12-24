@@ -19,7 +19,7 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - the-manic-episode.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - protected-self-holding-principle.md

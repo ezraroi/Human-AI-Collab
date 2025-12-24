@@ -36,12 +36,13 @@ Backlinks:
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - alpha-function.md
+    - psychoanalytic-integration.md
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - integrated-synthesis-of-psychological-developm.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
     - section-3-causal-sequence-placement.md

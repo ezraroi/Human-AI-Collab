@@ -25,6 +25,7 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - recursive-pattern-verification-loop.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
+    - the-unified-architecture.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

@@ -26,6 +26,7 @@ Backlinks:
     - functional-thirdness.md
     - emotional-scaffolding-s_e.md
     - 5-worked-diagnostic-examples.md
+    - the-unified-architecture.md
 Epistemic Status: 'Experiential: Grounded in N=1 phenomenology/felt sense'
 Origin Domain:
     - Neurobiology & Neuroscience

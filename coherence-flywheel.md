@@ -13,6 +13,7 @@ Backlinks:
     - recursive-metabolic-loop.md
     - section-7-temporal-dynamics-across-the-archite.md
     - the-integrated-circuit-board.md
+    - the-unified-architecture.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

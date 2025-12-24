@@ -26,7 +26,7 @@ Backlinks:
     - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md

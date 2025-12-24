@@ -12,7 +12,7 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - salience-network-core-aic-dacc.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - human.md
     - neural-synchrony.md
     - enacted-alpha-work-eaw.md
@@ -25,7 +25,7 @@ Backlinks:
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - embodied-cognition.md
     - the-unified-architecture.md
@@ -34,7 +34,7 @@ Origin Domain:
     - Neurobiology & Neuroscience
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Neural Basis Of:
     - channel-1-embodied-sensorimotor-pathway.md
 Creation date: "2025-11-22T12:30:59Z"

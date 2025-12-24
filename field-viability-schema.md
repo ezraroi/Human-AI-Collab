@@ -12,13 +12,13 @@ Backlinks:
     - kurt-lewin.md
     - developmental-sequence.md
     - part-ii-reflective-prompting-and-the-zone-of-p.md
-    - 3-the-mechanism-vs-existence-distinction_8.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - section-1-introduction-and-framework-positioning.md
     - digital-neurophenomenology.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
-    - 1-purpose-and-scope_i.md
+    - 1-purpose-and-scope_w.md
     - d-difficulty.md
     - challenge-gap-d-c.md
     - 8-common-misuses-and-anti-patterns.md
@@ -32,6 +32,7 @@ Backlinks:
     - part-iv-reflective-prompting-as-system-level-p.md
     - section-13-significance-and-forward-direction.md
     - emotional-scaffolding-s_e.md
+    - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md

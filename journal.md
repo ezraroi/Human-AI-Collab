@@ -34,14 +34,14 @@ Backlinks:
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_w.md
+    - executive-summary_0.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -102,7 +102,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary_m.md
+    - 1-executive-summary_7.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md
@@ -114,6 +114,7 @@ Backlinks:
     - chronotope.md
     - 11-what-youve-actually-discovered-meta-level.md
     - mikhail-bakhtin.md
+    - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md

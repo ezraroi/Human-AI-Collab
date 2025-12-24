@@ -8,6 +8,7 @@ Backlinks:
     - two-axis-framework.md
     - field-viability-schema.md
     - psychoanalytic-prerequisites.md
+    - the-unified-architecture.md
 Origin Domain:
     - Psychoanalysis
     - Developmental Psychology & Learning Theory
@@ -31,6 +32,7 @@ Links:
     - the-integrated-circuit-board.md
     - field-viability-schema.md
     - touch-grass-protocol.md
+    - functional-thirdness.md
 Emoji: "\U0001F9E9"
 id: bafyreiaacrmfqkqtyz463j5rp4qo6ha6svpzvcl34ovtn4teyrtztatism
 ---
@@ -127,10 +129,12 @@ lived developmental trajectory.
 - **Operationalizes:** [Psychoanalytic Prerequisites](psychoanalytic-prerequisites.md)   
    
 ### Distinction from Two-Axis Framework   
-|    Developmental Sequence |               Two-Axis Framework |
-|:--------------------------|:---------------------------------|
-|   Diachronic (trajectory) |               Synchronic (state) |
-|  "What must be achieved?" | "What configuration is present?" |
-| Prerequisites + evolution |                 Current validity |
-|     Non-linear, heuristic |                  Binary per axis |
+|    Developmental Sequence | [Two-Axis Framework](two-axis-framework.md) |
+|:--------------------------|:--------------------------------------------|
+|   Diachronic (trajectory) |                          Synchronic (state) |
+|  "What must be achieved?" |            "What configuration is present?" |
+| Prerequisites + evolution |                            Current validity |
+|     Non-linear, heuristic |                             Binary per axis |
 
+**Notes**   
+[Functional Thirdness](functional-thirdness.md) (interaction-level dialogical legitimacy) can operate once [DTO](dynamic-transitional-object-dto.md) stance solidifies (Stage 7) and Sₑ is viable (Stages 1-6). FT supports the [Alpha-Function](alpha-function.md) activation phase (Stages 8-11) by maintaining productive epistemic tension during live exchanges   

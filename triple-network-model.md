@@ -7,20 +7,20 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - salience-network-core-aic-dacc.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - 3-the-discriminator-framework.md
     - 1-purpose-and-scope.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - the-doing-both-hypothesis.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
 Origin Domain:
     - Neurobiology & Neuroscience
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Neural Basis Of:
     - alpha-function.md
 Creation date: "2025-11-22T12:29:59Z"

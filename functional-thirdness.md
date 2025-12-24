@@ -8,7 +8,9 @@ Tag:
     - 'System Role: Meta'
     - 'Temporal: Static'
 Backlinks:
+    - developmental-sequence.md
     - section-4-attribution-logic.md
+    - dialogical-knowing.md
     - protected-self-holding-principle.md
     - selected-fact.md
     - cognitive-dependency.md
@@ -16,8 +18,10 @@ Backlinks:
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
+    - psychoanalytic-integration.md
     - category-error.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - the-unified-architecture.md
     - functional-alterity.md
 Origin Domain:
     - Psychoanalysis

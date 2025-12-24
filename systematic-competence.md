@@ -10,11 +10,12 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-4-attribution-logic.md
+    - dialogical-knowing.md
     - section-9-container-as-function-authorization.md
     - the-container.md
     - ai.md
     - third-intelligence.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
     - functional-thirdness.md
     - functional-alterity.md
 Origin Domain:

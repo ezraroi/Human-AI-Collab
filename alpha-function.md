@@ -22,7 +22,6 @@ Backlinks:
     - destiny-drive.md
     - 12-what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
-    - dialogical-knowing.md
     - 2-what-the-existing-literature-actually-covers.md
     - triple-network-model.md
     - section-5-temporal-architecture.md
@@ -39,7 +38,7 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core-aic-dacc.md
     - holding-environment.md
-    - executive-summary_h.md
+    - executive-summary_s.md
     - self-explanation.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -113,8 +112,8 @@ Backlinks:
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di_3.md
-    - 1-executive-summary_m.md
+    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - 1-executive-summary_7.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
@@ -131,7 +130,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_q.md
+    - 1-executive-summary_b.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

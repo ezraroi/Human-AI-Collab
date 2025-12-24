@@ -13,7 +13,7 @@ Backlinks:
     - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
-    - 3-the-mechanism-vs-existence-distinction_8.md
+    - 3-the-mechanism-vs-existence-distinction.md
     - journal.md
     - 10-questions-your-synthesis-raises.md
     - eidetic-structure.md
@@ -54,16 +54,18 @@ Backlinks:
     - the-doing-both-hypothesis.md
     - field-viability-schema.md
     - 1-introduction-why-functional-alterity-is-nece.md
+    - psychoanalytic-integration.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
     - executive-summary.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - 1-core-discovery.md
+    - 1-core-discovery_l.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
+    - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 4-the-critical-ontological-distinction.md

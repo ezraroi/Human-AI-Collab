@@ -11,6 +11,7 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - judgment-expertise-boundary.md
     - recursive-pattern-verification-loop.md
+    - the-unified-architecture.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

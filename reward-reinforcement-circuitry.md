@@ -9,7 +9,7 @@ Tag:
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Neural Basis Of:
     - cognitive-dependency.md
     - protein-shake-brain-psb.md

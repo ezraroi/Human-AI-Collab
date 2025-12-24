@@ -12,7 +12,7 @@ Backlinks:
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Evergreen
+Research Status: Sealed
 Neural Basis Of:
     - protected-self-holding-principle.md
 Creation date: "2025-12-21T15:16:32Z"
