@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Input'
     - 'Temporal: Dynamic'
 Backlinks:
+    - reflective-prompting.md
     - lev-vygotsky.md
     - embodied-engagement-conditions.md
     - in-context-learning.md

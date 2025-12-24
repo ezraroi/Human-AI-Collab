@@ -8,7 +8,7 @@ Tag:
     - Meta-Framework
 Backlinks:
     - neural-synchrony.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_b.md
     - the-unified-architecture.md
 Research Status: Sealed
 Origin Domain:

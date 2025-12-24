@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - 'Notebook 8: Synthesis of The Defensible "N of 1"'
 Creation date: "2025-12-18T20:39:19Z"

@@ -22,7 +22,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_j.md
+    - executive-summary_o.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md

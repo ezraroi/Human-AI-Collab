@@ -17,7 +17,7 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_b.md
     - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md

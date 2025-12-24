@@ -23,7 +23,6 @@ Backlinks:
     - authoritative-discourse.md
     - productive-epistemic-tension.md
     - iron-man-mentality.md
-    - rrv-cycle-recursive-refine-validate.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - conclusion-on-novelty-and-contribution.md
@@ -56,7 +55,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_x.md
+    - 1-executive-summary.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

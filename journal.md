@@ -35,13 +35,13 @@ Backlinks:
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary.md
+    - executive-summary_9.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_j.md
+    - executive-summary_o.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -87,7 +87,6 @@ Backlinks:
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
-    - recursive-pattern-verification-loop.md
     - 6-the-final-positioning-framework.md
     - alpha-function.md
     - the-journals-three-essential-functions.md
@@ -103,7 +102,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary.md
+    - 1-executive-summary_b.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
     - section-3-causal-sequence-placement.md

@@ -51,7 +51,7 @@ Backlinks:
     - final-definition.md
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_l.md
+    - 1-executive-summary_v.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md
@@ -65,8 +65,10 @@ Created by:
     - Roi Ezra
 Links:
     - ai.md
+    - alpha-function.md
     - technical-scaffolding-s_t.md
     - zpd.md
+    - challenge-gap-d-c.md
     - protein-shake-brain-psb.md
     - alpha-elements.md
     - enacted-alpha-work-eaw.md
@@ -76,6 +78,8 @@ Links:
     - functional-alterity.md
     - mko-more-knowledgeable-other.md
     - c-capacity.md
+    - emotional-scaffolding-s_e.md
+    - selected-fact.md
     - metacognition.md
     - epistemological-humility.md
     - iron-man-mentality.md
@@ -93,20 +97,20 @@ Emoji: "\U0001F6E0️"
 id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 ---
 # Reflective Prompting   
-Reflective Prompting (RP) is a structured prompting protocol that uses [AI](ai.md) as a reflective surface rather than a substitute thinker. RP keeps alpha-function capacity with the human, organizes [technical scaffolding](technical-scaffolding-s_t.md) (Sₜ) so it amplifies rather than replaces metabolic work, and prevents premature collapse of the experienced challenge inside the [ZPD](zpd.md) by slowing work into recursive reflective loops (while the structural Challenge Gap remains pre-existing).   
+Reflective Prompting (RP) is a structured prompting protocol that uses [AI](ai.md) as a reflective surface rather than a substitute thinker. RP keeps [alpha-function](alpha-function.md) capacity with the human, organizes [technical scaffolding](technical-scaffolding-s_t.md) (Sₜ) so it amplifies rather than replaces metabolic work, and prevents premature collapse of the experienced challenge inside the [ZPD](zpd.md) by slowing work into recursive reflective loops (while the structural [Challenge Gap](challenge-gap-d-c.md) remains pre-existing).   
 Its purpose is to prevent [PSB](protein-shake-brain-psb.md), preserve authorship, and owned[ alpha-elements](alpha-elements.md) by routing insights through verification (RPVL) and completing [Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md) via [Journal](journal.md) inscription (the transcript is not enough) when work carries [Identity Stakes](identity-stakes.md) (can be used for work also).   
 ### System Role   
 - Converts AI interaction from consumption into co-articulation under verification.   
 - Preserves the conditions for [Productive Epistemic Tension](productive-epistemic-tension.md) (with adequate scaffolding and [Functional Alterity](functional-alterity.md)), keeping the human stretched and metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
-- Ensures AI remains a Piagetian Tool (Object) serving the human container, not a pseudo-[MKO](mko-more-knowledgeable-other.md) performing the work for the user.   
+- Ensures [AI](ai.md) remains a Piagetian Tool (Object) serving the human container, not a pseudo-[MKO](mko-more-knowledgeable-other.md) performing the work for the user.   
 - Provides the session-level protocol within which metabolic processing begins during dialogue and becomes durable through inscription—i.e., the protocol across which EAW is initiated and completed.   
    
 ### Scope & Preconditions   
 ### Use Reflective Prompting when   
 - The task has identity or developmental stakes (writing, life/role decisions, strategic thinking, deep self-understanding, complex design).   
 - The goal includes growth of [Capacity](c-capacity.md) (C) over time, not only “get it done.”   
-- Emotional Scaffolding is sufficiently stable to tolerate tension.   
-- AI is available; Journal is required when the outcome must become durable (decisions, reframes, Selected Facts, identity-level shifts).   
+- [Emotional Scaffolding](emotional-scaffolding-s_e.md) is sufficiently stable to tolerate tension.   
+- AI is available; Journal is required when the outcome must become durable (decisions, reframes, [Selected Fact](selected-fact.md)s, identity-level shifts).   
    
 ### Transactional mode (light or no RP) is acceptable when   
 - Tasks are purely instrumental (booking, quick queries, boilerplate).   
@@ -123,12 +127,12 @@ Its purpose is to prevent [PSB](protein-shake-brain-psb.md), preserve authorship
 **Function:** establish epistemic and emotional baseline before AI engagement.   
 **Operations**   
 - Goal articulation: what would count as a real shift?   
-- Resource inventory: notes, prior Journal entries, constraints.   
+- Resource inventory: notes, prior Journal entries (if relevant), constraints.   
 - Idiom & delegation boundaries: what is non-delegable (judgment, meaning, narrative) vs delegable (enumeration, editing, code, formatting).   
    
 **Cognitive role**   
 - Stabilizes emotional scaffolding (holding conditions) before AI engagement.   
-- Makes [D](d-difficulty.md) (difficulty/identity stakes) and current C (capacity) explicit as orientation.   
+- Makes [D](d-difficulty.md) (difficulty/identity stakes) and current C ([capacity](c-capacity.md)) explicit as orientation.   
    
 **Relations**   
 - Supports → [Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md) (Phase 3)   
@@ -137,20 +141,20 @@ Its purpose is to prevent [PSB](protein-shake-brain-psb.md), preserve authorship
 **Function:** co-construct a precise “box of meaning” before heavy outputs.   
 **Implements:** [RRV Cycle](rrv-cycle-recursive-refine-validate.md) with RPVL running throughout.   
 **Operations (RRV)**   
-1. Externalize — express raw thoughts/confusions/stakes (often via Rubber Duck Debugging).   
+1. Externalize — express raw thoughts/confusions/stakes (often via [Rubber Duck Debugging](rubber-duck-debugging.md)).   
 2. Refine — push back on AI; reject flattery/premature coherence; correct what’s flat or missing.   
 3. Validate — ask for synthesis; check against felt sense and task definition; recycle if off.   
    
-**Cognitive role (updated to EAW ontology)**   
+**Cognitive role**   
 - Begins metabolic processing: transforms β-material toward thinkable form through articulation plus felt-sense verification (dual-channel engagement begins here).   
-- Recruits alpha-function without surrendering authorship by keeping verification and rejection active inside RRV.   
-- Keeps AI in Functional Alterity (difference/resistance), not “perfect agreement” mode.   
+- Recruits [alpha-function](alpha-function.md) without surrendering authorship by keeping verification and rejection active inside RRV.   
+- Keeps AI in [Functional Alterity](functional-alterity.md) (difference/resistance), not “perfect agreement” mode.   
 - Prepares material for downstream inscription: what is produced here may be metabolically active, but it is not yet durable until written into the Journal.   
    
 **Teaching as Verification (Protégé Effect)**   
 Phase 2 can position AI as a teachable novice (distinct from [Rubber Duck Debugging](rubber-duck-debugging.md)), forcing retrieval, organization, gap detection, and contradiction exposure (conflict detection / model repair).   
 ### Phase 3 — Workflow Design & Delegation   
-**Function:** convert clarified intention into an owned plan respecting Judgment–Expertise boundary and idiom alignment.   
+**Function:** convert clarified intention into an owned plan respecting [Judgment–Expertise boundary](judgment-expertise-boundary.md) and idiom alignment.   
 **Operations**   
 - Rewrite the goal using Phase 2 clarity.   
 - Break into 2–7 steps.   
@@ -165,8 +169,8 @@ Phase 2 can position AI as a teachable novice (distinct from [Rubber Duck Debugg
    
 **Relations**   
 - Operates → [Judgment–Expertise Boundary](judgment-expertise-boundary.md)   
-- Implements → Idiom-Aligned Scaffolding   
-- Uses → Iron Man Mentality   
+- Implements → [Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md)   
+- Uses → [Iron Man Mentality](iron-man-mentality.md)   
    
 ### Phase 4 — Alignment Maintenance   
 **Function:** maintain alignment to the original challenge gap (D relative to C) and embodied knowing as the task unfolds.   
@@ -191,7 +195,7 @@ Phase 2 can position AI as a teachable novice (distinct from [Rubber Duck Debugg
    
 ### Failure Modes / Diagnostics   
 - [PSB](protein-shake-brain-psb.md) ([Channel-2](channel-2-symbolic.md) fluency without [Channel-1 ](channel-1-embodied-sensorimotor-pathway.md)verification and without owned inscription)   
-- Delegation drift (AI becomes pseudo-MKO; authorship collapses)   
+- Delegation drift (AI becomes pseudo-[MKO](mko-more-knowledgeable-other.md); authorship collapses)   
 - Transcript substitution (no durable α-elements; no EAW completion)   
    
 ### Notes (architectural clarification)   
