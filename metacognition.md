@@ -10,20 +10,17 @@ Tag:
 Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
-    - 5-the-embodied-connection.md
     - 4ps-protocol.md
     - cognitive-debt-awareness.md
     - john-flavell.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
     - high-resolution-uncertainty.md
-    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - judgment-expertise-boundary.md
     - 5-final-positioning-statement.md
     - 3-the-13-stage-development-sequence.md
     - touch-grass-protocol.md
-    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
-    - 1-executive-summary.md
+    - 1-executive-summary_o.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'

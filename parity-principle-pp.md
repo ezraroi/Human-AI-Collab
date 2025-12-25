@@ -33,7 +33,7 @@ The **Parity Principle**, introduced by Andy Clark and David Chalmers in their f
 This model argues that the **Journal is not merely a record of thought**, but a **constitutive part of the cognitive system**. The Parity Principle provides the philosophical justification for this claim.   
 Specifically, PP supports the claim that the Journal functions as the **substrate and constraint structure** through which **[Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md)** becomes reliably possible. The Journal does **not** perform metabolic processing—the **human** does. But the Journal provides the external conditions that enable and stabilize that work:   
 - **Material constraint** that forces sequential articulation and commitment   
-- **Externalized form** that enables re-entry and verification   
+- **Externalized form** that enables re-entry and re-reading / drift detection across time   
 - **Persistent chronotope** that supports cross-temporal recursion   
    
 Under PP, these functions qualify the Journal as constitutive cognitive infrastructure: if constraint, stabilization, and recursive access would count as cognitive functions when implemented internally, they must count when enacted through the Journal.   

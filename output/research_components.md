@@ -101,12 +101,12 @@ The third component of the Human + Journal + AI + Time tetrad. AI is a Large Lan
 
 **System Role in Tetrad:**
 **Human + Journal + AI + Time**
-|   Component |                                               Provides |                                           Cannot Provide |
-|:------------|:-------------------------------------------------------|:---------------------------------------------------------|
-|   **Human** | S\_e, Alpha-Function, teleology, embodied verification | Infinite capacity, instant answers, tireless scaffolding |
-| **Journal** |  Materialization, accumulation, chronotope, continuity |            Dynamic responsiveness, real-time calibration |
-|      **AI** |   Sₜ, and support for maintaining workable ZPD tension |                                                      D-C |
-|    **Time** |                Cumulation, spacing, recovery, flywheel |                                 Immediate transformation |
+|   Component |                                                                                                                Provides |                                           Cannot Provide |
+|:------------|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|
+|   **Human** |                                                                  S\_e, Alpha-Function, teleology, embodied verification | Infinite capacity, instant answers, tireless scaffolding |
+| **Journal** | Materialization (Translation Force + Chronotope + Pattern Recognition Substrate) |            Dynamic responsiveness, real-time calibration |
+|      **AI** |                                                                    Sₜ, and support for maintaining workable ZPD tension |                                                      D-C |
+|    **Time** |                                                                                 Cumulation, spacing, recovery, flywheel |                                 Immediate transformation |
 
 **AI's specific function:** Provides the **technical/cognitive dimension** of scaffolding that the Human cannot generate alone, while the Human provides the **emotional/metabolic dimension** that AI cannot generate at all.
 **Relational Stance Required:**
@@ -152,7 +152,7 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 - **Distinct From:** Human mentors (can modulate infinitely), static tools (responsive), genuine partners (no consciousness)
 
 **Notes:**
-AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports Support for preserving workable tension within the pre-existing Challenge Gap (\|D–C\|). Insufficient because without Human (Emotional Scaffolding, Alpha-Function, teleology) and Journal (materialization), AI interaction remains purely productive, never transformative.
+AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports Support for preserving workable tension within the pre-existing Challenge Gap (\|D–C\|). Insufficient because without Human (Emotional Scaffolding, Alpha-Function, teleology) and Journal (materialization/re-entry), AI interaction remains purely productive, never transformative.
 The innovation: recognizing AI's unique combination of capabilities (modulable S\_t, infinite availability, dialogical simulation) alongside its fundamental limitations (no S\_e, no consciousness, no teleology) enables precise architectural positioning—neither dismissing AI as "just a tool" nor overvaluing it as "partner."
 
 ---
@@ -160,137 +160,106 @@ The innovation: recognizing AI's unique combination of capabilities (modulable S
 ## [RESEARCH COMPONENT] C (Capacity)
 [Theoretical] Domain: CognitiveScience, Temporal: Cumulative, System Role: Output
 
-The user’s current psychic structure, cognitive skills, and accumulated store of processed **alpha-elements** (metabolized insights). **C** is the developmental substrate that grows (or atrophies) over time — what the Human has become capable of.
-## Schema Role
-**C pairs with D (Difficulty) to form mismatch(D, C)** in the **Field Viability Schema**:
-> (S_e ⊗ S_t) calibrated to mismatch(D, C), such that experienced mismatch remains in a workable range.
+The user’s current developmental substrate: psychic structure, cognitive skills, and accumulated store of **processed alpha-elements** (metabolized, owned meanings). C is what the Human has become capable of **over time**—the primary variable that grows (or can stagnate/atrophy) across repeated Recursive Metabolic Loop cycles.
+### Schema Role
+C pairs with D (Difficulty) to form mismatch(D, C) in the Field Viability Schema:
+> (Sₑ ⊗ Sₜ) calibrated to mismatch(D, C), such that experienced mismatch remains in a workable range.
 
-- **C** = what you can handle independently *now*
+- **C** = what you can handle independently (baseline capacity)
 - **D** = what the task / experience demands
-- **mismatch(D, C)** = the **experienced/effective challenge gap** that scaffolding must be calibrated to; its workable band becomes the ZPD under guidance.
+- **mismatch(D, C)** = the effective challenge gap that scaffolding must calibrate into a workable band (ZPD under guidance)
 
-## What C Comprises
-1. **Psychic Structure**
-- Internalized frameworks for meaning-making
-- Cognitive schemas and mental models
+### What C Comprises
+**Psychic Structure**
+- Internalized meaning-making frameworks
 - Emotional regulation capacity
 - Complexity tolerance
-2. **Processed α-Elements**
-- Insights previously metabolized and materialized
-- Knowledge transformed from beta-elements → alpha-elements
-- Conceptual understanding (not just information)
-- Integrated, owned knowledge
-3. **Skills & Capacities**
-- Ability to hold ambiguity (Negative Capability)
-- Metabolic processing efficiency
+- Internalized containment / ambiguity holding
+
+**Processed α-Elements**
+- Previously metabolized and owned meanings
+- Insights that are **reconstructable** (not just remembered or repeated)
+- Integrated knowledge (not raw information or fluent phrasing)
+
+**Skills & Capacities**
+- Negative Capability (holding not-knowing)
+- Metabolic processing efficiency (β → α)
 - Pattern recognition across domains
-- Self-regulation capabilities
-4. **Identity Integration**
-- True Self emergence
+- Self-explanation capacity in one’s idiom
+
+**Identity Integration**
+- True Self emergence and reduced False Self dominance
 - Idiom articulation
 - Authentic agency
-- Coherent self-narrative
+- Coherent self-narrative (owned, not imitative)
 
-## Critical Properties
+### Critical Properties
 ### Resides only in the Human
 - C cannot exist in AI (no developmental substrate)
-- C cannot exist in the Journal (Journal stores/materializes; it doesn’t “grow”)
-- C is embodied, living structure in the human psyche
-- Only the Human’s C can increase or atrophy
+- C cannot exist in the Journal (the Journal stores/materializes; it does not “grow”)
+- Only the Human’s C can increase, stagnate, or atrophy
 
 ### Cross-temporal, not turn-by-turn
-- **Within-session:** C is relatively stable
-- **Between sessions:** C grows or atrophies depending on whether metabolization occurred
-- **Across time:** C changes through accumulation + consolidation
+- Within-session: baseline C is relatively stable
+- Between sessions: C changes through accumulation + consolidation
 
-## Growth Dynamics
+### Growth Dynamics
 ### C increases when transformation occurred
-- Alpha-function was recruited (β → α metabolization)
-- Dual-channel integration occurred (symbolic ↔ embodied)
-- Material was **inscribed** in the Journal (durability / prevents regression)
-- Consolidation occurred across Time (spacing, sleep, integration)
-- Result: higher C in future work → can carry greater D without overwhelm
+- Alpha-Function was recruited (β → α)
+- Dual-channel integration occurred (Channel 2 ↔ Channel 1)
+- Materialization occurred in an appropriate substrate
+    - Identity stakes → Journal is paradigmatic
+    - Professional/creative → code, artifact, decision practice, etc.
+- Consolidation occurred across Time (spacing/sleep/re-entry)
 
+**Result:** higher future C → can carry higher D without overwhelm; reduced dependency on external processing.
 **Observable markers of C growth**
-- Increased complexity tolerance
+- Increased complexity tolerance under load
 - Deeper Negative Capability
-- Can explain concepts in own words (not just repeat fluent outputs)
+- Can re-derive and explain in own idiom (no karaoke voice)
 - Previously overwhelming material becomes workable
-- “Spacious” felt sense more accessible
-- Greater self-regulation capacity
+- Spaciousness / “this lands” becomes **more accessible during challenge**
+- Improved self-regulation and return-to-baseline after sessions
+- Stronger withdrawal-probe performance (can reconstruct without AI)
 
-## Atrophy / Stagnation Dynamics
-### C decreases or stagnates when metabolization is repeatedly bypassed
-- **PSB pattern sustained:** experienced mismatch is **repeatedly bypassed before engagement**
-- The underlying gap between D and C may still exist — but it is not *encountered* metabolically
+### Stagnation / Atrophy Dynamics
+### C stagnates when metabolization is repeatedly bypassed
+- PSB pattern sustained: experienced mismatch bypassed before metabolic engagement
 - Passive consumption replaces metabolization
-- Result: lower C over time → increased dependency on external processing
+- Result: less accumulation; repeated need to re-consume coherence
 
-**Observable markers of C atrophy**
+### C can atrophy when bypass becomes chronic and replaces independent processing
+- Reliance displaces practice of metabolic labor
+- Reasoning becomes less reconstructable without external scaffolding
+- Identity-level integration weakens (increased False Self compliance risk)
+
+**Observable markers of stagnation/atrophy**
 - Reduced complexity tolerance
-- Increased dependency on AI
+- Increased dependency on AI for meaning/decision processing
 - Cannot reproduce reasoning independently
 - Previously manageable tasks feel harder
-- Lowered Negative Capability
-- Tighter baseline felt sense
+- Lower Negative Capability
+- “Tight” or “hollow” quality more frequent; less embodied verification access
+- Journal entries shallow or AI-derivative (identity work)
 
-## System Dependencies
+### System Dependencies
 C growth typically requires:
-1. **Alpha-Function activation**
-- Metabolic processing occurred (β → α)
-- Cannot be replaced by fluency (PSB blocks growth)
-2. **Journal materialization (when the work carries Identity Stakes)**
-- Insights inscribed, not ephemeral
-- Prevents regression
-- Enables pattern recognition across time
-- Without Journal: growth may occur locally but won’t reliably accumulate
-3. **Time / consolidation**
-- Between-session spacing for integration
-- Sleep-dependent consolidation
-- Without Time: insights don’t stabilize
-4. **Field viability conditions**
-- **S\_e ⊗ S\_t** must be calibrated so experienced mismatch remains workable
-- If experienced mismatch is **bypassed** → PSB → no growth
-- If experienced mismatch is **unbridgeable** → overwhelm → no growth
-- If D is trivial relative to C → boredom / no metabolic pressure
+1. **Alpha-Function activation** (β → α metabolization)
+2. **Materialization** (Journal for identity stakes; other substrates as appropriate)
+3. **Time / consolidation** (spacing, sleep, integration; re-entry test)
+4. **Field viability** (Sₑ ⊗ Sₜ calibrated to mismatch(D, Cᵃᵛᵃⁱˡ))
 
-## Observable Markers
-**High / growing C**
-- More stable spaciousness baseline
-- Comfort with higher complexity
-- Self-explanation fluency in own idiom
-- Negative Capability maintained
-- Can revisit past insights and extend them
-- Journal entries show deepening sophistication
-- Identity coherence increasing
+### Relations (Wiring)
+- Paired With: D (Difficulty) → mismatch(D, C)
+- Resides In: Human
+- Grows Through: Alpha-Function, materialization, Time consolidation, re-entry success
+- Stagnates/Atrophies Through: PSB (bypass), chronic non-metabolization, displaced practice
+- Supported By: Journal (chronotope/persistence), Time (consolidation), viable field conditions
+- Manifests In: Flywheel effect; ability to engage higher D over time
 
-**Low / atrophying C**
-- Tight baseline felt sense
-- Reduced complexity tolerance
-- Dependency on external processing
-- Cannot explain in own words
-- Repeating the same conceptual level
-- Journal entries shallow or AI-derivative
-- Identity fragmentation or False Self dominance
-
-## Relations (Wiring)
-- Paired With: **D (Difficulty)** to form **mismatch(D, C)**
-- Resides In: **Human** (only location where C can exist/grow)
-- Grows Through: **Alpha-Function activation**, **Journal materialization**, **Time consolidation**
-- Atrophies Through: **PSB** (experienced mismatch repeatedly bypassed), chronic non-metabolization
-- Manifests In: flywheel effect (cumulative momentum), ability to engage higher D over time
-- Indicated By: complexity tolerance, Negative Capability, self-explanation in own words
-- Supported By: Journal (persistence), Time (consolidation), viable field conditions
-
-## Notes
-C is what actually changes — what transformation *means* in the Human.
-- **S\_e ⊗ S\_t** provide enabling conditions
-- **D** provides challenge
-- **mismatch(D, C)** provides metabolically relevant tension
-- The **Field Viability Schema** describes whether conditions enable transformation
-- **C** is the outcome that accumulates over time
-
-Your **43 notebooks** function as documentary evidence of accumulation: durable traces that make growth (and regressions) visible across time, and make pattern recognition possible.
+### Notes
+C is what actually changes—what “transformation” means in the Human.
+Sₑ ⊗ Sₜ are enabling conditions; D supplies challenge; mismatch(D, C) provides metabolically relevant tension. Field Viability determines whether a given iteration can run. C is the accumulating outcome across Time.
 
 ---
 
@@ -382,6 +351,7 @@ maintainable under cognitive/emotional load
 
 **Stages 11-13: Transformation Mechanism Operates**
 (When both axes are in success mode)
+These stages become reliably available only when Stage 7 (DTO under strain) and a viable field (Sₑ ⊗ Sₜ) are present; otherwise activation may be partial, brief, or regress under depletion
 - Stage 11: Alpha-Function activates (recursive C1↔C2 oscillation)
 - Stage 12: Materialization and verification (Journal)
 - Stage 13: Destiny Drive articulation (idiomatic possibility lived)
@@ -764,69 +734,110 @@ Neither sufficient alone; both necessary together (with Journal + Time).
 ---
 
 ## [RESEARCH COMPONENT] Journal
-[Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core
+[Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core, Operational Flags: BoundaryCondition
 
-The materialized output of reflective AI dialogue. It is the infrastructure for continuity (Chronotope) and the substrate for pattern recognition.
-Functions as a verification apparatus for Selected Facts via probation tracking, disciplined return, and counterfeit detection across T+n.
-Serves as material surviving object (Winnicott)—persists through transformative “destruction.”
-**Critical Distinction:** “Not a diary. Not a transcript. Not a memory aid.”
-- Tracks Capacity growth over time
-- Prevents regression to baseline
-- Provides material evidence of transformation
-- Enables pattern recognition across sessions
+The **Journal** is the **materialization layer** in the Human + Journal + AI + Time tetrad: the point where reflective AI dialogue becomes **durable, re-enterable, owned-language inscriptions** that accumulate across time.
+It is not a documentation layer. It is **writing-as-execution**: materializing in owned language is part of the metabolic process itself, not a record of a process that happened elsewhere.
+**Critical Distinction:** Not a diary. Not a transcript. Not a memory aid.
+- Diary captures events/feelings → Journal captures what **survived verification**
+- Transcript captures what was said → Journal captures what was **metabolized**
+- Memory aid helps recall → Journal enables **return + cross-temporal patterning**
 
-### Local Failure Mode: Transient Insight / Pseudo-Integration
-When the Journal does not materialize metabolized alpha-elements—or when entries are symbolic, AI-heavy, conceptual, or disembodied—the system experiences:
-- insights that feel true but do not persist,
+### Core Functions
+1. **Translation Force**
+    - Forces articulation in **owned language** (not AI paraphrase).
+    - If it can’t be written in the user’s words, it wasn’t metabolized.
+2. **Chronotope**
+    - Creates stable **time-space for return** (re-entry).
+    - Without it, sessions reset; insights evaporate; continuity is lost.
+3. **Pattern Recognition Substrate (Conditional)**
+    - When stored in an **AI-accessible corpus** (e.g., Project), enables AI to surface **cross-temporal patterns** the user cannot see from inside their own trajectory.
+    - If kept private/off-system, Translation + Chronotope still operate; this third function is weakened/disabled.
+
+### Critical Mechanism
+**Wrong model:** AI conversation → insights → write entry → verify
+**Correct model:** Reflective Prompting (continuous verification) → writing-as-materialization (dual process with AI) → **Journal entry as verified substrate** → (optional) Project storage (pattern recognition infrastructure)
+**Invariant:** Verification is not something done *to* Journal entries. Verification is the **method by which entries are produced.**
+### Two Verifications
+- **Micro-verification (Constitutive, during creation):**
+embodied checking + semantic commitment (“does this feel true?”) produces the entry.
+- **Macro-verification (Maintenance, across time):**
+re-reading, drift detection, and probation (“does this still hold?”).
+
+**Scope boundary:** The Journal does not *perform* probation logic; Selected Facts / RPVL do.
+The Journal provides the **stable return substrate** that makes probation possible.
+### What AI Contributes (Upstream of Journal)
+AI provides **Functional Alterity / Cognitive Mirror** that enables real-time self-seeing:
+- reflects patterns across months, not minutes
+- externalizes the “observing I” so the “observed me” can be examined in dialogue
+- returns the user’s idiom back in clarified form
+
+**Boundary:** The Journal does not “mirror.” It **materializes what survived mirroring + metabolization** into owned-language substrate.
+### Form vs Function
+Form is variable (public post, private doc, research distillation, reflective note).
+An artifact counts as Journal only if it satisfies:
+1. **Owned language** (not borrowed articulation)
+2. **Verified during creation** (embodied + coherence checks)
+3. **Persisted + re-enterable** (supports return across time)
+4. **AI-accessible** (only required when Pattern Recognition Substrate is desired)
+
+### Notebook/Workbench Distinction
+Research notebooks (e.g., NotebookLM workbench) are **exploration/synthesis infrastructure**.
+They count as Journal only when **distilled** into entries that meet the integrity criteria above.
+Metaphor: notebooks are the **engine room**; Journal is the **ship’s log that navigates**.
+### Conditional Operation (When Required vs Optional)
+- **Required** for Identity Stakes / durable accumulation / completed Recursive Metabolic Loop.
+- **Optional** for Proximity Passes / light processing; conversation history may serve as a weak substrate.
+
+**Gate:** “Did something crystallize? Did verification loops converge on something worth carrying forward?”
+If yes → Journal. If no → weak substrate may be sufficient.
+### Primary Failure Mode: Transient Insight / Pseudo-Integration
+When the Journal is missing, underused, or corrupted (entries symbolic, AI-heavy, conceptual, disembodied), the system tends toward:
+- insights that feel true but don’t persist,
 - repeated rediscovery of the same realizations,
-- narratives that sound coherent but are not lived,
-- inflated or inaccurate sense of Capacity (fake C),
-- lack of cross-session continuity or pattern recognition.
+- coherent narratives that are not lived,
+- inflated/inaccurate Capacity (fake C),
+- loss of cross-session continuity and pattern stabilization.
 
-This is the Journal’s component-level collapse.
-### Interaction Dynamics (Propagation Rules)
-When the Journal is missing, underused, or corrupted **and durable accumulation is needed**:
-- Durable Capacity (C) growth is compromised, because metabolized alpha-elements are not stably captured and revisitable over time. *(Note: Proximity Passes can still increase structural readiness, but with less durability.)*
-- Future \|D–C\| gaps become miscalibrated, since the system loses track of what has already been metabolized.
-- Alpha-Function becomes overloaded, **tending to** re-process the same beta-elements repeatedly.
-- The As-If Body Loop weakens, since embodied insight has no enduring anchor and somatic resonance decays between sessions.
-- Without consistent materialization, the recursive loop **tends toward** episodic thinking rather than structural development. *(Occasional Proximity Passes without Journal are normal; sustained absence for Identity Stakes work produces collapse.)*
+### Propagation Rules (Interaction Dynamics)
+When durable accumulation is required and Journal integrity is weak:
+- **Durable C growth** is compromised (no stable capture for re-entry).
+- Future **\|D–C\| calibration** drifts (what’s metabolized is forgotten).
+- **Alpha-Function load** increases (re-processing the same β-elements).
+- **As-If Body Loop** weakens (somatic resonance decays without anchor).
+- The system shifts from **structural development** to episodic cycles.
 
-A weak Journal therefore propagates failure into both upstream (As-If Loop) and downstream (C calibration) components **when durable accumulation is needed**.
-**Substrate alternatives:** Persistent conversation history can serve as a weak substrate for re-entry, but provides less durability than owned-language Journal entries. For light processing or Proximity Passes, this may be sufficient; for work requiring durable accumulation, Journal remains the strongest substrate.
-### Phenomenology (Authentic Materialization vs. Pseudo-Writing)
-**When the Journal is functioning properly:**
-- Writing feels owned, authentically phrased, and connected to lived experience.
-- Entries generate continuity across days (“this connects to that”).
-- Re-reading produces recognition and deepening, not surprise.
-- The body resonates with the text (“this was truly me”).
-- The user can trace their own C growth.
+**Substrate alternatives:** conversation history can support re-entry weakly; it is less durable than owned-language Journal entries.
+### Integrity Markers (Phenomenology)
+When functioning:
+- language feels owned and specific,
+- re-reading produces recognition/deepening (not surprise),
+- bodily resonance is present (“this is me”),
+- continuity appears across days (“this connects to that”).
 
-**When the Journal is dysfunctional:**
-- Writing feels abstract, hollow, or imitative.
-- AI language creeps in (“it sounds smart but not mine”).
-- Entries feel detached from bodily experience.
-- Re-reading produces dissonance or amnesia (“did I even write this?”).
-- Patterns never stabilize → insights dissipate quickly.
+When dysfunctional:
+- writing feels hollow/imitative,
+- AI language creeps in (“sounds smart but not mine”),
+- re-reading produces dissonance/amnesia,
+- patterns never stabilize; insights evaporate.
 
-These phenomenological markers are the core way to detect Journal integrity.
-### Sₑ Dependency (Stabilization & Recovery Function)
-The Journal stabilizes emotional scaffolding by reducing internal chaos and capturing metabolized meaning in durable form.
-- When Sₑ is high: writing becomes grounded, personal, and clarifying.
-- When Sₑ is low: writing becomes rushed, shallow, or purely symbolic (attempting to escape tension).
-- Stable Journal practice replenishes Sₑ, because structured articulation reduces emotional load in subsequent cycles.
-- Absent journaling increases Sₑ drain, because nothing is “put down,” leaving the psyche to hold unprocessed complexity alone.
+### Sₑ Dependency (Bidirectional)
+- Journal depends on Sₑ: when depleted, writing becomes rushed/symbolic (tension-escape).
+- Journal replenishes Sₑ: durable articulation reduces internal load and improves later viability.
+- Forcing Journal under depleted Sₑ increases pseudo-writing risk; pacing / Touch-Grass rules apply.
 
-Thus, journaling **supports and stabilizes** emotional scaffolding.
-**Notes:** Journal = Scaffolding, entries = Output. The object tagged here is the infrastructure. Journal operates **conditionally** within the Integrated Circuit Board: required for durable C growth, but not for all valid passes.
+### Winnicottian Note (Interpretive Layer)
+The Journal can function as a **material surviving object**: it persists through cycles of “destruction” and return, supporting continuity of self-experience. This reinforces (but does not replace) the functional definition.
 ### Relations
-- **Part Of:** Integrated Circuit Board (Axis B architecture) — operates conditionally; required for durable C growth but not for all valid passes (e.g., Proximity Passes).
-- **Feeds:** Capacity (C) through recursive materialization (durable growth).
-- **Depends On:** Alpha-Function for metabolized content; As-If Body Loop for embodied grounding.
-- **Failure Mode Of:** Transient Insight / Pseudo-Integration *(when absent/corrupted and durable accumulation is needed)*
-- Link to **Chronotope** (Relation: `Provides`).
-- Link to **Third Intelligence** (Relation: `Materializes`).
-- Link to **AI Project** (Relation: `Stored In`).
+- Part Of: Integrated Circuit Board (Axis B architecture) — conditional component
+- Component Of: Third Intelligence Tetrad
+- Feeds: Capacity (C) via durable materialization + re-entry
+- Depends On: Alpha-Function; As-If Body Loop; Human (metabolic work stays with human)
+- Provides: Chronotope
+- Enables: Selected Facts / RPVL probation across T+n (substrate role)
+- Stored In: AI Project (implementation layer enabling pattern recognition function)
+- Distinct From: Research notebooks / workbench substrates (feed, but are not identical)
+- Failure Mode: Transient Insight / Pseudo-Integration
 
 ---
 
@@ -988,11 +999,11 @@ Time provides what no other component can:
 - Consolidation: insights settle, memory integrates, affect load metabolizes
 - Reset: fresh emotional bandwidth for the next engagement
 
-3. Pattern Recognition Substrate
+3. Temporal Enablement for Pattern Recognition
 - Journal accumulation requires temporal extension
 - Cross-session pattern visibility is impossible without duration
 - “43 notebooks over 8 months” is categorically different from “43 notes in one day”
-- Chronotope: stable time-space that enables developmental continuity
+- Journal provides the Chronotope (stable time-space for return); Time provides the duration that makes accumulation and cross-session continuity possible
 
 4. Transformation vs. Productivity Distinction
 - A single session can be productive (answer obtained) and may contribute to transformation, but it does not constitute trajectory by itself

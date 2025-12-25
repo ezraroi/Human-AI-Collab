@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 10: Learning Theory & Education Preliminary Synthesis – Constructivist Tradition'
 Creation date: "2025-12-18T20:56:29Z"
@@ -10,9 +12,9 @@ Created by:
 Links:
     - felt-sense.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - metacognition.md
-    - c-capacity.md
     - journal.md
+    - chronotope.md
+    - materialization.md
     - functional-alterity.md
     - zpd.md
     - challenge-gap-d-c.md
@@ -31,7 +33,7 @@ What learning theory (as surveyed) offers:
 - Predominantly symbolic and linguistic models of cognition   
 - Limited integration of embodied cognition into mainstream learning frameworks   
 - Few formal accounts of pre-linguistic or somatic knowing as epistemically authoritative   
-- [Metacognition](metacognition.md) framed primarily as conscious monitoring/regulation rather than embodied evaluation   
+- Metacognition framed primarily as conscious monitoring/regulation rather than embodied evaluation   
    
 Gap status: Significant within the traditions reviewed. Related work in phenomenology and neurophenomenology addresses this more directly, but integration into mainstream cognitive learning theory appears limited. Further review is required to determine the degree to which embodied knowing has been incorporated into educational frameworks.   
 ### 2.2 Identity-Level Transformation vs. Skill Acquisition   
@@ -53,7 +55,7 @@ Gap status: Large within mainstream cognitive learning theory; potentially small
 What this model requires:   
 - Depletion and recovery cycles that shape whether learning/transformation is possible   
 - Consolidation across days and weeks   
-- Accumulated change in psychological [capacity](c-capacity.md) (C-growth) over time   
+- Accumulated change in psychological capacity (C-growth) over time   
 - Distinction between within-session processing and between-session integration   
 - Transformation unfolding through recursive temporal structure (structural temporality, not mere duration)   
    
@@ -64,11 +66,12 @@ What learning theory (as surveyed) offers:
    
 Gap: Learning science often treats time primarily as an instructional variable (how to schedule practice). This model treats time as a constitutive structural dimension of development: emotional and cognitive resources fluctuate, consolidation occurs across scales, and capacity growth is intrinsically diachronic.   
 Gap status: Significant within the surveyed base. Additional review is needed in developmental psychology, systems consolidation neuroscience, and rhythm literature (e.g., circadian/ultradian dynamics) to determine closer matches.   
-### 2.4 The Journal as Distributed Cognitive Organ   
+### 2.4 The Journal as Constitutive Chronotope (Distributed Substrate)   
 What this model proposes:   
-- The [Journal](journal.md) as part of the cognitive system, not merely a reflective tool   
-- Materialization as necessary for continuity and pattern recognition   
-- Externalization that supports development across sessions   
+- The [Journal](journal.md) as a constitutive component of the system’s diachronic continuity (a **[chronotope](chronotope.md)**), not merely a reflective tool   
+- [Materialization](materialization.md) as necessary for cross-session continuity and pattern recognition   
+- A durable external substrate that enables re-entry, comparison, and integration across time   
+- A stability function: the Journal constrains and stabilizes metabolized meaning without performing metabolization (the Human remains the metabolic agent)   
 - A stable substrate enabling long-horizon integration (not a transcript, not a diary, not a memory aid)   
    
 What learning theory (as surveyed) offers:   
@@ -76,11 +79,11 @@ What learning theory (as surveyed) offers:
 - Writing as support for metacognition   
 - Articulation as a learning tool   
    
-Gap: In the surveyed traditions, journaling is typically treated as helpful but optional. Here, the Journal is framed as structurally necessary continuity infrastructure (a constitutive component of the system's developmental loop). Related ideas likely exist in extended mind, distributed cognition, and artifact-mediated learning theories and require targeted review.   
+Gap: In the surveyed traditions, journaling is typically treated as helpful but optional. Here, the Journal is framed as structurally necessary continuity infrastructure (a constitutive component of the system’s developmental loop). Related ideas likely exist in extended mind, distributed cognition, and artifact-mediated learning theories and require targeted review.   
 Gap status: Moderate.   
-### 2.5 AI as [Functional Alterity](functional-alterity.md)   
+### 2.5 AI as Functional Alterity   
 What this model proposes:   
-- AI as a source of productive difference (Functional Alterity)   
+- AI as a source of productive difference ([Functional Alterity](functional-alterity.md))   
 - AI shaping how the pre-existing challenge is encountered turn-by-turn within the [ZPD](zpd.md) (without changing the structural \|[D–C](challenge-gap-d-c.md)\| gap)   
 - AI contributing to the maintenance of epistemic tension necessary for development (when Sₑ × Sₜ is adequate)   
 - AI participating in meaning-making interaction as a functional partner in the dialogical field (without implying AI subjectivity)   

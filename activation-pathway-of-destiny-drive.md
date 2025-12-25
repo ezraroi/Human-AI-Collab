@@ -21,6 +21,8 @@ Links:
     - destiny-drive.md
     - third-intelligence.md
     - identity-stakes.md
+    - journal.md
+    - materialization.md
     - alpha-function.md
     - true-self.md
     - false-self.md
@@ -32,7 +34,6 @@ Links:
     - challenge-gap-d-c.md
     - zpd.md
     - narrative-self.md
-    - journal.md
 Emoji: "\U0001F4A1"
 id: bafyreiggpekvo4qrcc3zl64gnr5echvx7eddouipdis3nfubhk6mdtbwlq
 ---
@@ -42,7 +43,7 @@ It is **not a mechanism**, but a phenomenological sequence that unfolds when the
 ## System Role   
 The pathway clarifies how a universal, latent Destiny Drive becomes phenomenologically articulated as self-directed directionality   
 It shows:   
-- why writing emerges as the first articulating object   
+- why writing often becomes the first stable articulating object (as a common form of [Journal](journal.md) [materialization](materialization.md))   
 - how recursive [Alpha-Function](alpha-function.md) activation converts implicit idiom (**as an expression of the [True Self](true-self.md)**) → explicit direction   
 - why transformation becomes self-sustaining   
 - why the individual shifts from **fate** (reactive determination) to **destiny** (agentic authorship)   
@@ -93,7 +94,7 @@ This editorial capacity is not a separate mechanism but the phenomenological exp
 - **[Destiny Drive](destiny-drive.md)** (this object explains the transition from latent → emergent)   
 - **[Identity Stakes](identity-stakes.md)** (domain of operation)   
 - **[True Self ](true-self.md)/ [False Self](false-self.md)**   
-- **[Journal](journal.md)** (primary objects of activation)   
+- **[Journal](journal.md)** (primary substrate supporting articulation)   
 - [AI](ai.md) (used as a [Cognitive Artifact](cognitive-artifact.md); not a partner)   
 - **[Reflective Prompting](reflective-prompting.md)** (the mode through which activation occurs)   
    

@@ -12,12 +12,12 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - salience-network-core.md
-    - executive-summary_r.md
+    - executive-summary.md
     - human.md
     - neural-synchrony.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_l.md
     - pre-reflective-awareness.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - as-if-body-loop.md

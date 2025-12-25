@@ -9,7 +9,6 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - alpha-elements.md
-    - 5-the-embodied-connection.md
     - 12-what-this-means-for-your-paper.md
     - minimal-self.md
     - embodied-engagement-conditions.md
@@ -19,10 +18,11 @@ Backlinks:
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary_r.md
+    - executive-summary.md
     - iron-man-mentality.md
     - human.md
     - eugene-gendlin.md
@@ -41,6 +41,7 @@ Backlinks:
     - 8-critical-connection-6-my-method-works-becaus.md
     - 7-research-usage.md
     - recursive-pattern-verification-loop.md
+    - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - 14-alpha-function-integrating-dialogical-and-e.md
@@ -52,9 +53,11 @@ Backlinks:
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - 5-worked-diagnostic-examples.md
     - mikhail-bakhtin.md
+    - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
+    - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_0.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

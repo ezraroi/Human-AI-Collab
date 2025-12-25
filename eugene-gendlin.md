@@ -10,7 +10,6 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - section-6-the-complete-system-architecture.md
     - felt-sense.md
-    - 4-critical-connection-2-felt-sense-channel-1-v.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
 Origin Domain:

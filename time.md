@@ -11,18 +11,17 @@ Backlinks:
     - section-4-attribution-logic.md
     - 4-revised-contribution-of-notebook-11.md
     - 5-measurement-program-menu.md
-    - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
     - section-5-temporal-architecture.md
     - 3-the-three-emergent-insights-from-cross-analy.md
-    - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
+    - journal.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_r.md
+    - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_u.md
+    - executive-summary_9.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -55,7 +54,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
@@ -63,7 +62,6 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
-    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Neurobiology & Neuroscience
@@ -80,6 +78,7 @@ Links:
     - c-capacity.md
     - recursive-metabolic-loop.md
     - emotional-scaffolding-s_e.md
+    - chronotope.md
     - field-viability-schema.md
     - the-manic-episode.md
     - third-intelligence.md
@@ -102,11 +101,11 @@ Time provides what no other component can:
 - Consolidation: insights settle, memory integrates, affect load metabolizes   
 - Reset: fresh emotional bandwidth for the next engagement   
    
-3. Pattern Recognition Substrate   
+3. Temporal Enablement for Pattern Recognition   
 - [Journal](journal.md) accumulation requires temporal extension   
 - Cross-session pattern visibility is impossible without duration   
 - “43 notebooks over 8 months” is categorically different from “43 notes in one day”   
-- Chronotope: stable time-space that enables developmental continuity   
+- [Journal](journal.md) provides the [Chronotope](chronotope.md) (stable time-space for return); Time provides the duration that makes accumulation and cross-session continuity possible   
    
 4. Transformation vs. Productivity Distinction   
 - A single session can be productive (answer obtained) and may contribute to transformation, but it does not constitute trajectory by itself   

@@ -12,21 +12,23 @@ Backlinks:
     - destiny-drive.md
     - embodied-engagement-conditions.md
     - 4ps-protocol.md
+    - journal.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
     - cognitive-style-bias.md
     - protected-self-holding-principle.md
     - 3-diagnostic-workflow.md
     - 2-the-divided-labors-of-two-theories.md
     - d-difficulty.md
-    - 7-final-conclusion-the-third-intelligence.md
     - 8-common-misuses-and-anti-patterns.md
-    - recursive-metabolic-loop.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - two-axis-framework.md
     - readiness-probes.md
     - 3-the-13-stage-development-sequence.md
     - the-constrained-integration-hypothesis.md
     - 7-research-usage.md
+    - c-capacity.md
+    - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md

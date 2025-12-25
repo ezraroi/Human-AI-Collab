@@ -11,7 +11,6 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - preconditions-for-transformative-ai-dialogue.md
-    - 12-what-this-means-for-your-paper.md
     - idiom-aligned-scaffolding.md
     - embodied-engagement-conditions.md
     - 4ps-protocol.md
@@ -20,6 +19,7 @@ Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - cognitive-debt-awareness.md
     - section-5-the-category-error-relational-axis-f.md
+    - journal.md
     - metacognition.md
     - self-explanation.md
     - iron-man-mentality.md
@@ -38,7 +38,6 @@ Backlinks:
     - 8-critical-connection-6-my-method-works-becaus.md
     - 3-the-13-stage-development-sequence.md
     - the-constrained-integration-hypothesis.md
-    - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - rubber-duck-debugging.md
     - technical-scaffolding-s_t.md
@@ -46,10 +45,9 @@ Backlinks:
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - final-definition.md
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary.md
+    - 1-executive-summary_o.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

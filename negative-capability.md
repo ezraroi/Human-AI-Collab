@@ -12,7 +12,6 @@ Backlinks:
     - 5-the-operational-capacity-negative-capability.md
     - section-8-boundary-conditions-prerequisites.md
     - high-resolution-uncertainty.md
-    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - epistemological-humility.md
     - third-intelligence.md
     - c-capacity.md

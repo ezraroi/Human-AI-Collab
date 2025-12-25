@@ -12,7 +12,7 @@ Origin Domain:
     - Psychoanalysis
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
-Research Status: Drafting
+Research Status: Sealed
 Creation date: "2025-12-21T10:17:22Z"
 Created by:
     - Roi Ezra
@@ -72,6 +72,7 @@ maintainable under cognitive/emotional load
    
 **Stages 11-13: Transformation Mechanism Operates**
 (When both axes are in success mode)   
+These stages become reliably available only when Stage 7 (DTO under strain) and a viable field (Sₑ ⊗ Sₜ) are present; otherwise activation may be partial, brief, or regress under depletion   
 - Stage 11: [Alpha-Function](alpha-function.md) activates (recursive C1↔C2 oscillation)   
 - Stage 12: Materialization and verification ([Journal](journal.md))   
 - Stage 13: [Destiny Drive](destiny-drive.md) articulation (idiomatic possibility lived)   

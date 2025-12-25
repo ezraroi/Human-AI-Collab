@@ -13,7 +13,7 @@ Backlinks:
     - dialogical-knowing.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_u.md
+    - executive-summary_9.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - ai.md
@@ -22,6 +22,7 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - psychoanalytic-integration.md
     - functional-thirdness.md
+    - ii-the-novelty-of-the-specific-mechanisms.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

@@ -9,6 +9,7 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
     - 4-revised-contribution-of-notebook-11.md
     - embodied-engagement-conditions.md
@@ -16,12 +17,13 @@ Backlinks:
     - 3-the-three-emergent-insights-from-cross-analy.md
     - section-9-container-as-function-authorization.md
     - irreducible-alterity.md
+    - journal.md
     - systematic-competence.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_u.md
+    - executive-summary_9.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -44,7 +46,7 @@ Backlinks:
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - 1-introduction-why-functional-alterity-is-nece.md
-    - 2-the-unbundled-rationale-architecture_p.md
+    - 2-the-unbundled-rationale-architecture.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md

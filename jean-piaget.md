@@ -14,7 +14,7 @@ Backlinks:
     - recursive-metabolic-loop.md
     - 7-critical-connection-5-why-psb-happens.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
 Origin Domain:

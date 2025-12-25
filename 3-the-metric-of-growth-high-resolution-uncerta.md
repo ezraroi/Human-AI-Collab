@@ -4,6 +4,7 @@ Object type:
     - Manuscript Section
 Tag:
     - NoteBook 6 - Cognitive Mechanics
+    - DRAFTING
 Backlinks:
     - 'Notebook 6 Synthesis: The Cognitive Mechanics of the Alpha Function'
 Creation date: "2025-11-23T13:00:21Z"
@@ -11,30 +12,26 @@ Created by:
     - Roi Ezra
 Links:
     - high-resolution-uncertainty.md
-    - negative-capability.md
-    - protein-shake-brain-psb.md
     - human.md
-    - metacognition.md
-    - flow-optimization-principle.md
-    - self-explanation.md
+    - reflective-prompting.md
     - journal.md
+    - materialization.md
     - identity-stakes.md
     - cognitive-offloading.md
     - alpha-function.md
-    - reflective-prompting.md
-    - channel-1-embodied-sensorimotor-pathway.md
+    - protein-shake-brain-psb.md
 id: bafyreiepapqtj556popoy2c2agkow6zhzou2kvl5s4ce5tv2bcoboescqa
 ---
 # 3. The Metric of Growth: High-Resolution Uncertainty   
 The research identifies the Underconfidence-with-Practice (UWP) Effect: as expertise grows, confidence (Calibration) often drops while accuracy improves.   
 - Implication for our model: We must distinguish Productive Doubt (High Resolution: "I see the nuance") from Destructive Doubt (Low Resolution: "I am lost").   
-- The Goal: The system aims for [High-Resolution Uncertainty](high-resolution-uncertainty.md)—supported by [Negative Capability](negative-capability.md), the capacity to sustain uncertainty, hold partial answers, and tolerate the "tightness" of the unready-to-hand state without rushing to resolution or collapsing into the "False Certainty" of the [Protein Shake Brain.](protein-shake-brain-psb.md)   
+- The Goal: The system aims for [High-Resolution Uncertainty](high-resolution-uncertainty.md)—supported by Negative Capability, the capacity to sustain uncertainty, hold partial answers, and tolerate the "tightness" of the unready-to-hand state without rushing to resolution or collapsing into the "False Certainty" of the Protein Shake Brain.   
    
 ### 3.1 Metacognitive Control: When to Offload vs. Hold   
 The research on cognitive offloading reveals that external tools can either augment capacity (productive) or create dependency (destructive). The difference lies in whether the offloading reduces extraneous load (freeing resources for learning) or germane load (bypassing the learning itself).   
 The Decision Mechanism:   
-The [Human](human.md) Architect uses [metacognitive](metacognition.md) monitoring and consequent regulation as the control process:   
-1. [High Resolution Uncertainty](high-resolution-uncertainty.md) (know what you don't know):   
+The [Human](human.md) Architect uses metacognitive monitoring and consequent regulation as the control process:   
+1. High Resolution Uncertainty (know what you don't know):   
     - Safe to engage AI for structured exploration   
     - Use Mode B (Novice) to force articulation   
     - Maximize germane load through self-explanation   
@@ -47,22 +44,22 @@ The [Human](human.md) Architect uses [metacognitive](metacognition.md) monitorin
     - Seek contradiction and conflict detection   
     - Goal: Expose invisible assumptions   
    
-The [Flow Optimization Principle](flow-optimization-principle.md):   
-Reflective Prompting succeeds by maximizing germane load while minimizing extraneous load:   
+The Flow Optimization Principle:   
+[Reflective Prompting](reflective-prompting.md) succeeds by maximizing germane load while minimizing extraneous load:   
 - AI handles information retrieval (extraneous) → frees cognitive resources   
-- AI prompts [self-explanation](self-explanation.md) (germane) → preserves the learning work   
+- AI prompts self-explanation (germane) → preserves the learning work   
 - User retains verification (germane) → keeps processing internal   
    
 The Anti-Otto Safeguard:   
 Unlike Otto’s notebook (which can be treated as reliable storage), AI cannot be treated as an automatically trusted cognitive extension; it must be used with verification, as a catalyst for the user’s own processing. The system prevents dependency through:   
 1. Mandatory verification (felt sense check prevents blind acceptance)   
 2. Resolution monitoring (awareness of what you do/don't understand)   
-3. [Journal](journal.md) materialization (when the work carries [Identity Stakes](identity-stakes.md)) (externalization proves understanding)   
+3. [Journal](journal.md) [materialization](materialization.md) (when the work carries [Identity Stakes](identity-stakes.md)) (materialization creates a durable chronotope artifact for re-entry testing and cross-temporal verification; it is not “proof” by itself)   
    
-The goal is not efficiency but capacity growth. [Cognitive offloading](cognitive-offloading.md) is productive when it offloads retrieval/storage while preserving internal processing ([Alpha-Function](alpha-function.md)); it becomes destructive when it offloads the processing itself, risking [Protein Shake Brain.](protein-shake-brain-psb.md)   
+The goal is not efficiency but capacity growth. [Cognitive offloading](cognitive-offloading.md) is productive when it offloads retrieval/storage while preserving internal processing ([Alpha-Function](alpha-function.md)); it becomes destructive when it offloads the processing itself, risking [Protein Shake Brain](protein-shake-brain-psb.md).   
 ### 3.2 How This Strengthens Your Model   
 ### 1. Provides Operational Decision Rules   
-Instead of just "use [Reflective Prompting](reflective-prompting.md) not PSB," you now have specific criteria:   
+Instead of just "use Reflective Prompting not PSB," you now have specific criteria:   
 - Check your resolution level   
 - Assess the load type   
 - Choose engagement mode accordingly   
@@ -81,8 +78,8 @@ This integrates three established literatures:
    
 ### 4. Makes Falsifiable Predictions   
 This framework predicts:   
-- High resolution + AI Mode B = learning (testable via journal analysis)   
-- Low resolution + unverified AI use increases [PSB](protein-shake-brain-psb.md) risk (testable via markers of [Channel 1](channel-1-embodied-sensorimotor-pathway.md) bypass and adoption)   
+- High resolution + AI Mode B = learning (testable via analysis of Journal artifacts across time, including re-entry/retention evidence)   
+- Low resolution + unverified AI use increases PSB risk (testable via markers of Channel 1 bypass and adoption)   
 - False certainty + AI Mode A = reinforcement of error (testable via outcome)   
    
 ### Potential Challenge: Measurement   
@@ -92,11 +89,9 @@ High Resolution indicators:
 - Can articulate specific gaps ("I understand X but not how it connects to Y")   
 - Can generate specific questions   
 - Confusion has clear boundaries   
-   
-Low Resolution indicators:   
+    Low Resolution indicators:   
 - Vague distress ("this is all confusing")   
 - Can't formulate clear questions   
 - Don't know where understanding breaks down   
    
 Operational test: Can you write down 3 specific questions you need answered? If yes → high resolution. If no → increase resolution first before AI engagement.   
-   

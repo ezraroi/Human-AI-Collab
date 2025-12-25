@@ -47,7 +47,8 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - category-error.md
     - cognitive-debt.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - c-capacity.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
@@ -57,7 +58,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_0.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -73,7 +74,7 @@ Links:
     - alpha-function.md
     - lev-vygotsky.md
     - mikhail-bakhtin.md
-    - ai.md
+    - dynamic-transitional-object-dto.md
     - journal.md
     - category-error.md
     - protein-shake-brain-psb.md
@@ -92,6 +93,6 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
 ### Wiring (Relations)   
 - **Theorists:** [Vygotsky](lev-vygotsky.md) (Symbolic Mediation); [Bakhtin](mikhail-bakhtin.md) (Dialogism); Bruner (Narrative Thought).   
 - **Biological Substrate:** Fronto-Parietal Network (FPN); Language Networks; Working Memory Systems.   
-- **Connected Objects:** [AI](ai.md) (DTO); [Functional Alterity](functional-alterity.md); [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md).   
+- **Connected Objects:** AI ([DTO](dynamic-transitional-object-dto.md)); [Functional Alterity](functional-alterity.md); [ZPD](zpd.md); [Journal](journal.md) (materialization substrate for C2 articulation); [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md).   
    
 **Notes:** Symbolic input source; language-based meaning; AI’s entry point.   

@@ -10,12 +10,11 @@ Tag:
     - 'System Role: Output'
 Backlinks:
     - authoritative-discourse.md
-    - section-3-foundational-theoretical-integration.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - felt-sense.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - mikhail-bakhtin.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_0.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'
@@ -35,9 +34,9 @@ Links:
     - dynamic-transitional-object-dto.md
     - 4ps-protocol.md
     - recursive-pattern-verification-loop.md
+    - journal.md
     - mikhail-bakhtin.md
     - authoritative-discourse.md
-    - journal.md
     - selected-fact.md
 Emoji: "\U0001F4A1"
 id: bafyreih3x3hul3wuaplbsiirhmwhkiwuxrhgsdiihtkxevbyzw4qvozlwi
@@ -75,7 +74,7 @@ AI output becomes Internally Persuasive Discourse when the user:
 2. Processes output through [4Ps](4ps-protocol.md) and [RPVL](recursive-pattern-verification-loop.md) verification   
 3. Re-articulates in own words before accepting   
 4. Verifies through Felt Sense   
-5. Inscribes owned meaning in Journal (materialization)   
+5. Materializes owned meaning in [Journal](journal.md) for durable re-entry (when needed)   
    
 **This is a user-accomplishment, not an AI property.** The AI provides raw material (Technical Scaffolding); the Human performs the metabolic work that transforms it into owned meaning.   
 ### Wiring (Relations)   
@@ -85,7 +84,7 @@ AI output becomes Internally Persuasive Discourse when the user:
 - **Supports:** True Self expression; Idiom articulation; Destiny Drive activation   
 - **Produced By:** Alpha-Function (metabolic processing)   
 - **Enabled By:** 4Ps Protocol; RPVL; Iron Man Mentality   
-- **Materialized In:** [Journal](journal.md) (inscription site)   
+- **Materialized In:** [Journal](journal.md) (durable re-entry substrate)   
 - **Channels:** Arrives via Channel 2; confirmed via Channel 1   
    
 **May Emerge Via:** [Selected Fact](selected-fact.md) (punctual crystallization) OR gradual metabolization   

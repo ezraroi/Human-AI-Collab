@@ -8,8 +8,7 @@ Tag:
     - Meta-Framework
 Backlinks:
     - neural-synchrony.md
-    - 1-purpose-and-scope.md
-    - the-unified-architecture.md
+    - 1-purpose-and-scope_l.md
 Research Status: Sealed
 Origin Domain:
     - Neurobiology & Neuroscience
@@ -19,21 +18,22 @@ Creation date: "2025-11-22T14:04:32Z"
 Created by:
     - Roi Ezra
 Links:
+    - third-intelligence.md
     - hpa-axis.md
     - the-manic-episode.md
+    - journal.md
+    - time.md
     - felt-shift.md
     - triple-network-model.md
     - alpha-function.md
     - felt-sense.md
     - the-container.md
-    - journal.md
-    - time.md
     - category-error.md
 Emoji: ❓
 id: bafyreigdjpq37zbdz3fktxkbegcff6axqhfmdf3nrhxmwdv5fap4why6cm
 ---
 # Neuroscience of Transformation   
-The absence of empirical neurobiological evidence validating the mechanisms proposed to underlie *Third Intelligence* transformation. While the project contains a structured, testable mapping from psychological dynamics to plausible neural/physiological substrates, no direct measurement program has yet confirmed (or falsified) these mappings **in this system**, nor ruled out competing explanations (e.g., cognitive offloading, expectancy effects, or dissociative bypass).   
+The absence of empirical neurobiological evidence validating the mechanisms proposed to underlie *[Third Intelligence](third-intelligence.md)* transformation. While the project contains a structured, testable mapping from psychological dynamics to plausible neural/physiological substrates, no direct measurement program has yet confirmed (or falsified) these mappings **in this system**, nor ruled out competing explanations (e.g., cognitive offloading, expectancy effects, or dissociative bypass).   
 ### The Gap   
 **Missing empirical evidence (core):**   
 - No neuroimaging (fMRI/EEG/fNIRS) captured **during Reflective Prompting** sessions.   
@@ -58,9 +58,9 @@ The absence of empirical neurobiological evidence validating the mechanisms prop
 3. **Container / Sₑ → stress physiology and regulation capacity**   
 - [HPA axis](hpa-axis.md) (cortisol dynamics) + autonomic regulation (vagal tone/HRV as a candidate proxy for “window of tolerance”).   
 - Depletion / [manic](the-manic-episode.md) boundary framed as metabolic overload + dysregulated regulation capacity (candidate physiological signature, unvalidated).   
-4. **Journal + Time → reconsolidation + systems consolidation**   
+4. **[Journal](journal.md) ↔ [Time](time.md) → re-entry substrate + consolidation mechanisms**   
 - Reconsolidation window as candidate mechanism for updating self-models after salient reflective sessions.   
-- Sleep-dependent consolidation as candidate mechanism for durability (hippocampal–neocortical transfer, schema stabilization).   
+- Sleep-dependent consolidation as candidate mechanism for durability of metabolized content over time (enabled by re-entry to materialized outcomes).   
 5. **Self-Holding preservation → neural/physiological signature unspecified (high priority sub-gap)**   
 - Hypothesis: transformation requires sustained self-referential continuity while engaging executive processing (not self-erasure).   
 - Category Error / dependency collapse may correspond to a measurable pattern of dysregulation + altered self-referential network engagement.   

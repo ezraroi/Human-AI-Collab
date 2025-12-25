@@ -9,26 +9,36 @@ Tag:
 Backlinks:
     - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
+    - 12-what-this-means-for-your-paper.md
+    - 4-the-system-architecture-v2-0.md
     - journal.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
+    - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - 6-final-conclusion.md
     - the-large-language-model-as-dynamic-transition.md
     - 4-the-tactical-layer-the-4ps-as-metacognitive-.md
+    - section-3-foundational-theoretical-integration.md
+    - time.md
     - 2-the-divided-labors-of-two-theories.md
+    - 9-the-hidden-implications-youve-discovered.md
     - 7-final-conclusion-the-third-intelligence.md
+    - ai.md
     - systems-consolidation.md
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
+    - third-intelligence.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - mikhail-bakhtin.md
-    - the-unified-architecture.md
+    - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Drafting
+Research Status: Sealed
 Creation date: "2025-11-22T11:52:31Z"
 Created by:
     - Roi Ezra

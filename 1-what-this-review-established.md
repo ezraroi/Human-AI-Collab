@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 10: Learning Theory & Education Preliminary Synthesis – Constructivist Tradition'
 Creation date: "2025-12-18T20:55:14Z"
@@ -39,7 +41,7 @@ Cognitive apprenticeship emphasizes “making thinking visible” through articu
 - Material continuity across sessions   
 - Support for cross-temporal pattern recognition   
    
-Where cognitive apprenticeship emphasizes reflection as pedagogically central, this model treats materialization as structurally necessary for transformation (the Journal is not a diary, transcript, or memory aid, but continuity infrastructure).   
+Where cognitive apprenticeship emphasizes reflection as pedagogically central, this model treats materialization as structurally necessary for transformation.   
 Claim strength: Moderate. Alignment is strong; further review of extended mind and distributed cognition is recommended.   
 ### 1.4 Reflective Prompting and Metacognitive Pedagogy   
 Self-regulated learning research highlights planning, monitoring, and evaluation as core metacognitive functions. [Reflective Prompting](reflective-prompting.md) supports these by:   

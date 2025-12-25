@@ -9,21 +9,17 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - 5-final-synthesis-statement.md
-    - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
     - cognitive-artifact.md
-    - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
     - 4-revised-contribution-of-notebook-11.md
     - 5-measurement-program-menu.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
-    - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - section-9-container-as-function-authorization.md
     - ai-project-claude-project-chatgpt-project.md
-    - the-journal-in-system-context.md
     - 4-the-system-architecture-v2-0.md
     - 2-clarifying-the-category-error-against-the-dt.md
     - system-0.md
@@ -33,9 +29,8 @@ Backlinks:
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_r.md
+    - executive-summary.md
     - cognitive-style-bias.md
-    - channel-2-symbolic.md
     - iron-man-mentality.md
     - llm-embedding.md
     - the-large-language-model-as-dynamic-transition.md
@@ -43,7 +38,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_u.md
+    - executive-summary_9.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -55,6 +50,7 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 4-remaining-questions-for-tier-3.md
+    - 7-final-conclusion-the-third-intelligence.md
     - section-8-boundary-conditions-prerequisites.md
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
@@ -82,18 +78,16 @@ Backlinks:
     - 6-the-final-positioning-framework.md
     - alpha-function.md
     - psychoanalytic-integration.md
-    - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - category-error.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - part-iv-reflective-prompting-as-system-level-p.md
-    - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
@@ -101,9 +95,10 @@ Backlinks:
     - section-6-journal-function-refinement.md
     - 11-what-youve-actually-discovered-meta-level.md
     - 5-worked-diagnostic-examples.md
+    - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
+    - ii-the-novelty-of-the-specific-mechanisms.md
     - wilfred-bion.md
-    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - functional-alterity.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
@@ -128,6 +123,8 @@ Links:
     - systematic-competence.md
     - emotional-scaffolding-s_e.md
     - alpha-function.md
+    - materialization.md
+    - chronotope.md
     - section-5-the-category-error-relational-axis-f.md
     - protein-shake-brain-psb.md
     - category-error.md
@@ -229,12 +226,12 @@ The third component of the Human + Journal + AI + Time tetrad. AI is a Large Lan
    
 **System Role in Tetrad:**   
 **Human + Journal + AI + Time**   
-|   Component |                                               Provides |                                           Cannot Provide |
-|:------------|:-------------------------------------------------------|:---------------------------------------------------------|
-|   **Human** | S\_e, Alpha-Function, teleology, embodied verification | Infinite capacity, instant answers, tireless scaffolding |
-| **Journal** |  Materialization, accumulation, chronotope, continuity |            Dynamic responsiveness, real-time calibration |
-|      **AI** |   Sₜ, and support for maintaining workable ZPD tension |                                                      D-C |
-|    **Time** |                Cumulation, spacing, recovery, flywheel |                                 Immediate transformation |
+|   Component |                                                                                                                Provides |                                           Cannot Provide |
+|:------------|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|
+|   **Human** |                                                                  S\_e, Alpha-Function, teleology, embodied verification | Infinite capacity, instant answers, tireless scaffolding |
+| **Journal** | [Materialization](materialization.md) (Translation Force + [Chronotope](chronotope.md) + Pattern Recognition Substrate) |            Dynamic responsiveness, real-time calibration |
+|      **AI** |                                                                    Sₜ, and support for maintaining workable ZPD tension |                                                      D-C |
+|    **Time** |                                                                                 Cumulation, spacing, recovery, flywheel |                                 Immediate transformation |
 
 **AI's specific function:** Provides the **technical/cognitive dimension** of scaffolding that the Human cannot generate alone, while the Human provides the **emotional/metabolic dimension** that AI cannot generate at all.   
 **Relational Stance Required:**   
@@ -280,5 +277,5 @@ AI must be held as **DTO** (Dynamic Transitional Object):
 - **Distinct From:** Human mentors (can modulate infinitely), static tools (responsive), genuine partners (no consciousness)   
    
 **Notes:**   
-AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports Support for preserving workable tension within the pre-existing [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md). Insufficient because without Human ([Emotional Scaffolding](emotional-scaffolding-s_e.md), [Alpha-Function](alpha-function.md), teleology) and Journal (materialization), AI interaction remains purely productive, never transformative.   
+AI is a secondary catalytic component: powerful but insufficient. It provides S\_t and supports Support for preserving workable tension within the pre-existing [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md). Insufficient because without Human ([Emotional Scaffolding](emotional-scaffolding-s_e.md), [Alpha-Function](alpha-function.md), teleology) and Journal (materialization/re-entry), AI interaction remains purely productive, never transformative.   
 The innovation: recognizing AI's unique combination of capabilities (modulable S\_t, infinite availability, dialogical simulation) alongside its fundamental limitations (no S\_e, no consciousness, no teleology) enables precise architectural positioning—neither dismissing AI as "just a tool" nor overvaluing it as "partner."   

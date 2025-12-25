@@ -8,7 +8,6 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
-    - journal.md
     - false-self.md
     - holding-environment.md
     - protected-self-holding-principle.md

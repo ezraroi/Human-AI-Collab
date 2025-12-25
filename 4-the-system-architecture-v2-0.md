@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'NoteBook 5: The AI as Dynamic Transitional Object'
 Creation date: "2025-11-22T16:58:31Z"
@@ -12,26 +14,24 @@ Links:
     - journal.md
     - ai.md
     - time.md
-    - the-container.md
-    - beta-elements.md
-    - emotional-scaffolding-s_e.md
+    - iron-man-mentality.md
     - in-context-learning.md
     - challenge-gap-d-c.md
-    - alpha-function.md
+    - chronotope.md
 id: bafyreib6h4ozbxdtjf4f5i3qssgglsmhzjzm3bybahuqsdywuso2dcycxi
 ---
 # 4. The System Architecture (V2.0)   
 We have mapped the technical properties identified in Notebook 5 to specific roles within the [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md) system.   
 ### A. The Human: Architect & Metabolizer   
-Notebook 5 identified the "Iron Man Mentality" where the user "owns quality" and "delegates precisely".   
-- Psychodynamic Role:[Container](the-container.md). Providing the capacity to hold and metabolize raw [Beta-Elements](beta-elements.md); sustained over time by [Emotional Scaffolding (S\_e)](emotional-scaffolding-s_e.md).   
+Notebook 5 identified the "[Iron Man Mentality](iron-man-mentality.md)" where the user "owns quality" and "delegates precisely".   
+- Psychodynamic Role:Container. Providing the capacity to hold and metabolize raw Beta-Elements; sustained over time by Emotional Scaffolding (S\_e).   
 - Executive Role:The Architect (Teleology). The AI is technically "myopic" (predicting the next token without a global plan). Therefore, the Human must provide the Non-Myopic Awareness—holding the global goal and detecting drift.   
    
 ### B. The AI: The Calibrated Antagonist   
 Notebook 5 identified "[In-Context Learning](in-context-learning.md)" (ICL) as a key differentiator.   
 - Old View: The AI "learns" and "grows" with you.   
-- V2.0 View:Adaptive Calibration. ICL is the servomechanism that allows the AI to fine-tune the [Challenge Gap](challenge-gap-d-c.md) (\|D - C\|) in real-time. It adjusts to your prompt not to ‘bond,’ but to help sustain usable challenge in the interaction so the [Alpha Function](alpha-function.md) can operate.   
+- V2.0 View:Adaptive Calibration. ICL is the servomechanism that allows the AI to fine-tune the [Challenge Gap](challenge-gap-d-c.md) (\|D - C\|) in real-time. It adjusts to your prompt not to ‘bond,’ but to help sustain usable challenge in the interaction so the Alpha Function can operate.   
    
 ### C. The Journal: The Chronotope   
-Notebook 5 wrestled with "fleeting systems".
-Role: The Journal provides the Persistence that the AI lacks. It is the materialization point where the ephemeral interaction is inscribed into permanent growth.   
+Notebook 5 wrestled with "fleeting systems".   
+Role: The [Journal](journal.md) provides the Persistence that the AI lacks. It is the **[chronotope](chronotope.md)** and **materialization substrate**: it stabilizes owned α-elements into durable artifacts that can be revisited, tested on re-entry, and integrated across Time. The Journal does not make growth “permanent” by itself; it makes metabolized meaning *persist* so consolidation and capacity change can accumulate diachronically—especially when the work carries Identity Stakes.   

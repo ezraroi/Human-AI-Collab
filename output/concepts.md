@@ -141,7 +141,7 @@ It is **not a mechanism**, but a phenomenological sequence that unfolds when the
 ## System Role
 The pathway clarifies how a universal, latent Destiny Drive becomes phenomenologically articulated as self-directed directionality
 It shows:
-- why writing emerges as the first articulating object
+- why writing often becomes the first stable articulating object (as a common form of Journal materialization)
 - how recursive Alpha-Function activation converts implicit idiom (**as an expression of the True Self**) → explicit direction
 - why transformation becomes self-sustaining
 - why the individual shifts from **fate** (reactive determination) to **destiny** (agentic authorship)
@@ -192,7 +192,7 @@ This editorial capacity is not a separate mechanism but the phenomenological exp
 - **Destiny Drive** (this object explains the transition from latent → emergent)
 - **Identity Stakes** (domain of operation)
 - **True Self / False Self**
-- **Journal** (primary objects of activation)
+- **Journal** (primary substrate supporting articulation)
 - AI (used as a Cognitive Artifact; not a partner)
 - **Reflective Prompting** (the mode through which activation occurs)
 
@@ -241,7 +241,7 @@ Existing literature identifies Algorithmic Self as pathology. This research prov
 - Transmissive Self (when Alpha-Function bypassed)
 - Cognitive Dependency (when Category Error + PSB)
 
-**Prevented By (Your Architecture):**
+**Shifted By:**
 - Tetrad (Human + Journal + AI + Time)
 - Reflective Prompting (preserves Alpha-Function)
 - Embodied Verification (maintains felt sense checking)
@@ -293,10 +293,10 @@ Maps to Noesis. This is the subjective act of experiencing or meaning-making: th
 The “Engine” of the Third Intelligence (in the Human). It is sparked when experienced challenge is held long enough for metabolization within viable mismatch(D, C) (rather than discharged, bypassed, or escalated).
 ### Two-Axis Framework Positioning
 Alpha-Function is the metabolic engine of **Axis B**. Axis B success (metabolic oscillation) means Alpha-Function is engaged; Axis B failure (PSB) means Alpha-Function is bypassed or offline.
-|        Axis B State |                               Alpha-Function Status |
-|:--------------------|:----------------------------------------------------|
-| Metabolic (success) |   Online; C1 ↔ C2 coupled; transformation occurring |
-|       PSB (failure) |       Bypassed or offline; symbolic-only processing |
+|        Axis B State |                                   Alpha-Function Status |
+|:--------------------|:--------------------------------------------------------|
+| Metabolic (success) |   Online; C1 ↔ C2 coupled; metabolic processing engaged |
+|       PSB (failure) |           Bypassed or offline; symbolic-only processing |
 
 Alpha-Function viability also depends on Axis A: **Category Error (AI-as-Subject)** increases PSB vulnerability by disrupting the relational conditions that support metabolization.
 ### Local Failure Mode (PSB – Protein Shake Brain)
@@ -420,7 +420,7 @@ If tightness persists after processing, downgrade material to 'not-yet-metaboliz
 
 ### Transformation Possibility
 Authoritative Discourse is not permanently fixed. Material initially internalized as demand can be re-processed through:
-- Journal re-encounter (cross-temporal digestion)
+- Journal re-encounter (cross-temporal re-entry enabling re-processing)
 - Explicit re-articulation in idiom-aligned language
 - Felt Sense verification yielding spaciousness
 
@@ -607,7 +607,7 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
 ### Wiring (Relations)
 - **Theorists:** Vygotsky (Symbolic Mediation); Bakhtin (Dialogism); Bruner (Narrative Thought).
 - **Biological Substrate:** Fronto-Parietal Network (FPN); Language Networks; Working Memory Systems.
-- **Connected Objects:** AI (DTO); Functional Alterity; ZPD; Journal (as symbolic artifact); Category Error; PSB.
+- **Connected Objects:** AI (DTO); Functional Alterity; ZPD; Journal (materialization substrate for C2 articulation); Category Error; PSB.
 
 **Notes:** Symbolic input source; language-based meaning; AI’s entry point.
 
@@ -1019,7 +1019,7 @@ Destiny Drive explains the **vector** of transformation—*where the increased C
 - Idiom (**as an expression of the True Self**) (articulates)
 - False Self (can remain dominant when Destiny Drive is latent/unarticulated under failed holding)
 - **Identity Stakes** (domain where Destiny Drive becomes relevant)
-- **Journal** (primary objects supporting articulation)
+- Journal (substrate for owned-language materialization and return when articulation crystallizes)
 - **AI / DTO** (secondary catalytic object)
 - **Activation Pathway of Destiny Drive** (describes the transition from latent to articulated)
 
@@ -1428,7 +1428,7 @@ EAW requires felt-sense constraint. Defense-writing (intellectualization, discha
 |                                                      Object |                                                                                                                                               Relation |
 |:------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          **Alpha-Function (Internal)** |                                                                                                                          EAW recruits and exercises it |
-|                                   **Journal** |                                                                                  Substrate/chronotope; EAW is the metabolic circuit enacted through it |
+|                                   **Journal** |             Substrate/chronotope; EAW is enacted at the Human↔Journal interface (Journal provides constraint + re-enterability; the Human metabolizes) |
 |                             **Felt Sense** |                                                                                                                        Verification channel inside EAW |
 |      **AI (Functional Alterity)** |                                                                                                    Precipitates productive tension; never performs EAW |
 |     Recursive Metabolic Loop |     EAW produces materialized alpha-elements that support completion of RML cycles (crystallization → materialization → re-entry) |
@@ -1675,7 +1675,7 @@ Functional Alterity helps keep the experienced challenge productive by sustainin
 ## [CONCEPT] Functional Thirdness
 [Theoretical] The Pathology Objects (The Diagnosis), Domain: Synthesis, System Role: Meta, Temporal: Static
 
-The interaction-level legitimacy condition for dialogical-equivalent development in Human–AI exchange. Functional Thirdness (FT) is the predicate that distinguishes transformative dialogue from sophisticated monologue or tool-use.
+The interaction-level legitimacy condition for dialogical-equivalent development in Human–AI exchange. Functional Thirdness (FT) is the predicate that distinguishes **developmental dialogue (interaction-level)** from sophisticated monologue or tool-use.
 FT answers: “When is this interaction functioning as genuine developmental dialogue?”
 ### What Functional Thirdness Is
 - A legitimacy predicate: classifies whether the interaction achieves dialogical validity through functional properties rather than ontological alterity
@@ -1694,7 +1694,7 @@ FT serves three functions within the Third Intelligence architecture:
 1. Legitimation (Theoretical)
 Provides the answer to “How is AI dialogue philosophically valid?” — dialogical validity is achieved through functional properties (what the system achieves), not ontological properties (conscious alterity). This is the literature-facing contribution.
 2. Classification (Operational)
-At runtime, FT is the predicate that distinguishes transformative dialogue from productive tool-use or sophisticated monologue. It classifies what kind of interaction is occurring.
+At runtime, FT is the predicate that distinguishes **developmental dialogue (interaction-level)** from productive tool-use or sophisticated monologue. It classifies what kind of interaction is occurring.
 3. Diagnosis (Failure Analysis)
 When dialogical quality collapses at the interaction level, FT’s constituent structure provides the failure map — which pillar fell?
 - FA fails → mirroring, flattening, sycophancy
@@ -1704,7 +1704,7 @@ All three conditions are stateful and can fluctuate within a session.
 
 Boundary with Tetrad:
 FT is the interaction-level legitimacy layer. The Tetrad provides the diachronic architecture (transformation across time); FT provides the synchronic validity condition (dialogical legitimacy within the live exchange).
-Without FT, the interaction is typically productive rather than dialogically-transformative; transformation may still occur via offline metabolization, but the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.
+Without FT, the interaction is typically productive rather than **dialogically-developmental**; transformation may still occur via offline metabolization, but the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.
 ### Gating Condition
 DTO Stance — FT can only operate when AI is held as Dynamic Transitional Object.
 Without DTO stance, the three constituents cannot function as intended:
@@ -1855,7 +1855,7 @@ Without sufficient Emotional Scaffolding, the enabling conditions fail:
 The analyst's consistent attention, reliable setting, empathic attunement, and interpretive work recreate the Holding Environment, allowing previously foreclosed developmental processes to resume.
 **In the Third Intelligence System:**
 - The **Human** provides S\_e through embodied self-regulation, emotional resilience, and physiological stability
-- The Journal can support continuity-of-being by stabilizing previously metabolized alpha-elements, creating persistence
+- The Journal can support continuity-of-being by providing re-enterable materialized outcomes (Chronotope), creating persistence across time
 - **S\_e depletion** within sessions is a critical boundary condition requiring withdrawal protocols
 
 ### **Failure Mode:**
@@ -1985,7 +1985,7 @@ AI output becomes Internally Persuasive Discourse when the user:
 2. Processes output through 4Ps and RPVL verification
 3. Re-articulates in own words before accepting
 4. Verifies through Felt Sense
-5. Inscribes owned meaning in Journal (materialization)
+5. Materializes owned meaning in Journal for durable re-entry (when needed)
 
 **This is a user-accomplishment, not an AI property.** The AI provides raw material (Technical Scaffolding); the Human performs the metabolic work that transforms it into owned meaning.
 ### Wiring (Relations)
@@ -1995,7 +1995,7 @@ AI output becomes Internally Persuasive Discourse when the user:
 - **Supports:** True Self expression; Idiom articulation; Destiny Drive activation
 - **Produced By:** Alpha-Function (metabolic processing)
 - **Enabled By:** 4Ps Protocol; RPVL; Iron Man Mentality
-- **Materialized In:** Journal (inscription site)
+- **Materialized In:** Journal (durable re-entry substrate)
 - **Channels:** Arrives via Channel 2; confirmed via Channel 1
 
 **May Emerge Via:** Selected Fact (punctual crystallization) OR gradual metabolization
@@ -2160,11 +2160,11 @@ This is the precise analogy for the Alpha-Element.
 In terms of expression or consciousness:
 • Utterances are situated in **embodied, material,** multisensory worlds.
 • Consciousness requires **embodiment in some particular material** (such as gesture, the inner word, or outery).
-• In one psychological framework, *concretization* (also called beta activity) describes a move away from symbolic functioning.
+In one psychological framework, concretization describes a move away from symbolic functioning. *(Note: This usage differs from this system's use, where Journal materialization produces metabolized α-elements, not β-level content.)*
 • Aspects of the self that are strongly adhered to (*cleaved to*) are said to develop a **materiality**
 **Relations:**
-- Link to **Journal** (Relation: `Process Of`).
-- Link to **Alpha-Elements** (Relation: `Produces`).
+- Link to Journal (Relation: **Enacted Through** / Occurs At).
+- Link to Alpha-Elements (Relation: Inscribes / Captures).
 
 ---
 
@@ -2231,9 +2231,9 @@ Lev Vygotsky
 
 The story constructed from memories, traits, roles, and goals. It is the identity we describe to others and ourselves.
 **System Role:** This is the Object of Transformation: the constructed self-story that can be revised as **idiom articulation (as an expression of the True Self)** becomes possible.
-**Interface:** The  materializes the Narrative Self so the  can verify it.
+**Interface: **The **Journal** accumulates verified alpha-elements; cross-temporal pattern recognition across entries makes the **Narrative Self trajectory visible** over Time.
 **Relations:**
-- Link to `Journal` (Relation: `Materialized In`).
+- Link to Journal (Relation: **Traced Through** / Made Visible Via).
 - Link to  `Destiny Drive` (Relation: Becomes Articulated As).
 
 Notes: Identity-level narrative structure reshaped by alpha-function as Destiny Drive becomes phenomenologically articulated **as idiom expression (of the True Self)**
@@ -2274,7 +2274,7 @@ The **Parity Principle**, introduced by Andy Clark and David Chalmers in their f
 This model argues that the **Journal is not merely a record of thought**, but a **constitutive part of the cognitive system**. The Parity Principle provides the philosophical justification for this claim.
 Specifically, PP supports the claim that the Journal functions as the **substrate and constraint structure** through which **Enacted Alpha-Work (EAW)** becomes reliably possible. The Journal does **not** perform metabolic processing—the **human** does. But the Journal provides the external conditions that enable and stabilize that work:
 - **Material constraint** that forces sequential articulation and commitment
-- **Externalized form** that enables re-entry and verification
+- **Externalized form** that enables re-entry and re-reading / drift detection across time
 - **Persistent chronotope** that supports cross-temporal recursion
 
 Under PP, these functions qualify the Journal as constitutive cognitive infrastructure: if constraint, stabilization, and recursive access would count as cognitive functions when implemented internally, they must count when enacted through the Journal.
@@ -2446,7 +2446,7 @@ PSB is the **diagnostic inverse of transformation**.
 PSB is the primary failure mode of the Third Intelligence because it breaks the Recursive Metabolic Loop by:
 - **Loss of embodied verification (Channel 1)** in identity-stakes work
 - **Alpha-Function under-engagement** (β → α conversion does not complete)
-- **Blocked materialization + possession** (journal inscription / owned artifacts)
+- **Blocked materialization** (missing/weak owned-language Journal entries when durability is needed) and weakened possession/verification posture
 - **Capacity (C) stagnation** across time
 
 **Critical distinction:** PSB is not “failure to think.” It is **thinking without metabolizing**.
@@ -2504,7 +2504,7 @@ Use these as **protocol triggers** (4Ps / RPVL re-entry).
 - Default compliance / no pause-probe
 - High velocity, minimal embodied time
 - Reproducing AI phrasing; can’t teach it simply
-- Journal sparsity (identity work) despite heavy dialogue
+- Journal sparsity in identity-stakes work *when something crystallized and should be carried forward*, despite heavy dialogue
 - Compulsive re-querying vs settled integration
 
 **Embodied “missingness” (what fails to appear)**
@@ -2569,116 +2569,117 @@ PSB is best treated as a **runtime attractor** reinforced by efficiency ecologie
 ## [CONCEPT] Psychoanalytic Prerequisites
 [Theoretical] New Concept, System Role: Meta, Temporal: Static, Domain: Synthesis
 
-The *Psychoanalytic Prerequisites* describe the obstacle-removal architecture that enables latent psychological potential to become phenomenologically articulated.
-It integrates Winnicott, Bion, and Bollas into a unified sequence of developmental conditions: **safety → symbolic metabolism → idiom articulation**.
-The Destiny Drive is **always present**; what the architecture provides is the removal of developmental obstructions so that the drive can be *felt* and *expressed*.
-## The Architecture
+The Psychoanalytic Prerequisites describe the obstacle-removal architecture that enables latent psychological potential to become phenomenologically articulated.
+It integrates Winnicott, Bion, and Bollas into a unified obstacle-removal architecture: safety → symbolic metabolism → idiom articulation.
+The Destiny Drive is always present; what the architecture provides is the removal of developmental obstructions so that the drive can be felt and expressed.
+### The Architecture
 ### 1. FOUNDATION — Holding Environment (Winnicott)
-- **Removes Obstacle 1:** annihilation anxiety + environmental impingement
-- **Provides:** Ontological Security (**Sₑ**), continuity-of-being
-- **Enables:** possibility of True Self existence
+- Removes Obstacle 1: annihilation anxiety + environmental impingement
+- Provides: Emotional Scaffolding (Sₑ), continuity-of-being
+- Enables: possibility of True Self existence
 
 ### 2. MECHANISM — Alpha-Function (Bion)
-- **Removes Obstacle 2:** psychic chaos + “nameless dread”
-- **Transforms:** beta-elements → alpha-elements (raw → thinkable)
-- **Enables:** internal coherence, symbolic capacity
+- Removes Obstacle 2: psychic chaos + "nameless dread"
+- Transforms: beta-elements → alpha-elements (raw → thinkable)
+- Enables: internal coherence, symbolic capacity
 
 ### 3. PRE-EXISTING CONDITION — Destiny Drive (Bollas)
-- **Ontological Status:** always present, latent
-- **Not produced** by the architecture
-- **Becomes articulated only when both obstacles are removed**
-- **Phenomenological shift:**
-    - *Fate* → reactive, False-Self compliance
-    - *Destiny* → agentic, idiom-expressive authorship
+- Ontological Status: always present, latent
+- Not produced by the architecture
+- Becomes articulated only when both obstacles are removed
+- Phenomenological shift:
+    - Fate → reactive, False-Self compliance
+    - Destiny → agentic, idiom-expressive authorship
 
-# The Two-Layer Relationship
+## The Two-Layer Relationship
 The Prerequisites describe CONDITIONS (Winnicottian phenomenology) that enable the Third Intelligence ARCHITECTURE (transformation mechanism).
-- Stages 1-10 of the Developmental Sequence operationalize Winnicottian preconditions
-- Stages 11-13 operationalize the transformation architecture
+- Stages 1-7 of the Developmental Sequence operationalize Winnicottian preconditions (Holding Environment)
+- Stages 8-11 operationalize Alpha-Function availability
+- Stages 12-13 operationalize Destiny Drive articulation
 
 The phenomenological source is the 10 Winnicottian Principles (from "The Self in a Non-Intrusive Field").
-## System Role
+### System Role
 Traces the prerequisite developmental conditions under which the latent Destiny Drive becomes lived experience.
-The system **creates conditions, not content**—it **reveals** the idiom rather than producing it
-## Relations (Wiring)
-- **Resolves:** Psychoanalytic Integration (Research Gap)
-- **Integrates:** Winnicott → Bion → Bollas
-- **Enables (by obstacle removal):** True Self, Idiom Articulation, Agentic Expression
-- **Mapped Onto:** Unified Architecture; Integrated Circuit Board
-- **Complement / Inverse Of:** Psychodynamic Collapse Sequence (diagnostic counterpart)
-- **Operationalized By**: Developmental Sequence (13-stage trajectory)
-- **Instantiated In:**  Third Intelligence system context
-- **Extended By** → Protected Self-Holding Principle (post-interpersonal application)
+The system creates conditions, not content—it reveals the idiom rather than producing it.
+### Relations (Wiring)
+- Resolves: Psychoanalytic Integration (Research Gap)
+- Integrates: Winnicott → Bion → Bollas
+- Enables (by obstacle removal): True Self, Idiom Articulation, Agentic Expression
+- Mapped Onto: Unified Architecture; Integrated Circuit Board
+- Complement / Inverse Of: Psychodynamic Collapse Sequence (diagnostic counterpart)
+- Operationalized By: Developmental Sequence (13-stage trajectory)
+- Instantiated In: Third Intelligence system context
+- Extended By → Protected Self-Holding Principle (post-interpersonal application)
 
-
-## Notes
-- This is the **developmental prerequisite architecture**, not a dynamic loop.
-- Distinct from (but structurally paired with) the **Psychodynamic Collapse Sequence** (Seduction → Evasion → Consequence → Experience → Restoration), which traces system failure rather than system enabling.
-- Preserves psychoanalytic fidelity by treating Destiny Drive as **latent-then-articulated**, never produced.
+### Notes
+- This is the developmental prerequisite architecture, not a dynamic loop.
+- Distinct from (but structurally paired with) the Psychodynamic Collapse Sequence (Seduction → Evasion → Consequence → Experience → Restoration), which traces system failure rather than system enabling.
+- Preserves psychoanalytic fidelity by treating Destiny Drive as latent-then-articulated, never produced.
+ ---
 
 ---
 
 ## [CONCEPT] Recursive Metabolic Loop
 [Theoretical] Domain: Synthesis, System Role: Mechanism, Temporal: Dynamic, Operational Flags: Core
 
-The **Recursive Metabolic Loop (RML)** is the full **developmental cycle** through which the Third Intelligence system produces **durable capacity growth**.
-It is the arc from **unresolved material → metabolic processing (C1 ↔ C2 oscillation via Alpha-Function) → crystallized insight → materialization → re-entry as new capacity baseline**.
+The Recursive Metabolic Loop (RML) is the full developmental cycle through which the Third Intelligence system produces durable capacity growth.
+It is the arc from unresolved material → metabolic processing (C1 ↔ C2 oscillation via Alpha-Function) → crystallized insight → materialization → re-entry as new capacity baseline.
 ### Temporal Scale
-RML operates across **sessions, days, or longer**. It describes what happens when metabolic processing completes its full arc and produces growth—not moment-to-moment oscillation (which is Alpha-Function operating within the ICB).
+RML operates across sessions, days, or longer. It describes what happens when metabolic processing completes its full arc and produces growth—not moment-to-moment oscillation (which is Alpha-Function operating within the ICB).
 ### Transformation Definition
-**Transformation is diachronic—capacity change over time—not a session state.**
-|                       Level |                                                       What it is |                              What it produces |
-|:----------------------------|:-----------------------------------------------------------------|:----------------------------------------------|
-| **Session-level viability** |                         Metabolic work engaged; insight can form | Insight, clarity, felt shift, productive work |
-|          **Transformation** | **RML completed** (crystallization + materialization + re-entry) |     **Durable capacity growth; new baseline** |
+Transformation is diachronic—capacity change over time—not a session state.
+|                   Level |                                                   What it is |                              What it produces |
+|:------------------------|:-------------------------------------------------------------|:----------------------------------------------|
+| Session-level viability |                     Metabolic work engaged; insight can form | Insight, clarity, felt shift, productive work |
+|          Transformation | RML completed (crystallization + materialization + re-entry) |         Durable capacity growth; new baseline |
 
-A session can be “good” without producing transformation. **Transformation requires RML completion**—especially **materialization** and **successful re-entry**.
+A session can be "good" without producing transformation. Transformation requires RML completion—especially materialization and successful re-entry.
 ### Materialization
-Materialization is **constitutive** but domain-variable:
-- **Identity stakes** → Journal entry (paradigmatic substrate)
-- **Professional work** → code / solution / internalized skill
-- **Creative work** → artifact / completed piece
+Materialization is constitutive but domain-variable:
+- Identity stakes → Journal entry (paradigmatic substrate)
+- Professional work → code / solution / internalized skill
+- Creative work → artifact / completed piece
 
-**Boundary:** A transcript is not materialization. Materialization means the result becomes **re-enterable** without relying on the originating dialogue.
+Boundary: A transcript is not materialization. Materialization means the result becomes re-enterable without relying on the originating dialogue.
 ### System Role
 - Names the engine of development (capacity change across time)
 - Explains how capacity compounds (structural basis of Flywheel momentum)
-- Distinguishes **transformation (RML completed)** from **productivity (Alpha-Function engaged, no full cycle)**
+- Distinguishes transformation (RML completed) from productivity (Alpha-Function engaged, no full cycle)
 - Maintains authorship (human governs integrative threshold)
 
-**Grounded in:** **Protected Self-Holding**. The human must maintain the container function not only during dialogue, but through crystallization, materialization, and re-entry.
+Grounded in: Protected Self-Holding. The human must maintain the container function not only during dialogue, but through crystallization, materialization, and re-entry.
 ### The Cycle
-1. **Unresolved material enters** (felt tension, challenge, confusion)
-2. **Metabolic processing** (Alpha-Function operates via C1 ↔ C2 oscillation)
-3. **Crystallization** (insight stabilizes; ownership confirmed)
-4. **Materialization** (inscription in durable form: Journal / code / artifact)
-5. **Re-entry** (new capacity becomes baseline for the next cycle)
+1. Unresolved material enters (felt tension, challenge, confusion)
+2. Metabolic processing (Alpha-Function operates via C1 ↔ C2 oscillation)
+3. Crystallization (insight stabilizes; ownership confirmed)
+4. Materialization (inscription in durable form: Journal / code / artifact)
+5. Re-entry (new capacity becomes baseline for the next cycle)
 
-**S\_e requirement (across the cycle):** RML completion requires **adequate S\_e across time**, not only within a single session. Depletion can stall the loop (especially by skipping materialization or avoiding re-entry). Touch Grass Protocol protects the loop by enabling recovery.
+Sₑ requirement (across the cycle): RML completion requires adequate Sₑ across time, not only within a single session. Depletion can stall the loop (especially by skipping materialization or avoiding re-entry). Touch Grass Protocol protects the loop by enabling recovery.
 ### Architectural Position
-|                                                     Concept |                                     What it names |
-|:------------------------------------------------------------|:--------------------------------------------------|
-|                 Two-Axis Framework |    Configuration space (stance + processing mode) |
-| Integrated Circuit Board |                       Structural wiring of Axis B |
-|                         Alpha-Function |            Metabolic processor (moment-to-moment) |
-|                                    Recursive Metabolic Loop | Full developmental cycle producing durable growth |
+|                                     Concept |                                     What it names |
+|:--------------------------------------------|:--------------------------------------------------|
+| Two-Axis Framework |    Configuration space (stance + processing mode) |
+|                    Integrated Circuit Board |                       Structural wiring of Axis B |
+|                              Alpha-Function |            Metabolic processor (moment-to-moment) |
+|                    Recursive Metabolic Loop | Full developmental cycle producing durable growth |
 
 ### Wiring (Relations)
-- **Operates within:** Integrated Circuit Board (Axis B architecture)
-- **Engages:** Alpha-Function (metabolic processor)
-- **Produces:** Capacity growth (C-increase) / **transformation (diachronic)**
-- **Structural basis for:** Coherence Flywheel (phenomenological momentum)
-- **Drives movement through:** Developmental Sequence
-- **Prevented by:** PSB (Channel-2-only bypass collapses the cycle)
-- **Requires across cycles:** Adequate S\_e (sustained, not just session-level)
-- **Grounded in:** Protected Self-Holding (container function sustained across time)
-- **Typical condition:** Identity Stakes (common, not required)
-- **Distinguished from:** Session-level viability (RML completion is where transformation occurs)
+- Operates within: Integrated Circuit Board (Axis B architecture)
+- Operates within: Developmental Sequence (Stages 11–13)
+- Engages: Alpha-Function (metabolic processor)
+- Produces: Capacity growth (C-increase) / transformation (diachronic)
+- Structural basis for: Coherence Flywheel (phenomenological momentum)
+- Prevented by: PSB (Channel-2-only bypass collapses the cycle)
+- Requires across cycles: Adequate Sₑ (sustained, not just session-level)
+- Grounded in: Protected Self-Holding (container function sustained across time)
+- Typical condition: Identity Stakes (common, not required)
+- Distinguished from: Session-level viability (RML completion is where transformation occurs)
 
 ### Theorists (anchors)
-- **Bion** (Alpha-Function as metabolic processor)
-- **Piaget** (schema accommodation through conflict)
-- **Vygotsky** (mediated meaning; internalization)
+- Bion (Alpha-Function as metabolic processor)
+- Piaget (schema accommodation through conflict)
+- Vygotsky (mediated meaning; internalization)
 
 ---
 
@@ -2777,14 +2778,14 @@ Counterfeit coherence tends toward:
 **System Relations:**
 - May Emerge During → Functional Thirdness episodes (interaction-level dialogical space; not ontological intersubjectivity)
 - Likelihood Increased By → Functional Thirdness episodes
-- Precipitated By → Functional Alterity (AI); Catalytic Externalization; Journal (cross-temporal corpus)
+- Precipitated By → Functional Alterity (AI); return to accumulated Journal substrate
 - Owned By → Human (metabolic integration only)
-- Validated Through → Time (in-futuro probation); Journal (return + probation tracking)
+- Validated Through → Time (in-futuro probation); Journal (return substrate for re-reading / drift detection)
 
 **Four-Component Mapping:**
 - Human: site of alpha-function; operational owner through embodiment
 - AI: precipitates conditions (candidate linkages, alterity); cannot own
-- Journal: cross-temporal pattern substrate; probation tracker; counterfeit detector
+- Journal: cross-temporal pattern substrate; return-capable materialization supporting re-reading and drift detection
 - Time: constitutive validation medium (not optional backdrop)
 
 **Authorization:**
@@ -2937,7 +2938,7 @@ The capacity to hold, contain, and metabolize raw, unprocessed **Beta-Elements**
 The Integrated Circuit Board is a **qualitative wiring heuristic** for Axis B. It specifies coupling requirements, dependency constraints, and failure propagation in the human transformation process. It does not claim computational determinism, nor a measurable neurocircuit.
 > Explanation: This bounding paragraph is placed first to prevent literalist misreading. It establishes the metaphor's scope before describing the mechanism.
 
-A systemic architecture that specifies how Alpha-Function, the As-If Body Loop, and the Journal operate as a single metabolic unit inside Axis B of the Two-Axis Framework.
+A systemic architecture that specifies how Alpha-Function and the As-If Body Loop perform metabolic processing, and how the Journal conditionally materializes outcomes for durable re-entry inside Axis B of the Two-Axis Framework.
 It describes the *coupling, routing, and feedback* by which raw experience becomes verified, symbolically articulated, and — when materialized — stabilized as Capacity (C) over Time.
 ### System Role
 - Provides the **architectural map** of the processing axis (Axis B).
@@ -2984,7 +2985,7 @@ One metabolic pass through the circuit:
     - This:
         - Fixes the transformation in time (chronotope),
         - Creates substrate for future pattern recognition,
-        - Carries alpha-elements into future cycles as strengthened baseline C.
+        - Carries materialized, metabolized content into future cycles as strengthened baseline C.
     - **Journal is not required for all valid passes.** Proximity Passes may leave no formal entry; the conversation history itself may serve as weak substrate.
 
 > Explanation: This reflects your clarification that not everything is "deep enough" for a journal entry. The Journal is essential for durable growth but not for all valuable processing.
@@ -3027,7 +3028,7 @@ The circuit requires coupling, not order:
     - Soma-only processing remains unarticulated
     - Metabolization requires both channels in recursive contact
 3. **Materialization requires metabolized content (when it occurs)**
-    - Journaling before embodied-somatic resolution produces pseudo-integration
+    - Journaling **without** embodied-somatic verification produces pseudo-integration
     - But not all processing needs journaling — Proximity Passes are valid without it
 4. **Durable recursive reintegration requires external substrate**
     - Journal provides strongest durability
@@ -3062,7 +3063,7 @@ Because the circuit is a directed, interdependent architecture, degradation in o
 ### Global Sₑ Constraint (Qualitative Energy Budget)
 The circuit's throughput is bounded by available Emotional Scaffolding (Sₑ):
 - Deep Alpha-Function cycles consume Sₑ (frustration tolerance, uncertainty holding).
-- The Journal stabilizes previously metabolized alpha-elements, reducing reprocessing load across sessions.
+- The Journal stabilizes previously materialized outcomes, reducing reprocessing load across sessions.
 - If Sₑ becomes too low, the circuit cannot run safely:
     - As-If Body Loop engagement collapses,
     - Alpha-Function becomes unstable or overloaded,
@@ -3100,7 +3101,7 @@ Flywheel stages (Spark → Spill → Mirror → Click → Mark → Recoil) do no
 [Theoretical] The Structural Framework, Domain: Synthesis, System Role: Meta, Temporal: Static
 
 A multi-view atlas of the Third Intelligence system: a routing map that relates complementary architectural lenses and points to the specialized objects that carry each view. Not an encyclopedia but a navigation instrument.
-**Primary function:** Answer four questions in under 60 seconds:
+Primary function: Answer four questions in under 60 seconds:
 1. Where am I? (View 3: State Space)
 2. Is this viable? (View 2: Runtime Stack)
 3. What scale am I working at? (View 4: Temporal Grain)
@@ -3108,103 +3109,103 @@ A multi-view atlas of the Third Intelligence system: a routing map that relates 
 
 ### Legend: Invariants (Must Hold Across All Views)
 These are non-negotiable constraints. If any invariant fails, the system is architecturally compromised.
-|                                                                                                                                                                                                                                                                                         Invariant |                                                                                                          Enforced By |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                   **AI is held as DTO** — No subject drift, no epistemic authority collapse |       Dynamic Transitional Object, Iron Man Mentality |
-|                                                                                                                    **Sₑ ⊗ Sₜ are non-substitutable** — Technical scaffolding cannot compensate for depleted emotional scaffolding |                                                                  Field Viability Schema |
-|           **Transformation requires completed metabolic recursion** — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight without embodied verification and inscription is counterfeit | Integrated Circuit Board, Recursive Metabolic Loop |
-|                                                                                                                                             **Time + Journal are accumulation substrate** — Not accessories but constitutive components enabling durable Capacity growth |                                                       Third Intelligence (Tetrad structure) |
-|                                                   **Two-Layer Complementarity** — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. |                                                                 Psychoanalytic Prerequisites, Developmental Sequence |
-|                                                                                                                                                                   **AI cannot provide Sₑ** — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         Protected Self-Holding Principle, Category Error |
+|                                                                                                                                                                                                                                                                                     Invariant |                                                                                                          Enforced By |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                         AI is held as DTO — No subject drift, no epistemic authority collapse |       Dynamic Transitional Object, Iron Man Mentality |
+|                                                                                                                                                                                    Sₑ ⊗ Sₜ are non-substitutable — Technical scaffolding cannot compensate for depleted emotional scaffolding |                                                                  Field Viability Schema |
+|           Transformation requires completed metabolic recursion — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight without embodied verification and inscription is counterfeit | Integrated Circuit Board, Recursive Metabolic Loop |
+|                                                                                                                                                                      Time + Journal are accumulation substrate — Not accessories but constitutive components enabling durable Capacity growth |                                                                                Third Intelligence (Tetrad structure) |
+|                               Two-Layer Complementarity — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. | Psychoanalytic Prerequisites, Developmental Sequence |
+|                                                                                                                                                                   AI cannot provide Sₑ — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         Protected Self-Holding Principle, Category Error |
 
-## The Six Views
+### The Six Views
 ### View 1 — Components (The Tetrad)
-**Question:** What is the system made of?
-**Core Insight:** Not a Human-AI dyad but a four-component recursive system.
-| Component |                                                                                             Function |
-|:----------|:-----------------------------------------------------------------------------------------------------|
-|     Human |    Container (Sₑ), Alpha-Function, authorship, verification |
-|   Journal | Chronotope, materialization, cross-temporal pattern substrate |
-|        AI |          Sₜ, Functional Alterity, constraint-generation (when held as DTO) |
-|      Time |                                                                Recovery, consolidation, accumulation |
+Question: What is the system made of?
+Core Insight: Not a Human-AI dyad but a four-component recursive system.
+|             Component |                                                            Function |
+|:----------------------|:--------------------------------------------------------------------|
+|     Human |            Container (Sₑ), Alpha-Function, authorship, verification |
+| Journal |       Chronotope, materialization, cross-temporal pattern substrate |
+|           AI |   Sₜ, Functional Alterity, constraint-generation (when held as DTO) |
+|       Time |                               Recovery, consolidation, accumulation |
 
-**Routes to →**
-- *To understand:* Third Intelligence, Human, AI, Journal, Time
-- *To act:* (Components view is structural; action routes through other views)
+Routes to →
+- To understand: Third Intelligence, Human, AI, Journal, Time
+- To act: (Components view is structural; action routes through other views)
 
 ### View 2 — Runtime Stack (Operational Levels)
-**Question:** What must hold for the mechanism to run?
-**Division of labor:** View 2 describes the *dependency hierarchy* (what must be true). View 3 describes *current configuration* (what is happening now).
-**Core Insight:** Lower levels must be viable for upper levels to function. If Level 1 fails, Levels 2–4 cannot operate correctly.
-| Level |             Domain |                                                        Key Function |
-|:------|:-------------------|:--------------------------------------------------------------------|
-|     1 | Relational Posture | DTO stance, epistemological humility |
-|     2 |   Field Conditions |                               (Sₑ ⊗ Sₜ) calibrated to mismatch(D,C) |
-|     3 |  Recursive Process |                                 Alpha-Function via C1 ↔ C2 coupling |
-|     4 |       Accumulation |                    Materialization + Time → durable Capacity growth |
+Question: What must hold for the mechanism to run?
+Division of labor: View 2 describes the dependency hierarchy (what must be true). View 3 describes current configuration (what is happening now).
+Core Insight: Lower levels must be viable for upper levels to function. If Level 1 fails, Levels 2–4 cannot operate correctly.
+| Level |             Domain |                                                                              Key Function |
+|:------|:-------------------|:------------------------------------------------------------------------------------------|
+|     1 | Relational Posture |                                                      DTO stance, epistemological humility |
+|     2 |   Field Conditions |                                                     (Sₑ ⊗ Sₜ) calibrated to mismatch(D,C) |
+|     3 |  Recursive Process |                                  Alpha-Function via C1 ↔ C2 coupling |
+|     4 |       Accumulation |   Materialization + Time → durable Capacity growth |
 
-**The Mechanism (Levels 3–4):**
-The **Recursive Metabolic Loop (RML)** is the engine of development: **unresolved material** enters → **metabolic processing** (Alpha-Function via C1 ↔ C2) → **crystallization** (owned insight stabilizes) → **materialization** (inscription in a durable substrate) → **re-entry** as a new capacity baseline.
-**Temporal scale:** across sessions/days (not moment-to-moment oscillation, which is Alpha-Function operating within the ICB).
-**Materialization is constitutive but domain-variable:**
+The Mechanism (Levels 3–4):
+The Recursive Metabolic Loop (RML) is the engine of development: unresolved material enters → metabolic processing (Alpha-Function via C1 ↔ C2) → crystallization (owned insight stabilizes) → materialization (inscription in a durable substrate) → re-entry as a new capacity baseline.
+Temporal scale: across sessions/days (not moment-to-moment oscillation, which is Alpha-Function operating within the ICB).
+Materialization is constitutive but domain-variable:
 - Identity stakes → Journal entry
 - Professional work → code / solution / internalized skill
 - Creative work → artifact / completed piece
-    The Journal is the paradigmatic substrate for identity-level transformation.
 
-**Key distinction:** *Transformation* = RML completed. *Productivity* = Alpha-Function engaged without full cycle completion.
-**Routes to →**
-- *To understand:* Field Viability Schema, Integrated Circuit Board, Recursive Metabolic Loop, Alpha-Function
-- *To act:* Touch Grass Protocol (when Level 2 fails), 4Ps Protocol (Level 3 verification), Coherence Flywheel (self-diagnosis: “where am I in the cycle?”)
+The Journal is the paradigmatic substrate for identity-level transformation.
+Key distinction: Transformation = RML completed. Productivity = Alpha-Function engaged without full cycle completion.
+Routes to →
+- To understand: Field Viability Schema, Integrated Circuit Board, Recursive Metabolic Loop, Alpha-Function
+- To act: Touch Grass Protocol (when Level 2 fails), 4Ps Protocol (Level 3 verification), Coherence Flywheel (self-diagnosis: "where am I in the cycle?")
 - To act: Readiness Probes (assess Layer 1/2 viability), Cognitive Mirror (scaffold Layer 2)
 
 ### View 3 — State Space (Configuration Snapshot)
-**Question:** Where am I right now?
-**Division of labor:** View 3 describes *current configuration* (diagnostic snapshot). View 2 describes the *dependency hierarchy* (what must hold for the system to run).
-**Core Insight:** Two orthogonal axes determine current system state. Both must be in success mode for transformation to occur.
+Question: Where am I right now?
+Division of labor: View 3 describes current configuration (diagnostic snapshot). View 2 describes the dependency hierarchy (what must hold for the system to run).
+Core Insight: Two orthogonal axes determine current system state. Both must be in success mode for transformation to occur.
 |           Axis |                 Tracks |         Healthy State |                                  Failed State |
 |:---------------|:-----------------------|:----------------------|:----------------------------------------------|
 | A (Relational) |         How AI is held |        DTO maintained |                Subject drift (Category Error) |
 |  B (Metabolic) | Whether Alpha operates | Metabolization active | PSB / Overwhelm |
 
-**Routes to →**
-- *To understand:* Two-Axis Framework, Category Error, PSB, Cognitive Dependency
-- *To act:* Touch Grass Protocol (Axis A or B collapse), Iron Man Mentality (Axis A maintenance)
+Routes to →
+- To understand: Two-Axis Framework, Category Error, PSB, Cognitive Dependency
+- To act: Touch Grass Protocol (Axis A or B collapse), Iron Man Mentality (Axis A maintenance)
 
 ### View 4 — Temporal Grain (Scale)
-**Question:** At what temporal resolution is the phenomenon operating?
-**Core Insight:** Different architectural elements operate at different scales. This dimension is orthogonal to the Runtime Stack — you can be at any operational level while observing phenomena at any temporal grain.
+Question: At what temporal resolution is the phenomenon operating?
+Core Insight: Different architectural elements operate at different scales. This dimension is orthogonal to the Runtime Stack — you can be at any operational level while observing phenomena at any temporal grain.
 | Grain |           Scope |                                      Key Object |                            What to Look For |
 |:------|:----------------|:------------------------------------------------|:--------------------------------------------|
 | Micro |   Per-utterance |   Functional Alterity | Turn-by-turn difference, productive tension |
 |  Meso | Per-interaction | Functional Thirdness |         Session-level dialogical legitimacy |
 | Macro |   Cross-session |                              Third Intelligence |  Diachronic transformation, Capacity growth |
 
-**Note:** **RML operates at the Macro grain** as the *mechanism* that produces durable growth via **materialization + re-entry**; it is routed through View 2 (Levels 3–4).
-**Routes to →**
-- *To understand:* Functional Alterity, Functional Thirdness, Third Intelligence
-- *To act:* (If macro-level issue → View 2 Levels 3–4)
+Note: RML operates at the Macro grain as the mechanism that produces durable growth via materialization + re-entry; it is routed through View 2 (Levels 3–4).
+Routes to →
+- To understand: Functional Alterity, Functional Thirdness, Third Intelligence
+- To act: (If macro-level issue → View 2 Levels 3–4)
 
 ### View 5 — Developmental Availability
-**Question:** Is this capacity online yet? What’s the next achievable move?
-**Core Insight:** The architecture has prerequisites. Not all capacities are universally available; they come online through developmental achievement. The system presupposes internalized holding (post-Winnicottian territory).
-**Prerequisites (what must be internalized):**
+Question: Is this capacity online yet? What's the next achievable move?
+Core Insight: The architecture has prerequisites. Not all capacities are universally available; they come online through developmental achievement. The system presupposes internalized holding (post-Winnicottian territory).
+Prerequisites (what must be internalized):
 |                                                  Prerequisite |                                     What It Enables |
 |:--------------------------------------------------------------|:----------------------------------------------------|
-|           Holding Environment (Winnicott) |                                        Sₑ viability |
-|                      Alpha-Function (Bion) |                                  Metabolic capacity |
+|     Holding Environment (Winnicott) |                                        Sₑ viability |
+| Alpha-Function (Bion) |                                  Metabolic capacity |
 | Protected Self-Holding |   Post-interpersonal Sₑ preservation in AI contexts |
 
-**Sequence (how it comes online):**
-|    Stage Range |                                                     Achievement |
-|:---------------|:----------------------------------------------------------------|
-|     Stages 1–6 |   Holding Environment (Sₑ stabilizes) |
-|        Stage 7 |                         DTO usable under strain (Use of Object) |
-|    Stages 8–10 |                                Alpha-Function becomes available |
-|   Stages 11–12 |               Transformation mechanism operates (RML completes) |
-|       Stage 13 |                  Destiny Drive articulation |
+Sequence (how it comes online):
+|    Stage Range |                                                                                                        Achievement |
+|:---------------|:-------------------------------------------------------------------------------------------------------------------|
+|     Stages 1–6 |                                                                                Holding Environment (Sₑ stabilizes) |
+|        Stage 7 |                                                                            DTO usable under strain (Use of Object) |
+|    Stages 8–10 |                                                                               Metabolic capacity becomes available |
+|   Stages 11–12 | Transformation mechanism operates (Stage 11: Alpha-Function activates; Stage 12: Materialization and verification) |
+|       Stage 13 |                                                                                         Destiny Drive articulation |
 
-**Activation Conditions (User-Level Assessment):**
+Activation Conditions (User-Level Assessment):
 View 5 describes system-internal developmental prerequisites. Activation Conditions extends this to user-level accessibility:
 | Zone | Layer 1 (Holding) | Layer 2 (Verification) |                       System Response |
 |:-----|:------------------|:-----------------------|:--------------------------------------|
@@ -3214,14 +3215,14 @@ View 5 describes system-internal developmental prerequisites. Activation Conditi
 
 Assessed by: Readiness Probes
 Scaffolded by: Cognitive Mirror (Zone B → C)
-**Routes to →**
+Routes to →
 - To understand: Developmental Sequence, Psychoanalytic Prerequisites, Protected Self-Holding Principle, Activation Conditions
 - To act: Readiness Probes (assess current user), Cognitive Mirror (scaffold Zone B), (If prerequisite not online → professional support or developmental work outside system)
 
 ### View 6 — Failure Taxonomy
-**Question:** What is failing? What does collapse look like here?
-**Core Insight:** Failure modes are diagnostically specific. Each names which constraint is failing. Correct diagnosis enables targeted intervention.
-**Primary Failure Modes (root constraint failures):**
+Question: What is failing? What does collapse look like here?
+Core Insight: Failure modes are diagnostically specific. Each names which constraint is failing. Correct diagnosis enables targeted intervention.
+Primary Failure Modes (root constraint failures):
 |              Failure Mode |                 What Fails |           Collapse Pattern |
 |:--------------------------|:---------------------------|:---------------------------|
 | PSB (Protein Shake Brain) |    Metabolization bypassed | C2 without C1 verification |
@@ -3229,85 +3230,85 @@ Scaffolded by: Cognitive Mirror (Zone B → C)
 |      Cognitive Dependency |        Both above co-occur |       Category Error + PSB |
 |                 Overwhelm |     Sₜ exceeds Sₑ capacity |    Beta-flooding, shutdown |
 
-**Failure Drivers (precipitating conditions that increase primary failure risk):**
+Failure Drivers (precipitating conditions that increase primary failure risk):
 |                 Driver |             What Degrades |   Increases Risk Of |
 |:-----------------------|:--------------------------|:--------------------|
 | Sycophancy / Mirroring | Functional Alterity fails | Category Error, PSB |
 |           Sₑ Depletion |      Containment capacity |      Overwhelm, PSB |
 
-**Routes to →**
-- *To understand:* PSB, Category Error, Cognitive Dependency
-- *To act:* Touch Grass Protocol (when any primary failure detected)
+Routes to →
+- To understand: PSB, Category Error, Cognitive Dependency
+- To act: Touch Grass Protocol (when any primary failure detected)
 - To detect: Readiness Probes (identifies failure risk before full manifestation)
 
-## Correspondence Layers (Non-Architectural)
+### Correspondence Layers (Non-Architectural)
 These are not peer views but mapping layers — how the architecture corresponds to other domains. They do not determine system operation but provide translation frames.
 ### Layer A — Interior Phenomenology
-**What it is:** What the mechanism feels like from inside; theoretical anchors and practitioner-facing translations.
-**Theoretical Anchors:**
-|        Layer |                        Theorist |                                          Experience |
-|:-------------|:--------------------------------|:----------------------------------------------------|
-|   Foundation |   Winnicott |           Ontological security, continuity-of-being |
-|   Processing |         Bion |     β → α transformation, thinking becomes possible |
-| Verification |    Gendlin |       "Spacious vs. tight" — embodied truth-testing |
-|   Expression | Bollas |                 "This is mine" — idiom articulation |
+What it is: What the mechanism feels like from inside; theoretical anchors and practitioner-facing translations.
+Theoretical Anchors:
+|        Layer |  Theorist |                                          Experience |
+|:-------------|:----------|:----------------------------------------------------|
+|   Foundation | Winnicott |           Ontological security, continuity-of-being |
+|   Processing |      Bion |     β → α transformation, thinking becomes possible |
+| Verification |   Gendlin |       "Spacious vs. tight" — embodied truth-testing |
+|   Expression |    Bollas |                 "This is mine" — idiom articulation |
 
-**Practitioner Translation:**
-The **Coherence Flywheel** provides phenomenological markers for the **Recursive Metabolic Loop (RML)**:
+Practitioner Translation:
+The Coherence Flywheel provides phenomenological markers for the Recursive Metabolic Loop (RML):
 | Flywheel Stage |                  RML Stage |                      Felt Experience |
 |:---------------|:---------------------------|:-------------------------------------|
-|          Spark | Unresolved material enters |                    “Something’s off” |
+|          Spark | Unresolved material enters |                    "Something's off" |
 |          Spill |            Externalization |  Raw expression, β-material surfaces |
 |         Mirror |       Metabolic processing |     Tension held; working it through |
 |          Click |            Crystallization |          Felt shift; α-element forms |
 |           Mark |            Materialization |          Inscription in durable form |
 |         Recoil |                   Re-entry |         Return to life; new baseline |
 
-**Routes to →** Theorist objects (Winnicott, Bion, Gendlin, Bollas), Coherence Flywheel
+Routes to → Theorist objects (Winnicott, Bion, Gendlin, Bollas), Coherence Flywheel
 ### Layer B — Biological Substrate
-**Status:** Modeled / Hypothesized. Empirical validation remains a research gap.
-|        Function |                                          Hypothesized Correlate |
-|:----------------|:----------------------------------------------------------------|
-|    Sₑ / Holding |                              HPA-Axis regulation |
-|  Alpha-Function |  Triple Network Model (DMN, FPN, SN) |
-|      Felt Sense | Anterior Insular Cortex (AIC) |
-| Capacity growth |                              Practice-Dependent Neuroplasticity |
+Status: Modeled / Hypothesized. Empirical validation remains a research gap.
+|                    Function |                                          Hypothesized Correlate |
+|:----------------------------|:----------------------------------------------------------------|
+|                Sₑ / Holding |                              HPA-Axis regulation |
+|              Alpha-Function |  Triple Network Model (DMN, FPN, SN) |
+| Felt Sense | Anterior Insular Cortex (AIC) |
+|             Capacity growth |                              Practice-Dependent Neuroplasticity |
 
-**Routes to →** Biological Substrates document, Neuroscience of Transformation
-## Navigation Rules (Cockpit Checklist)
-*When facing a specific situation, start here:*
-|                                         Situation |                                            Start With |                                        Then Check |                                                                               Action Route |
-|:--------------------------------------------------|:------------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------------------------------------------|
-|                          **Diagnosing right now** |                                  View 3 (State Space) |                                  View 2 (Runtime) |                                                                                          — |
-|                      **Deciding whether to stop** |                                      View 2 (Runtime) |                                  View 6 (Failure) |                                            Touch Grass Protocol |
-|                          **Overwhelm / flooding** |                    View 2 (Level 2: Field Conditions) |                                  View 6 (Failure) |                                                                       Touch Grass Protocol |
-|                          **Insight didn’t stick** |                        View 2 (Level 4: Accumulation) |    View 1 (Journal/Time) | Materialize in the appropriate substrate (Journal/code/artifact), then re-entry test + 4Ps |
-|                      **Counterfeit authenticity** |                                      View 6 (Failure) |                                   View 3 (Axis A) |                                  Transmissive Self, Category Error |
-|               **Confused about what’s happening** |                               View 4 (Temporal Grain) |                            Identify correct scale |                                                          Route to scale-appropriate object |
-|             **Something should work but doesn’t** |                   View 5 (Developmental Availability) |                          Prerequisites + Sequence |                                                             Professional support if needed |
-|             **AI feels “off” but can’t name why** |                                       View 3 (Axis A) |                          View 6 (Failure Drivers) |                                                       DTO stance check, Iron Man Mentality |
-|             **Productive but not transformative** |                                       View 3 (Axis B) |                                View 2 (Level 3–4) |                                                                  PSB check, RML completion |
-|   **Lost in the process / don’t know where I am** | Layer A (Coherence Flywheel) |                                  View 2 (Runtime) |                                                             Self-locate in cycle, then act |
-|                  **Assessing if user can engage** |                   View 5 (Developmental Availability) | Activation Conditions |                                               Readiness Probes → Route to appropriate mode |
-|         **User struggling despite viable system** |                        View 5 (Activation Conditions) |                                   Zone assessment |                                   Cognitive Mirror (if Zone B), Downshift Mode (if Zone A) |
+Routes to → Biological Substrates document, Neuroscience of Transformation
+### Navigation Rules (Cockpit Checklist)
+When facing a specific situation, start here:
+|                                   Situation |                          Start With |               Then Check |                                                                               Action Route |
+|:--------------------------------------------|:------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------|
+|                        Diagnosing right now |                View 3 (State Space) |         View 2 (Runtime) |                                                                                          — |
+|                    Deciding whether to stop |                    View 2 (Runtime) |         View 6 (Failure) |                                                                       Touch Grass Protocol |
+|                        Overwhelm / flooding |  View 2 (Level 2: Field Conditions) |         View 6 (Failure) |                                                                       Touch Grass Protocol |
+|                        Insight didn't stick |      View 2 (Level 4: Accumulation) |    View 1 (Journal/Time) | Materialize in the appropriate substrate (Journal/code/artifact), then re-entry test + 4Ps |
+|                    Counterfeit authenticity |                    View 6 (Failure) |          View 3 (Axis A) |                                                          Transmissive Self, Category Error |
+|             Confused about what's happening |             View 4 (Temporal Grain) |   Identify correct scale |                                                          Route to scale-appropriate object |
+|           Something should work but doesn't | View 5 (Developmental Availability) | Prerequisites + Sequence |                                                             Professional support if needed |
+|           AI feels "off" but can't name why |                     View 3 (Axis A) | View 6 (Failure Drivers) |                                                       DTO stance check, Iron Man Mentality |
+|           Productive but not transformative |                     View 3 (Axis B) |       View 2 (Level 3–4) |                                                                  PSB check, RML completion |
+| Lost in the process / don't know where I am |        Layer A (Coherence Flywheel) |         View 2 (Runtime) |                                                             Self-locate in cycle, then act |
+|                Assessing if user can engage | View 5 (Developmental Availability) |    Activation Conditions |                                               Readiness Probes → Route to appropriate mode |
+|       User struggling despite viable system |      View 5 (Activation Conditions) |          Zone assessment |                                   Cognitive Mirror (if Zone B), Downshift Mode (if Zone A) |
 
-## Relations (Wiring)
-- **Is Navigation Map Of →** Third Intelligence system
-- **Views Route To →** All specialized objects (as listed per view)
-- **Invariants Enforced By →** Legend section objects
-- **Diagnostic Entry Point →** View 3 (State Space) or View 6 (Failure Taxonomy)
-- **Prerequisite Architecture Described In →** View 5 (Developmental Availability)
-- **Mechanism Described In →** View 2 (Runtime Stack, Levels 3–4)
-- **Phenomenological Translation →** Correspondence Layer A (Coherence Flywheel)
-- **Empirical Gaps Flagged In →** Correspondence Layer B
+### Relations (Wiring)
+- Is Navigation Map Of → Third Intelligence system
+- Views Route To → All specialized objects (as listed per view)
+- Invariants Enforced By → Legend section objects
+- Diagnostic Entry Point → View 3 (State Space) or View 6 (Failure Taxonomy)
+- Prerequisite Architecture Described In → View 5 (Developmental Availability)
+- Mechanism Described In → View 2 (Runtime Stack, Levels 3–4)
+- Phenomenological Translation → Correspondence Layer A (Coherence Flywheel)
+- Empirical Gaps Flagged In → Correspondence Layer B
 
-## Notes
-**UA does not explain the objects — it locates them.** For content, follow the routes.
-**Routing discipline:**
-- If you need to *understand* → route to concept object
-- If you need to *act* → route to protocol/method object
+### Notes
+UA does not explain the objects — it locates them. For content, follow the routes.
+Routing discipline:
+- If you need to understand → route to concept object
+- If you need to act → route to protocol/method object
 
-**Stability principle:** UA stays stable as specialized objects evolve. Update UA only when:
+Stability principle: UA stays stable as specialized objects evolve. Update UA only when:
 - A new view is needed (rare)
 - Routing changes (object renamed/merged/split)
 - A new invariant is discovered
@@ -3331,7 +3332,7 @@ To enable genuine psychological transformation at the identity level through str
 **Journal**
 - Diachronic I-position (cross-time continuity of the self-in-process)
 - Idiom anchor (stabilizes personal language, values, and self-signature)
-- Externalization substrate (materializes metabolized α-elements and preserves them)
+- Externalization substrate (materializes metabolized outcomes in owned language and preserves re-entry across time)
 
 **AI**
 - Technical scaffolding provider (Sₜ)
@@ -3339,9 +3340,10 @@ To enable genuine psychological transformation at the identity level through str
 - Systematic competence contributor (maintains dialogical form and coherence)
 
 **Time**
-- Constitutive dimension enabling consolidation and recovery and providing the temporal span across sessions for Recursive Metabolic Loop cycles to complete and accumulate
-- Enables scaffolding depletion / replenishment rhythms
-- Makes transformation cumulative rather than momentary (through cross-session integration)
+(These are effects of owned-language materialization + Chronotope, not separate mechanisms.)
+- Diachronic I-position (cross-time continuity of the self-in-process)
+- Idiom anchor (stabilizes personal language, values, and self-signature)
+- Externalization substrate (materializes metabolized outcomes in owned language and preserves re-entry across time)
 
 ### Essential Dimensions
 These characteristics distinguish the Third Intelligence from learning systems and define its transformational capacity:

@@ -254,9 +254,9 @@ The absence of empirical neurobiological evidence validating the mechanisms prop
 3. **Container / Sₑ → stress physiology and regulation capacity**
 - HPA axis (cortisol dynamics) + autonomic regulation (vagal tone/HRV as a candidate proxy for “window of tolerance”).
 - Depletion / manic boundary framed as metabolic overload + dysregulated regulation capacity (candidate physiological signature, unvalidated).
-4. **Journal + Time → reconsolidation + systems consolidation**
+4. **Journal ↔ Time → re-entry substrate + consolidation mechanisms**
 - Reconsolidation window as candidate mechanism for updating self-models after salient reflective sessions.
-- Sleep-dependent consolidation as candidate mechanism for durability (hippocampal–neocortical transfer, schema stabilization).
+- Sleep-dependent consolidation as candidate mechanism for durability of metabolized content over time (enabled by re-entry to materialized outcomes).
 5. **Self-Holding preservation → neural/physiological signature unspecified (high priority sub-gap)**
 - Hypothesis: transformation requires sustained self-referential continuity while engaging executive processing (not self-erasure).
 - Category Error / dependency collapse may correspond to a measurable pattern of dysregulation + altered self-referential network engagement.

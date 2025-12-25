@@ -15,6 +15,7 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - 4ps-protocol.md
     - section-5-the-category-error-relational-axis-f.md
+    - journal.md
     - authoritative-discourse.md
     - cognitive-style-bias.md
     - self-explanation.md

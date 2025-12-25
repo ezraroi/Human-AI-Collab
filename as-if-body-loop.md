@@ -20,7 +20,7 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_l.md
     - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
@@ -28,7 +28,6 @@ Backlinks:
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - protein-shake-brain-psb.md
-    - 14-alpha-function-integrating-dialogical-and-e.md
     - antonio-damasio.md
     - emotional-scaffolding-s_e.md
     - embodied-cognition.md

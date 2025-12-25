@@ -11,7 +11,6 @@ Backlinks:
     - holding-environment.md
     - 2-the-divided-labors-of-two-theories.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
-    - 7-final-conclusion-the-third-intelligence.md
     - 8-the-unified-relational-ontology.md
     - 7-what-each-framework-gains-from-integration.md
     - dynamic-transitional-object-dto.md
