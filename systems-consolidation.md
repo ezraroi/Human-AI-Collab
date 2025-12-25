@@ -6,7 +6,7 @@ Tag:
     - 'Domain: Bio-Embodied'
     - 'Temporal: Static'
 Backlinks:
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_l.md
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'
@@ -17,13 +17,13 @@ Creation date: "2025-11-22T12:32:22Z"
 Created by:
     - Roi Ezra
 Links:
-    - journal.md
     - time.md
+    - journal.md
     - chronotope.md
 Emoji: "\U0001F9EC"
 id: bafyreiermb6ub4xw6mp24v4zd5nbcznhkr57zmx43mgs5cboyvtttihtga
 ---
 # Systems Consolidation   
 The process during NREM sleep where the Hippocampus "replays" insights to the Neocortex, making them permanent.   
-This provides the biological mechanism for the "Continuity" and "Permanence" provided by the [Journal](journal.md) + [Time](time.md).   
-**Notes:** Neural mechanism for long-term stabilization of insights (Journal ↔ Time integration).   
+This provides a biological mechanism that supports durability across [time](time.md); the [Journal](journal.md) provides re-enterable substrate ([Chronotope](chronotope.md)), and Time (including sleep) supports stabilization of metabolized content.   
+**Notes: **Neural mechanism supporting long-term stabilization over time; aligns with Journal ↔ Time as substrate + temporal support.   

@@ -27,6 +27,7 @@ Backlinks:
     - activation-conditions.md
     - internally-persuasive-discourse.md
     - cognitive-mirror-protege-mode.md
+    - the-unified-architecture.md
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
@@ -53,7 +54,7 @@ Emoji: "\U0001F6E0️"
 id: bafyreiat4xbdomf4nfou7n2d5rcshasyqeviqh6rzvkzxth6fy7ziflhjm
 ---
 # 4Ps Protocol   
-A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation ([Flavell](john-flavell.md)) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied/time-delayed verification **before** adopting an output as “owned.”   
+A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation ([Flavell](john-flavell.md)) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied verification before adopting an output as ‘owned’; **time-delayed re-entry and/or Journal inscription apply when durable ownership is required**.   
 ### Minimal Constrained-Integration Link   
 4Ps is a **local intervention** used when drift threatens transformation conditions: it pulls the user back from “cold fluency” into **owned processing** by (1) interrupting autopilot, (2) restoring epistemic responsibility, (3) re-authoring in one’s idiom, and (4) requiring **embodied + time-delayed verification** (i.e., the As-If Body Loop is most explicitly engaged in **Possess**, and often begins in **Process**). It also supports **SN integrative mode** by reintroducing “check + integration” instead of “consume + proceed.”   
 ## Purpose   

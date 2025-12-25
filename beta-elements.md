@@ -13,7 +13,6 @@ Backlinks:
     - reverie.md
     - section-5-temporal-architecture.md
     - edmund-husserl.md
-    - 4-the-system-architecture-v2-0.md
     - conflict-detection-model-repair.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
@@ -23,7 +22,6 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - the-container.md
     - d-difficulty.md
-    - 9-the-hidden-implications-youve-discovered.md
     - section-8-boundary-conditions-prerequisites.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
@@ -36,18 +34,17 @@ Backlinks:
     - the-constrained-integration-hypothesis.md
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - c-capacity.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
     - section-3-causal-sequence-placement.md
+    - 4-critical-connection-2-felt-sense-channel-1-v.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
-    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Psychoanalysis

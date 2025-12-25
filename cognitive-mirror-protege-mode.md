@@ -8,6 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - reflective-prompting.md
+    - journal.md
     - cognitive-style-bias.md
     - self-explanation.md
     - epistemological-humility.md

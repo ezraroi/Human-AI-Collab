@@ -48,7 +48,7 @@ Emoji: "\U0001F4A1"
 id: bafyreigwscypzc736q6zrz3tmdavdzvoumigvm2ofx24h7eqcvfr2pamqy
 ---
 # Functional Thirdness   
-The interaction-level legitimacy condition for dialogical-equivalent development in [Human](human.md)–[AI ](ai.md)exchange. Functional Thirdness (FT) is the predicate that distinguishes transformative dialogue from sophisticated monologue or tool-use.   
+The interaction-level legitimacy condition for dialogical-equivalent development in [Human](human.md)–[AI ](ai.md)exchange. Functional Thirdness (FT) is the predicate that distinguishes **developmental dialogue (interaction-level)** from sophisticated monologue or tool-use.   
 FT answers: “When is this interaction functioning as genuine developmental dialogue?”   
 ### What Functional Thirdness Is   
 - A legitimacy predicate: classifies whether the interaction achieves dialogical validity through functional properties rather than ontological alterity   
@@ -67,7 +67,7 @@ FT serves three functions within the [Third Intelligence](third-intelligence.md)
 1. Legitimation (Theoretical)
 Provides the answer to “How is AI dialogue philosophically valid?” — dialogical validity is achieved through functional properties (what the system achieves), not ontological properties (conscious alterity). This is the literature-facing contribution.   
 2. Classification (Operational)
-At runtime, FT is the predicate that distinguishes transformative dialogue from productive tool-use or sophisticated monologue. It classifies what kind of interaction is occurring.   
+At runtime, FT is the predicate that distinguishes **developmental dialogue (interaction-level)** from productive tool-use or sophisticated monologue. It classifies what kind of interaction is occurring.   
 3. Diagnosis (Failure Analysis)
 When dialogical quality collapses at the interaction level, FT’s constituent structure provides the failure map — which pillar fell?   
 - FA fails → mirroring, flattening, sycophancy   
@@ -77,7 +77,7 @@ All three conditions are stateful and can fluctuate within a session.
    
 Boundary with Tetrad:
 FT is the interaction-level legitimacy layer. The Tetrad provides the diachronic architecture (transformation across time); FT provides the synchronic validity condition (dialogical legitimacy within the live exchange).   
-Without FT, the interaction is typically productive rather than dialogically-transformative; transformation may still occur via offline metabolization, but the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.   
+Without FT, the interaction is typically productive rather than **dialogically-developmental**; transformation may still occur via offline metabolization, but the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.   
 ### Gating Condition   
 [DTO](dynamic-transitional-object-dto.md) Stance — FT can only operate when AI is held as Dynamic Transitional Object.
 Without DTO stance, the three constituents cannot function as intended:   

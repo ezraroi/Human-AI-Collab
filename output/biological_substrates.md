@@ -163,12 +163,12 @@ Neural systems that encode reward, reinforcement, and approach motivation, shapi
 **Testable predictions (how it constrains the model)**
 - **Counterfeit safety condition:** reward signatures rise while embodied integration markers do not (e.g., comfort/relief without felt-shift + without persistence).
 - **Transformation condition:** reward may occur, but does not become the driver; instead, behavioral markers show **authorship** (journaling, reconstruction without AI, real-world testing).
-- **Intervention sensitivity:** introducing “return-to-baseline” constraints (Touch Grass Protocol, journaling verification) should reduce compulsive repetition without reducing productive sessions.
+- Intervention sensitivity: introducing "return-to-baseline" constraints (Touch Grass Protocol, Journal re-entry)
 
 **Relations (wiring)**
 - **Risk for:** Category Error; Cognitive Dependency; PSB (“Protein Shake Brain”)
 - **Competes with:** Metabolization pathway (Alpha-Function) as an explanation for perceived improvement
-- **Moderated by:** Journal + Time (verification, consolidation); Touch Grass Protocol (boundary enforcement)
+- **Moderated by:** Journal (durable materialization + return substrate for macro-verification) + Time (consolidation, spacing); Touch Grass Protocol (boundary enforcement)
 - **Needs contrast with:** Human co-regulation (not provided by AI)
 
 **Notes**
@@ -261,8 +261,8 @@ This object exists to prevent overloading the Triple Network Model and to make t
 [Literature] Domain: Bio-Embodied, Temporal: Static
 
 The process during NREM sleep where the Hippocampus "replays" insights to the Neocortex, making them permanent.
-This provides the biological mechanism for the "Continuity" and "Permanence" provided by the Journal + Time.
-**Notes:** Neural mechanism for long-term stabilization of insights (Journal ↔ Time integration).
+This provides a biological mechanism that supports durability across time; the Journal provides re-enterable substrate (Chronotope), and Time (including sleep) supports stabilization of metabolized content.
+**Notes: **Neural mechanism supporting long-term stabilization over time; aligns with Journal ↔ Time as substrate + temporal support.
 
 ---
 

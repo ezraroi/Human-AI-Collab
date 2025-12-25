@@ -15,6 +15,7 @@ Backlinks:
     - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - section-10-open-edges-to-bridge-later.md
+    - 4-the-system-architecture-v2-0.md
     - authoritative-discourse.md
     - protected-self-holding-principle.md
     - 2-the-divided-labors-of-two-theories.md

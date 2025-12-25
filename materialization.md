@@ -8,11 +8,18 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - digital-neurophenomenology.md
+    - ai.md
+    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - the-integrated-circuit-board.md
+    - third-intelligence.md
+    - c-capacity.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
+    - activation-pathway-of-destiny-drive.md
     - section-6-journal-function-refinement.md
+    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - the-unified-architecture.md
+    - ii-the-novelty-of-the-specific-mechanisms.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -31,10 +38,10 @@ id: bafyreifqpc444d7ken5elladd3mutm5mqjwvlfqxvq2rhagaahbsip45ui
 In terms of expression or consciousness:   
 • Utterances are situated in **embodied, material,** multisensory worlds.   
 • Consciousness requires **embodiment in some particular material** (such as gesture, the inner word, or outery).   
-• In one psychological framework, *concretization* (also called beta activity) describes a move away from symbolic functioning.   
+In one psychological framework, concretization describes a move away from symbolic functioning. *(Note: This usage differs from this system's use, where Journal materialization produces metabolized α-elements, not β-level content.)*   
 • Aspects of the self that are strongly adhered to (*cleaved to*) are said to develop a **materiality**   
 **Relations:**   
-- Link to **[Journal](journal.md)** (Relation: `Process Of`).   
-- Link to **[Alpha-Elements](alpha-elements.md)** (Relation: `Produces`).   
+- Link to [Journal](journal.md) (Relation: **Enacted Through** / Occurs At).   
+- Link to [Alpha-Elements](alpha-elements.md) (Relation: Inscribes / Captures).   
    
    

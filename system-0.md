@@ -8,7 +8,6 @@ Tag:
     - 'Temporal: Static'
 Backlinks:
     - system-2.md
-    - ii-the-novelty-of-the-specific-mechanisms.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Literature: Established academic fact'

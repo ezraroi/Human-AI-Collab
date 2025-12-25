@@ -8,7 +8,7 @@
 ## [METHOD] 4Ps Protocol
 [Theoretical] NoteBook 6 - Cognitive Mechanics, Domain: Methodology, System Role: Method, Temporal: Dynamic
 
-A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation (Flavell) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied/time-delayed verification **before** adopting an output as “owned.”
+A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation (Flavell) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied verification before adopting an output as ‘owned’; **time-delayed re-entry and/or Journal inscription apply when durable ownership is required**.
 ### Minimal Constrained-Integration Link
 4Ps is a **local intervention** used when drift threatens transformation conditions: it pulls the user back from “cold fluency” into **owned processing** by (1) interrupting autopilot, (2) restoring epistemic responsibility, (3) re-authoring in one’s idiom, and (4) requiring **embodied + time-delayed verification** (i.e., the As-If Body Loop is most explicitly engaged in **Possess**, and often begins in **Process**). It also supports **SN integrative mode** by reintroducing “check + integration” instead of “consume + proceed.”
 ## Purpose
@@ -128,7 +128,7 @@ HSCED creates rigor through **systematic adjudication**: cross-examining mixed-m
 **1. Cross-Examination of Mixed-Method Data:**
 - **Journal logs** (phenomenological, first-person)
 - **Chat logs** (dialogical, process documentation)
-- **Temporal density** substituting for breadth (43 notebooks over 8 months)
+- **Temporal density** substituting for breadth (43 research notebooks over 8 months, distilled into Journal entries when crystallized)
 - Triangulation between sources prevents single-source bias
 
 **2. The Skeptical Prosecutor (AI as Adjudicator):**

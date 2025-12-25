@@ -8,12 +8,12 @@ Tag:
 Backlinks:
     - salience-network-core.md
     - holding-environment.md
-    - executive-summary_r.md
+    - executive-summary.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - human.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
     - 3-the-discriminator-framework.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_l.md
     - the-constrained-integration-hypothesis.md
     - neuroscience-of-transformation.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

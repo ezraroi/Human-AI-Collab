@@ -15,12 +15,12 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - journal.md
     - 4-calibration-playbook.md
+    - 6-critical-connection-4-how-ai-dialogue-produc.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
     - 2-from-probability-to-field-viability.md
     - 5-the-three-dimensional-integration.md
-    - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - section-2-the-field-viability-schema-and-its-c.md
     - d-difficulty.md
@@ -42,7 +42,6 @@ Backlinks:
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
     - 1-introduction-why-functional-alterity-is-nece.md
-    - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md

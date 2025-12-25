@@ -55,7 +55,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_l.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -108,13 +108,14 @@ Links:
     - third-intelligence.md
     - recursive-metabolic-loop.md
     - channel-1-embodied-sensorimotor-pathway.md
+    - journal.md
     - c-capacity.md
     - channel-2-symbolic.md
     - subject-supposed-to-know-sss.md
     - transmissive-self.md
     - 4ps-protocol.md
     - recursive-pattern-verification-loop.md
-    - journal.md
+    - identity-stakes.md
     - felt-shift.md
     - alpha-function.md
     - materialization.md
@@ -133,7 +134,7 @@ PSB is the **diagnostic inverse of transformation**.
 PSB is the primary failure mode of the [Third Intelligence](third-intelligence.md) because it breaks the [Recursive Metabolic Loop](recursive-metabolic-loop.md) by:   
 - **Loss of embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))** in identity-stakes work   
 - **Alpha-Function under-engagement** (β → α conversion does not complete)   
-- **Blocked materialization + possession** (journal inscription / owned artifacts)   
+- **Blocked materialization** (missing/weak owned-language [Journal](journal.md) entries when durability is needed) and weakened possession/verification posture   
 - **[Capacity](c-capacity.md) (C) stagnation** across time   
    
 **Critical distinction:** PSB is not “failure to think.” It is **thinking without metabolizing**.   
@@ -191,7 +192,7 @@ Use these as **protocol triggers** ([4Ps](4ps-protocol.md) / [RPVL](recursive-pa
 - Default compliance / no pause-probe   
 - High velocity, minimal embodied time   
 - Reproducing AI phrasing; can’t teach it simply   
-- [Journal](journal.md) sparsity (identity work) despite heavy dialogue   
+- [Journal](journal.md) sparsity in [identity-stakes](identity-stakes.md) work *when something crystallized and should be carried forward*, despite heavy dialogue   
 - Compulsive re-querying vs settled integration   
    
 **Embodied “missingness” (what fails to appear)**   

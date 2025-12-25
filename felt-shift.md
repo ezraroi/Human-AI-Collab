@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Output'
     - 'Temporal: Dynamic'
 Backlinks:
+    - 5-the-embodied-connection.md
     - 5-measurement-program-menu.md
     - authoritative-discourse.md
     - 3-the-discriminator-framework.md
@@ -19,7 +20,7 @@ Backlinks:
     - neuroscience-of-transformation.md
     - internally-persuasive-discourse.md
     - mikhail-bakhtin.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_0.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Literature: Established academic fact'

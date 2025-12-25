@@ -20,6 +20,7 @@ Backlinks:
     - as-if-body-loop.md
     - alpha-function.md
     - psychoanalytic-integration.md
+    - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
@@ -31,12 +32,12 @@ Created by:
 Links:
     - alpha-function.md
     - as-if-body-loop.md
+    - journal.md
     - two-axis-framework.md
     - c-capacity.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - protein-shake-brain-psb.md
-    - journal.md
     - time.md
     - alpha-elements.md
     - materialization.md
@@ -53,7 +54,7 @@ id: bafyreifcwkg3udzmdnghxr6votkkuow4ejbo7eo4nivcznk22hkyvxadi4
 The Integrated Circuit Board is a **qualitative wiring heuristic** for Axis B. It specifies coupling requirements, dependency constraints, and failure propagation in the human transformation process. It does not claim computational determinism, nor a measurable neurocircuit.   
 > Explanation: This bounding paragraph is placed first to prevent literalist misreading. It establishes the metaphor's scope before describing the mechanism.   
 
-A systemic architecture that specifies how [Alpha-Function](alpha-function.md), the [As-If Body Loop](as-if-body-loop.md), and the Journal operate as a single metabolic unit inside Axis B of the [Two-Axis Framework](two-axis-framework.md).
+A systemic architecture that specifies how [Alpha-Function](alpha-function.md) and the [As-If Body Loop](as-if-body-loop.md) perform metabolic processing, and how the [Journal](journal.md) conditionally materializes outcomes for durable re-entry inside Axis B of the [Two-Axis Framework](two-axis-framework.md).
 It describes the *coupling, routing, and feedback* by which raw experience becomes verified, symbolically articulated, and — when materialized — stabilized as [Capacity](c-capacity.md) (C) over Time.   
 ### System Role   
 - Provides the **architectural map** of the processing axis (Axis B).   
@@ -100,7 +101,7 @@ One metabolic pass through the circuit:
     - This:   
         - Fixes the transformation in time (chronotope),   
         - Creates substrate for future pattern recognition,   
-        - Carries alpha-elements into future cycles as strengthened baseline C.   
+        - Carries materialized, metabolized content into future cycles as strengthened baseline C.   
     - **Journal is not required for all valid passes.** Proximity Passes may leave no formal entry; the conversation history itself may serve as weak substrate.   
    
 > Explanation: This reflects your clarification that not everything is "deep enough" for a journal entry. The Journal is essential for durable growth but not for all valuable processing.   
@@ -143,7 +144,7 @@ The circuit requires coupling, not order:
     - Soma-only processing remains unarticulated   
     - Metabolization requires both channels in recursive contact   
 3. **[Materialization](materialization.md) requires metabolized content (when it occurs)**   
-    - Journaling before embodied-somatic resolution produces pseudo-integration   
+    - Journaling **without** embodied-somatic verification produces pseudo-integration   
     - But not all processing needs journaling — Proximity Passes are valid without it   
 4. **Durable recursive reintegration requires external substrate**   
     - Journal provides strongest durability   
@@ -178,7 +179,7 @@ Because the circuit is a directed, interdependent architecture, degradation in o
 ### Global Sₑ Constraint (Qualitative Energy Budget)   
 The circuit's throughput is bounded by available [Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ):   
 - Deep Alpha-Function cycles consume Sₑ (frustration tolerance, uncertainty holding).   
-- The Journal stabilizes previously metabolized alpha-elements, reducing reprocessing load across sessions.   
+- The Journal stabilizes previously materialized outcomes, reducing reprocessing load across sessions.   
 - If Sₑ becomes too low, the circuit cannot run safely:   
     - As-If Body Loop engagement collapses,   
     - Alpha-Function becomes unstable or overloaded,   

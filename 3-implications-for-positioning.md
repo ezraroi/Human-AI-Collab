@@ -50,7 +50,7 @@ This review shows that the system draws from multiple theoretical traditions, ea
 |  Psychoanalytic metabolism | Object relations and related psychoanalytic traditions ([Bion](wilfred-bion.md); [Winnicott](d-w-winnicott.md); [Bollas](christopher-bollas.md)) |
 |    Identity transformation |                                                                  Transformative learning; adult development; narrative identity (to be reviewed) |
 |     Structural temporality |                                                               Developmental psychology; systems neuroscience; rhythm literature (to be reviewed) |
-| Journal as cognitive organ |                             [Extended mind](extended-mind-hypothesis-hec.md); distributed cognition; artifact-mediated learning (to be reviewed) |
+| Journal as cognitive organ |                                              [Extended mind](extended-mind-hypothesis-hec.md); distributed cognition; artifact-mediated learning |
 |  AI as functional alterity |                                                              Dialogical frameworks + conversational AI / interactional accounts (to be reviewed) |
 
 ### 3.3 The Practical Risk   

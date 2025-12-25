@@ -16,6 +16,7 @@ Backlinks:
     - section-11-the-dialogical-illusion-as-producti.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - internally-persuasive-discourse.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - functional-alterity.md
 Origin Domain:

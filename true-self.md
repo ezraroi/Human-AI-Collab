@@ -15,7 +15,6 @@ Backlinks:
     - identity-stakes.md
     - christopher-bollas.md
     - section-3-foundational-theoretical-integration.md
-    - 7-final-conclusion-the-third-intelligence.md
     - d-w-winnicott.md
     - transmissive-self.md
     - 7-what-each-framework-gains-from-integration.md
@@ -25,6 +24,7 @@ Backlinks:
     - potential-space.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - psychoanalytic-prerequisites.md
     - internally-persuasive-discourse.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

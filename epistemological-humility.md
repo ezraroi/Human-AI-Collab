@@ -13,7 +13,6 @@ Backlinks:
     - recursive-pattern-verification-loop.md
     - activation-conditions.md
     - cognitive-mirror-protege-mode.md
-    - the-unified-architecture.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

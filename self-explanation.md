@@ -15,8 +15,6 @@ Backlinks:
     - 4-remaining-questions-for-tier-3.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - gap-filling-inference-generation.md
-    - 3-the-metric-of-growth-high-resolution-uncerta.md
-    - c-capacity.md
     - cognitive-mirror-protege-mode.md
 Epistemic Status: 'Literature: Established academic fact'
 Origin Domain:

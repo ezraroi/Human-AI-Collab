@@ -67,7 +67,7 @@ Existing literature identifies Algorithmic Self as pathology. This research prov
 - [Transmissive Self ](transmissive-self.md)(when [Alpha-Function](alpha-function.md) bypassed)   
 - Cognitive Dependency (when Category Error + [PSB](protein-shake-brain-psb.md))   
    
-**Prevented By (Your Architecture):**   
+**Shifted By:**   
 - Tetrad ([Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md))   
 - Reflective Prompting (preserves Alpha-Function)   
 - Embodied Verification (maintains felt sense checking)   

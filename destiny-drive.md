@@ -29,7 +29,6 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - internally-persuasive-discourse.md
-    - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
 Origin Domain:
     - Psychoanalysis
@@ -83,7 +82,7 @@ Destiny Drive explains the **vector** of transformation—*where the increased [
 - Idiom (**as an expression of the True Self**) (articulates)   
 - [False Self](false-self.md) (can remain dominant when Destiny Drive is latent/unarticulated under failed holding)   
 - **[Identity Stakes](identity-stakes.md)** (domain where Destiny Drive becomes relevant)   
-- **[Journal](journal.md)** (primary objects supporting articulation)   
+- [Journal](journal.md) (substrate for owned-language materialization and return when articulation crystallizes)   
 - **AI / DTO** (secondary catalytic object)   
 - **Activation Pathway of Destiny Drive** (describes the transition from latent to articulated)   
    

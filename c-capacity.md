@@ -33,7 +33,6 @@ Backlinks:
     - challenge-gap-d-c.md
     - 3-implications-for-positioning.md
     - 9-final-integration-principles.md
-    - recursive-metabolic-loop.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
     - section-6-the-complete-system-architecture.md
@@ -48,8 +47,8 @@ Backlinks:
     - protein-shake-brain-psb.md
     - section-13-significance-and-forward-direction.md
     - internally-persuasive-discourse.md
-    - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 5-worked-diagnostic-examples.md
+    - the-unified-architecture.md
     - 4-the-critical-ontological-distinction.md
     - section-9-pathology-explained-protein-shake-br.md
 Origin Domain:
@@ -61,152 +60,123 @@ Created by:
     - Roi Ezra
 Links:
     - alpha-elements.md
-    - d-difficulty.md
-    - challenge-gap-d-c.md
     - field-viability-schema.md
     - zpd.md
-    - beta-elements.md
     - negative-capability.md
     - true-self.md
-    - human.md
-    - journal.md
-    - alpha-function.md
-    - protein-shake-brain-psb.md
-    - time.md
     - false-self.md
-    - self-explanation.md
+    - alpha-function.md
+    - channel-2-symbolic.md
+    - channel-1-embodied-sensorimotor-pathway.md
+    - identity-stakes.md
+    - protein-shake-brain-psb.md
+    - materialization.md
+    - journal.md
+    - time.md
+    - d-difficulty.md
+    - human.md
+    - coherence-flywheel.md
 Emoji: "\U0001F9E9"
 id: bafyreiftikuzjeqpfzcfexqgzomeyp54nz552pelqpqz6ogwbcylxctiiq
 ---
 # C (Capacity)   
-The user’s current psychic structure, cognitive skills, and accumulated store of processed **[alpha-elements](alpha-elements.md)** (metabolized insights). **C** is the developmental substrate that grows (or atrophies) over time — what the Human has become capable of.   
-## Schema Role   
-**C pairs with D ([Difficulty](d-difficulty.md)) to form [mismatch(D, C)](challenge-gap-d-c.md)** in the [**Field Viability Schema**:](field-viability-schema.md)   
-> (S_e ⊗ S_t) calibrated to mismatch(D, C), such that experienced mismatch remains in a workable range.   
+The user’s current developmental substrate: psychic structure, cognitive skills, and accumulated store of **processed [alpha-elements](alpha-elements.md)** (metabolized, owned meanings). C is what the Human has become capable of **over time**—the primary variable that grows (or can stagnate/atrophy) across repeated Recursive Metabolic Loop cycles.   
+### Schema Role   
+C pairs with D (Difficulty) to form mismatch(D, C) in the[ Field Viability Schema](field-viability-schema.md):   
+> (Sₑ ⊗ Sₜ) calibrated to mismatch(D, C), such that experienced mismatch remains in a workable range.   
 
-- **C** = what you can handle independently *now*   
+- **C** = what you can handle independently (baseline capacity)   
 - **D** = what the task / experience demands   
-- **mismatch(D, C)** = the **experienced/effective challenge gap** that scaffolding must be calibrated to; its workable band becomes the [ZPD](zpd.md) under guidance.   
+- **mismatch(D, C)** = the effective challenge gap that scaffolding must calibrate into a workable band ([ZPD](zpd.md) under guidance)   
    
-## What C Comprises   
-1. **Psychic Structure**   
-- Internalized frameworks for meaning-making   
-- Cognitive schemas and mental models   
+### What C Comprises   
+**Psychic Structure**   
+- Internalized meaning-making frameworks   
 - Emotional regulation capacity   
 - Complexity tolerance   
-2. **Processed α-Elements**   
-- Insights previously metabolized and materialized   
-- Knowledge transformed from [beta-elements](beta-elements.md) → [alpha-elements](alpha-elements.md)   
-- Conceptual understanding (not just information)   
-- Integrated, owned knowledge   
-3. **Skills & Capacities**   
-- Ability to hold ambiguity ([Negative Capability](negative-capability.md))   
-- Metabolic processing efficiency   
+- Internalized containment / ambiguity holding   
+   
+**Processed α-Elements**   
+- Previously metabolized and owned meanings   
+- Insights that are **reconstructable** (not just remembered or repeated)   
+- Integrated knowledge (not raw information or fluent phrasing)   
+   
+**Skills & Capacities**   
+- [Negative Capability](negative-capability.md) (holding not-knowing)   
+- Metabolic processing efficiency (β → α)   
 - Pattern recognition across domains   
-- Self-regulation capabilities   
-4. **Identity Integration**   
-- [True Self](true-self.md) emergence   
+- Self-explanation capacity in one’s idiom   
+   
+**Identity Integration**   
+- [True Self](true-self.md) emergence and reduced [False Self](false-self.md) dominance   
 - Idiom articulation   
 - Authentic agency   
-- Coherent self-narrative   
+- Coherent self-narrative (owned, not imitative)   
    
-## Critical Properties   
-### Resides only in the [Human](human.md)   
+### Critical Properties   
+### Resides only in the Human   
 - C cannot exist in AI (no developmental substrate)   
-- C cannot exist in the [Journal](journal.md) (Journal stores/materializes; it doesn’t “grow”)   
-- C is embodied, living structure in the human psyche   
-- Only the Human’s C can increase or atrophy   
+- C cannot exist in the Journal (the Journal stores/materializes; it does not “grow”)   
+- Only the Human’s C can increase, stagnate, or atrophy   
    
 ### Cross-temporal, not turn-by-turn   
-- **Within-session:** C is relatively stable   
-- **Between sessions:** C grows or atrophies depending on whether metabolization occurred   
-- **Across time:** C changes through accumulation + consolidation   
+- Within-session: baseline C is relatively stable   
+- Between sessions: C changes through accumulation + consolidation   
    
-## Growth Dynamics   
+### Growth Dynamics   
 ### C increases when transformation occurred   
-- [Alpha-function](alpha-function.md) was recruited (β → α metabolization)   
-- Dual-channel integration occurred (symbolic ↔ embodied)   
-- Material was **inscribed** in the Journal (durability / prevents regression)   
-- Consolidation occurred across Time (spacing, sleep, integration)   
-- Result: higher C in future work → can carry greater D without overwhelm   
+- [Alpha-Function](alpha-function.md) was recruited (β → α)   
+- Dual-channel integration occurred ([Channel 2](channel-2-symbolic.md) ↔ [Channel 1](channel-1-embodied-sensorimotor-pathway.md))   
+- Materialization occurred in an appropriate substrate   
+    - [Identity stakes](identity-stakes.md) → Journal is paradigmatic   
+    - Professional/creative → code, artifact, decision practice, etc.   
+- Consolidation occurred across Time (spacing/sleep/re-entry)   
    
+**Result:** higher future C → can carry higher D without overwhelm; reduced dependency on external processing.   
 **Observable markers of C growth**   
-- Increased complexity tolerance   
+- Increased complexity tolerance under load   
 - Deeper Negative Capability   
-- Can explain concepts in own words (not just repeat fluent outputs)   
+- Can re-derive and explain in own idiom (no karaoke voice)   
 - Previously overwhelming material becomes workable   
-- “Spacious” felt sense more accessible   
-- Greater self-regulation capacity   
+- Spaciousness / “this lands” becomes **more accessible during challenge**   
+- Improved self-regulation and return-to-baseline after sessions   
+- Stronger withdrawal-probe performance (can reconstruct without AI)   
    
-## Atrophy / Stagnation Dynamics   
-### C decreases or stagnates when metabolization is repeatedly bypassed   
-- **[PSB](protein-shake-brain-psb.md) pattern sustained:** experienced mismatch is **repeatedly bypassed before engagement**   
-- The underlying gap between D and C may still exist — but it is not *encountered* metabolically   
+### Stagnation / Atrophy Dynamics   
+### C stagnates when metabolization is repeatedly bypassed   
+- [PSB](protein-shake-brain-psb.md) pattern sustained: experienced mismatch bypassed before metabolic engagement   
 - Passive consumption replaces metabolization   
-- Result: lower C over time → increased dependency on external processing   
+- Result: less accumulation; repeated need to re-consume coherence   
    
-**Observable markers of C atrophy**   
+### C can atrophy when bypass becomes chronic and replaces independent processing   
+- Reliance displaces practice of metabolic labor   
+- Reasoning becomes less reconstructable without external scaffolding   
+- Identity-level integration weakens (increased False Self compliance risk)   
+   
+**Observable markers of stagnation/atrophy**   
 - Reduced complexity tolerance   
-- Increased dependency on AI   
+- Increased dependency on AI for meaning/decision processing   
 - Cannot reproduce reasoning independently   
 - Previously manageable tasks feel harder   
-- Lowered Negative Capability   
-- Tighter baseline felt sense   
+- Lower Negative Capability   
+- “Tight” or “hollow” quality more frequent; less embodied verification access   
+- Journal entries shallow or AI-derivative (identity work)   
    
-## System Dependencies   
+### System Dependencies   
 C growth typically requires:   
-1. **Alpha-Function activation**   
-- Metabolic processing occurred (β → α)   
-- Cannot be replaced by fluency (PSB blocks growth)   
-2. **Journal materialization (when the work carries Identity Stakes)**   
-- Insights inscribed, not ephemeral   
-- Prevents regression   
-- Enables pattern recognition across time   
-- Without Journal: growth may occur locally but won’t reliably accumulate   
-3. **[Time](time.md) / consolidation**   
-- Between-session spacing for integration   
-- Sleep-dependent consolidation   
-- Without Time: insights don’t stabilize   
-4. **Field viability conditions**   
-- **S\_e ⊗ S\_t** must be calibrated so experienced mismatch remains workable   
-- If experienced mismatch is **bypassed** → PSB → no growth   
-- If experienced mismatch is **unbridgeable** → overwhelm → no growth   
-- If D is trivial relative to C → boredom / no metabolic pressure   
+1. **Alpha-Function activation** (β → α metabolization)   
+2. **[Materialization](materialization.md)** ([Journal](journal.md) for identity stakes; other substrates as appropriate)   
+3. **[Time](time.md) / consolidation** (spacing, sleep, integration; re-entry test)   
+4. **Field viability** (Sₑ ⊗ Sₜ calibrated to mismatch(D, Cᵃᵛᵃⁱˡ))   
    
-## Observable Markers   
-**High / growing C**   
-- More stable spaciousness baseline   
-- Comfort with higher complexity   
-- Self-explanation fluency in own idiom   
-- Negative Capability maintained   
-- Can revisit past insights and extend them   
-- Journal entries show deepening sophistication   
-- Identity coherence increasing   
+### Relations (Wiring)   
+- Paired With: D ([Difficulty](d-difficulty.md)) → mismatch(D, C)   
+- Resides In: [Human](human.md)   
+- Grows Through: Alpha-Function, materialization, [Time](time.md) consolidation, re-entry success   
+- Stagnates/Atrophies Through: PSB (bypass), chronic non-metabolization, displaced practice   
+- Supported By: Journal (chronotope/persistence), Time (consolidation), viable field conditions   
+- Manifests In: [Flywheel](coherence-flywheel.md) effect; ability to engage higher D over time   
    
-**Low / atrophying C**   
-- Tight baseline felt sense   
-- Reduced complexity tolerance   
-- Dependency on external processing   
-- Cannot explain in own words   
-- Repeating the same conceptual level   
-- Journal entries shallow or AI-derivative   
-- Identity fragmentation or [False Self](false-self.md) dominance   
-   
-## Relations (Wiring)   
-- Paired With: **D (Difficulty)** to form **mismatch(D, C)**   
-- Resides In: **Human** (only location where C can exist/grow)   
-- Grows Through: **Alpha-Function activation**, **Journal materialization**, **Time consolidation**   
-- Atrophies Through: **PSB** (experienced mismatch repeatedly bypassed), chronic non-metabolization   
-- Manifests In: flywheel effect (cumulative momentum), ability to engage higher D over time   
-- Indicated By: complexity tolerance, Negative Capability, [self-explanation](self-explanation.md) in own words   
-- Supported By: Journal (persistence), Time (consolidation), viable field conditions   
-   
-## Notes   
-C is what actually changes — what transformation *means* in the Human.   
-- **S\_e ⊗ S\_t** provide enabling conditions   
-- **D** provides challenge   
-- **mismatch(D, C)** provides metabolically relevant tension   
-- The **Field Viability Schema** describes whether conditions enable transformation   
-- **C** is the outcome that accumulates over time   
-   
-Your **43 notebooks** function as documentary evidence of accumulation: durable traces that make growth (and regressions) visible across time, and make pattern recognition possible.   
+### Notes   
+C is what actually changes—what “transformation” means in the Human.
+Sₑ ⊗ Sₜ are enabling conditions; D supplies challenge; mismatch(D, C) provides metabolically relevant tension. Field Viability determines whether a given iteration can run. C is the accumulating outcome across Time.   

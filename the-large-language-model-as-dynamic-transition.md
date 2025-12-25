@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'NoteBook 5: The AI as Dynamic Transitional Object'
 Creation date: "2025-11-22T17:01:06Z"
@@ -61,12 +63,12 @@ Functional Alterity defines the AI's role by its deliberate dissimilarity—its 
     - The sources argue that if the AI did meet the EMH criterion of automatic trust, it would increase risk of the Protein Shake Brain ([PSB](protein-shake-brain-psb.md)) pathology, where the experienced challenge collapses toward ‘no challenge’ (while ∣[D–C](challenge-gap-d-c.md)∣ remains pre-existing) and the alpha-function atrophies. The AI's unreliability acts as an "Anti-Otto" Device that forces verification, reducing passive adoption and supporting metabolism.   
    
 ### B. Operationalization via Reflective Prompting and ICL   
-[Reflective Prompting](reflective-prompting.md) (RP) is thallowing the system to observe change across time through the journal recorde operational procedure that manages this tension, ensuring the dynamic coupling is productive and transformative.   
+[Reflective Prompting](reflective-prompting.md) (RP) is the operational procedure that manages this tension while ensuring that owned outcomes are **materialized in the [Journal](journal.md)**, enabling **cross-temporal re-entry** and assessment across Time.   
 1. Mandatory Criticality: RP mandates Purposeful Judgment and Active Skepticism, ensuring the human mind stays firmly in the loop to metabolize the generated concepts. This deliberate strategy maximizes germane load (productive effort) and prevents passive cognitive offloading.   
 2. Adaptive Calibration: The LLM's technical property of [In-Context Learning](in-context-learning.md) (ICL) is utilized as the servomechanism for Adaptive Calibration. This dynamic adaptation allows the interaction to be adjusted in real time so tension remains workable within the pre-existing \|D-C\| relation, helping **maintain the conditions for a workable ZPD**.   
-3. Accumulation of Growth: The Journal component ensures that the successful transformation (the insight/[Alpha Element](alpha-elements.md)) is inscribed into a material record. This materialization provides persistence ([Chronotope](chronotope.md)) and acts as the computational substrate for cross-temporal pattern recognition, allowing the system to observe changes in the human user's [Capacity](c-capacity.md) (C) over time through the journal record.   
+3. Accumulation of Growth: The Journal component ensures that the successful transformation (the insight/[Alpha Element](alpha-elements.md)) is inscribed into a material record. This materialization provides persistence ([Chronotope](chronotope.md)) and provides a **persistent material substrate (chronotope)** for cross-temporal re-entry, comparison, and pattern recognition, allowing the system to observe changes in the human user's [Capacity](c-capacity.md) (C) over time through the journal record.   
    
-In summary, the LLM transitions from a simple tool to a component of a cognitive system because its unique properties—Generativity and Dynamic Adaptation—allow it to be leveraged through [Reflective Prompting](reflective-prompting.md) to instantiate [Functional Alterity](functional-alterity.md) turn-by-turn, preserving the conditions under which the human user performs the internal work of transformation (the Alpha-Function), the results of which are then stabilized by the Journal and Time.   
+In summary, the LLM transitions from a simple tool to a component of a cognitive system because its unique properties—Generativity and Dynamic Adaptation—allow it to be leveraged through [Reflective Prompting](reflective-prompting.md) to instantiate [Functional Alterity](functional-alterity.md) turn-by-turn, preserving the conditions under which the human user performs the internal work of transformation (the Alpha-Function), the results of which are then **materialized in the Journal and consolidated across Time**.   
  --- 
 Analogy: If previous tools, like Otto’s notebook, were like a prosthetic memory aid (a static limb replacement), the LLM integrated through [Reflective Prompting](reflective-prompting.md) is like a responsive, dynamic artifact that provides resistance and difference (an AI exoskeleton). It doesn't just hold the weight for you (which leads to atrophy); it actively resists you to ensure you are continually exercising the core psychological muscles necessary for growth, while dynamically adjusting its strength to keep you in the optimal zone of challenge.   
    

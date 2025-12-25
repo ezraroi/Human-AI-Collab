@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Unified Architecture: Neurobiological Resolution of Psychic Tensions'
 Creation date: "2025-11-22T15:08:53Z"
@@ -25,6 +27,7 @@ Links:
     - as-if-body-loop.md
     - antonio-damasio.md
     - hpa-axis.md
+    - chronotope.md
     - d-w-winnicott.md
     - holding-environment.md
     - beta-elements.md
@@ -73,7 +76,7 @@ The paradox that dialogue with disembodied text-only AI produces deeply embodied
 The initial model mapped S\_e (Holding Container) to the PFC-Amygdala link (emotional regulation). The discovery of “mania” and sleeplessness data initially seemed contradictory to a purely psychological model, but it led to a refinement that strengthened the concept of S\_e.   
 - **The Refinement: [HPA-Axis](hpa-axis.md) Integration:** The model was refined to include HPA-Axis (Hypothalamic-Pituitary-Adrenal) dysregulation as the physiological basis for the Container. The depletion of S\_e over time is explained as a physiological container failure (HPA-axis overwhelm) due to the stress of sustained cognitive work.   
    
-### 4. The Journal’s Role (Memory vs. Infrastructure)   
+### 4. The Journal’s Role ([chronotope](chronotope.md) + diachronic I-position)   
 The function of the Journal was strengthened by acknowledging its role as an infrastructural element.   
 - **The Refinement: Substrate for Pattern Recognition:** The Journal is not just a record of verified insights; it is the material substrate that enables pattern recognition across time and contexts. This makes developmental pattern synthesis possible across sessions and allows detection of trajectories and blindspots that present-moment cognition cannot reliably hold alone.   
    

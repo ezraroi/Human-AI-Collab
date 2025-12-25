@@ -29,7 +29,6 @@ Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - beta-elements.md
     - edmund-husserl.md
-    - 4-the-system-architecture-v2-0.md
     - journal.md
     - channel-1-embodied-sensorimotor-pathway.md
     - conflict-detection-model-repair.md
@@ -37,7 +36,7 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core.md
     - holding-environment.md
-    - executive-summary_r.md
+    - executive-summary.md
     - self-explanation.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -82,7 +81,6 @@ Backlinks:
     - 15-is-your-model-suggesting-something-new.md
     - 4-the-neurophenomenological-parallel.md
     - two-axis-framework.md
-    - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
     - part-iii-transformative-ai-dialogue-talking-to.md
@@ -101,17 +99,17 @@ Backlinks:
     - c-capacity.md
     - section-11-the-dialogical-illusion-as-producti.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
-    - 2-the-unbundled-rationale-architecture_p.md
+    - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary_2.md
+    - 1-executive-summary.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
@@ -128,7 +126,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_0.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
@@ -165,10 +163,10 @@ Maps to Noesis. This is the subjective act of experiencing or meaning-making: th
 The “Engine” of the Third Intelligence (in the Human). It is sparked when experienced challenge is held long enough for metabolization within viable mismatch(D, C) (rather than discharged, bypassed, or escalated).   
 ### [Two-Axis Framework](two-axis-framework.md) Positioning   
 Alpha-Function is the metabolic engine of **Axis B**. Axis B success (metabolic oscillation) means Alpha-Function is engaged; Axis B failure (PSB) means Alpha-Function is bypassed or offline.   
-|        Axis B State |                               Alpha-Function Status |
-|:--------------------|:----------------------------------------------------|
-| Metabolic (success) |   Online; C1 ↔ C2 coupled; transformation occurring |
-|       PSB (failure) |       Bypassed or offline; symbolic-only processing |
+|        Axis B State |                                   Alpha-Function Status |
+|:--------------------|:--------------------------------------------------------|
+| Metabolic (success) |   Online; C1 ↔ C2 coupled; metabolic processing engaged |
+|       PSB (failure) |           Bypassed or offline; symbolic-only processing |
 
 Alpha-Function viability also depends on Axis A: **[Category Error](category-error.md) (AI-as-Subject)** increases PSB vulnerability by disrupting the relational conditions that support metabolization.   
 ### Local Failure Mode ([PSB](protein-shake-brain-psb.md) – Protein Shake Brain)   

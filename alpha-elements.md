@@ -8,6 +8,7 @@ Tag:
     - 'System Role: Output'
     - 'Temporal: Static'
 Backlinks:
+    - narrative-self.md
     - reflective-prompting.md
     - document-abstract.md
     - reverie.md
@@ -16,7 +17,6 @@ Backlinks:
     - edmund-husserl.md
     - section-2-definition.md
     - conflict-detection-model-repair.md
-    - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
     - llm-embedding.md
@@ -24,6 +24,7 @@ Backlinks:
     - selected-fact.md
     - human.md
     - section-3-foundational-theoretical-integration.md
+    - 9-the-hidden-implications-youve-discovered.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - section-7-temporal-dynamics-across-the-archite.md
@@ -40,7 +41,7 @@ Backlinks:
     - materialization.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
@@ -48,9 +49,7 @@ Backlinks:
     - section-3-causal-sequence-placement.md
     - section-6-journal-function-refinement.md
     - unified-architecture-neurobiological-resolutio.md
-    - ii-the-novelty-of-the-specific-mechanisms.md
     - wilfred-bion.md
-    - 13-dialogical-and-embodied-frameworks-an-integ.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Psychoanalysis

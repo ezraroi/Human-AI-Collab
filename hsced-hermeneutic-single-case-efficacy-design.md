@@ -48,7 +48,7 @@ HSCED creates rigor through **systematic adjudication**: cross-examining mixed-m
 **1. Cross-Examination of Mixed-Method Data:**   
 - **Journal logs** (phenomenological, first-person)   
 - **Chat logs** (dialogical, process documentation)   
-- **Temporal density** substituting for breadth (43 notebooks over 8 months)   
+- **Temporal density** substituting for breadth (43 research notebooks over 8 months, distilled into Journal entries when crystallized)   
 - Triangulation between sources prevents single-source bias   
    
 **2. The Skeptical Prosecutor (AI as Adjudicator):**   

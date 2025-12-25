@@ -19,13 +19,15 @@ Backlinks:
     - 2-clarifying-the-category-error-against-the-dt.md
     - 1-executive-summary-resolving-the-ontology-cri.md
     - cognitive-style-bias.md
+    - channel-2-symbolic.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - protected-self-holding-principle.md
-    - executive-summary_u.md
+    - executive-summary_9.md
     - human.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
+    - section-3-foundational-theoretical-integration.md
     - 2-the-divided-labors-of-two-theories.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 7-final-conclusion-the-third-intelligence.md
@@ -50,7 +52,7 @@ Backlinks:
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
-    - 1-executive-summary.md
+    - 1-executive-summary_o.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

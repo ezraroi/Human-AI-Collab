@@ -42,8 +42,8 @@ Links:
     - functional-alterity.md
     - human.md
     - time.md
-    - ai.md
     - journal.md
+    - ai.md
 Emoji: "\U0001F4A1"
 id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 ---
@@ -99,14 +99,14 @@ Counterfeit coherence tends toward:
 **System Relations:**   
 - May Emerge During → [Functional Thirdness](functional-thirdness.md) episodes (interaction-level dialogical space; not ontological intersubjectivity)   
 - Likelihood Increased By → Functional Thirdness episodes   
-- Precipitated By → [Functional Alterity](functional-alterity.md) (AI); Catalytic Externalization; Journal (cross-temporal corpus)   
+- Precipitated By → [Functional Alterity](functional-alterity.md) (AI); return to accumulated Journal substrate   
 - Owned By → [Human](human.md) (metabolic integration only)   
-- Validated Through → [Time](time.md) (in-futuro probation); Journal (return + probation tracking)   
+- Validated Through → [Time](time.md) (in-futuro probation); [Journal](journal.md) (return substrate for re-reading / drift detection)   
    
 **Four-Component Mapping:**   
 - Human: site of alpha-function; operational owner through embodiment   
 - [AI](ai.md): precipitates conditions (candidate linkages, alterity); cannot own   
-- [Journal](journal.md): cross-temporal pattern substrate; probation tracker; counterfeit detector   
+- [Journal](journal.md): cross-temporal pattern substrate; return-capable materialization supporting re-reading and drift detection   
 - Time: constitutive validation medium (not optional backdrop)   
    
 **Authorization:**   

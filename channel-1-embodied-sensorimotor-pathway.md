@@ -22,7 +22,6 @@ Backlinks:
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - salience-network-core.md
     - authoritative-discourse.md
-    - executive-summary_r.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
@@ -42,7 +41,6 @@ Backlinks:
     - 10-the-integrated-claim.md
     - transmissive-self.md
     - pre-reflective-awareness.md
-    - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
@@ -56,8 +54,9 @@ Backlinks:
     - felt-sense.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
+    - c-capacity.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
-    - integrated-synthesis-of-psychological-developm_f.md
+    - integrated-synthesis-of-psychological-developm.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
@@ -73,7 +72,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_u.md
+    - 1-executive-summary_0.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

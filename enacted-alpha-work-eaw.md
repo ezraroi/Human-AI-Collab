@@ -15,6 +15,7 @@ Backlinks:
     - 10-the-integrated-claim.md
     - 7-what-each-framework-gains-from-integration.md
     - 15-is-your-model-suggesting-something-new.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Psychoanalysis
@@ -121,7 +122,7 @@ EAW requires felt-sense constraint. Defense-writing (intellectualization, discha
 |                                                      Object |                                                                                                                                               Relation |
 |:------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          **[Alpha-Function](alpha-function.md) (Internal)** |                                                                                                                          EAW recruits and exercises it |
-|                                   **[Journal](journal.md)** |                                                                                  Substrate/chronotope; EAW is the metabolic circuit enacted through it |
+|                                   **[Journal](journal.md)** |             Substrate/chronotope; EAW is enacted at the Human↔Journal interface (Journal provides constraint + re-enterability; the Human metabolizes) |
 |                             **[Felt Sense](felt-sense.md)** |                                                                                                                        Verification channel inside EAW |
 |      **AI ([Functional Alterity](functional-alterity.md))** |                                                                                                    Precipitates productive tension; never performs EAW |
 |     [Recursive Metabolic Loop](recursive-metabolic-loop.md) |     EAW produces materialized [alpha-elements ](alpha-elements.md)that support completion of RML cycles (crystallization → materialization → re-entry) |

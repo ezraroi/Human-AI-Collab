@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Selected Fact Notebook Synthesis
 Creation date: "2025-12-20T07:10:00Z"
@@ -37,7 +39,7 @@ Two placements are critical:
 This placement clarifies the role of each system component:   
 - **[Human](human.md):** the site of alpha-function performance and the only location where metabolization occurs; SF is realized here as an organizing event through embodied uptake and integration—not in an external dialogical artifact.   
 - **[AI](ai.md):** participates prior to SF by supplying [Technical Scaffolding (Sₜ)](technical-scaffolding-s_t.md), candidate linkages, and [Functional Alterity](functional-alterity.md) that helps preserve productive tension within a workable [ZPD](zpd.md) (when scaffolding conditions are adequate); it can contribute to the conditions of organization, but not to ownership of the organizing event.   
-- **[Journal](journal.md):** stabilizes processed material as external trace, enabling return to scattered alpha-elements and preventing loss of unintegrated α-elements; provides a substrate in which candidate configurations can be revisited, compared, and tested.   
+- **[Journal](journal.md):** stabilizes processed material as an external trace, enabling return to scattered α-elements and preventing loss of probationary, not-yet-stabilized meaning; provides a substrate in which candidate configurations can be revisited, compared, and tested across time.   
 - **[Time](time.md):** makes the sequence operational rather than merely conceptual. While the SF "click" may occur within a session, its status as a genuine Selected Fact is confirmed only through probationary validation at T+n (return, persistence, deepening, and downstream capacity change). Time is therefore part of causal efficacy, not a backdrop.   
    
 This causal placement is foundational for later claims: it protects against the notion that "the AI generated the insight," and it explains why coherence experiences must be evaluated by downstream integration and persistence—not by immediate intelligibility.   

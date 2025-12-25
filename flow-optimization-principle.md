@@ -7,8 +7,6 @@ Tag:
     - 'Domain: CognitiveScience'
     - 'System Role: Meta'
     - 'Temporal: Static'
-Backlinks:
-    - 3-the-metric-of-growth-high-resolution-uncerta.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
