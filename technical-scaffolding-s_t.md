@@ -9,7 +9,6 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
-    - reflective-prompting.md
     - section-10-open-edges-to-bridge-later.md
     - lev-vygotsky.md
     - 3-the-three-emergent-insights-from-cross-analy.md
@@ -17,7 +16,6 @@ Backlinks:
     - section-9-container-as-function-authorization.md
     - the-journal-in-system-context.md
     - 4-calibration-playbook.md
-    - channel-2-symbolic.md
     - section-7-counterfeit-detection-framework.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -38,6 +36,7 @@ Backlinks:
     - 1-overview.md
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
+    - the-constrained-integration-hypothesis.md
     - field-viability-schema.md
     - alpha-function.md
     - 6-clinical-boundaries-what-this-system-is-and-.md

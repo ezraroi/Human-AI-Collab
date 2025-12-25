@@ -7,7 +7,6 @@ Tag:
     - 'System Role: Input'
     - 'Temporal: Dynamic'
 Backlinks:
-    - reflective-prompting.md
     - lev-vygotsky.md
     - embodied-engagement-conditions.md
     - in-context-learning.md
@@ -40,7 +39,6 @@ Backlinks:
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - 7-critical-connection-5-why-psb-happens.md
-    - recursive-pattern-verification-loop.md
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
     - 1-introduction-why-functional-alterity-is-nece.md
@@ -49,9 +47,7 @@ Backlinks:
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
     - section-13-significance-and-forward-direction.md
-    - functional-thirdness.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
-    - emotional-scaffolding-s_e.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - unified-architecture-neurobiological-resolutio.md
     - functional-alterity.md

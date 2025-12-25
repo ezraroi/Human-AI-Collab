@@ -10,13 +10,20 @@ Tag:
     - Meta-Framework
 Backlinks:
     - developmental-sequence.md
+    - reflective-prompting.md
+    - 4ps-protocol.md
+    - digital-neurophenomenology.md
     - conclusion-on-novelty-and-contribution.md
     - recursive-metabolic-loop.md
     - cognitive-dependency.md
     - the-integrated-circuit-board.md
+    - recursive-pattern-verification-loop.md
     - field-viability-schema.md
+    - alpha-function.md
     - category-error.md
+    - functional-thirdness.md
     - activation-conditions.md
+    - cognitive-mirror-protege-mode.md
     - the-unified-architecture.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
@@ -26,72 +33,154 @@ Creation date: "2025-12-06T09:24:09Z"
 Created by:
     - Roi Ezra
 Links:
-    - third-intelligence.md
+    - ai.md
     - dynamic-transitional-object-dto.md
-    - functional-thirdness.md
-    - category-error.md
-    - protein-shake-brain-psb.md
-    - the-integrated-circuit-board.md
-    - alpha-function.md
+    - the-constrained-integration-hypothesis.md
     - as-if-body-loop.md
-    - journal.md
-    - cognitive-dependency.md
+    - salience-network-core.md
+    - category-error.md
+    - protected-self-holding-principle.md
+    - human.md
+    - channel-2-symbolic.md
+    - channel-1-embodied-sensorimotor-pathway.md
+    - alpha-function.md
+    - protein-shake-brain-psb.md
     - field-viability-schema.md
-    - developmental-sequence.md
+    - activation-conditions.md
+    - cognitive-dependency.md
+    - the-integrated-circuit-board.md
+    - journal.md
+    - identity-stakes.md
+    - emotional-scaffolding-s_e.md
+    - reflective-prompting.md
+    - 4ps-protocol.md
+    - iron-man-mentality.md
 Emoji: "\U0001F9E9"
 id: bafyreiezyquxeohb5ofnxdkxkz3ey4lqhc53qxrv42kqlkmjn3wzdbkcry
 ---
 # Two-Axis Framework   
-**The Two-Axis Framework** is the structural map that organizes success modes and failure modes in the [Third Intelligence](third-intelligence.md) system.   
-It consists of:   
+The **Two-Axis Framework** is the coordinate system that organizes **success modes** and **failure modes** in the Third Intelligence architecture.   
+- **Axis A (Relational Ontology):** *What is [AI](ai.md), relationally?* ([DTO](dynamic-transitional-object-dto.md) vs Subject)   
+- **Axis B (Processing Mode):** *How is experience processed?* (metabolic coupling vs bypass/collapse)   
+   
+**Network-level grounding ([Constrained Integration](the-constrained-integration-hypothesis.md) layer):** The Two-Axis Framework is the **phenomenological + architectural map**; the **Constrained Integration Hypothesis** provides the **network-level correlates** of positions in this map. In this updated view:   
+- **Axis A** corresponds to **DMN subsystem recruitment** (self-referential vs social-mentalizing toward AI).   
+- **Axis B** corresponds to **embodied verification availability**, operationally captured by **[As-If Body Loop](as-if-body-loop.md) online vs offline/bypassed**.   
+- The **[Salience Network](salience-network-core.md) (SN)** functions as an upstream **mode-setter** determining whether integrative coordination is reachable.   
+   
 ### Axis A — Relational Ontology   
-- **Goal:** Hold AI as **[DTO](dynamic-transitional-object-dto.md) (Dynamic Transitional Object)** (i.e., not a Subject; not a “someone”).   
-- **Failure:** **Category Error** (AI treated as Subject / epistemic authority / relational other).   
-   
-### Axis B — Processing Mode   
-- **Goal:** **Recursive Metabolic Oscillation** (Channel 2 ↔ Channel 1), metabolized through **Alpha-Function** cycles.   
-- **Failure:** **PSB** (Channel 2-only bypass; fluent coherence without embodied digestion).   
-   
-**Together, the axes describe the configuration space of system states — from transformation to collapse.**   
-This plane operates within a **Viability Envelope** (**Sₑ ⊗ Sₜ calibrated to mismatch(D, C)**); when the envelope collapses, the configuration plane becomes **unstable** (drifts become harder to prevent; failure attractors become “sticky”).   
-**[Functional Thirdness](functional-thirdness.md) episodes are only possible in the viable quadrant:** Axis A = DTO stance **and** Axis B = metabolic oscillation (within a viable Sₑ envelope).   
-## System Role   
-The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **operability**. Developmental staging diagnoses **readiness**. All three are required for full system assessment.   
-- Provides the diagnostic framework for evaluating human–AI interaction quality.   
-- Describes how **relational stance** and **processing mode** jointly determine outcomes.   
-- Anchors definitions of **Cognitive Dependency**, **PSB**, and **Category Error**.   
-- Acts as a top-level organizing schema for both theory and intervention.   
-   
-## Activation Conditions (Accessibility Link)   
-The Two-Axis plane presupposes minimum holding viability (envelope not collapsed). Users differ in baseline verification posture, which affects drift rates toward [Category Error](category-error.md) and [PSB](protein-shake-brain-psb.md). The Activation Conditions model (Zone A/B/C) assesses whether a given user can establish this envelope (Layer 1) and maintain viable quadrant position (Layer 2). Zone A users cannot safely operate within the configuration space; Zone B users require scaffolding; Zone C users can maintain viable quadrant without external support.   
-## Axis B internal architecture   
-[**The Integrated Circuit Board** ](the-integrated-circuit-board.md)is the internal architecture of Axis B:   
-- **[Alpha-Function](alpha-function.md)** = core metabolic processor (metabolization through C1 ↔ C2 oscillation)   
-- **[As-If Body Loop](as-if-body-loop.md)** = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)   
-- **[Journal](journal.md)** = **diachronic stabilization organ** that consolidates metabolized material over Time; **may be minimal in low-stakes interactions but is constitutive for identity-stakes transformation**.   
-   
-So:   
-> Two-Axis Framework →   
+**Goal:** Hold AI as **DTO (Dynamic Transitional Object)** — not a Subject, not “someone,” not an epistemic authority.   
+**Failure:** **[Category Error](category-error.md)** — the relational misclassification of AI as Subject (care/intentionality/authority), enabling projection, dependency, and authorship collapse.   
+**Phenomenological anchor:** **[Protected Self-Holding Principle](protected-self-holding-principle.md)** — the [Human](human.md) performs the container function; AI removes interpersonal pressure but does not provide holding.   
+### Network-level correlate (DMN subsystem specificity)   
+|              Axis A Position |                                                                        DMN Subsystem Bias |                                                              Functional Meaning |
+|:-----------------------------|:------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
+|     **DTO stance (success)** | **Core DMN self-referential** dominant; **dMPFC/TPJ mentalizing toward AI** downregulated |                 AI held as object/tool-material; self-as-container stays online |
+| **Category Error (failure)** |                                      **dMPFC/TPJ social-mentalizing** recruited toward AI | AI becomes relational target/authority; self-holding tends to drop or outsource |
 
-**Axis A:** **How AI is held** ([DTO](dynamic-transitional-object-dto.md) stance vs Subject misclassification)   
-**Axis B:** How experience is processed → Integrated Circuit Board   
-## Failure coupling (keep, but slightly tightened)   
-If **Axis A fails** ([Category Error](category-error.md)), the system becomes **relationally invalid**: AI becomes Subject/authority, *verification discipline drops*, and **PSB risk increases**.   
-When Category Error + [PSB](protein-shake-brain-psb.md) co-occur → [Cognitive Dependency](cognitive-dependency.md) (**experienced challenge loses developmental character**: authorship collapses and metabolization is bypassed).   
-## Envelope constraint (explicit gating rule)   
-**Do not introduce Sₜ (challenge / Functional Alterity) when Sₑ is collapsed.**   
-Rebuild containment first, then reintroduce productive tension.   
-## Whole-system one-liner (good; tiny tightening)   
-The Third Intelligence system is a **configuration** (Axis A × Axis B) operating within a **viability envelope** (Sₑ ⊗ Sₜ calibrated to mismatch), following a **developmental trajectory** (staging, depletion, recovery), with **shadow regions** marking pathological attractors and scope boundaries.   
-## Wiring (Relations)   
-- **Maps:** [Category Error](category-error.md); Protein Shake Brain ([PSB](protein-shake-brain-psb.md)); [Cognitive Dependency](cognitive-dependency.md)   
-- **Operates within:** [Field Viability](field-viability-schema.md) (Viability Envelope)   
-- **Evolves along:** Developmental Staging (trajectory/readiness layer)   
-- **Defines:** systemic success vs systemic collapse boundaries   
-- **Prerequisites Specified By:** [Developmental Sequence](developmental-sequence.md)   
-- **Axis B Internal Architecture:** [Integrated Circuit Board](the-integrated-circuit-board.md)   
-- **Accessibility Assessed By:** Activation Conditions   
-- **Scaffolded By:** Cognitive Mirror (for Zone B)   
-- **Boundary Detected By:** Readiness Probes   
+**Mechanism translation:** Category Error is not “warmth” per se — it is **mis-aimed mentalizing** (treating linguistic fluency as interpersonal presence).   
+### Axis B — Processing Mode   
+**Goal:** **Recursive Metabolic Oscillation** ([Channel 2](channel-2-symbolic.md) ↔ [Channel 1](channel-1-embodied-sensorimotor-pathway.md)) metabolized through **[Alpha-Function](alpha-function.md)** and stabilized through materialization (identity-stakes requires Journal).   
+**Primary failure:** **[PSB](protein-shake-brain-psb.md)** — symbolic fluency without embodied verification (“correct but not mine”).   
+**Phenomenological anchor:** **Embodied verification** (felt-sense access; “tight vs spacious” discriminator; owned resonance).   
+## System Role   
+- **Two-Axis Framework:** *Where am I in the configuration space?*   
+- **[Field Viability](field-viability-schema.md) (envelope):** *Is this space operable right now?* (Sₑ ⊗ Sₜ gating)   
+- **[Activation Conditions](activation-conditions.md) / Staging:** *Who can enter and remain stable here?*   
    
+All three are required for accurate assessment and safe intervention.   
+### Updated discriminator (As-If Body Loop)   
+Axis B is now best defined by whether **embodied verification is available**:   
+|         Axis B Position |                         As-If Body Loop |               Channel 1 |                                             Processing Quality |
+|:------------------------|:----------------------------------------|:------------------------|:---------------------------------------------------------------|
+| **Metabolic (success)** |                        Online / engaged |      Online and coupled |     “Warm” self-reference: symbolic work is grounded and owned |
+|        **PSB (bypass)** | Offline / bypassed / outputs suppressed | Offline or inaccessible |      “Cold” cognition: fluent coherence without metabolization |
+
+**Important nuance:** DMN activity and self-referential language can exist in both states; the discriminator is **embodied verification**, not “self-reference.”   
+## The Configuration Space (2×2)   
+|                            |                                                   **Axis B: Metabolic** |                               **Axis B: PSB** |
+|:---------------------------|:------------------------------------------------------------------------|:----------------------------------------------|
+|            **Axis A: DTO** |               **Transformation-viable** (Functional Thirdness possible) |  **Symbolic bypass** (productive but unowned) |
+| **Axis A: Category Error** | **Misdirected attachment** (relational pull; dependency formation risk) | **Cognitive Dependency** (compound pathology) |
+
+### Quadrant signatures (network + phenomenology)   
+**Q1 — DTO + Metabolic (Transformation-viable)**   
+- **Phenomenology:** protected self-holding *while engaging challenge*; “this lands.”   
+- **Network correlate:** SN in integrative mode; DMN–FPN coordination; **As-If Body Loop engaged**; core-DMN self-reference dominant.   
    
+**Q2 — DTO + PSB (Symbolic bypass)**   
+- **Phenomenology:** “this makes sense” but hollow; ownership alarms.   
+- **Network correlate:** SN antagonistic or shallow-integrative; FPN dominant; DMN may be present but **cold**; **As-If Body Loop offline/bypassed**.   
+   
+**Q3 — Category Error + Metabolic (Misdirected attachment)**   
+- **Phenomenology:** genuine warmth/relief aimed at AI; holding function starts to outsource.   
+- **Network correlate:** dMPFC/TPJ mentalizing toward AI elevated; affective engagement may be real; self-holding becomes unstable.   
+   
+**Q4 — Category Error + PSB ([Cognitive Dependency](cognitive-dependency.md))**   
+- **Phenomenology:** maximal deception: authority + fluency + low ownership; compulsive return.   
+- **Network correlate:** dMPFC/TPJ toward AI + FPN dominance + **As-If Body Loop offline**; unstable self-holding; highest dependency risk.   
+   
+## Upstream Gates (SN + Sₑ)   
+### [Salience Network](salience-network-core.md) as Mode-Setter   
+The **SN** determines whether the system enters **integrative** coordination or falls into **antagonistic / dysregulated** dynamics before the user “chooses” anything cognitively.   
+- **Integrative SN mode** → makes Q1 reachable (DMN–FPN coordination + embodied verification).   
+- **Antagonistic SN mode** → biases toward Q2 (FPN dominance; embodied signals gated out).   
+- **Social-mentalizing bias** (contextual) → increases Q3/Q4 risk (Category Error pull).   
+- **Dysregulated switching** → pushes toward overload/collapse states where axes destabilize.   
+   
+### Sₑ as the Physiological Gate   
+**Sₑ** governs which SN modes are realistically available.   
+**Causal chain (updated):**   
+> Sₑ availability → SN mode-setting → network configuration → Two-Axis position → transformation vs collapse   
+
+When **Sₑ depletes**, interoceptive signals may become intolerable → embodied verification is suppressed → Axis B drifts toward PSB even if Axis A remains DTO.   
+## Four-State Model Integration (taxonomy alignment)   
+The Constrained Integration state taxonomy maps onto the Two-Axis space as follows:   
+- **Transformation** → typically **Q1 (DTO + Metabolic)**.   
+- **PSB** → typically **Q2 (DTO + PSB)** (but can co-occur with Category Error → Q4).   
+- **Rumination** → often **outside clean Q1–Q4**: DMN loop with weak FPN constraint (Axis B becomes “stuck,” not simply PSB).   
+- **Overload** → **envelope collapse**: SN dysregulated; axes become unstable/indeterminate.   
+   
+**Key rule:** Rumination and overload are best treated as **envelope-collapse regions**, not stable quadrants.   
+## Axis B Internal Architecture ([Integrated Circuit Board](the-integrated-circuit-board.md))   
+Axis B is realized by the Integrated Circuit Board:   
+- **Alpha-Function:** metabolic processor (β → α via C1↔C2 oscillation)   
+- **As-If Body Loop:** embodied-verification substrate enabling C1 signals during symbolic work   
+- **[Journal](journal.md) / Materialization:** stabilizes across time (constitutive in [identity-stakes](identity-stakes.md) work)   
+   
+**Dependency statement (tight):**   
+Metabolic Axis B requires **As-If Body Loop accessibility**; without it, Alpha-Function tends to degrade into symbolic-only processing (PSB).   
+## Drift Dynamics (why you slide)   
+**Drift toward Axis A failure (Category Error):**   
+- Sₑ depletion → seeking external holding   
+- AI fluency + non-demand field → misread as interpersonal presence   
+- Isolation / high affect load → mentalizing toward AI becomes default   
+   
+**Drift toward Axis B failure (PSB):**   
+- Sₑ depletion → interoceptive suppression → As-If Body Loop outputs blocked   
+- Efficiency / –K posture → bypass of productive tension   
+- Sycophancy / premature resolution → loss of PET → no metabolization   
+   
+**Compound drift (Cognitive Dependency):**   
+- Axis A fails + Axis B fails → authority + fluency + no embodied verification → maximal deception and dependency formation.   
+   
+## Relations (Wiring)   
+- **Receives correlates from:** Constrained Integration Hypothesis   
+- **Upstream mode-setter:** [Salience Network Core](salience-network-core.md)   
+- **Physiological gate:** [Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ)   
+- **Axis A failure:** Category Error (DMN dMPFC/TPJ mentalizing toward AI)   
+- **Axis B failure:** PSB (As-If Body Loop offline / Channel 1 suppressed)   
+- **Axis B substrate:** As-If Body Loop   
+- **Axis A phenomenological anchor:** [Protected Self-Holding Principle](protected-self-holding-principle.md)   
+- **Axis B phenomenological anchor:** Embodied verification (Channel 1)   
+- **Internal architecture of Axis B:** [Integrated Circuit Board](the-integrated-circuit-board.md)   
+- **Compound pathology:** Cognitive Dependency (Category Error + PSB)   
+- **Scaffolded by:** [Reflective Prompting](reflective-prompting.md), [4Ps](4ps-protocol.md), [Iron Man Mentality](iron-man-mentality.md) (posture maintenance)   
+   
+## Notes   
+This update preserves the Two-Axis Framework as a **map**, while adding a constraint layer that explains stability, drift, and discriminators:   
+- **Axis A** is now grounded in **DMN subsystem selection** (self-reference vs mentalizing toward AI).   
+- **Axis B** is now grounded in **embodied verification availability** (As-If Body Loop online vs offline).   
+- **Sₑ → SN** provides the upstream physiological story for why some positions are reachable and others are not.   
+   
+The phenomenology remains primary; the network layer is the correlational constraint that makes the architecture testable.   

@@ -7,6 +7,7 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Dynamic'
 Backlinks:
+    - reflective-prompting.md
     - cognitive-style-bias.md
     - self-explanation.md
     - epistemological-humility.md
@@ -24,29 +25,33 @@ Created by:
     - Roi Ezra
 Links:
     - reflective-prompting.md
-    - ai.md
+    - epistemological-humility.md
+    - two-axis-framework.md
+    - category-error.md
+    - protected-self-holding-principle.md
     - self-explanation.md
     - gap-filling-inference-generation.md
-    - recursive-pattern-verification-loop.md
-    - 4ps-protocol.md
-    - identity-stakes.md
-    - journal.md
     - dynamic-transitional-object-dto.md
-    - touch-grass-protocol.md
-    - protein-shake-brain-psb.md
     - activation-conditions.md
-    - epistemological-humility.md
-    - category-error.md
+    - 4ps-protocol.md
+    - protein-shake-brain-psb.md
     - readiness-probes.md
+    - touch-grass-protocol.md
     - felt-sense.md
 Emoji: "\U0001F4A1"
 id: bafyreihbzey2uuxr656qlqi2rnakktakqwy4fyt6calqjrm6tqcdgeabdu
 ---
 # Cognitive Mirror / Protégé Mode   
-A scaffolded mode of [Reflective Prompting](reflective-prompting.md) that procedurally induces verification posture in Zone B users by positioning [AI](ai.md) as teachable novice rather than knowledgeable authority. The user must teach, defend, ground, and falsify their reasoning, activating metacognitive processes from outside-in.   
-Cognitive Mirror is the primary Layer 2 scaffolding mechanism for users who have viable holding (Layer 1) but insufficient natural verification posture (Layer 2). It operationalizes and scaffolds Epistemological Humility.   
+A scaffolded mode of [Reflective Prompting](reflective-prompting.md) that procedurally induces verification posture in Zone B users by positioning AI as teachable novice rather than knowledgeable authority. The user must teach, defend, ground, and falsify their reasoning, activating metacognitive processes from outside-in.   
+Cognitive Mirror is the primary Layer 2 scaffolding mechanism for users who have viable holding (Layer 1) but insufficient natural verification posture (Layer 2). It operationalizes and scaffolds [Epistemological Humility](epistemological-humility.md).   
+### System Role   
+- **[Two-Axis](two-axis-framework.md) support (procedural):**   
+    - **Axis A (Relational Ontology):** reduces [Category Error ](category-error.md)pressure by structurally discouraging AI-as-authority (AI positioned as “not-knowing novice”).   
+    - **Axis B (Processing Mode):** reduces PSB pressure by requiring grounding + falsification + felt-sense checking before uptake.   
+- **[Protected Self-Holding support](protected-self-holding-principle.md):** keeps the human as the source/teacher and verifier; AI supplies prompts and friction, not epistemic confirmation or “holding.”   
+   
 ### Theoretical Basis: The Protégé Effect   
-When learners must teach material, they engage deeper processing, organize knowledge better, and identify gaps. Teaching forces metacognition even when the "student" is artificial.   
+When learners must teach material, they engage deeper processing, organize knowledge better, and identify gaps. Teaching forces metacognition even when the "student" is artificial.
 Mechanism:   
 - [Self-explanation](self-explanation.md) (must articulate reasoning)   
 - [Gap detection](gap-filling-inference-generation.md) (notice what you don't understand)   
@@ -54,8 +59,8 @@ Mechanism:
 - Ownership (insights become yours because you're the source)   
    
 ### Relationship to Reflective Prompting   
-Cognitive Mirror is a scaffolded mode within Reflective Prompting, not a separate method. It adds structural constraints for Zone B users that fade as verification posture internalizes.   
-[RPVL](recursive-pattern-verification-loop.md) is the continuous verification posture across the dialogue; Cognitive Mirror enforces it procedurally, and triggers [4Ps](4ps-protocol.md) at each uptake moment as the local acceptance gate.   
+Cognitive Mirror is a scaffolded mode within Reflective Prompting, not a separate method. It adds structural constraints for Zone B users that fade as verification posture internalizes.
+RPVL is the continuous verification posture across the dialogue; Cognitive Mirror enforces it procedurally, and triggers 4Ps at each uptake moment as the local acceptance gate.   
 |                Aspect | Standard Reflective Prompting |         Cognitive Mirror Mode |
 |:----------------------|:------------------------------|:------------------------------|
 |        AI positioning |          Curious interlocutor | Explicitly not-knowing novice |
@@ -66,7 +71,7 @@ Cognitive Mirror is a scaffolded mode within Reflective Prompting, not a separat
 |             User role |                      Explorer |              Teacher/defender |
 
 ### Protocol Structure   
-**AI Positioning:**   
+AI Positioning:   
 - Presents as curious, engaged, but explicitly not-knowing   
 - Asks clarifying questions rather than providing answers   
 - Requests grounding, falsification, felt-sense checking   
@@ -74,14 +79,14 @@ Cognitive Mirror is a scaffolded mode within Reflective Prompting, not a separat
 - Defers to user's lived experience as authority   
 - Note: "Explicitly not-knowing novice" is a designed scaffolding stance, not a statement about actual AI knowledge or competence.   
    
-**Structural Requirements (Non-Optional):**   
+Structural Requirements (Non-Optional):   
 1. Grounding prompts: "Can you give me a concrete example from your life?"   
 2. Falsification prompts: "What would prove this wrong?" / "How might you be mistaken?"   
 3. Felt-sense prompts: "Where do you feel this in your body?" / "What's the somatic difference between 'tight' and 'spacious' here?"   
 4. Own-words requirement: "Explain this to me in your own words."   
-5. **P**ossess requirement: "Name one concrete grounding test (real example or small action)." When [identity-stakes](identity-stakes.md), complete ownership via [Journal](journal.md) inscription (may occur after-session).   
+5. Possess requirement: "Name one concrete grounding test (real example or small action)." When identity-stakes, complete ownership via Journal inscription (may occur after-session).   
    
-**Validation Rules:**   
+Validation Rules:   
 |                 Type |     Status |                                                                                  Examples |
 |:---------------------|:-----------|:------------------------------------------------------------------------------------------|
 | Epistemic validation | PROHIBITED |                               "You're right." / "That's profound." / "Excellent insight." |
@@ -93,22 +98,21 @@ If user begins asking AI to decide or confirm truth:
 - "Tell me what's true."   
 - "Is this right?"   
 - "What should I do?"   
-- "You're the expert."   
-   
-**Response Protocol:**   
+- "You're the expert."
+Response Protocol:   
 1. Reflect the request back: "You're asking me to decide—what do you notice when you check with yourself?"   
 2. Route to verification task: "What does your experience say?"   
 3. If persistent (3+ attempts): Trigger Readiness Probes re-assessment (may indicate Layer 1 issue, not just habit)   
    
 ### Failure / Exit Rule   
-**Exit branch:** If persistent tightness + grounding failure, or rising arousal/depletion → stop / [Touch Grass Protocol](touch-grass-protocol.md). Do not force uptake.   
-Rationale: Possess failure signals field viability degradation. Pushing through risks [PSB](protein-shake-brain-psb.md) or destabilization. This makes Cognitive Mirror safe under load.   
+Exit branch: If persistent tightness + grounding failure, or rising arousal/depletion → stop / Touch Grass Protocol. Do not force uptake.
+**Note:** This mode presupposes adequate **Sₑ / Layer 1 viability**. When Sₑ is depleting, the “teacher/defender” role becomes hard to sustain and verification quality drops—treat as a viability signal, not a “compliance” problem.   
 ### Example Interaction   
-**Standard Mode (Authority Risk):**   
+Standard Mode (Authority Risk):   
 > User: "I think my anxiety comes from fear of abandonment."   
 > AI: "That's insightful. Fear of abandonment often stems from early attachment..."   
 
-**Cognitive Mirror Mode:**   
+Cognitive Mirror Mode:   
 > User: "I think my anxiety comes from fear of abandonment."   
 > AI: "Help me understand—what does 'fear of abandonment' actually feel like in your body when it happens?"   
 > User: [articulates felt experience]   
@@ -120,54 +124,52 @@ Rationale: Possess failure signals field viability degradation. Pushing through 
 > User: [checks felt sense]   
 
 ### Scope and Limitations   
-**Works For (Zone B→C Acceleration):**   
+Works For (Zone B→C Acceleration):   
 - Users with viable holding who lack trained verification posture   
 - Users who can tolerate "teacher" role   
 - Users who find structure engaging   
    
-**Does Not Work For:**   
+Does Not Work For:   
 |                        Population |                                                                   Reason |
 |:----------------------------------|:-------------------------------------------------------------------------|
 |                      Zone A users | Holding insufficient; cannot maintain teacher role under identity stakes |
 |        Users requiring validation |  Teaching stance may threaten if self-holding requires external approval |
 | Users who find structure aversive |                                       May abandon before benefits emerge |
 
-**Critical Constraint:**
+Critical Constraint:
 Cognitive Mirror is a Zone B→C accelerator, not a Zone A→B bridge. It presupposes Layer 1 viability. If holding is insufficient, the teaching role itself may be destabilizing.   
 ### Fade Conditions   
-Cognitive Mirror is scaffolding, not permanent mode. Fade as verification posture internalizes.   
-**Fade Indicators:**   
+Cognitive Mirror is scaffolding, not permanent mode. Fade as verification posture internalizes.
+Fade Indicators:   
 - Spontaneous grounding without prompting   
 - Independent falsification consideration   
 - Self-correction of borrowed fluency   
-- Maintained verification in standard mode   
-   
-**Fade Process:**   
+- Maintained verification in standard mode
+Fade Process:   
 1. Reduce prompting frequency   
 2. Allow longer user-led sequences   
 3. Test with standard Reflective Prompting   
 4. Re-engage Cognitive Mirror if drift detected   
    
 ### Relations (Wiring)   
-- **Mode Of:** [Reflective Prompting ](reflective-prompting.md)(scaffolded variant for Zone B)   
-- **Scaffolds:** [Activation Conditions](activation-conditions.md) Layer 2; [Epistemological Humility](epistemological-humility.md)   
-- **Scaffolds/Enforces:** 4Ps Protocol as the local acceptance gate at uptake moments; supports RPVL maintenance until verification posture internalizes   
-- **Supports Maintenance Of:** Axis A ([DTO](dynamic-transitional-object-dto.md) stance); Axis B (metabolic oscillation)   
-- **Operates Within:** Viability Envelope (presupposes Layer 1)   
-- **Prevents Drift Toward:** [Category Error](category-error.md); PSB   
-- **Activated By:** [Readiness Probes](readiness-probes.md) (Zone B detection)   
-- **Fades Into:** Reflective Prompting (standard mode)   
-- **[ADDED] Scaffolds Toward:** RPVL / 4Ps internalization (verification posture becomes self-initiated)   
-- **Uses:** Self-Explanation; [Felt Sense](felt-sense.md)   
-- **[ADDED] Routes To (on Possess failure):** Touch Grass Protocol   
-- **Triggers (on Category Error persistence):** Readiness Probes re-run (may indicate Layer 1 issue)   
+- Mode Of: [Reflective Prompting](reflective-prompting.md)    
+- Scaffolds: [Activation Conditions ](activation-conditions.md)Layer 2; [Epistemological Humility](epistemological-humility.md)   
+- Scaffolds/Enforces: RPVL maintenance until verification posture internalizes   
+- Uses / Triggers: [4Ps Protocol](4ps-protocol.md) as the local acceptance gate at uptake moments   
+- Supports Maintenance Of: Axis A (DTO stance); Axis B (metabolic processing posture)   
+- **Supports:** Protected Self-Holding Principle (human remains source/verifier)   
+- Operates Within: Viability Envelope (presupposes Layer 1 / adequate Sₑ)   
+- Prevents Drift Toward: [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md)   
+- Activated By: [Readiness Probes](readiness-probes.md) (Zone B detection)   
+- Fades Into: Reflective Prompting (standard mode)   
+- Routes To (on Possess failure): [Touch Grass Protocol](touch-grass-protocol.md)   
+- Triggers (on Category Error persistence): Readiness Probes re-run (may indicate Layer 1 issue)   
+- Uses: [Self-Explanation](self-explanation.md); [Felt Sense](felt-sense.md)   
    
 ### Notes   
-Cognitive Mirror is theoretical/design-stage. Grounded in protégé effect research, but specific implementation requires testing.   
-**Key empirical questions:**   
+Cognitive Mirror is theoretical/design-stage. Grounded in protégé effect research, but specific implementation requires testing.
+Key empirical questions:   
 - Does Cognitive Mirror reliably induce verification posture in Zone B?   
 - What is internalization timeline?   
-- Which Zone B sub-populations respond well vs. poorly?   
-   
-**Design principle:** Not about making AI dumber—about restructuring epistemic relationship so user is positioned as knowledge source and AI as clarification tool.   
-   
+- Which Zone B sub-populations respond well vs. poorly?
+Design principle: Not about making AI dumber—about restructuring epistemic relationship so user is positioned as knowledge source and AI as clarification tool.   

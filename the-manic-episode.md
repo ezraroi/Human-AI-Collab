@@ -14,7 +14,6 @@ Backlinks:
     - time.md
     - 8-common-misuses-and-anti-patterns.md
     - hsced-hermeneutic-single-case-efficacy-design.md
-    - field-viability-schema.md
     - neuroscience-of-transformation.md
     - 5-worked-diagnostic-examples.md
 Origin Domain:

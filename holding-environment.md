@@ -15,7 +15,6 @@ Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - d-w-winnicott.md
     - 5-documented-counter-evidence-the-manic-episodes.md
-    - field-viability-schema.md
     - psychoanalytic-integration.md
     - psychoanalytic-prerequisites.md
     - activation-conditions.md

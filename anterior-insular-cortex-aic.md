@@ -11,19 +11,18 @@ Backlinks:
     - beta-elements.md
     - 10-questions-your-synthesis-raises.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - salience-network-core-aic-dacc.md
-    - executive-summary_9.md
+    - salience-network-core.md
+    - executive-summary_r.md
     - human.md
     - neural-synchrony.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope_b.md
+    - 1-purpose-and-scope.md
     - pre-reflective-awareness.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - as-if-body-loop.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
-    - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md

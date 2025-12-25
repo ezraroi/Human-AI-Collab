@@ -13,8 +13,7 @@ Backlinks:
     - 3-implications-for-positioning.md
     - transmissive-self.md
     - psychoanalytic-integration.md
-    - protein-shake-brain-psb.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_p.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md

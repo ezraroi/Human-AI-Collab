@@ -7,7 +7,6 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Static'
 Backlinks:
-    - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
     - epistemological-humility.md
 Origin Domain:

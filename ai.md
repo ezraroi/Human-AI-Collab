@@ -11,7 +11,6 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
-    - reflective-prompting.md
     - cognitive-artifact.md
     - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
@@ -21,7 +20,6 @@ Backlinks:
     - dialogical-knowing.md
     - why-this-architecture-is-powerful.md
     - 2-what-the-existing-literature-actually-covers.md
-    - 4ps-protocol.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - section-9-container-as-function-authorization.md
     - ai-project-claude-project-chatgpt-project.md
@@ -35,7 +33,7 @@ Backlinks:
     - conflict-detection-model-repair.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_9.md
+    - executive-summary_r.md
     - cognitive-style-bias.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
@@ -45,9 +43,10 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_o.md
+    - executive-summary_u.md
     - selected-fact.md
     - human.md
+    - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
     - time.md
     - neural-synchrony.md
@@ -72,18 +71,21 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
     - 4-the-neurophenomenological-parallel.md
+    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - dynamic-transitional-object-dto.md
     - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
+    - the-constrained-integration-hypothesis.md
     - 6-the-final-positioning-framework.md
     - alpha-function.md
     - psychoanalytic-integration.md
     - the-journals-three-essential-functions.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
-    - integrated-synthesis-of-psychological-developm.md
+    - category-error.md
+    - integrated-synthesis-of-psychological-developm_f.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - the-journals-role-in-third-intelligence.md
@@ -91,14 +93,12 @@ Backlinks:
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary_b.md
+    - 1-executive-summary_2.md
     - 3-the-mechanism-catalytic-externalization.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
-    - emotional-scaffolding-s_e.md
     - section-6-journal-function-refinement.md
-    - cognitive-mirror-protege-mode.md
     - 11-what-youve-actually-discovered-meta-level.md
     - 5-worked-diagnostic-examples.md
     - unified-architecture-neurobiological-resolutio.md

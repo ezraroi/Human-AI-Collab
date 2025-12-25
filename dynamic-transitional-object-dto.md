@@ -12,6 +12,7 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - developmental-sequence.md
     - section-4-attribution-logic.md
+    - reflective-prompting.md
     - 4-revised-contribution-of-notebook-11.md
     - dialogical-knowing.md
     - section-5-the-category-error-relational-axis-f.md
@@ -21,8 +22,9 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - protected-self-holding-principle.md
-    - executive-summary_o.md
+    - executive-summary_u.md
     - human.md
+    - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
@@ -48,7 +50,7 @@ Backlinks:
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

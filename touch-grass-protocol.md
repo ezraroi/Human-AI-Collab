@@ -28,9 +28,9 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - 7-research-usage.md
     - field-viability-schema.md
-    - alpha-function.md
+    - category-error.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
-    - functional-thirdness.md
+    - activation-conditions.md
     - emotional-scaffolding-s_e.md
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md

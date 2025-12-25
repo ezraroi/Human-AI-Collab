@@ -30,12 +30,12 @@ Links:
     - conflict-detection-model-repair.md
     - rubber-duck-debugging.md
     - reflective-prompting.md
-    - rrv-cycle-recursive-refine-validate.md
     - 4ps-protocol.md
     - alpha-function.md
     - wilfred-bion.md
     - protein-shake-brain-psb.md
     - cognitive-mirror-protege-mode.md
+    - recursive-pattern-verification-loop.md
 Emoji: "\U0001F6E0️"
 id: bafyreibwo7drufttsu3vw26hdquhv2g4tbl2qb7j5gz7eoqzwsmsb7rbgi
 ---
@@ -54,7 +54,6 @@ Cognitive science / educational psychology literature on active learning and met
    
 **As Deliberate Method:**   
 - [Reflective Prompting](reflective-prompting.md) Phase 2 explicitly recruits it via "Teaching as Verification" (Protégé Effect)   
-- [RRV Cycle](rrv-cycle-recursive-refine-validate.md) + continuous RPVL rely on it to surface gaps/conflicts and force revision   
 - [4Ps](4ps-protocol.md) "Process" step requires explicit self-explanation (own reasoning, own words)   
    
 **AI's Facilitating Role (Cognitive Mirror):**
@@ -88,10 +87,10 @@ Self-Explanation is a cognitive-layer analog to *aspects* of Alpha-Function, not
 - **Has Two Mechanisms:** Gap Filling; Conflict Detection (Model Repair)   
 - **Facilitated By:** [Cognitive Mirror;](cognitive-mirror-protege-mode.md) AI Mode A/B; Teaching stance; externalization/writing   
 - **Mitigates:** Passive consumption; PSB (only when paired with verification + felt sense)   
-- **Enables:** Model repair, genuine understanding; supports metabolic processing when embedded in RRV+RPVL   
+- **Enables:** Model repair, genuine understanding; supports metabolic processing when embedded in [RPVL](recursive-pattern-verification-loop.md)   
    
 **Architectural Note:**
-Self-Explanation is the *mechanism*; Reflective Prompting, RRV, and 4Ps are the *protocols that activate it*. This object names what those protocols trigger and provides the cognitive-science translation layer for Alpha-Function.   
+Self-Explanation is the *mechanism*; [Reflective Prompting](reflective-prompting.md) and [4Ps](4ps-protocol.md) are the *protocols that activate it*. This object names what those protocols trigger and provides the cognitive-science translation layer for [Alpha-Function](alpha-function.md).   
 **Notes:**
 The innovation isn't "discovering" Self-Explanation. It's:   
 1. Treating it as a controllable lever in AI dialogue (via Mode B / teaching stance)   

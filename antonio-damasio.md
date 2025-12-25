@@ -8,7 +8,7 @@ Tag:
 Backlinks:
     - channel-1-embodied-sensorimotor-pathway.md
     - somatic-marker-hypothesis.md
-    - recursive-metabolic-loop.md
+    - as-if-body-loop.md
     - unified-architecture-neurobiological-resolutio.md
 Origin Domain:
     - Neurobiology & Neuroscience

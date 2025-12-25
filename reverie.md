@@ -9,7 +9,6 @@ Tag:
 Backlinks:
     - section-4-the-importance-of-emotional-scaffold.md
     - the-container.md
-    - emotional-scaffolding-s_e.md
 Origin Domain:
     - Psychoanalysis
 Epistemic Status: 'Literature: Established academic fact'

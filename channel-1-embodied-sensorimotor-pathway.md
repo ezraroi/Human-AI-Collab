@@ -9,25 +9,25 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - embodied-simulation.md
-    - reflective-prompting.md
     - document-abstract.md
     - 5-the-embodied-connection.md
     - 12-what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
     - reflective-awareness.md
-    - 4ps-protocol.md
     - section-5-the-category-error-relational-axis-f.md
     - anterior-insular-cortex-aic.md
     - maurice-merleau-ponty.md
     - 10-questions-your-synthesis-raises.md
     - conflict-detection-model-repair.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
+    - salience-network-core.md
     - authoritative-discourse.md
-    - executive-summary_9.md
+    - executive-summary_r.md
     - identity-stakes.md
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - jean-piaget.md
+    - protected-self-holding-principle.md
     - human.md
     - 5-the-three-dimensional-integration.md
     - 2-the-divided-labors-of-two-theories.md
@@ -40,30 +40,31 @@ Backlinks:
     - 8-the-unified-relational-ontology.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - 10-the-integrated-claim.md
+    - transmissive-self.md
     - pre-reflective-awareness.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - section-6-the-complete-system-architecture.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 15-is-your-model-suggesting-something-new.md
+    - two-axis-framework.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - 3-the-13-stage-development-sequence.md
     - 7-critical-connection-5-why-psb-happens.md
-    - recursive-pattern-verification-loop.md
     - felt-sense.md
-    - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_f.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - internally-persuasive-discourse.md
+    - emotional-scaffolding-s_e.md
     - negative-capability.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
@@ -72,7 +73,7 @@ Backlinks:
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_u.md
     - 4-the-critical-ontological-distinction.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
@@ -107,9 +108,8 @@ It provides **friction, pacing, and affective response** to symbolic material an
 ### Wiring (Relations)   
 - **Theorists:** [Gendlin](eugene-gendlin.md) ([Felt Sense](felt-sense.md)); Piaget (Sensorimotor schema); [Damasio](antonio-damasio.md) (Somatic Markers / [As-If Body Loop](as-if-body-loop.md) as decision-biasing signals; compatible with, not equivalent to, Felt Sense).   
 - Biological Correlates (hypothesized): [Anterior Insular Cortex (AIC)](anterior-insular-cortex-aic.md); interoceptive network; somatic marker circuitry.   
-- **Formula Link:**   
-    - Supports **Sₑ** ([Emotional Scaffolding](emotional-scaffolding-s_e.md)) by enabling pacing and emotional containment.   
-    - Influences [**C** (Capacity)](c-capacity.md) by determining when symbolic material becomes *owned meaning*.   
-    - Governs part of the metabolic loop constrained by **\|D – C\|**, as friction defines actual difficulty.   
+- Supports **Sₑ** ([Emotional Scaffolding](emotional-scaffolding-s_e.md)) by enabling pacing and emotional containment.   
+- Influences [**C** (Capacity)](c-capacity.md) by determining when symbolic material becomes *owned meaning*.   
+- Governs part of the metabolic loop constrained by **\|D – C\|**, as friction defines actual difficulty.   
    
 **Notes:** Embodied friction, pacing, somatic verification; core metabolic channel.   

@@ -9,6 +9,7 @@ Tag:
 Backlinks:
     - 4-analytic-vs-statistical-generalization.md
     - cognitive-style-bias.md
+    - digital-neurophenomenology.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - analytic-generalization.md
 Epistemic Status: 'Literature: Established academic fact'

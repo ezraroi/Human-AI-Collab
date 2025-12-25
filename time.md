@@ -19,10 +19,10 @@ Backlinks:
     - 4-the-system-architecture-v2-0.md
     - introduction-the-core-problem-and-the-role-of-ai.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_9.md
+    - executive-summary_r.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_o.md
+    - executive-summary_u.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -55,10 +55,10 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - neuroscience-of-transformation.md
-    - 1-executive-summary_b.md
+    - 1-executive-summary_2.md
     - section-13-significance-and-forward-direction.md
+    - functional-thirdness.md
     - section-3-causal-sequence-placement.md
-    - emotional-scaffolding-s_e.md
     - chronotope.md
     - 11-what-youve-actually-discovered-meta-level.md
     - the-unified-architecture.md
