@@ -21,9 +21,11 @@ Backlinks:
     - cognitive-offloading.md
     - judgment-expertise-boundary.md
     - 7-what-each-framework-gains-from-integration.md
+    - two-axis-framework.md
     - dynamic-transitional-object-dto.md
     - 3-the-13-stage-development-sequence.md
     - recursive-pattern-verification-loop.md
+    - category-error.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - the-unified-architecture.md
     - 4-the-critical-ontological-distinction.md

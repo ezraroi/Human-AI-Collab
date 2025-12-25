@@ -10,7 +10,6 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - section-4-attribution-logic.md
-    - reflective-prompting.md
     - 4-revised-contribution-of-notebook-11.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
@@ -22,7 +21,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_o.md
+    - executive-summary_u.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -44,9 +43,8 @@ Backlinks:
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
-    - field-viability-schema.md
     - 1-introduction-why-functional-alterity-is-nece.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_p.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md

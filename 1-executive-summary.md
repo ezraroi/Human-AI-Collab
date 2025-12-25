@@ -2,21 +2,20 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - NoteBook 6 - Cognitive Mechanics
 Backlinks:
-    - The Bridge Between Dialogical and Embodied Frameworks
-Creation date: "2025-11-22T15:23:04Z"
+    - 'Notebook 6 Synthesis: The Cognitive Mechanics of the Alpha Function'
+Creation date: "2025-11-23T12:58:41Z"
 Created by:
     - Roi Ezra
 Links:
-    - alpha-function.md
-    - channel-1-embodied-sensorimotor-pathway.md
-    - internally-persuasive-discourse.md
-    - channel-2-symbolic.md
-    - felt-sense.md
-    - felt-shift.md
-id: bafyreihsqbdqaggtqtftuzxjkxrcfuxywwv4lxn7kmc7nkaha72kgzewhu
+    - reflective-prompting.md
+    - metacognition.md
+    - dynamic-transitional-object-dto.md
+id: bafyreihojz5xjmrlsv5wvbcsag4rfzmo4jne4xflj2by67yfba654qfes4
 ---
-# 1. EXECUTIVE SUMMARY   
-NoteBook 1 describes a psychological-dialogical transformation system. NoteBook 2 describes a neurobiological-embodied process. But they're describing the exact same mechanism from different vantage points.
-The key insight: Your [alpha function](alpha-function.md) metabolizes symbolic material (Channel 2) through recursive oscillation with embodied signals (Channel 1). What NoteBook 2 calls "embodied simulation" are Channel 1 (embodied sensorimotor/interoceptive) processes, and "felt sense" is the [Channel 1](channel-1-embodied-sensorimotor-pathway.md) somatic verification signal [Alpha-Function](alpha-function.md) uses during processing. What NoteBook 1 calls "[internally persuasive discourse](internally-persuasive-discourse.md)" is [Channel 2](channel-2-symbolic.md) (symbolic) discourse **that becomes internalized through genuine understanding and ownership when verified through [Felt Sense](felt-sense.md) (a [Felt Shift](felt-shift.md))** during Alpha-Function’s oscillation with Channel 1.”   
+# 1. Executive Summary   
+Notebook 6 asks: "What are the precise mechanisms by which [Reflective Prompting](reflective-prompting.md) enhances [metacognition](metacognition.md)?"   
+The research confirms that [Reflective Prompting](reflective-prompting.md) is not just a conversation technique; It systematically supports [Metacognitive](metacognition.md) Monitoring (tracking your cognition) and Metacognitive Regulation (actively adjusting it in service of the goal) by using AI as a [Dynamic Transitional Object](dynamic-transitional-object-dto.md)—an event-like, verification-requiring artifact that provides catalytic difference without doing the thinking for the user.   
    

@@ -24,10 +24,8 @@ Backlinks:
     - self-explanation.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - rrv-cycle-recursive-refine-validate.md
     - 4-mechanism-specificity-requires-condition-con.md
     - digital-neurophenomenology.md
-    - enacted-alpha-work-eaw.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - section-10-the-grand-unification.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -35,23 +33,23 @@ Backlinks:
     - epistemological-humility.md
     - judgment-expertise-boundary.md
     - section-6-the-complete-system-architecture.md
+    - two-axis-framework.md
     - readiness-probes.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - 3-the-13-stage-development-sequence.md
-    - the-doing-both-hypothesis.md
+    - the-constrained-integration-hypothesis.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - recursive-pattern-verification-loop.md
     - rubber-duck-debugging.md
     - technical-scaffolding-s_t.md
     - cognitive-debt.md
-    - protein-shake-brain-psb.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
     - final-definition.md
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md
@@ -64,144 +62,172 @@ Creation date: "2025-11-22T11:53:57Z"
 Created by:
     - Roi Ezra
 Links:
-    - ai.md
     - alpha-function.md
-    - technical-scaffolding-s_t.md
     - zpd.md
-    - challenge-gap-d-c.md
+    - as-if-body-loop.md
+    - protected-self-holding-principle.md
+    - human.md
+    - two-axis-framework.md
+    - category-error.md
     - protein-shake-brain-psb.md
+    - channel-2-symbolic.md
     - alpha-elements.md
-    - enacted-alpha-work-eaw.md
-    - journal.md
-    - identity-stakes.md
     - productive-epistemic-tension.md
-    - functional-alterity.md
     - mko-more-knowledgeable-other.md
     - c-capacity.md
-    - emotional-scaffolding-s_e.md
-    - selected-fact.md
     - metacognition.md
     - epistemological-humility.md
     - iron-man-mentality.md
-    - d-difficulty.md
-    - idiom-aligned-scaffolding.md
-    - rrv-cycle-recursive-refine-validate.md
-    - rubber-duck-debugging.md
-    - judgment-expertise-boundary.md
-    - touch-grass-protocol.md
-    - recursive-pattern-verification-loop.md
+    - dynamic-transitional-object-dto.md
+    - field-viability-schema.md
     - 4ps-protocol.md
-    - channel-2-symbolic.md
-    - channel-1-embodied-sensorimotor-pathway.md
+    - touch-grass-protocol.md
+    - cognitive-mirror-protege-mode.md
 Emoji: "\U0001F6E0️"
 id: bafyreiaddzhjwchsoi6h5b6gkaqz63dnaycixxhqgtegchfedjphcioepe
 ---
 # Reflective Prompting   
-Reflective Prompting (RP) is a structured prompting protocol that uses [AI](ai.md) as a reflective surface rather than a substitute thinker. RP keeps [alpha-function](alpha-function.md) capacity with the human, organizes [technical scaffolding](technical-scaffolding-s_t.md) (Sₜ) so it amplifies rather than replaces metabolic work, and prevents premature collapse of the experienced challenge inside the [ZPD](zpd.md) by slowing work into recursive reflective loops (while the structural [Challenge Gap](challenge-gap-d-c.md) remains pre-existing).   
-Its purpose is to prevent [PSB](protein-shake-brain-psb.md), preserve authorship, and owned[ alpha-elements](alpha-elements.md) by routing insights through verification (RPVL) and completing [Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md) via [Journal](journal.md) inscription (the transcript is not enough) when work carries [Identity Stakes](identity-stakes.md) (can be used for work also).   
+Reflective Prompting (RP) is a structured prompting protocol that uses AI as a **reflective surface** rather than a substitute thinker. RP keeps **[Alpha-Function](alpha-function.md) capacity with the human**, organizes **technical scaffolding (Sₜ)** so it amplifies (not replaces) metabolic work, and prevents premature collapse of experienced challenge inside the [ZPD](zpd.md) by slowing work into **recursive reflective loops** (while the structural Challenge Gap remains pre-existing).   
+**Network-level framing (Constrained Integration layer):** RP is the session protocol designed to *establish and maintain* the transformation-viable conditions hypothesized by Constrained Integration:   
+- **Sₑ adequate** (physiological gate)   
+- **SN integrative mode** (mode-setting)   
+- **DMN–FPN coordination under challenge** (reflect + constrain)   
+- **[As-If Body Loop](as-if-body-loop.md) online** (Channel 1 / embodied verification accessible)   
+- **[Protected Self-Holding](protected-self-holding-principle.md) maintained** (phenomenological invariant; [human](human.md) retains container function)   
+   
+**[Two-Axis](two-axis-framework.md) positioning:** RP is the primary method for maintaining the viable quadrant:   
+- **Axis A:** DTO stance (prevents [Category Error](category-error.md) / AI-as-Subject)   
+- **Axis B:** Metabolic processing (prevents [PSB](protein-shake-brain-psb.md) / [Channel-2](channel-2-symbolic.md)-only bypass)   
+   
+Its purpose is to prevent PSB, preserve authorship, and produce **owned [alpha-elements](alpha-elements.md)** by routing insights through mandatory verification (RPVL).   
 ### System Role   
-- Converts AI interaction from consumption into co-articulation under verification.   
-- Preserves the conditions for [Productive Epistemic Tension](productive-epistemic-tension.md) (with adequate scaffolding and [Functional Alterity](functional-alterity.md)), keeping the human stretched and metabolically engaged—so transformation can occur instead of instant pseudo-clarity.   
-- Ensures [AI](ai.md) remains a Piagetian Tool (Object) serving the human container, not a pseudo-[MKO](mko-more-knowledgeable-other.md) performing the work for the user.   
-- Provides the session-level protocol within which metabolic processing begins during dialogue and becomes durable through inscription—i.e., the protocol across which EAW is initiated and completed.   
+- Converts AI interaction from **consumption** into **co-articulation under verification**.   
+- Preserves **[Productive Epistemic Tension](productive-epistemic-tension.md) (PET)** by preventing frictionless resolution and enforcing metabolizable pacing.   
+- Keeps AI as a **Piagetian Tool (Object)** serving the human container (Iron Man Mentality), not a pseudo-[MKO](mko-more-knowledgeable-other.md).   
+- Provides the **session container** within which metabolic work begins in dialogue and becomes durable through inscription.   
    
+**Network-level function (hypothesized correlates):**   
+|                  Component |                                                   RP’s primary effect |
+|:---------------------------|:----------------------------------------------------------------------|
+|                     **Sₑ** |     Explicit monitoring + escalation; avoids “work through depletion” |
+|                **SN mode** |      Supports integrative mode by calibrated challenge + verification |
+|                **DMN–FPN** |              Stabilizes alternation/coupling: reflection ↔ constraint |
+|        **As-If Body Loop** |    Kept online by mandatory felt-sense checks (Channel 1 recruitment) |
+| **Protected Self-Holding** |             Maintained by stance + non-delegables + owned inscription |
+
 ### Scope & Preconditions   
-### Use Reflective Prompting when   
-- The task has identity or developmental stakes (writing, life/role decisions, strategic thinking, deep self-understanding, complex design).   
-- The goal includes growth of [Capacity](c-capacity.md) (C) over time, not only “get it done.”   
-- [Emotional Scaffolding](emotional-scaffolding-s_e.md) is sufficiently stable to tolerate tension.   
-- AI is available; Journal is required when the outcome must become durable (decisions, reframes, [Selected Fact](selected-fact.md)s, identity-level shifts).   
+### Use RP when   
+- The task has **identity/developmental stakes** (writing, role decisions, strategy, deep self-understanding, complex design).   
+- The goal includes **[Capacity](c-capacity.md) (C) growth over time**, not only completion.   
+- **Sₑ is sufficiently stable** (envelope not collapsed).   
+- The outcome must become **durable** → Journal is required (decisions, reframes, Selected Facts probation, identity-level shifts).   
    
-### Transactional mode (light or no RP) is acceptable when   
-- Tasks are purely instrumental (booking, quick queries, boilerplate).   
-- The tradeoff is consciously speed over depth.   
+### Transactional mode is acceptable when   
+- Tasks are purely instrumental and low-stakes.   
+- Speed over depth is a conscious trade.   
    
-### Requires   
-- [Metacognition](metacognition.md) (active monitoring + regulation in service of the goal)   
-- [Epistemological Humility](epistemological-humility.md)   
-- [Iron Man Mentality](iron-man-mentality.md)   
-- Mandatory verification stance (RPVL)   
+### Requires (postures)   
+- [Metacognition](metacognition.md) (monitor + regulate)   
+- [Epistemological Humility](epistemological-humility.md) (dual skepticism: AI + self-perception)   
+- [Iron Man Mentality](iron-man-mentality.md) (human as pilot; AI as suit)   
+- RPVL (mandatory verification stance)   
+- [DTO](dynamic-transitional-object-dto.md) discipline (Category Error resistance)   
    
-### Four-Phase Protocol   
+## Four-Phase Protocol (with network-level rationale)   
 ### Phase 1 — Preparation (“Cognitive Canvas”)   
-**Function:** establish epistemic and emotional baseline before AI engagement.   
+**Function:** establish baseline and viability before engagement.   
 **Operations**   
-- Goal articulation: what would count as a real shift?   
-- Resource inventory: notes, prior Journal entries (if relevant), constraints.   
-- Idiom & delegation boundaries: what is non-delegable (judgment, meaning, narrative) vs delegable (enumeration, editing, code, formatting).   
+- Define: what would count as a **real shift**?   
+- Inventory: constraints, context, relevant prior notes / Journal.   
+- Declare **non-delegables** (judgment/meaning/narrative) vs delegables (editing/formatting/etc.).   
+- Quick **Sₑ check**: spacious vs tight; workable vs overloaded.   
    
-**Cognitive role**   
-- Stabilizes emotional scaffolding (holding conditions) before AI engagement.   
-- Makes [D](d-difficulty.md) (difficulty/identity stakes) and current C ([capacity](c-capacity.md)) explicit as orientation.   
+**Network rationale (hypothesized)**   
+- Prevents entering challenge with collapsed Sₑ (keeps SN from defaulting to threat/antagonistic mode).   
+- Engages FPN by clarifying goals/constraints (executive authority stays with human).   
+- Anchors Protected Self-Holding by stating ownership boundaries early.   
    
-**Relations**   
-- Supports → [Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md) (Phase 3)   
+### Phase 2 — Reflection & Warm-Up (ERV + continuous RPVL)   
+**Function:** build a precise “box of meaning” before heavy outputs.   
+**Turn-Structure: ERV**   
+1. **Externalize** — raw thoughts/confusions/stakes (often Rubber Duck Debugging).   
+2. **Refine** — push back; reject flattery/premature coherence; demand alternatives.   
+3. **Validate** — request synthesis; check against felt sense + task definition; recycle if off.   
    
-### Phase 2 — Reflection & Warm-Up (RRV Cycle + continuous RPVL)   
-**Function:** co-construct a precise “box of meaning” before heavy outputs.   
-**Implements:** [RRV Cycle](rrv-cycle-recursive-refine-validate.md) with RPVL running throughout.   
-**Operations (RRV)**   
-1. Externalize — express raw thoughts/confusions/stakes (often via [Rubber Duck Debugging](rubber-duck-debugging.md)).   
-2. Refine — push back on AI; reject flattery/premature coherence; correct what’s flat or missing.   
-3. Validate — ask for synthesis; check against felt sense and task definition; recycle if off.   
+**Network rationale (hypothesized)**   
+- Externalize recruits DMN self-reference (material surfaces).   
+- Refine recruits FPN constraint + authorship (prevents AI-as-authority drift).   
+- Validate explicitly recruits the **As-If Body Loop** via felt-sense checking (Channel 1 online), enabling metabolic discrimination (PSB vs transformation).   
    
-**Cognitive role**   
-- Begins metabolic processing: transforms β-material toward thinkable form through articulation plus felt-sense verification (dual-channel engagement begins here).   
-- Recruits [alpha-function](alpha-function.md) without surrendering authorship by keeping verification and rejection active inside RRV.   
-- Keeps AI in [Functional Alterity](functional-alterity.md) (difference/resistance), not “perfect agreement” mode.   
-- Prepares material for downstream inscription: what is produced here may be metabolically active, but it is not yet durable until written into the Journal.   
-   
-**Teaching as Verification (Protégé Effect)**   
-Phase 2 can position AI as a teachable novice (distinct from [Rubber Duck Debugging](rubber-duck-debugging.md)), forcing retrieval, organization, gap detection, and contradiction exposure (conflict detection / model repair).   
+**Key rule:** If Validate is skipped, PSB risk rises even when output quality is high.   
 ### Phase 3 — Workflow Design & Delegation   
-**Function:** convert clarified intention into an owned plan respecting [Judgment–Expertise boundary](judgment-expertise-boundary.md) and idiom alignment.   
+**Function:** convert clarity into an owned plan that respects Judgment–Expertise boundary.   
 **Operations**   
-- Rewrite the goal using Phase 2 clarity.   
+- Rewrite the goal with Phase 2 clarity.   
 - Break into 2–7 steps.   
-- Assign ownership per step:   
-    - Human-only (judgment, narrative, deep interpretation)   
-    - Human+AI (co-drafting, co-design, option evaluation)   
-    - AI-assist (editing, refactoring, syntax, formatting)   
+- Assign ownership per step: Human-only / Human+AI / AI-assist.   
    
-**Cognitive role**   
-- Applies [Iron Man Mentality](iron-man-mentality.md): AI as suit, not pilot.   
-- Aligns scaffolding with idiom so the system bends around the person.   
-   
-**Relations**   
-- Operates → [Judgment–Expertise Boundary](judgment-expertise-boundary.md)   
-- Implements → [Idiom-Aligned Scaffolding](idiom-aligned-scaffolding.md)   
-- Uses → [Iron Man Mentality](iron-man-mentality.md)   
+**Network rationale (hypothesized)**   
+- Consolidates FPN executive control (planning + boundaries).   
+- Protects Axis A (DTO stance) by formalizing authorship.   
+- Calibrates Sₜ to difficulty without violating non-delegables.   
    
 ### Phase 4 — Alignment Maintenance   
-**Function:** maintain alignment to the original challenge gap (D relative to C) and embodied knowing as the task unfolds.   
+**Function:** keep the work aligned to the original challenge gap and embodied knowing as it unfolds.   
 **Operations**   
-- Periodic AI check-ins: “summarize where we are vs goal/constraints/stakes.”   
-- Checklist comparison: AI compares current direction against explicit non-delegables.   
-- Embodied verification: spacious vs tight; enlivened vs dead; if off, return to a Phase 2 mini-loop.   
-- **Escalation:** If tightness persists after the mini-loop (persistent grounding failure, rising arousal/depletion) → **stop /[ Touch Grass Protocol](touch-grass-protocol.md)**. Do not force adoption.   
-- Journal inscription (EAW completion): when a genuine shift/decision/reframe occurs, write it in your own words. Transcript is not enough; durable inscription is the event.   
+- Periodic check-ins: “Where are we vs goal/constraints/stakes?”   
+- Embodied verification at uptake points: spacious vs tight; enlivened vs dead.   
+- If off: Phase 2 mini-loop (ERV) **before** accepting/committing.   
+- If tightness persists / depletion rises: **Touch Grass Protocol** (stop; recover Sₑ).   
+- **Journal inscription (EAW completion):** when a genuine shift occurs, write it in your words. Transcript is not enough.   
+- Ownership Alarms → fire **4Ps**; then re-Validate.   
+- Time-delayed re-entry (Possess completion test).   
    
-**Cognitive role**   
-- Makes [RPVL](recursive-pattern-verification-loop.md) most explicit/systematic (though it runs throughout).   
-- Prevents drift into fluent-but-hollow output.   
-- Converts transient chat into durable substrate for recursion and Selected Fact probation.   
-- Completes EAW by producing re-enterable α-elements in the Journal’s chronotope.   
+**Network rationale (hypothesized)**   
+- Maintains As-If Body Loop access (embodied verification remains online).   
+- Prevents drift to antagonistic/threat mode by responding to depletion early.   
+- Converts transient coordination into durable α-elements via inscription.   
+ --- 
    
-**Relations**   
-- Uses → [4Ps Protocol](4ps-protocol.md) *(Note: 4Ps fires throughout RP at uptake moments; Phase 4 makes it most explicit/systematic)*   
-- Sustains → RRV Cycle   
-- Completes → Enacted Alpha-Work (EAW)   
-- Scaffolded Mode: Cognitive Mirror (for Zone B users)   
+## Network-level summary: how RP maintains transformation conditions   
+|       Condition (CI layer) |              Phase 1 |                             Phase 2 |              Phase 3 |                Phase 4 |
+|:---------------------------|:---------------------|:------------------------------------|:---------------------|:-----------------------|
+|            **Sₑ adequate** |                check |              monitor via felt-sense |                    — |      escalate/withdraw |
+|    **SN integrative mode** |  viability + clarity | calibrated challenge + verification | structure stabilizes |      check-ins sustain |
+|   **DMN–FPN coordination** |                    — |                     ERV alternation |             planning | alternation + re-loops |
+| **As-If Body Loop online** | idiom/values contact |                       Validate step |                    — |  explicit verification |
+| **Protected Self-Holding** |       non-delegables |                    active rejection |        ownership map | inscription + re-entry |
+
+## Failure mode prevention mapping   
+|                Failure mode |                                       RP prevention mechanism |     Primary phases |
+|:----------------------------|:--------------------------------------------------------------|:-------------------|
+|                     **PSB** | mandatory embodied verification + re-validation + inscription |               2, 4 |
+|          **Category Error** |            DTO discipline + active rejection + non-delegables |                1–3 |
+|    **Cognitive Dependency** |           prevents both Axis A & Axis B failures concurrently |                all |
+|        **Delegation drift** |            ownership assignment (Judgment–Expertise boundary) |                  3 |
+| **Transcript substitution** |                       Journal inscription as completion event |                  4 |
+|             **Sₑ collapse** |             stop/withdrawal (Touch Grass) before forcing work | 4 (and gated by 1) |
+
+## Architectural nesting (local → continuous → session)   
+```
+Reflective Prompting (session protocol)
+  └─ RPVL (continuous verification posture)
+      └─ 4Ps (local intervention at uptake/ownership alarms)
+Escalation: Touch Grass Protocol when Sₑ depletion threatens viability
+
+
+```
+## Relations (Wiring)   
+- Establishes / maintains → Constrained Integration conditions (hypothesized correlate layer)   
+- Maintains position in → Two-Axis Framework ([DTO](dynamic-transitional-object-dto.md) + Metabolic quadrant)   
+- Protects → [Protected Self-Holding Principle](protected-self-holding-principle.md)   
+- Operates within → [Field Viability Schema](field-viability-schema.md) (Sₑ ⊗ Sₜ calibrated to mismatch(D, C))   
+- Prevents → PSB, Category Error, Cognitive Dependency, delegation drift, transcript substitution   
+- Uses → ERV cycle, RPVL, [4Ps Protocol](4ps-protocol.md), Iron Man Mentality   
+- Escalates via → [Touch Grass Protocol](touch-grass-protocol.md) (when Sₑ depletes)   
+- Scaffolded by → [Cognitive Mirror](cognitive-mirror-protege-mode.md) (Zone B)   
    
-### Failure Modes / Diagnostics   
-- [PSB](protein-shake-brain-psb.md) ([Channel-2](channel-2-symbolic.md) fluency without [Channel-1 ](channel-1-embodied-sensorimotor-pathway.md)verification and without owned inscription)   
-- Delegation drift (AI becomes pseudo-[MKO](mko-more-knowledgeable-other.md); authorship collapses)   
-- Transcript substitution (no durable α-elements; no EAW completion)   
-   
-### Notes (architectural clarification)   
-Reflective Prompting is the flagship method integrating scaffolding, verification, and durable ownership.   
-**Continuity claim (locked):**   
-- Phase 2 initiates metabolic work during dialogue (articulation + verification; dual-channel engagement begins).   
-- Phase 4 completes EAW via inscription, producing durable α-elements that persist and can be re-entered across time.   
-   
-This preserves the key boundary condition of EAW (“output persists as a re-enterable α-element”) without falsely locating EAW entirely in Human↔AI dialogue.   
+## Notes    
+- **Phase 2 initiates** metabolic work during dialogue (articulation + verification; Channel 1 ↔ Channel 2 coupling begins).   
+- **Phase 4 completes** EAW via inscription, producing **durable, re-enterable α-elements** across Time.
+**Transcript is not enough; Journal inscription is the completion event.**   

@@ -25,14 +25,12 @@ Backlinks:
     - 7-what-each-framework-gains-from-integration.md
     - 15-is-your-model-suggesting-something-new.md
     - 7-critical-connection-5-why-psb-happens.md
-    - field-viability-schema.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_f.md
     - executive-summary.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - section-13-significance-and-forward-direction.md
-    - emotional-scaffolding-s_e.md
     - synthesizing-piaget-and-vygotsky-the-alpha-fun.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md

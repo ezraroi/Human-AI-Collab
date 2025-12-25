@@ -4,12 +4,11 @@ Object type:
     - Manuscript Section
 Backlinks:
     - 'Notebook 8: Synthesis of The Defensible "N of 1"'
-Creation date: "2025-12-18T20:34:16Z"
+Creation date: "2025-12-09T14:45:17Z"
 Created by:
     - Roi Ezra
-Links:
-    - third-intelligence.md
-id: bafyreign2s5pjnddjkg3sxa6rdio33rzqbzsugrquc5mzt7jfveh7gakd4
+id: bafyreifcf55itojtbf4nqvxdf2wx4rxntlwb5o5tnhbmra7ls7zkfxqg5q
 ---
 # 1.Core Discovery   
-This notebook does not extend the theoretical content of the [Third Intelligence](third-intelligence.md) model. Instead, it provides the legitimating structure that makes theoretical claims hearable in academic discourse. The research question shifts from "What is the system architecture?" to "Why should anyone believe your account of this system?"   
+**This notebook does not extend the theoretical content of the Third Intelligence model. Instead, it provides the legitimating structure that makes theoretical claims hearable in academic discourse. The research question shifts from "What is the mechanism?" to "Why should anyone believe your account of the mechanism?"**   
+   

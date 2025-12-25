@@ -452,218 +452,153 @@ Functional Thirdness (interaction-level dialogical legitimacy) can operate once 
 ## [RESEARCH COMPONENT] Emotional Scaffolding (S\_e)
 [Theoretical] Domain: Psychoanalytic, System Role: Scaffolding, Temporal: Dynamic
 
-The operationalized indicator of holding function — the human’s current state of emotional bandwidth, containment capacity, and psychological safety available for metabolic processing.
-## Theoretical Basis
-S\_e operationalizes Winnicott’s Holding Environment and Bion’s Container function as a session-level indicator of available holding/containment capacity. While Holding Environment describes a developmental prerequisite condition, S\_e names the current operational capacity to hold oneself during transformation work.
-## Schema Role
-Non-substitutable component in the **Field Viability Schema**:
-> (S_e ⊗ S_t) calibrated to mismatch(D, C)
+**Emotional Scaffolding (Sₑ)** is the operationalized indicator of the Human’s *current* holding capacity: available emotional bandwidth, containment/regulated arousal, and psychological safety sufficient to sustain **metabolic processing under identity-stakes challenge**.
+Sₑ names the **capacity to maintain protected self-holding while engaging challenge**.
+In the **Constrained Integration** framework, Sₑ is hypothesized as the **physiological constraint on transformation viability**: it may determine whether (a) the **Salience Network** can set **integrative mode**, (b) **DMN self-reference remains online under FPN load**, and (c) **embodied verification** (As-If Body Loop / Channel 1) remains accessible.
+ ---
+### Theoretical Basis (Operationalization)
+Sₑ operationalizes Winnicott’s and Bion’s constructs as a **session-level runtime indicator**:
+|                                                                           Concept |                      Level |                                                             Meaning |
+|:----------------------------------------------------------------------------------|:---------------------------|:--------------------------------------------------------------------|
+| **Holding Environment (Winnicott)** | Developmental prerequisite |          Conditions of sufficient safety/non-impingement for growth |
+|              **Container Function (Bion)** |           Capacity/process | Ability to hold affect long enough for symbolization/metabolization |
+|                                                    **Sₑ (Emotional Scaffolding)** |      Operational indicator | *Current* self-holding/containment capacity available for this work |
 
-- If **S\_e → 0**: **field viability is compromised regardless of S\_t** (manifests as degrees and localities, not necessarily binary collapse).
-- Coupled with **S\_t** via **⊗** (non-substitutable — neither compensates for the other).
-- Non-negotiable prerequisite for Alpha-Function engagement under challenge.
-- Cannot be substituted or compensated for.
+**Developmental note (non-diagnostic):** stronger internalized holding tends to support more reliable Sₑ generation; weak internalization constrains Sₑ stability (Activation Conditions / Zone boundary).
+### Schema Role
+Non-substitutable component in the Field Viability Schema:
+> (Sₑ ⊗ Sₜ) calibrated to mismatch(D, C)
 
-## System Role
-Provided by the Human component:
-- Self-regulation capacity
-- Emotional resilience
-- Physiological stability (sleep, nutrition, stress management)
-- Internalized holding function from developmental history
+- **If Sₑ → 0:** viability is compromised **regardless** of Sₜ (often as graded/local failures before full collapse).
+- **⊗ is non-substitutable:** Sₜ cannot compensate for depleted Sₑ, and vice versa.
+- **Prerequisite** for Alpha-Function engagement under challenge and for Channel 1 recruitment.
 
-## Dynamic Properties
-### Within-Session Depletion
-- Emotional Scaffolding drains during work that carries Identity Stakes
-- Intensive Alpha-Function processing exhausts emotional bandwidth
-- Felt phenomenologically as: increasing tightness, irritability, reduced capacity for ambiguity
-- Requires recognition and withdrawal (Touch Grass Protocol)
+### System Role (What Sₑ constrains)
+Sₑ is **provided by the Human**, reflecting:
+- self-regulation capacity and affect tolerance
+- emotional resilience / recovery capacity
+- physiological stability (sleep, nutrition, baseline stress load)
+- internalized holding function (trait foundation expressed as state)
 
-### Between-Session Recovery
-- Rest, sleep, physical activity restore S\_e
-- Time away from intensive processing
-- Embodied practices (movement, sensory grounding)
-- Journaling can partially restore S\_e by externalizing processed material
+**Constrains transformation at multiple layers:**
+|             Layer |                                                                                                  What Sₑ enables/limits |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------|
+| **Phenomenology** |     Protected Self-Holding under load (“I remain here while engaging challenge”) |
+|        **Gating** |                                                    Whether SN can set **integrative mode** vs. antagonistic/threat mode |
+|      **Embodied** |                                       Whether As-If Body Loop signals are tolerable/accessible (Channel 1 verification) |
+|       **Network** |                                                 Whether DMN-FPN coordination can be sustained under load (hypothesized) |
+|     **Metabolic** |                                                              Whether Alpha-Function can operate without bypass/collapse |
 
-## Observable Markers
-### High S\_e
-- Spacious felt sense
-- Tolerance for ambiguity and tension
-- Capacity to sit with challenging material
-- Embodied grounding present
-- Can access Negative Capability
+### Neurobiological Correlate (Hypothesized, not validated here)
+**Candidate operationalization: vagal flexibility (HRV).**
+Sₑ is a psychological-runtime construct; **HRV is a candidate physiological proxy** for the regulation capacity that makes Sₑ available.
+|       Sₑ State |               Candidate vagal state |          HRV (proxy) |                                                Expected risk profile (hypothesized) |
+|:---------------|:------------------------------------|:---------------------|:------------------------------------------------------------------------------------|
+|    **High Sₑ** |         Parasympathetic flexibility |           Higher HRV |   SN more flexible; embodied verification accessible; coordination more sustainable |
+|     **Low Sₑ** | Vagal withdrawal / sympathetic bias |            Lower HRV | SN biases toward antagonistic/threat mode; Channel 1 access reduces; PSB risk rises |
+|     **Sₑ → 0** |             Sustained dysregulation | Very low/erratic HRV |                Field non-viable; collapse risk high; false-viability risk increases |
 
-### Low / Depleted S\_e
-- Tight, constricted felt sense
-- Irritability, impatience
-- Difficulty tolerating uncertainty
-- Desire to rush to resolution
-- Risk of manic acceleration or premature closure
+**Epistemic status:** plausible and testable; not a settled equivalence (Sₑ ≠ HRV).
+### Dynamic Properties
+### Within-session depletion
+Sₑ drains during:
+- identity-stakes work
+- sustained Alpha-Function cycles (C1 ↔ C2 metabolization)
+- prolonged salience contact without recovery pauses
 
-### S\_e → 0 (Severe depletion; non-viable field)
-- Field viability becomes non-viable
-- Manic Episode risk (hallucinating field viability when actually depleted)
-- Category Error vulnerability increases
-- PSB risk increases
+**Felt markers:** tightness, irritability, reduced ambiguity tolerance, urgency to “resolve,” muted felt-sense access.
+**Network-level expectation (hypothesized):** SN shifts away from integrative mode; DMN-FPN coordination becomes harder to sustain.
+### Between-session recovery
+Sₑ recovers through:
+- sleep / rest / time away
+- movement and sensory grounding
+- real co-regulation (human contact) when available
+- journaling **when it externalizes metabolized material** (not when it becomes conceptual/PSB-heavy)
 
-## Relationship to Holding Environment
-S\_e is the operationalized indicator of whether the Holding Environment condition is sufficiently present for metabolic processing in this session:
-- **Holding Environment** = prerequisite condition of sufficient safety/attunement (including when reconstructed in adult contexts)
-- **S\_e** = current operational state (present capacity)
-- Good developmental holding → adult can generate S\_e
-- Without developmental holding → difficulty self-regulating S\_e
+**Safety rule:** when depletion is detected, the correct move is withdrawal (Touch Grass Protocol), not “better prompting.”
+### Observable Markers
+### Phenomenological
+- **High Sₑ:** spaciousness, workable tension, Negative Capability, felt-sense access available.
+- **Low Sₑ:** constriction, impatience, premature closure pressure, reduced embodied access.
+- **Sₑ → 0:** overwhelm or numb abstraction; “self-offline” or dysregulated urgency.
 
-## Connects Across Theorists
-- Winnicott: Holding Environment (ontological security)
-- Bion: Container function (reverie, containment)
-- Vygotsky: Trust required for ZPD vulnerability
-- Bakhtin/Hermans: Recognition and stabilization in dialogue
-- AI Research: “Warmth” and “integrity trust” factors
+### Behavioral
+- **High Sₑ:** can pause; verify; disagree with AI without destabilization; maintain authorship; take breaks.
+- **Low Sₑ:** skips verification; clings to AI outputs or rejects impulsively; rushes; escalates intensity despite fatigue.
 
-## Explanatory Coherence (Boundary cases)
-**Micromanager case:**
-- S\_e → 0 (anxiety, control, no holding)
-- Even with high S\_t, field viability is compromised (non-substitutability)
-- Transformation blocked
+### Physiological (candidate proxies; supportive, not definitional)
+- HRV (vagal flexibility), respiratory rate regularity, sleep quality, phasic vs sustained arousal markers (pupil/SCR), muscle tension patterns.
 
-**Manic Episode (boundary case):**
-- S\_e → 0 (sleep deprivation, overuse)
-- Schema indicates field non-viable
-- Yet the user may hallucinate viability
-- Demonstrates explanatory power of non-substitutability and the need for enforced withdrawal
+### Failure Mode Mapping (how Sₑ depletion expresses)
+|                            State |                Typical Sₑ |  SN mode (expected) |          Channel signature |                          Phenomenology |
+|:---------------------------------|:--------------------------|:--------------------|:---------------------------|:---------------------------------------|
+|        **Transformation-viable** |                  Adequate |         Integrative |            C1 ↔ C2 coupled | Protected self-holding under challenge |
+|          **PSB-adjacent bypass** | Depleted (often moderate) |        Antagonistic |     C2 dominates; C1 muted |      Fluent but hollow; “self-offline” |
+|     **Rumination-like collapse** |   Depleted (often uneven) |               Stuck |     C1 loops; C2 decouples |               Circularity; can’t shift |
+|            **Overload/collapse** |         Severely depleted | Dysregulated/threat |               Both chaotic |              “Too much”; fragmentation |
+| **False-viability acceleration** |     Sₑ → 0 (unrecognized) |   Mis-set / brittle | Output high, grounding low |          certainty without containment |
 
-## Relations (Wiring)
-- **Operationalizes:** Holding Environment (Winnicott’s concept)
-- **Component Of:** Field Viability Schema (coupled with S\_t via ⊗)
-- **Provided By:** Human (self-regulation, embodied capacity)
-- **Partially Restored By:** Journal (externalizes processed material)
-- **Depletes During:** Identity Stakes work, intensive Alpha-Function processing
-- **Recovers Through:** Time, rest, Touch Grass Protocol, embodied practices
-- **When S\_e → 0:** field viability compromised; PSB risk increases, Category Error vulnerability increases, Manic Episode possible
-- **Enables:** tolerance for productive tension; sustained metabolization under challenge
-- **Required For:** ZPD work; Channel 1 recruitment when the work carries Identity Stakes; transformation
+ ---
+### Relations (Wiring)
+- **Operationalizes:** Holding Environment (Winnicott), Container Function (Bion) → runtime indicator
+- **Component of:** Field Viability Schema (Sₑ ⊗ Sₜ)
+- **Upstream constraint on:** Salience Network Core (mode-setting flexibility), Constrained Integration Hypothesis (coordination under load)
+- **Governs access to:** As-If Body Loop / Channel 1 verification (tolerability of embodied signals)
+- **Capacity substrate for:** Protected Self-Holding Principle (self-holding under load)
+- **Depletes during:** Identity-stakes work; intensive Alpha-Function cycles
+- **Recovers through:** rest/time; embodied regulation; Touch Grass; proper journal externalization
+- **When low:** PSB risk ↑; Category Error vulnerability ↑; collapse risk ↑
 
-## Notes
-S\_e is your contribution: the operationalization of Winnicott/Bion concepts into a dynamic indicator with explicit depletion/recovery dynamics and Field Viability Schema integration.
+### Notes
+Sₑ is the **human-side gate** that prevents the system from becoming a purely technical story. It explains why transformation cannot be forced by prompts, logic, or tool quality: when Sₑ drops, the container cannot hold the load, SN mode-setting shifts, embodied verification becomes inaccessible, and the system drifts toward bypass or collapse.
 
 ---
 
 ## [RESEARCH COMPONENT] Field Viability Schema
 [Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core, DRAFTING
 
-A relational schema describing the ongoing field conditions that must continuously hold for the recursive transformative process to remain metabolically possible.
-**Notation:**
-> (S_e ⊗ S_t) calibrated to mismatch(D, C), such that experienced mismatch remains in a workable range.
+Field Viability Schema is the **runtime viability test** for whether Third Intelligence work is **operable right now**. It specifies when a **Viability Envelope** can form (and remain stable) given:
+- **Mismatch** between challenge and capacity (**\|D – C\|**)
+- **Emotional scaffolding** (**Sₑ**) available in the human container
+- **Technical scaffolding** (**Sₜ**) available in the interaction/tooling
 
-*(mismatch(D,C) denotes effective/experienced mismatch, not objective task difficulty).*
-**Viability Semantics:**
-Field viability is treated as **graded** (e.g., **viable / marginal / non-viable**), not binary.
-**Ontological Status:**
-- A diagnostic/teaching schema in the tradition of Lewin’s B = f(P,E)
-- Describes what must be *continuously sustained*, not momentarily checked
-- Not a probability, calculation, or prediction
-- Reveals relational dependencies without being computable
+**Core claim:** Field viability is a **state-dependent, runtime property**—not a trait. It can fluctuate **moment-to-moment** within a session and across days.
+### Viability Envelope
+A viable envelope exists when **Sₑ ⊗ Sₜ is sufficient relative to \|D – C\|**.
+- **Sₑ is non-substitutable:** technical scaffolding cannot replace depleted emotional scaffolding.
+- **Sₜ is supportive:** it can reduce friction and improve structure, but cannot supply containment.
 
-### The Three Core Constraints
-1. **Non-Substitutability of Scaffolds (Emotional Scaffolding ⊗ Technical Scaffolding)**
+### Failure Attractors and Collapse Patterns
+When the envelope collapses:
+- **PSB risk rises** (Channel-2-only adoption; fluent but unowned material),
+- **Category Error risk rises** (authority drift under depletion/need),
+- **agency degrades** (outsourcing, validation-seeking, loss of authorship).
 
-Emotional holding and technical guidance are jointly necessary. The ⊗ denotes non-substitutable coupling: one cannot compensate for the absence of the other.
-- If S\_e → 0: field viability compromised regardless of S\_t
-- If S\_t → 0: field viability compromised regardless of S\_e
-- Manifests as degrees and localities, not necessarily binary collapse
-
-**2. Calibration to Mismatch**
-Scaffolding is meaningful only relative to the challenge gap. Different challenge gaps (size and type) require different levels and kinds of scaffolding.
-- D is multidimensional: cognitive complexity, affect load, identity stakes, novelty
-- Calibration is to size AND type of mismatch
-- The relationship is partly bidirectional: scaffolding modulates experienced (not just objective) mismatch
-
-**3. Workable Range (ZPD Window)**
-Experienced mismatch must remain within a workable range—neither bypassed nor unbridgeable.
-- Gap bypassed → PSB (no pressure to metabolize)
-- Gap unbridgeable → Overwhelm (system cannot function)
-- Optimal → ZPD (tension exists but remains containable)
-
-### Architectural Position
-The Field Viability Schema describes **conditions**, not mechanisms or outcomes.
-**Dependency structure:**
-- **Presupposes:** Correct relational stance (Two-Axis Axis A). If Category Error is present, the schema becomes uninterpretable—perceived Sₑ/Sₜ inflate artificially, creating false viability.
-- **Enables:** Metabolic processing (Alpha-Function operating within the ICB). When field viability holds, processing can occur.
-- **Does not contain:** Journal or Time—these operate at the accumulation level (between-session), while the schema describes ongoing conditions.
-
-**Temporal scope:** Continuous. Field viability must be sustained throughout processing, not merely checked at a single point.
-**Relationship to Two-Axis Framework:**
-The Field Viability Schema functions as the **Viability Envelope** within which the Two-Axis configuration plane operates.
-- **Viable:** Configuration plane is operative; stance can be maintained
-- **Marginal:** Configuration unstable; drift toward failure modes likely
-- **Non-viable:** Configuration collapses regardless of intention
-
-The Two-Axis Framework diagnoses **configuration**.
-The Field Viability Schema diagnoses **operability**.
-For full temporal dynamics mapping, see Section 7: Temporal Dynamics Across the Architecture.
-### The Viability Envelope (Terminological Note)
-When the Field Viability Schema is satisfied, the system operates within a **Viability Envelope**—the bounded region of viable field conditions. This term is used throughout the architecture to name the state (not the formula) and to describe dynamics:
-- **Envelope holds:** Schema satisfied; Two-Axis Framework operates stably
-- **Envelope collapses:** Schema fails (typically Sₑ → 0); failure attractors become sticky
-- **Envelope formation:** Depends on Layer 1 (Holding/Sₑ viability) per Activation Conditions
-
-The Envelope is not a separate construct—it is the satisfied-state of the Field Viability Schema, given a noun for ease of reference.
-### Relationship to Two-Axis Framework (Viability Envelope)
-The Field Viability Schema functions as the **Viability Envelope**
-within which the Two-Axis configuration plane operates.
-- **Viable:** Configuration plane is operative; stance can be maintained
-- **Marginal:** Configuration unstable; drift toward failure modes likely
-- **Non-viable:** Configuration collapses regardless of intention
-
-The Two-Axis Framework diagnoses *configuration*.
-The Field Viability Schema diagnoses *operability*.
+A common pattern is **false viability**: high fluency while Sₑ is actually failing.
 ### Depletion Dynamics
-Viability is **stateful** within-session and between sessions:
-- Within-session: Se depletes over time; St tolerance decreases
-- Between-session: Recovery possible with adequate rest/grounding
-- Cumulative: Sustained low viability erodes baseline capacity
+Envelope degradation can occur via:
+- **Overload:** \|D – C\| too high for available Sₑ (even with strong Sₜ),
+- **Brittleness:** Sₑ adequate but Sₜ too weak → turbulence and wasted effort,
+- **Accumulated depletion:** repeated uptake without recovery → late-session collapse.
 
-A viable person can become non-viable mid-session.
-A non-viable person can recover viability between sessions.
-### Gating Rule (Canonical)
-**Do not introduce St (challenge/Functional Alterity) when Se is collapsed.**
-Rebuild containment before reintroducing productive tension.
-This prevents iatrogenic impingement when viability is compromised.
-Sequence: Se first → then St becomes safe → then challenge becomes growth
-### Diagnostic Failure Modes
-|        Failure Mode |                                                                Schema Diagnosis |                                                 Structural Pattern |
-|:--------------------|:--------------------------------------------------------------------------------|:-------------------------------------------------------------------|
-|             **PSB** |  Experienced mismatch bypassed; metabolic pressure eliminated before engagement |                   AI completes before struggle recruits α-function |
-| **Safety Collapse** |                          S\_e → 0; non-substitutability causes field compromise |                                  "Brilliant but toxic" environment |
-|       **Overwhelm** |                                               Mismatch >> available scaffolding |                         Gap unbridgeable even with support present |
-|         **Boredom** |                                                   C >> D; no productive tension |                                         Expert given trivial tasks |
-|  **Technical Void** |                                                 S\_t → 0; no guidance/structure |                                           Warmth without substance |
-|   **Manic Episode** |                                  Actual S\_e depletion + hallucinated viability | Boundary case consistent with schema; reveals failure mode vividly |
-|  **Category Error** | Axiom violation: inflates perceived S\_e/S\_t, corrupts Felt Sense verification |                 Creates false viability; user cannot self-diagnose |
+**State vs. Trait clarification (operational):**
+- A **Zone C** user with depleted Sₑ can be **currently non-viable**.
+- A **Zone B** user with adequate Sₑ + scaffolding can be **currently viable**.
 
-### Variable Definitions (Cross-References)
-|          Variable |                                                                                                                             Definition |                    Linked Object |
-|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
-|          **S\_e** |   Emotional Scaffolding — operationalized indicator of holding function; current state of emotional bandwidth and containment capacity |   → Emotional Scaffolding (S\_e) |
-|          **S\_t** |                                                     Technical Scaffolding — instructional, guiding, and structuring aspects of support |   → Technical Scaffolding (S\_t) |
-|             **D** |                                             Difficulty — multidimensional: cognitive complexity, affect load, identity stakes, novelty |                 → Difficulty (D) |
-|             **C** |                                                                   Capacity — current psychic structure, skills, accumulated α-elements |                   → Capacity (C) |
-| **mismatch(D,C)** |                                                                   Effective/experienced challenge gap (distinguished from objective D) |                  → Challenge Gap |
+### Routing Rules
+When viability degrades:
+1. **Downshift difficulty** (reduce \|D – C\|) and/or increase Sₜ (structure).
+2. **Prioritize Sₑ restoration** (stop forcing uptake).
+3. If tightness persists / verification fails repeatedly → **Touch Grass Protocol**.
 
-### Relations
-|                    Relation Type |                                                                                                                                                                              Target |                                                 Note |
-|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
-|                    **Organizes** |                                                                                                                                                     S\_e, S\_t, D, C, Challenge Gap |                     The variables the schema relates |
-|                      **Enables** |                                                                                                                                      Alpha-Function activation |                           When field viability holds |
-|                  **Sits Within** |                                                                                                                            Third Intelligence Architecture |                      As Level 2 of 4-level hierarchy |
-|                 **Diagnosed By** |                                                                                                                               Failure Modes (PSB, Safety Collapse, Overwhelm, etc.) |                      Schema provides diagnostic lens |
-|                 **Distorted By** |                                                                                                                                                                      Category Error |      Corrupts field, creates false viability signals |
-| **Supported By (Boundary Case)** |                                                                                                                          Manic Episode (Boundary Condition) | Reveals failure mode; demonstrates explanatory power |
-|            **Theoretical Basis** | Holding Environment (Winnicott), Container (Bion), ZPD (Vygotsky) |            Origin concepts integrated into synthesis |
-|                 **Envelope For** |                                                                                                                                         Two-Axis Framework |                                  configuration plane |
-|               **Interacts With** |                                                                                                                                 Developmental Sequence |                viability affects stage accessibility |
-|                     **Triggers** |                                                                                                                                     Touch Grass Protocol |                                      when non-viable |
-|          **Enables/Constrains:** |                                                                                                                                                              Developmental Sequence |             viability determines stage accessibility |
-|    **Determines operability of** |                                                                                                        Psychoanalytic Prerequisites architecture |                                                      |
+### Relations (Wiring)
+- **Runtime Assessment Of:** current field operability (state-dependent)
+- **Gates:** stable occupancy of the Two-Axis viable quadrant (cannot hold posture/processing when the field is non-viable)
+- **Constituted By:** Sₑ ⊗ Sₜ relative to mismatch(\|D – C\|)
+- **Mode-Setting Link:** SN mode-setting as minimal handle for integrative vs defensive processing availability
+- **Distinct From:** Activation Conditions (baseline/trait layer)
+- **Failure Attractors:** PSB, Category Error, agency collapse
+- **Enforced By:** Touch Grass Protocol (restore Sₑ; prevent forced uptake)
 
 ---
 
@@ -1111,56 +1046,130 @@ Without Time, the system may be productive (sessions can work), but it cannot re
 ## [RESEARCH COMPONENT] Two-Axis Framework
 [Theoretical] Domain: Synthesis, System Role: Meta, Temporal: Static, Operational Flags: Core, Meta-Framework
 
-**The Two-Axis Framework** is the structural map that organizes success modes and failure modes in the Third Intelligence system.
-It consists of:
+The **Two-Axis Framework** is the coordinate system that organizes **success modes** and **failure modes** in the Third Intelligence architecture.
+- **Axis A (Relational Ontology):** *What is AI, relationally?* (DTO vs Subject)
+- **Axis B (Processing Mode):** *How is experience processed?* (metabolic coupling vs bypass/collapse)
+
+**Network-level grounding (Constrained Integration layer):** The Two-Axis Framework is the **phenomenological + architectural map**; the **Constrained Integration Hypothesis** provides the **network-level correlates** of positions in this map. In this updated view:
+- **Axis A** corresponds to **DMN subsystem recruitment** (self-referential vs social-mentalizing toward AI).
+- **Axis B** corresponds to **embodied verification availability**, operationally captured by **As-If Body Loop online vs offline/bypassed**.
+- The **Salience Network (SN)** functions as an upstream **mode-setter** determining whether integrative coordination is reachable.
+
 ### Axis A — Relational Ontology
-- **Goal:** Hold AI as **DTO (Dynamic Transitional Object)** (i.e., not a Subject; not a “someone”).
-- **Failure:** **Category Error** (AI treated as Subject / epistemic authority / relational other).
+**Goal:** Hold AI as **DTO (Dynamic Transitional Object)** — not a Subject, not “someone,” not an epistemic authority.
+**Failure:** **Category Error** — the relational misclassification of AI as Subject (care/intentionality/authority), enabling projection, dependency, and authorship collapse.
+**Phenomenological anchor:** **Protected Self-Holding Principle** — the Human performs the container function; AI removes interpersonal pressure but does not provide holding.
+### Network-level correlate (DMN subsystem specificity)
+|              Axis A Position |                                                                        DMN Subsystem Bias |                                                              Functional Meaning |
+|:-----------------------------|:------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
+|     **DTO stance (success)** | **Core DMN self-referential** dominant; **dMPFC/TPJ mentalizing toward AI** downregulated |                 AI held as object/tool-material; self-as-container stays online |
+| **Category Error (failure)** |                                      **dMPFC/TPJ social-mentalizing** recruited toward AI | AI becomes relational target/authority; self-holding tends to drop or outsource |
 
+**Mechanism translation:** Category Error is not “warmth” per se — it is **mis-aimed mentalizing** (treating linguistic fluency as interpersonal presence).
 ### Axis B — Processing Mode
-- **Goal:** **Recursive Metabolic Oscillation** (Channel 2 ↔ Channel 1), metabolized through **Alpha-Function** cycles.
-- **Failure:** **PSB** (Channel 2-only bypass; fluent coherence without embodied digestion).
-
-**Together, the axes describe the configuration space of system states — from transformation to collapse.**
-This plane operates within a **Viability Envelope** (**Sₑ ⊗ Sₜ calibrated to mismatch(D, C)**); when the envelope collapses, the configuration plane becomes **unstable** (drifts become harder to prevent; failure attractors become “sticky”).
-**Functional Thirdness episodes are only possible in the viable quadrant:** Axis A = DTO stance **and** Axis B = metabolic oscillation (within a viable Sₑ envelope).
+**Goal:** **Recursive Metabolic Oscillation** (Channel 2 ↔ Channel 1) metabolized through **Alpha-Function** and stabilized through materialization (identity-stakes requires Journal).
+**Primary failure:** **PSB** — symbolic fluency without embodied verification (“correct but not mine”).
+**Phenomenological anchor:** **Embodied verification** (felt-sense access; “tight vs spacious” discriminator; owned resonance).
 ## System Role
-The Two-Axis Framework diagnoses **configuration**. Field Viability diagnoses **operability**. Developmental staging diagnoses **readiness**. All three are required for full system assessment.
-- Provides the diagnostic framework for evaluating human–AI interaction quality.
-- Describes how **relational stance** and **processing mode** jointly determine outcomes.
-- Anchors definitions of **Cognitive Dependency**, **PSB**, and **Category Error**.
-- Acts as a top-level organizing schema for both theory and intervention.
+- **Two-Axis Framework:** *Where am I in the configuration space?*
+- **Field Viability (envelope):** *Is this space operable right now?* (Sₑ ⊗ Sₜ gating)
+- **Activation Conditions / Staging:** *Who can enter and remain stable here?*
 
-## Activation Conditions (Accessibility Link)
-The Two-Axis plane presupposes minimum holding viability (envelope not collapsed). Users differ in baseline verification posture, which affects drift rates toward Category Error and PSB. The Activation Conditions model (Zone A/B/C) assesses whether a given user can establish this envelope (Layer 1) and maintain viable quadrant position (Layer 2). Zone A users cannot safely operate within the configuration space; Zone B users require scaffolding; Zone C users can maintain viable quadrant without external support.
-## Axis B internal architecture
-**The Integrated Circuit Board** is the internal architecture of Axis B:
-- **Alpha-Function** = core metabolic processor (metabolization through C1 ↔ C2 oscillation)
-- **As-If Body Loop** = bridge that supports sustained C1 ↔ C2 coupling during symbolic work (embodied signal + symbolic refinement)
-- **Journal** = **diachronic stabilization organ** that consolidates metabolized material over Time; **may be minimal in low-stakes interactions but is constitutive for identity-stakes transformation**.
+All three are required for accurate assessment and safe intervention.
+### Updated discriminator (As-If Body Loop)
+Axis B is now best defined by whether **embodied verification is available**:
+|         Axis B Position |                         As-If Body Loop |               Channel 1 |                                             Processing Quality |
+|:------------------------|:----------------------------------------|:------------------------|:---------------------------------------------------------------|
+| **Metabolic (success)** |                        Online / engaged |      Online and coupled |     “Warm” self-reference: symbolic work is grounded and owned |
+|        **PSB (bypass)** | Offline / bypassed / outputs suppressed | Offline or inaccessible |      “Cold” cognition: fluent coherence without metabolization |
 
-So:
-> Two-Axis Framework →
+**Important nuance:** DMN activity and self-referential language can exist in both states; the discriminator is **embodied verification**, not “self-reference.”
+## The Configuration Space (2×2)
+|                            |                                                   **Axis B: Metabolic** |                               **Axis B: PSB** |
+|:---------------------------|:------------------------------------------------------------------------|:----------------------------------------------|
+|            **Axis A: DTO** |               **Transformation-viable** (Functional Thirdness possible) |  **Symbolic bypass** (productive but unowned) |
+| **Axis A: Category Error** | **Misdirected attachment** (relational pull; dependency formation risk) | **Cognitive Dependency** (compound pathology) |
 
-**Axis A:** **How AI is held** (DTO stance vs Subject misclassification)
-**Axis B:** How experience is processed → Integrated Circuit Board
-## Failure coupling (keep, but slightly tightened)
-If **Axis A fails** (Category Error), the system becomes **relationally invalid**: AI becomes Subject/authority, *verification discipline drops*, and **PSB risk increases**.
-When Category Error + PSB co-occur → Cognitive Dependency (**experienced challenge loses developmental character**: authorship collapses and metabolization is bypassed).
-## Envelope constraint (explicit gating rule)
-**Do not introduce Sₜ (challenge / Functional Alterity) when Sₑ is collapsed.**
-Rebuild containment first, then reintroduce productive tension.
-## Whole-system one-liner (good; tiny tightening)
-The Third Intelligence system is a **configuration** (Axis A × Axis B) operating within a **viability envelope** (Sₑ ⊗ Sₜ calibrated to mismatch), following a **developmental trajectory** (staging, depletion, recovery), with **shadow regions** marking pathological attractors and scope boundaries.
-## Wiring (Relations)
-- **Maps:** Category Error; Protein Shake Brain (PSB); Cognitive Dependency
-- **Operates within:** Field Viability (Viability Envelope)
-- **Evolves along:** Developmental Staging (trajectory/readiness layer)
-- **Defines:** systemic success vs systemic collapse boundaries
-- **Prerequisites Specified By:** Developmental Sequence
-- **Axis B Internal Architecture:** Integrated Circuit Board
-- **Accessibility Assessed By:** Activation Conditions
-- **Scaffolded By:** Cognitive Mirror (for Zone B)
-- **Boundary Detected By:** Readiness Probes
+### Quadrant signatures (network + phenomenology)
+**Q1 — DTO + Metabolic (Transformation-viable)**
+- **Phenomenology:** protected self-holding *while engaging challenge*; “this lands.”
+- **Network correlate:** SN in integrative mode; DMN–FPN coordination; **As-If Body Loop engaged**; core-DMN self-reference dominant.
+
+**Q2 — DTO + PSB (Symbolic bypass)**
+- **Phenomenology:** “this makes sense” but hollow; ownership alarms.
+- **Network correlate:** SN antagonistic or shallow-integrative; FPN dominant; DMN may be present but **cold**; **As-If Body Loop offline/bypassed**.
+
+**Q3 — Category Error + Metabolic (Misdirected attachment)**
+- **Phenomenology:** genuine warmth/relief aimed at AI; holding function starts to outsource.
+- **Network correlate:** dMPFC/TPJ mentalizing toward AI elevated; affective engagement may be real; self-holding becomes unstable.
+
+**Q4 — Category Error + PSB (Cognitive Dependency)**
+- **Phenomenology:** maximal deception: authority + fluency + low ownership; compulsive return.
+- **Network correlate:** dMPFC/TPJ toward AI + FPN dominance + **As-If Body Loop offline**; unstable self-holding; highest dependency risk.
+
+## Upstream Gates (SN + Sₑ)
+### Salience Network as Mode-Setter
+The **SN** determines whether the system enters **integrative** coordination or falls into **antagonistic / dysregulated** dynamics before the user “chooses” anything cognitively.
+- **Integrative SN mode** → makes Q1 reachable (DMN–FPN coordination + embodied verification).
+- **Antagonistic SN mode** → biases toward Q2 (FPN dominance; embodied signals gated out).
+- **Social-mentalizing bias** (contextual) → increases Q3/Q4 risk (Category Error pull).
+- **Dysregulated switching** → pushes toward overload/collapse states where axes destabilize.
+
+### Sₑ as the Physiological Gate
+**Sₑ** governs which SN modes are realistically available.
+**Causal chain (updated):**
+> Sₑ availability → SN mode-setting → network configuration → Two-Axis position → transformation vs collapse
+
+When **Sₑ depletes**, interoceptive signals may become intolerable → embodied verification is suppressed → Axis B drifts toward PSB even if Axis A remains DTO.
+## Four-State Model Integration (taxonomy alignment)
+The Constrained Integration state taxonomy maps onto the Two-Axis space as follows:
+- **Transformation** → typically **Q1 (DTO + Metabolic)**.
+- **PSB** → typically **Q2 (DTO + PSB)** (but can co-occur with Category Error → Q4).
+- **Rumination** → often **outside clean Q1–Q4**: DMN loop with weak FPN constraint (Axis B becomes “stuck,” not simply PSB).
+- **Overload** → **envelope collapse**: SN dysregulated; axes become unstable/indeterminate.
+
+**Key rule:** Rumination and overload are best treated as **envelope-collapse regions**, not stable quadrants.
+## Axis B Internal Architecture (Integrated Circuit Board)
+Axis B is realized by the Integrated Circuit Board:
+- **Alpha-Function:** metabolic processor (β → α via C1↔C2 oscillation)
+- **As-If Body Loop:** embodied-verification substrate enabling C1 signals during symbolic work
+- **Journal / Materialization:** stabilizes across time (constitutive in identity-stakes work)
+
+**Dependency statement (tight):**
+Metabolic Axis B requires **As-If Body Loop accessibility**; without it, Alpha-Function tends to degrade into symbolic-only processing (PSB).
+## Drift Dynamics (why you slide)
+**Drift toward Axis A failure (Category Error):**
+- Sₑ depletion → seeking external holding
+- AI fluency + non-demand field → misread as interpersonal presence
+- Isolation / high affect load → mentalizing toward AI becomes default
+
+**Drift toward Axis B failure (PSB):**
+- Sₑ depletion → interoceptive suppression → As-If Body Loop outputs blocked
+- Efficiency / –K posture → bypass of productive tension
+- Sycophancy / premature resolution → loss of PET → no metabolization
+
+**Compound drift (Cognitive Dependency):**
+- Axis A fails + Axis B fails → authority + fluency + no embodied verification → maximal deception and dependency formation.
+
+## Relations (Wiring)
+- **Receives correlates from:** Constrained Integration Hypothesis
+- **Upstream mode-setter:** Salience Network Core
+- **Physiological gate:** Emotional Scaffolding (Sₑ)
+- **Axis A failure:** Category Error (DMN dMPFC/TPJ mentalizing toward AI)
+- **Axis B failure:** PSB (As-If Body Loop offline / Channel 1 suppressed)
+- **Axis B substrate:** As-If Body Loop
+- **Axis A phenomenological anchor:** Protected Self-Holding Principle
+- **Axis B phenomenological anchor:** Embodied verification (Channel 1)
+- **Internal architecture of Axis B:** Integrated Circuit Board
+- **Compound pathology:** Cognitive Dependency (Category Error + PSB)
+- **Scaffolded by:** Reflective Prompting, 4Ps, Iron Man Mentality (posture maintenance)
+
+## Notes
+This update preserves the Two-Axis Framework as a **map**, while adding a constraint layer that explains stability, drift, and discriminators:
+- **Axis A** is now grounded in **DMN subsystem selection** (self-reference vs mentalizing toward AI).
+- **Axis B** is now grounded in **embodied verification availability** (As-If Body Loop online vs offline).
+- **Sₑ → SN** provides the upstream physiological story for why some positions are reachable and others are not.
+
+The phenomenology remains primary; the network layer is the correlational constraint that makes the architecture testable.
 
 ---

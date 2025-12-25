@@ -8,7 +8,6 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
-    - reflective-prompting.md
     - parity-principle-pp.md
     - extended-mind-hypothesis-hec.md
     - iron-man-mentality.md
@@ -47,8 +46,6 @@ Links:
     - selected-fact.md
     - anterior-insular-cortex-aic.md
     - as-if-body-loop.md
-    - reflective-prompting.md
-    - rrv-cycle-recursive-refine-validate.md
     - recursive-pattern-verification-loop.md
 Emoji: "\U0001F4A1"
 id: bafyreidnizaiakiedl7a4jromwkgd7dowpo75xuayezabtkpqib6fpfd3i
@@ -139,11 +136,10 @@ EAW coordinates neural systems through action + external constraint. Likely enga
 - [As-if body loop](as-if-body-loop.md) / simulation mechanisms → symbols producing embodied states   
    
 ### Operationalization in Protocols   
-|                                                                                                  Protocol |                                                                                                                                                                       EAW Locus |
-|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[Reflective Prompting](reflective-prompting.md) ([RRV cycle](rrv-cycle-recursive-refine-validate.md))** |                                                                                            Enacted during Refine/Validate steps where articulation is rewritten into owned form |
-|                                                                       **[4Ps Protocol](4ps-protocol.md)** | Process + Possess steps together enact EAW: Process provides semantic commitment (re-articulation in own idiom); Possess provides felt-sense constraint (embodied verification) |
-|                                                            [RPVL](recursive-pattern-verification-loop.md) |                                                                                                                     Continuous verification context ensuring EAW isn't bypassed |
+|                                       Protocol |                                                                                                                                                                       EAW Locus |
+|:-----------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|            **[4Ps Protocol](4ps-protocol.md)** | Process + Possess steps together enact EAW: Process provides semantic commitment (re-articulation in own idiom); Possess provides felt-sense constraint (embodied verification) |
+| [RPVL](recursive-pattern-verification-loop.md) |                                                                                                                     Continuous verification context ensuring EAW isn't bypassed |
 
 ### Anti-Claims (Explicit Boundaries)   
 - EAW does **not** claim that metabolism happens "in the notebook"   

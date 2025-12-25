@@ -7,7 +7,6 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Static'
 Backlinks:
-    - reflective-prompting.md
     - preconditions-for-transformative-ai-dialogue.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

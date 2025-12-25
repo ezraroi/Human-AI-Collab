@@ -21,6 +21,7 @@ Backlinks:
     - 2-the-divided-labors-of-two-theories.md
     - 9-final-integration-principles.md
     - 10-the-integrated-claim.md
+    - transmissive-self.md
     - section-6-the-complete-system-architecture.md
     - 3-the-13-stage-development-sequence.md
     - psychoanalytic-integration.md

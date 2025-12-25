@@ -8,7 +8,10 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - 5-measurement-program-menu.md
+    - salience-network-core.md
+    - protected-self-holding-principle.md
     - 3-the-discriminator-framework.md
+    - as-if-body-loop.md
 Origin Domain:
     - Neurobiology & Neuroscience
 Epistemic Status: 'Literature: Established academic fact'

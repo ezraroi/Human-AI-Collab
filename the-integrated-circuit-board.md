@@ -12,6 +12,7 @@ Backlinks:
     - developmental-sequence.md
     - embodied-engagement-conditions.md
     - journal.md
+    - digital-neurophenomenology.md
     - conclusion-on-novelty-and-contribution.md
     - recursive-metabolic-loop.md
     - 4-the-neurophenomenological-parallel.md

@@ -12,11 +12,11 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
+    - reflective-prompting.md
     - section-10-open-edges-to-bridge-later.md
     - 4-revised-contribution-of-notebook-11.md
     - minimal-self.md
     - why-this-architecture-is-powerful.md
-    - 4ps-protocol.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - teleological-drift.md
     - section-9-container-as-function-authorization.md
@@ -25,15 +25,16 @@ Backlinks:
     - introduction-the-core-problem-and-the-role-of-ai.md
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
-    - executive-summary_9.md
+    - executive-summary_r.md
     - cognitive-style-bias.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_o.md
+    - executive-summary_u.md
     - selected-fact.md
+    - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - time.md
@@ -56,23 +57,23 @@ Backlinks:
     - section-6-the-complete-system-architecture.md
     - 15-is-your-model-suggesting-something-new.md
     - 4-the-neurophenomenological-parallel.md
+    - two-axis-framework.md
     - 5-final-positioning-statement.md
     - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - third-intelligence.md
+    - the-constrained-integration-hypothesis.md
     - 6-the-final-positioning-framework.md
-    - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - the-journals-role-in-third-intelligence.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - 1-executive-summary_b.md
+    - 1-executive-summary_2.md
     - 3-the-mechanism-catalytic-externalization.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
-    - activation-conditions.md
     - emotional-scaffolding-s_e.md
     - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md

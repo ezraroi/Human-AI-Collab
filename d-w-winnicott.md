@@ -20,16 +20,14 @@ Backlinks:
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 3-implications-for-positioning.md
     - 10-the-integrated-claim.md
+    - transmissive-self.md
     - true-self.md
     - 7-what-each-framework-gains-from-integration.md
     - dynamic-transitional-object-dto.md
-    - field-viability-schema.md
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - protein-shake-brain-psb.md
     - potential-space.md
     - psychoanalytic-prerequisites.md
-    - activation-conditions.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md

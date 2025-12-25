@@ -33,11 +33,11 @@ Backlinks:
     - the-integrated-circuit-board.md
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
-    - alpha-function.md
+    - the-constrained-integration-hypothesis.md
     - psychoanalytic-integration.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_f.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

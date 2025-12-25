@@ -5,8 +5,7 @@ Object type:
 Tag:
     - 'Domain: Synthesis'
 Backlinks:
-    - two-axis-framework.md
-    - field-viability-schema.md
+    - recursive-metabolic-loop.md
     - psychoanalytic-prerequisites.md
     - the-unified-architecture.md
 Origin Domain:

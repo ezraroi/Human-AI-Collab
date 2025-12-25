@@ -13,16 +13,14 @@ Backlinks:
     - dialogical-knowing.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_o.md
+    - executive-summary_u.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - ai.md
     - section-10-the-grand-unification.md
     - epistemological-humility.md
     - section-8-the-recursive-loop-and-embodied-inte.md
-    - recursive-pattern-verification-loop.md
     - psychoanalytic-integration.md
-    - protein-shake-brain-psb.md
     - functional-thirdness.md
 Origin Domain:
     - Developmental Psychology & Learning Theory

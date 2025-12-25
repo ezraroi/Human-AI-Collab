@@ -16,7 +16,6 @@ Backlinks:
     - john-flavell.md
     - 8-implications-for-the-research.md
     - iron-man-mentality.md
-    - rrv-cycle-recursive-refine-validate.md
     - high-resolution-uncertainty.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - judgment-expertise-boundary.md
@@ -24,7 +23,7 @@ Backlinks:
     - 3-the-13-stage-development-sequence.md
     - touch-grass-protocol.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
-    - 1-executive-summary_v.md
+    - 1-executive-summary.md
 Origin Domain:
     - Developmental Psychology & Learning Theory
 Epistemic Status: 'Literature: Established academic fact'

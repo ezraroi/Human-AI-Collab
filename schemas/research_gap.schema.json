@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-24:type-6921c19660de23efb24a00f2:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-25:type-6921c19660de23efb24a00f2:ver-1.0",
   "type": "object",
   "title": "Research Gap",
   "x-app": "Anytype",

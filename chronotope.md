@@ -28,7 +28,7 @@ Backlinks:
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'
-Research Status: Sealed
+Research Status: Drafting
 Creation date: "2025-11-22T11:52:31Z"
 Created by:
     - Roi Ezra

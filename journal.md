@@ -15,7 +15,6 @@ Backlinks:
     - narrative-self.md
     - developmental-sequence.md
     - section-4-attribution-logic.md
-    - reflective-prompting.md
     - 5-the-embodied-connection.md
     - section-10-open-edges-to-bridge-later.md
     - 4-revised-contribution-of-notebook-11.md
@@ -35,13 +34,13 @@ Backlinks:
     - holding-environment.md
     - extended-mind-hypothesis-hec.md
     - authoritative-discourse.md
-    - executive-summary_9.md
+    - executive-summary_r.md
     - 6-final-conclusion.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_o.md
+    - executive-summary_u.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -63,6 +62,7 @@ Backlinks:
     - d-w-winnicott.md
     - 8-common-misuses-and-anti-patterns.md
     - 9-final-integration-principles.md
+    - recursive-metabolic-loop.md
     - section-7-temporal-dynamics-across-the-archite.md
     - 10-the-integrated-claim.md
     - hsced-hermeneutic-single-case-efficacy-design.md
@@ -94,7 +94,7 @@ Backlinks:
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - c-capacity.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_f.md
     - 4-three-key-tensions-surfaced-through-triangul.md
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
@@ -102,14 +102,14 @@ Backlinks:
     - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md
-    - 1-executive-summary_b.md
+    - 1-executive-summary_2.md
     - section-13-significance-and-forward-direction.md
     - implementation-guidance.md
+    - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - internally-persuasive-discourse.md
     - section-6-journal-function-refinement.md
     - final-definition.md
-    - cognitive-mirror-protege-mode.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - 4-critical-connection-2-felt-sense-channel-1-v.md
     - chronotope.md

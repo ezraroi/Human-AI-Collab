@@ -30,11 +30,10 @@ Backlinks:
     - section-1-purpose-of-this-notebook.md
     - 15-is-your-model-suggesting-something-new.md
     - dynamic-transitional-object-dto.md
-    - field-viability-schema.md
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
-    - integrated-synthesis-of-psychological-developm.md
-    - 2-the-unbundled-rationale-architecture.md
+    - integrated-synthesis-of-psychological-developm_f.md
+    - 2-the-unbundled-rationale-architecture_p.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - section-13-significance-and-forward-direction.md
     - psychoanalytic-prerequisites.md

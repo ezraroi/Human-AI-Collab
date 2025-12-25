@@ -1,7 +1,7 @@
 # Biological Substrates (8)
 
 ## Index
-Anterior Insular Cortex (AIC), As-If Body Loop, Autonomic Nervous System Regulation (ANS / Vagal Regulation), HPA-Axis, Reward / Reinforcement Circuitry, Salience Network Core (AIC + dACC), Systems Consolidation, Triple Network Model
+Anterior Insular Cortex (AIC), As-If Body Loop, Autonomic Nervous System Regulation (ANS / Vagal Regulation), HPA-Axis, Reward / Reinforcement Circuitry, Salience Network Core, Systems Consolidation, Triple Network Model
 
 ---
 
@@ -17,66 +17,95 @@ Beyond internal awareness, the AIC is heavily implicated in high-level cognitive
 ---
 
 ## [BIOLOGICAL SUBSTRATE] As-If Body Loop
-[Empirical] Domain: Bio-Embodied, Temporal: Static
+[Empirical] Domain: Bio-Embodied, Temporal: Dynamic, System Role: Method
 
-A hypothesized mechanism within Damasio's SMH by which the brain can generate *somatic-marker* biasing signals via internal simulation ("as-if") without requiring overt physical change; this can be compatible with Felt Sense as an example of bodily signals informing cognition, without equating the two.
-The "**As-If Body Loop**" is a theoretical pathway proposed within Damasio's Somatic Marker Hypothesis (SMH) to explain how the brain can generate emotional and visceral biasing signals to guide decision-making **without requiring an actual physical change in the body**.
-**What it is and its role:**
-The *Somatic Marker Hypothesis* suggests that decision-making is guided by "somatic markers"—crude biasing signals representing emotional reactions that arise from the periphery or the central representation of the periphery. The **"as-if body loop"** is the central mechanism that facilitates the rapid, internal activation of these markers.
-• **Internal Simulation:** The "as-if body loop" represents the brain's ability to create a **"forward model"** of the physical changes it expects to take place in the body (the actual somatic state or "body loop"). This allows for the cognitive representation of emotions to be activated in the brain **without the need for direct sensory stimulation**.
-• **Speed and Efficiency:** This loop is necessary to enable the organism to respond more rapidly to external stimuli or decision options without waiting for the actual physiological activity to emerge in the periphery (i.e., a "short-circuiting" of feedback from the body).
-• **Neural Components:** The **ventromedial prefrontal cortex (vmPFC)** is considered a key region for this pathway, allowing secondary inducers (such as memories or recollections of emotional events) to trigger somatic states. The brain combines the information of secondary inducers into the relevant inner model, causing internal changes and eliciting a bodily response.
-• **Decision Guidance:** By predicting the perception of bodily reactions, the "as-if body loop" allows the brain to make decisions based on these predictions, helping to favor returning to a previous positive experience or avoiding a painful one.
-The concept of the "as-if loop" extends and specifies earlier accounts of how anticipated body-state changes might shape higher-level processing, making the SMH more flexible and able to account for the speed and complexity of emotional responses. For example, in the context of predictive processing models, the "as-if body loop" corresponds to a kind of **internal model** used for interoceptive prediction.
-The "as-if body loop" contrasts with the **"body loop,"** where physical changes are actually transmitted to the brain to directly induce emotions, typically triggered by primary inducers (innate or learned sensory stimuli) through the amygdala and vmPFC, which stimulate the body and generate a specific somatic state.
-### Local Failure Mode: Symbolic Overrun
-When the As-If Body Loop is weak, ignored, or bypassed, symbolic material (Channel 2) is processed without recruiting embodied simulation (Channel 1), i.e., without sustained C1 ↔ C2 coupling. This produces a flattening of experience where:
+A hypothesized pathway within **Damasio’s Somatic Marker Hypothesis (SMH)** in which the brain can generate **somatic-marker biasing signals via internal simulation** (“as-if”) without requiring overt peripheral bodily change (“body loop”). Functionally, it is a **simulation route** for bringing embodied valence (approach/avoid, tight/spacious, alarm/relief) into cognition quickly enough to guide attention, evaluation, and decision-making.
+In the Third Intelligence architecture, the As-If Body Loop is treated as a **candidate substrate for embodied verification**: a plausible mechanism through which **Channel 1 (embodied signal)** can remain available while **Channel 2 (symbolic processing)** engages challenge. This is central to discriminating **metabolic integration** from **symbolic-only processing** (PSB risk), even when self-referential language is present.
+### What It Is (canonical function)
+- **Somatic marker generation without waiting:** produces “body-state as-if” representations that bias cognition rapidly.
+- **Secondary inducers:** can be triggered by memories, imagined futures, narratives, or symbolic content (not only direct sensory events).
+- **Guidance function:** supplies crude but actionable valence signals that shape what the mind stays with vs. avoids.
+
+**Contrast (keep clean):**
+- **Body loop:** peripheral change → sensed → influences cognition.
+- **As-If loop:** simulated body-state representation → influences cognition (may or may not recruit peripheral change).
+
+**Boundary:** This is **not identical to Felt Sense**. Felt Sense is the **phenomenological access/readout**; the as-if loop is one plausible **generative route** for biasing signals that Felt Sense may register.
+### System Role in Third Intelligence
+**Architectural role:** the As-If Body Loop is a primary *candidate mechanism* by which **self-reference becomes embodied** rather than purely symbolic.
+- **Embodied verification substrate (Channel 1 support):** enables “does this land?” checks (tight/spacious discriminator, visceral mismatch, felt shift).
+- **Metabolic coupling support:** helps sustain **C1 ↔ C2 coupling** during Alpha-Function cycles (symbolic articulation remains anchored to embodied valence).
+- **Protected Self-Holding linkage:** self-holding includes an embodied dimension (“I am here” as felt, not only narratively asserted). The as-if loop is a plausible biological contributor to that embodied dimension under cognitive load.
+- **Constrained Integration alignment:** network-level DMN engagement can remain **purely conceptual**; transformation-viable states require that self-referential processing stays **embodied** (Channel 1 online) while executive constraint remains engaged.
+
+### Neuro-functional connections (constraint layer, not reduction)
+- **DMN relation (internal simulation):** the as-if loop fits the broader family of internally generated simulation processes; DMN engagement can *permit* it but does not guarantee it.
+    - **DMN without embodied simulation:** symbolic self-reference (“about me” language, hollow clarity).
+    - **DMN with embodied simulation:** felt self-reference (valence, tension, resonance).
+- **AIC relation (interoception + SN anchor):** the **Anterior Insular Cortex** is both (a) a hub for interoceptive representation and (b) a core node of the **Salience Network**. This anatomically links **mode-setting** (SN) with **embodied verification availability** (Channel 1 access).
+- **SN mode-setting dependency:** when SN sets an antagonistic/threat mode, embodied signals may be gated out (abstraction) or become dysregulating (overwhelm).
+- **FPN relation:** executive constraint can either *hold* embodied signals in awareness for integration, or suppress them to maintain performance—shaping whether metabolization occurs.
+
+### State Mapping (four-state model)
+|                     State |                  As-If Body Loop |       Channel Dynamics |                           Felt Quality |                             Architectural Mapping |
+|:--------------------------|:---------------------------------|:-----------------------|:---------------------------------------|:--------------------------------------------------|
+| **Transformation-viable** |                Online; recruited |        C1 ↔ C2 coupled |        “This lands / shifts / is mine” | Metabolization possible; PSH preserved under load |
+|          **PSB (bypass)** |        Offline / weak / bypassed | C2 dominant; C1 absent |          “Makes sense” (clean, hollow) |  Symbolic overrun; verification posture collapses |
+|            **Rumination** | Partially active but uncontained | C1 noisy; C2 decoupled |       “I feel it, but can’t integrate” |              DMN looping risk; constraint missing |
+|              **Overload** |       Overwhelmed / dysregulated |  Both channels chaotic |                “Too much / can’t hold” |                  Sₑ depleted; self-holding breaks |
+
+**Key discriminator (architectural claim):** DMN/FPN dynamics alone do not reliably distinguish transformation from PSB. The discriminating layer is whether **embodied verification (C1)** is actually online and usable—of which the as-if loop is a candidate biological contributor.
+### Local Failure Mode: Symbolic Overrun (PSB pathway)
+When the as-if loop is weak, ignored, or gated out, symbolic material is processed without embodied simulation:
 - ideas feel clear but ungrounded
-- insights appear instantly "right" without Felt Sense verification
-- thinking becomes abstracted, polished, and brittle
-- the user loses access to the "tight vs. spacious" felt-sense discriminator
+- insights appear instantly “right” without verification
+- thinking becomes polished and brittle
+- tight/spacious discriminator disappears
+This is a practical early warning signature of **Axis B drift** toward Channel-2 dominance.
 
-In this system, this is a practical failure signature when embodied simulation is under-engaged during symbolic work.
-### Interaction Dynamics (Propagation Rules)
-When the As-If Body Loop is offline or under-engaged:
-- Alpha-Function cycles proceed with Channel 2 material without sustained C1 ↔ C2 coupling (via Felt Sense / embodied signal) → leads to brittle pseudo-insight.
-- **Journal entries become over-conceptualized** (heady, coherent, but not alive).
-- **Capacity (C)** does not increase properly, because metabolization lacks affective grounding.
-- **Future cycles begin from a false baseline**, since prior entries did not reflect embodied verification.
-- **Axis B tilts toward Channel-2 dominance**, the early signature of PSB.
+### Propagation Rules (why it matters systemically)
+When the As-If Body Loop is offline/under-engaged:
+1. Alpha-Function cycles become symbolic-only → brittle pseudo-insight
+2. Journal entries become over-conceptualized (coherent but not metabolized)
+3. Capacity (C) compounds poorly (no grounded integration)
+4. Future cycles start from a false baseline → PSB attractor strengthens
+5. Protected self-holding degrades (embodied “I am here” disappears even if self-talk persists)
 
-Thus, degradation in the As-If Loop undermines the entire metabolic circuit.
-### Phenomenology (Online vs. Offline As-If Body Loop)
-**When the As-If Body Loop is online:**
-- There may be a felt response to ideas (e.g., tight/spacious), consistent with—but not identical to—Felt Sense access.
-- Symbolic material has emotional coloration.
-- Confusion has a bodily signature that guides inquiry.
-- Insights feel "real" because they resonate in the body.
+### Sₑ Dependency (qualitative constraint)
+The as-if loop requires enough **Sₑ** to tolerate embodied signal:
+- **Low Sₑ → avoidance:** embodied signals are muted/gated out → abstraction dominates.
+- **Low Sₑ + high salience → overwhelm:** signal becomes dysregulating → overload/collapse.
+This makes embodied verification a **capacity-dependent** function, not a guaranteed feature of self-referential thought.
 
-**When the As-If Body Loop is offline:**
-- Thinking feels clean but hollow; everything "makes sense instantly."
-- No tension, no dissonance, no struggle → no metabolization.
-- You stay fully in symbolic space ("living in the map").
-- Writing becomes fully conceptual, lacking personal texture.
-- Ideas collapse when tested in real life.
+### Operationalization (candidate markers)
+**Phenomenological markers (highest priority):**
+- presence/absence of tight/spacious discriminator
+- “alive vs hollow” quality of insight
+- felt shift events vs instant narrative closure
 
-These signatures are the easiest real-time detection method.
-### Sₑ Dependency (Qualitative Constraint)
-The As-If Body Loop requires enough Sₑ (emotional scaffolding) to allow **felt experience** to come online. When Sₑ is low:
-- The user unconsciously avoids embodied signals (too intense or disruptive).
-- Processing shifts into pure abstraction (Channel 2 dominance).
-- The felt-sense becomes inaccessible or muted.
-- Felt Sense verification becomes harder to access during Alpha-Function processing.
+**Behavioral markers:**
+- pausing to check felt sense during symbolic work
+- revisions driven by felt mismatch (not only logical inconsistency)
+- sustained tolerance of “not-yet-clear” material without premature closure
 
-Sₑ therefore governs *whether* the Loop can activate, even when symbolic input is available.
-**Relations (The Wiring):**
-- **Part Of:** Integrated Circuit Board (Axis B architecture)
-- Link to **Anterior Insular Cortex** (Relation: Associated With).
-- Link to **Channel 1** (Relation: `Connects To`).
-- Link to **Channel 2 (Symbolic)** (Relation: `Connects To`).
-- Link to **Alpha-Function** (Relation: Supports).
+**Physiological / experimental candidates (hypothesized, non-definitive):**
+- interoceptive accuracy tasks
+- HRV / vagal flexibility as a constraint proxy (ties to Sₑ)
+- SCR / pupillary responses around “salience moments”
+- AIC/vmPFC engagement during reflective tasks (if measured)
 
-**Notes:** Mechanism for simulation of bodily states; underpins embodied simulation & felt sense.
+### Relations (Wiring)
+- **Part Of:** Integrated Circuit Board (Axis B: C1 ↔ C2 coupling)
+- **Candidate substrate for:** Channel 1 embodied verification
+- **Constrains / supports:** Alpha-Function feasibility (metabolic coupling)
+- **Connected To:** Protected Self-Holding Principle (embodied dimension of self-holding)
+- **Constraint layer for:** Constrained Integration Hypothesis (embodied self-reference under executive load)
+- **Associated With:** Anterior Insular Cortex (interoception) + Salience Network Core (mode-setting gate)
+- **Failure pathway to:** Symbolic Overrun → PSB risk
+- **Constrained By:** Emotional Scaffolding (Sₑ), ANS regulation
+
+### Notes
+This object is a **mechanism-level hypothesis** used to ground “embodied verification” without reducing Felt Sense to a single neural story. It provides a plausible route by which symbolic work becomes metabolically anchored. The strongest claim it supports in your architecture is **discriminative** (when it’s offline, PSB risk rises), not “causal proof” of transformation.
 
 ---
 
@@ -147,33 +176,84 @@ This object is intentionally **not moralizing**: reward is not “bad.” The po
 
 ---
 
-## [BIOLOGICAL SUBSTRATE] Salience Network Core (AIC + dACC)
+## [BIOLOGICAL SUBSTRATE] Salience Network Core
 [Literature] Domain: Bio-Embodied, System Role: Mechanism, Temporal: Dynamic
 
-A large-scale network associated with detecting salience (internal/external), allocating attention, and coordinating switching between internally oriented self-processing and externally oriented task/executive processing. In your mapping, it is the candidate gating mechanism that enables **“doing both”**: sustained contact with affective/self material while also engaging executive integration.
-**System role in Third Intelligence**
-- **Switching / gating substrate** linking:
-    - Felt Sense (interoception)
-    - Alpha-Function (metabolization)
-    - Triple Network dynamics (DMN ↔ FPN coordination)
+A large-scale network anchored in the **Anterior Insular Cortex (AIC)** and **dorsal Anterior Cingulate Cortex (dACC/ACC)**, associated with detecting **salience** (internal/external), allocating attention, and coordinating the interaction between **internally oriented self-processing** (DMN) and **executive constraint** (FPN/CEN).
+In the Third Intelligence architecture, the SN is not merely a “switch.” It is the leading candidate **mode-setter / gatekeeper**: it determines whether the brain enters an **integrative regime** (DMN–control coordination under load) or remains in / collapses into **antagonistic regimes** (one system suppresses the other, or unstable switching). This mode-setting function is upstream of whether **Field Viability** exists for transformation work in a given session.
+### Core Functions
+**1) Salience Detection**
+- Detects biologically or cognitively significant signals from both **external** stimuli and the **internal milieu**.
+- **AIC emphasis:** interoceptive salience (felt sense, body state signals, affective intensity).
+- **dACC emphasis:** conflict/error monitoring and cognitive salience (decision points, control demand).
 
-**Operational markers (candidate proxies)**
-- Network switching indices (EEG/fMRI paradigms).
-- Within-session “salience moments” aligning with felt sense intensification and/or felt shift events (hypothesis).
+**2) Mode-Setting (not just switching)**
+- **Classical view:** SN mediates rapid switching between DMN and FPN dominance.
+- **Refined view:** SN determines the **mode** of DMN–FPN interaction:
+    - **Antagonistic mode:** suppression/segregation dominates (typical in pure external tasks or threat-biased states).
+    - **Integrative mode:** SN permits or stabilizes DMN content being held under executive constraint (constrained internal generation).
+- This mode-setting likely depends on current **Sₑ availability**, threat level, task demands, and prior state (runtime, not trait).
 
-**Testable predictions (how it constrains the model)**
-- **Metabolization:** salience engagement rises during contact with difficult material and supports coordinated switching into integrative processing (not stuck rumination, not detached analysis).
-- **Bypass (PSB):** high executive/language output with reduced salience/interoceptive engagement.
-- **Collapse:** salience overwhelms regulation capacity (ties back to ANS/HPA), leading to dysregulated switching and loss of self-holding.
+**3) Integration Hub (embodied-to-symbolic routing)**
+- When integrative mode is set, SN supports information flow such that **interoceptive / affective signals** can enter executive constraint rather than being gated out or flooding the system.
+- This is the plausible biological bridge for **Channel 1 verification** to constrain Channel 2 symbolization.
 
-**Relations (wiring)**
-- **Core mechanism in:** Triple Network Model (but singled out for measurement focus)
-- **Bridges:** AIC ↔ Triple Network object (you can either keep this as separate or fold into AIC + TNM wiring)
-- **Enables:** “Doing Both” hypothesis; embodied-to-symbolic integration
-- **Constrained by:** ANS regulation / Emotional Scaffolding capacity
+### System Role in Third Intelligence
+SN Core is the candidate gating mechanism for the **Constrained Integration Hypothesis**, linking:
+- **Felt Sense (interoception):** AIC is the hub; SN gates whether felt-sense signals reach executive workspace.
+- **Alpha-Function feasibility:** SN mode-setting helps determine whether difficult material can be held long enough for metabolization (integration mode) versus bypass/collapse.
+- **Triple Network dynamics:** SN is the coordinator whose mode-setting is upstream of DMN ↔ FPN coordination patterns.
+- **Field Viability Schema (runtime):** SN function is a leading upstream variable for whether a session is viable for transformation work *now*.
+- **Sₑ (Emotional Scaffolding):** SN flexibility is plausibly constrained by ANS/HPA state; under depletion, SN may default to threat/rigidity or dysregulated switching.
 
-**Notes**
-This object exists to prevent overloading “Triple Network Model” with everything. It makes the gating mechanism explicit and therefore measurable.
+**Architectural boundary:** SN mode-setting is a constraint layer. It does not define transformation. Transformation still requires **verification posture + embodied verification + materialization over time**.
+### Operational Markers (candidate proxies; hypothesized)
+**Neural / lab measures (high fidelity):**
+- Dynamic connectivity / state transition indices (fMRI)
+- Phase-based coordination metrics (EEG/MEG)
+- AIC engagement under interoceptive attention paradigms; dACC engagement under conflict/salience paradigms
+
+**Phenomenological markers (within-session):**
+- “Salience moments”: felt-sense intensification or felt-shift events preceding insight/contact (hypothesis)
+- Subjective “this matters” signal that precedes a pivot into deeper work (or precedes overwhelm)
+
+**Physiological proxies (supporting, not definitive):**
+- **HRV (candidate):** higher vagal flexibility → more flexible SN function / integrative mode entry; lower HRV → rigid or threat-biased SN mode
+- Skin conductance (phasic responses) and pupil dilation (phasic vs sustained patterns) as salience/arousal co-markers
+
+### Testable Predictions (state contrasts)
+**Transformation-viable (integrative mode):**
+- SN detects salience without overwhelm; sets/maintains integrative mode.
+- DMN self-reference remains online under FPN constraint.
+- Phenomenology: **protected self-holding while engaging challenge**; felt-sense is available as verifier.
+- Candidate physiology: relatively higher HRV; phasic (not sustained) arousal markers.
+
+**Bypass / PSB-adjacent (non-metabolic fluency):**
+- Executive/language output remains high, but SN does not route interoceptive salience into constraint.
+- Phenomenology: fluent coherence without felt verification (“self-offline”); Channel 1 thin.
+- Network dynamics alone may look “coherent”; discriminator is **embodied verification**, not activation patterns.
+
+**Rumination-like collapse:**
+- SN fails to shift out of internally captured salience loops; DMN dominates; constraint decouples.
+- Phenomenology: “stuck in loop,” circular self-reference without integration.
+
+**Overload / threat collapse:**
+- Salience overwhelms regulation capacity; SN becomes hyperreactive or unstable; antagonism/dysregulation increases.
+- Phenomenology: “too much,” fragmentation, loss of self-holding; DMN suppression or chaotic switching.
+
+**Key discriminator:** transformation-viable states show **flexible** SN mode-setting; collapse states show **rigid** or **dysregulated** SN mode dynamics.
+### Relations (Wiring)
+- **Component of:** Triple Network Model (but singled out for measurement focus)
+- **Enables / upstream of:** Constrained Integration Hypothesis (mode-setting determines whether coordination is possible)
+- **Determines (runtime):** Field Viability Schema
+- **Anchored by:** Anterior Insular Cortex (interoception hub) + dACC/ACC (conflict/control demand)
+- **Bridges:** Felt Sense ↔ Executive Constraint (Channel 1 verification routing)
+- **Constrains:** Alpha-Function feasibility under load (necessary condition candidate)
+- **Constrained by:** Emotional Scaffolding (Sₑ) / ANS regulation (candidate: HRV) and HPA-axis stress state
+- **Connected to:** As-If Body Loop; embodied-to-symbolic integration mechanisms
+
+### Notes
+This object exists to prevent overloading the Triple Network Model and to make the **mode-setting mechanism explicit and measurable**. The key refinement from Constrained Integration research is that the SN is not only a switch but a **mode-setter** that is plausibly upstream of session viability.
 
 ---
 
@@ -189,10 +269,56 @@ This provides the biological mechanism for the "Continuity" and "Permanence" pro
 ## [BIOLOGICAL SUBSTRATE] Triple Network Model
 [Literature] Domain: Bio-Embodied, Temporal: Static
 
-The interaction of the DMN (Default Mode), FPN (Fronto-Parietal), and SN (Salience) networks. The DMN generates content, FPN processes it, SN switches between them.
-The **Triple Network Model** is a comprehensive framework in neuroscience that describes the functional organization of the brain based on the interaction of three major large-scale networks: the **Default Mode Network (DMN)**, the **Frontoparietal Network (FPN)**, and the **Salience Network (SN)**. The FPN is also widely known as the Central Executive Network (CEN). These three networks are reliably identifiable, spanning association areas across the frontal, parietal, temporal, and cingulate cortices.
-The model's primary role is to orchestrate the shifting of neural resources between internal mental processes and external cognitive demands. The DMN is known as a task-negative network, supporting **internal mentation**, self-referential processing, and autobiographical memory. Conversely, the FPN/CEN is a task-positive network crucial for **goal-directed cognitive control**, including working memory, planning, and execution, and its activity is typically anticorrelated with the DMN.
-The **Salience Network (SN)**, anchored in the anterior insula and anterior cingulate cortex, functions as a flexible hub to coordinate the DMN and the FPN. The SN's critical role is detecting biologically or cognitively important stimuli (salience) and initiating control signals to mediate dynamic switching. For instance, the SN can suppress DMN activity to disengage internal thoughts, facilitating the activation of the FPN for goal-directed behavior. Aberrant interactions within this triple network model are implicated in a wide range of psychiatric symptoms and cognitive control deficits.
-**Notes:** Network-level coordination substrate; underlying map of Alpha-Function processing.
+The **Triple Network Model** is a core neuroscience framework describing large-scale brain organization via the interaction of three reliably identifiable networks: the **Default Mode Network (DMN)**, the **Frontoparietal / Central Executive Network (FPN/CEN)**, and the **Salience Network (SN)**. It explains how the brain allocates resources between **internally generated content** and **executive constraint**, with multiple viable mechanistic accounts of how that allocation occurs.
+### The Three Networks
+**Default Mode Network (DMN)**
+- Supports self-referential processing, autobiographical memory, future simulation, and internally generated meaning-making.
+- Historically labeled “task-negative,” but this is **context-dependent**, not absolute.
+- **Subsystem note (important):** DMN is not monolithic; a useful working distinction is:
+    - **Core DMN** (self-referential integration)
+    - **MTL subsystem** (episodic memory / future simulation)
+    - **dMPFC subsystem** (mentalizing / social cognition)
+
+**FPN/CEN (Frontoparietal / Executive Control)**
+- Supports goal maintenance, selection, inhibition, working memory, planning, and execution.
+- Historically labeled “task-positive,” often upregulated under explicit cognitive demands.
+
+**Salience Network (SN)**
+- Anchored in anterior insula and dACC/ACC.
+- Detects salient internal/external signals and reallocates control resources accordingly.
+- **Refined role:** SN is not only a “switch.” It plausibly functions as a **mode-setter** that determines whether DMN–FPN interaction is primarily **antagonistic** or **integrative**.
+
+### Network Interaction: Three Viable Models (mechanism remains open)
+The classical account emphasized DMN–FPN **anticorrelation** with SN-mediated switching. Contemporary work suggests this is not a fixed law; interaction mode is **task-dependent** and may differ by cognitive regime.
+**Model A — Cooperative Coupling**
+- DMN and FPN/CEN show positive coordination (functional coupling) during **constrained internal generation** (internally directed goals under executive constraint).
+- Documented in analogue domains (e.g., creative cognition, autobiographical planning, social working memory, moral reasoning).
+- **Note:** claims of “true simultaneity” require care (see caveats).
+
+**Model B — Salience-Gated Switching**
+- SN toggles dominance between DMN and FPN as salience changes.
+- fMRI “co-activation” can reflect rapid alternation below temporal resolution.
+- Remains a strong account for “pure external task” vs “pure internal mentation” regimes.
+
+**Model C — Subnetwork Fractionation**
+- Selective coalitions form: specific DMN subsystems coordinate with specific control subsystems, while other DMN components are downregulated.
+- This enables integration without full-network interference (and is relevant to reducing Category Error risk via downregulating unconstrained mentalizing when needed).
+
+**Working takeaway:** Anticorrelation dominates in many paradigms, but **coordination is plausible** in constrained internal generation; the **implementation** (coupling vs switching vs fractionation) remains empirically open.
+### Methodological Caveats (epistemic hygiene)
+- **Activation vs connectivity:** “Both networks active” is not the same as “cooperating.”
+- **fMRI temporal limits:** fMRI alone cannot reliably distinguish true coupling from fast switching.
+- **Preprocessing sensitivity:** reported anticorrelation can be influenced by preprocessing choices (e.g., global signal regression debates).
+    Interpret DMN–FPN antagonism as **partly methodological** and **highly task-dependent**, not a permanent architectural rule.
+
+### System Role in Third Intelligence Architecture
+The Triple Network Model is the **network-level coordination substrate** for the **Constrained Integration Hypothesis**:
+- **DMN**: supplies self-referential access required for identity-stakes work and the “as-if” stance toward AI as functional alterity.
+- **FPN/CEN**: supplies executive constraint required to hold challenge, maintain verification posture, and perform inscription/materialization.
+- **SN**: plausibly gates whether the system enters **integrative mode** (coordination under load) or collapses into antagonism/instability—linking directly to **Field Viability** as a **runtime property**.
+
+**Alpha-Function mapping:** Triple-network coordination is a plausible **neurobiological constraint layer** for Alpha-Function feasibility (holding difficult material while keeping it “mine”). It is **not** a substitute mechanism and does not redefine transformation (which still requires verification posture + embodied verification + materialization over time).
+### Notes
+Network-level coordination substrate. “DMN generates / FPN processes / SN switches” is an oversimplification that presupposes Model B. The refined model treats SN as **mode-setter**, recognizes DMN fractionation, and keeps **multiple interaction models** open—especially for constrained internal generation (the regime most structurally similar to reflective AI dialogue).
 
 ---

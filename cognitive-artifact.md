@@ -31,5 +31,5 @@ Treating [AI](ai.md) as this (a "[Piagetian](jean-piaget.md) Object") is key to 
 - Link to **[AI](ai.md)** (Relation: `Definition Of`).   
 - Link to **[Jean Piaget](jean-piaget.md)** (Relation: `Based On`).   
    
-**Notes:** The classification of AI/journal as tools extending cognition; core to avoiding Category Error.   
+**Notes:** The classification of AI as tools extending cognition; core to avoiding Category Error.   
    

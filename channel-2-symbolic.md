@@ -30,22 +30,24 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - 9-final-integration-principles.md
+    - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
     - 2-the-ontological-upgrade-the-dynamic-transiti.md
     - 10-the-integrated-claim.md
+    - transmissive-self.md
     - 15-is-your-model-suggesting-something-new.md
+    - two-axis-framework.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - as-if-body-loop.md
     - the-integrated-circuit-board.md
     - 8-critical-connection-6-my-method-works-becaus.md
     - 3-the-13-stage-development-sequence.md
-    - the-doing-both-hypothesis.md
     - 7-critical-connection-5-why-psb-happens.md
     - recursive-pattern-verification-loop.md
-    - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
+    - category-error.md
     - cognitive-debt.md
-    - integrated-synthesis-of-psychological-developm.md
+    - integrated-synthesis-of-psychological-developm_f.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
@@ -55,7 +57,7 @@ Backlinks:
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary.md
+    - 1-executive-summary_u.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -71,8 +73,6 @@ Links:
     - alpha-function.md
     - lev-vygotsky.md
     - mikhail-bakhtin.md
-    - technical-scaffolding-s_t.md
-    - d-difficulty.md
     - ai.md
     - journal.md
     - category-error.md
@@ -92,10 +92,6 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
 ### Wiring (Relations)   
 - **Theorists:** [Vygotsky](lev-vygotsky.md) (Symbolic Mediation); [Bakhtin](mikhail-bakhtin.md) (Dialogism); Bruner (Narrative Thought).   
 - **Biological Substrate:** Fronto-Parietal Network (FPN); Language Networks; Working Memory Systems.   
-- **Formula Link:**   
-    - Primary driver of **Sₜ** ([Technical Scaffolding](technical-scaffolding-s_t.md) / Challenge input).   
-    - Contributes symbolic material that is experienced as [difficulty](d-difficulty.md) within the pre-existing \|[D – C](challenge-gap-d-c.md)\| relation.   
-    - Provides raw material converted to **α-elements** through Alpha-Function.   
 - **Connected Objects:** [AI](ai.md) (DTO); [Functional Alterity](functional-alterity.md); [ZPD](zpd.md); [Journal](journal.md) (as symbolic artifact); [Category Error](category-error.md); [PSB](protein-shake-brain-psb.md).   
    
 **Notes:** Symbolic input source; language-based meaning; AI’s entry point.   

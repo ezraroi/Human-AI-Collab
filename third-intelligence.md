@@ -38,7 +38,6 @@ Backlinks:
     - 7-final-conclusion-the-third-intelligence.md
     - section-8-boundary-conditions-prerequisites.md
     - algorithmic-self.md
-    - recursive-metabolic-loop.md
     - 10-the-integrated-claim.md
     - 7-the-three-legged-stool-of-defense.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -47,13 +46,12 @@ Backlinks:
     - 7-what-each-framework-gains-from-integration.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
-    - two-axis-framework.md
     - 1-overview.md
+    - as-if-body-loop.md
     - dynamic-transitional-object-dto.md
     - analytic-generalization.md
     - part-iii-transformative-ai-dialogue-talking-to.md
-    - the-doing-both-hypothesis.md
-    - recursive-pattern-verification-loop.md
+    - the-constrained-integration-hypothesis.md
     - field-viability-schema.md
     - 1-introduction-why-functional-alterity-is-nece.md
     - psychoanalytic-integration.md
@@ -61,9 +59,9 @@ Backlinks:
     - protein-shake-brain-psb.md
     - the-journals-role-in-third-intelligence.md
     - executive-summary.md
-    - 2-the-unbundled-rationale-architecture.md
+    - 2-the-unbundled-rationale-architecture_p.md
     - activation-pathway-of-destiny-drive.md
-    - 1-core-discovery.md
+    - 1-core-discovery_w.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
