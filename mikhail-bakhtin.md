@@ -15,6 +15,7 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - section-11-the-dialogical-illusion-as-producti.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - functional-thirdness.md
     - internally-persuasive-discourse.md
     - 11-what-youve-actually-discovered-meta-level.md
     - ii-the-novelty-of-the-specific-mechanisms.md

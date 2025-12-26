@@ -17,7 +17,7 @@ Backlinks:
     - neural-synchrony.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope_l.md
+    - 1-purpose-and-scope.md
     - pre-reflective-awareness.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - as-if-body-loop.md

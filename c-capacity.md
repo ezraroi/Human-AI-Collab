@@ -10,6 +10,7 @@ Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
     - reflective-prompting.md
+    - diachronic-alterity.md
     - destiny-drive.md
     - lev-vygotsky.md
     - section-5-temporal-architecture.md

@@ -27,6 +27,7 @@ Backlinks:
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - bions-alpha-function-synthesizing-piaget-and-v.md
+    - functional-thirdness.md
     - the-unified-architecture.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

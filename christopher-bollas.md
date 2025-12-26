@@ -12,6 +12,7 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - 3-implications-for-positioning.md
     - transmissive-self.md
+    - 3-the-13-stage-development-sequence.md
     - psychoanalytic-integration.md
     - 2-the-unbundled-rationale-architecture.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md

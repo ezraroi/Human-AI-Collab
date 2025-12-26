@@ -11,15 +11,18 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-4-attribution-logic.md
     - cognitive-artifact.md
+    - diachronic-alterity.md
     - section-10-open-edges-to-bridge-later.md
     - 4-revised-contribution-of-notebook-11.md
     - 5-measurement-program-menu.md
+    - idiom-aligned-scaffolding.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
     - 2-what-the-existing-literature-actually-covers.md
     - 3-the-three-emergent-insights-from-cross-analy.md
     - section-9-container-as-function-authorization.md
     - ai-project-claude-project-chatgpt-project.md
+    - 1-what-the-journal-is.md
     - 4-the-system-architecture-v2-0.md
     - 2-clarifying-the-category-error-against-the-dt.md
     - system-0.md
@@ -38,11 +41,12 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_9.md
+    - executive-summary_2.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
+    - 8-entry-integrity.md
     - time.md
     - neural-synchrony.md
     - section-4-the-importance-of-emotional-scaffold.md
@@ -55,8 +59,10 @@ Backlinks:
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
     - 3-implications-for-positioning.md
+    - 2-the-wrong-model-vs-the-correct-model.md
     - 8-common-misuses-and-anti-patterns.md
     - section-10-the-grand-unification.md
+    - 4-the-three-functions.md
     - gap-filling-inference-generation.md
     - 10-the-integrated-claim.md
     - hsced-hermeneutic-single-case-efficacy-design.md
@@ -89,10 +95,12 @@ Backlinks:
     - resolving-core-theoretical-gaps-in-human-ai-di.md
     - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
+    - 6-how-to-journal.md
     - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - section-6-journal-function-refinement.md
+    - 11-why-it-matters.md
     - 11-what-youve-actually-discovered-meta-level.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
@@ -103,6 +111,7 @@ Backlinks:
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
     - section-9-pathology-explained-protein-shake-br.md
+    - 7-from-freeze-to-navigation.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -116,6 +125,7 @@ Links:
     - productive-epistemic-tension.md
     - in-context-learning.md
     - selected-fact.md
+    - idiom-aligned-scaffolding.md
     - journal.md
     - zpd.md
     - challenge-gap-d-c.md
@@ -147,7 +157,7 @@ The third component of the Human + Journal + AI + Time tetrad. AI is a Large Lan
 - Procedural frameworks   
 - Information synthesis   
 - Candidate linkages (provisional connections that may precipitate [Selected Fact](selected-fact.md) conditions, without undergoing SF)   
-- Cross-document linkage and candidate organizing frames (when [Journal](journal.md) corpus is available in context)   
+- Cross-document linkage and **[idiom](idiom-aligned-scaffolding.md)-preserving structuration** from the user’s **[Journal](journal.md) idiom corpus** (when Journal corpus is available in context; avoids importing foreign frameworks)   
 - **Modulable in real-time:** "explain like I'm 5" ↔ "technical depth"   
    
 **2. **[ZPD](zpd.md) tension preservation within the pre-existing [Challenge Gap (\|D–C\|)](challenge-gap-d-c.md):   

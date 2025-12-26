@@ -22,7 +22,7 @@ Backlinks:
     - autonomic-nervous-system-regulation-ans-vagal-.md
     - iron-man-mentality.md
     - protected-self-holding-principle.md
-    - executive-summary_9.md
+    - executive-summary_2.md
     - human.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
@@ -34,7 +34,7 @@ Backlinks:
     - 8-common-misuses-and-anti-patterns.md
     - 9-final-integration-principles.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope_l.md
+    - 1-purpose-and-scope.md
     - section-7-temporal-dynamics-across-the-archite.md
     - epistemological-humility.md
     - reward-reinforcement-circuitry.md

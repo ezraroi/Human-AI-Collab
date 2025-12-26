@@ -9,7 +9,7 @@ Backlinks:
     - salience-network-core.md
     - executive-summary.md
     - 3-the-discriminator-framework.md
-    - 1-purpose-and-scope_l.md
+    - 1-purpose-and-scope.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - the-constrained-integration-hypothesis.md
     - neuroscience-of-transformation.md

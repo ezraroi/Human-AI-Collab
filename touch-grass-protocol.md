@@ -10,6 +10,7 @@ Backlinks:
     - developmental-sequence.md
     - reflective-prompting.md
     - 4ps-protocol.md
+    - journal.md
     - authoritative-discourse.md
     - cognitive-style-bias.md
     - autonomic-nervous-system-regulation-ans-vagal-.md
@@ -25,11 +26,11 @@ Backlinks:
     - reward-reinforcement-circuitry.md
     - 5-documented-counter-evidence-the-manic-episodes.md
     - readiness-probes.md
-    - 3-the-13-stage-development-sequence.md
     - 7-research-usage.md
     - field-viability-schema.md
     - category-error.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
+    - functional-thirdness.md
     - activation-conditions.md
     - emotional-scaffolding-s_e.md
     - cognitive-mirror-protege-mode.md

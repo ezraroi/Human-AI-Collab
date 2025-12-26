@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - 'Notebook 11: The Ontology of the New Machine'
 Creation date: "2025-12-19T10:34:17Z"

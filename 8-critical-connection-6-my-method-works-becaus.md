@@ -33,7 +33,7 @@ From NoteBook 1 perspective:
 - Keeps AI in proper role (Piagetian Object/tool)   
 - Activates YOUR [alpha function](alpha-function.md) (you're the container)   
 - Maintains optimal \|D-C\| (productive tension)   
-- Journal provides chronotope/continuity   
+- Journal provides chronotope/continuity as the **materialization layer**   
    
 From NoteBook 2 perspective:   
 - Dialogue format activates social cognition systems   

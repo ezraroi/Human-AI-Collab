@@ -168,7 +168,7 @@ Neural systems that encode reward, reinforcement, and approach motivation, shapi
 **Relations (wiring)**
 - **Risk for:** Category Error; Cognitive Dependency; PSB (“Protein Shake Brain”)
 - **Competes with:** Metabolization pathway (Alpha-Function) as an explanation for perceived improvement
-- **Moderated by:** Journal (durable materialization + return substrate for macro-verification) + Time (consolidation, spacing); Touch Grass Protocol (boundary enforcement)
+- Moderated by: Journal (durable materialization + return substrate that **enables** macro-verification/**probation**; **probation logic belongs to Selected Facts / RPVL**) + Time (consolidation, spacing); Touch Grass Protocol (boundary enforcement)
 - **Needs contrast with:** Human co-regulation (not provided by AI)
 
 **Notes**
@@ -260,8 +260,8 @@ This object exists to prevent overloading the Triple Network Model and to make t
 ## [BIOLOGICAL SUBSTRATE] Systems Consolidation
 [Literature] Domain: Bio-Embodied, Temporal: Static
 
-The process during NREM sleep where the Hippocampus "replays" insights to the Neocortex, making them permanent.
-This provides a biological mechanism that supports durability across time; the Journal provides re-enterable substrate (Chronotope), and Time (including sleep) supports stabilization of metabolized content.
+The process during NREM sleep where the Hippocampus "replays" insights to the Neocortex, supporting longer-term stabilization.
+This provides a biological mechanism that supports durability across time; the Journal provides re-enterable substrate (Chronotope: **diachronic alterity / addressable past-self I-position**), and Time (including sleep) supports stabilization of **metabolized + materialized** content (not a substitute for Journal inscription when identity stakes / durable accumulation are in scope).
 **Notes: **Neural mechanism supporting long-term stabilization over time; aligns with Journal ↔ Time as substrate + temporal support.
 
 ---

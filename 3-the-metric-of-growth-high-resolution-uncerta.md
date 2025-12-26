@@ -4,7 +4,6 @@ Object type:
     - Manuscript Section
 Tag:
     - NoteBook 6 - Cognitive Mechanics
-    - DRAFTING
 Backlinks:
     - 'Notebook 6 Synthesis: The Cognitive Mechanics of the Alpha Function'
 Creation date: "2025-11-23T13:00:21Z"

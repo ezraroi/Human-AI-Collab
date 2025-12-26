@@ -55,7 +55,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope_l.md
+    - 1-purpose-and-scope.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -84,6 +84,7 @@ Backlinks:
     - part-iv-reflective-prompting-as-system-level-p.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
+    - functional-thirdness.md
     - activation-conditions.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md

@@ -38,6 +38,9 @@ Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - protein-shake-brain-psb.md
+    - chronotope.md
+    - diachronic-alterity.md
+    - idiom-aligned-scaffolding.md
     - time.md
     - alpha-elements.md
     - materialization.md
@@ -97,17 +100,17 @@ One metabolic pass through the circuit:
         - Coupling fails to stabilize (Abandoned Pass)   
     - Result: a more organized, personally owned configuration — or increased contact with what remains unnamed.   
 3. **Journal Materialization (External Organ — Conditional):**   
-    - When a discrete insight crystallizes, the user writes in their own language.   
+    - When a discrete insight crystallizes, the user writes in their own language **through continuous verification during creation (micro-verification)**.   
     - This:   
-        - Fixes the transformation in time (chronotope),   
-        - Creates substrate for future pattern recognition,   
+        - Fixes the transformation in time (**[chronotope](chronotope.md)[: diachronic alterity](diachronic-alterity.md) / addressable past-self I-position**)   
+        - Creates substrate for future pattern recognition **when stored in an AI-accessible corpus**, as **[idiom](idiom-aligned-scaffolding.md)-preserving structuration** (from the user’s idiom corpus)   
         - Carries materialized, metabolized content into future cycles as strengthened baseline C.   
     - **Journal is not required for all valid passes.** Proximity Passes may leave no formal entry; the conversation history itself may serve as weak substrate.   
    
 > Explanation: This reflects your clarification that not everything is "deep enough" for a journal entry. The Journal is essential for durable growth but not for all valuable processing.   
 
 1. **Recursive Feedback ([Time](time.md)):**   
-    - On later days, the Journal (or persistent conversation context) feeds prior material back into the next cycle.   
+    - On later days, the Journal (**or, weakly, persistent conversation context**) feeds prior material back into the next cycle.   
     - The circuit runs again with new input → repeated passes may gradually increase Capacity (C).   
     - Proximity Passes without Journal may still shift structural readiness, but with less durability.   
    
@@ -159,7 +162,7 @@ The circuit requires coupling, not order:
 Because the circuit is a directed, interdependent architecture, degradation in one component produces predictable distortions elsewhere:   
 - **If the As-If Body Loop is weak or bypassed:**   
     - Embodied signals (tight/spacious) do not emerge.   
-    - Alpha-Function receives symbol-only input → leads to *Symbolic Overrun* (high conceptual clarity, low embodied conviction).   
+    - [Alpha-Function](alpha-function.md) receives symbol-only input → leads to *Symbolic Overrun* (high conceptual clarity, low embodied conviction).   
 - **If Alpha-Function is under-engaged or overrun:**   
     - [beta-elements](beta-elements.md) remain unprocessed.   
     - Journal entries (if made) become AI-heavy or imitative.   
@@ -179,7 +182,7 @@ Because the circuit is a directed, interdependent architecture, degradation in o
 ### Global Sₑ Constraint (Qualitative Energy Budget)   
 The circuit's throughput is bounded by available [Emotional Scaffolding](emotional-scaffolding-s_e.md) (Sₑ):   
 - Deep Alpha-Function cycles consume Sₑ (frustration tolerance, uncertainty holding).   
-- The Journal stabilizes previously materialized outcomes, reducing reprocessing load across sessions.   
+- The Journal provides **stable re-entry substrate** for previously materialized outcomes, reducing reprocessing load across sessions.   
 - If Sₑ becomes too low, the circuit cannot run safely:   
     - As-If Body Loop engagement collapses,   
     - Alpha-Function becomes unstable or overloaded,   

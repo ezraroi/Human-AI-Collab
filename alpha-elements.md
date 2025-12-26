@@ -8,7 +8,6 @@ Tag:
     - 'System Role: Output'
     - 'Temporal: Static'
 Backlinks:
-    - narrative-self.md
     - reflective-prompting.md
     - document-abstract.md
     - reverie.md
@@ -35,7 +34,6 @@ Backlinks:
     - 15-is-your-model-suggesting-something-new.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
-    - 3-the-13-stage-development-sequence.md
     - alpha-function.md
     - psychoanalytic-integration.md
     - materialization.md

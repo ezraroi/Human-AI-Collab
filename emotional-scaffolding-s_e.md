@@ -51,11 +51,11 @@ Backlinks:
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
     - psychoanalytic-integration.md
+    - 10-the-s-connection.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
     - section-13-significance-and-forward-direction.md
-    - functional-thirdness.md
     - psychoanalytic-prerequisites.md
     - negative-capability.md
     - 5-worked-diagnostic-examples.md

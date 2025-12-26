@@ -26,6 +26,7 @@ Backlinks:
     - psychoanalytic-integration.md
     - section-11-the-dialogical-illusion-as-producti.md
     - potential-space.md
+    - functional-thirdness.md
     - psychoanalytic-prerequisites.md
     - part-i-false-self-false-true-self-and-ai-as-ac.md
     - emotional-scaffolding-s_e.md

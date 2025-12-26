@@ -11,6 +11,7 @@ Tag:
 Backlinks:
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
+    - diachronic-alterity.md
     - 4-revised-contribution-of-notebook-11.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
@@ -23,7 +24,7 @@ Backlinks:
     - channel-2-symbolic.md
     - productive-epistemic-tension.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_9.md
+    - executive-summary_2.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -60,6 +61,7 @@ Backlinks:
     - zpd.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
+    - 7-from-freeze-to-navigation.md
 Origin Domain:
     - Philosophy of Technology & Phenomenology
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'
@@ -68,6 +70,8 @@ Creation date: "2025-11-22T10:14:46Z"
 Created by:
     - Roi Ezra
 Links:
+    - journal.md
+    - diachronic-alterity.md
     - challenge-gap-d-c.md
     - functional-thirdness.md
     - zpd.md
@@ -80,6 +84,7 @@ id: bafyreihqcq2m2d2mp7tvu56plvj6yggb4tysy7yqosknmx3ascwk5r7jkm
 ---
 # Functional Alterity   
 The AI's moment-to-moment production of irreducible difference that helps preserve productive epistemic tension (in the presence of adequate scaffolding) without collapsing into overwhelm or sycophancy. It is the local resistance function that prevents passive confirmation and sustains symbolic friction.   
+Functional Alterity is the AI’s synchronic alterity (turn-by-turn), contrasted with the [Journal](journal.md)’s [diachronic alterity](diachronic-alterity.md).   
 **System Role**   
 Maintains usable challenge inside the Zone of Proximal Development by shaping how the pre-existing [Challenge Gap](challenge-gap-d-c.md) (\|D–C\|) is experienced by the user. Ensures interaction never becomes a monologue, even though the AI is not a Subject.   
 **Mechanism**   
@@ -90,6 +95,7 @@ Functional Alterity helps keep the experienced challenge productive by sustainin
 - Not a global property of the AI or system; it is local, event-like, and per-utterance.   
 - Insufficient on its own: without Systematic Competence and coupled scaffolding (Sₑ ⊗ Sₜ), FA becomes noise or aggression.   
 - Requires DTO stance; collapses under Category Error (AI-as-Subject).   
+- **Synchronic alterity:** Functional Alterity is the AI’s *in-the-moment* alterity; [diachronic alterity](diachronic-alterity.md) is provided by [Journal](journal.md) inscriptions across time.   
    
 **Relations**   
 - Constituent Condition For → [Functional Thirdness](functional-thirdness.md) (with SC + Human Agency)   
@@ -98,6 +104,7 @@ Functional Alterity helps keep the experienced challenge productive by sustainin
 - Defines Function Of → [AI](ai.md) (difference/constraint aspect)   
 - Enabled By → [Reflective Prompting](reflective-prompting.md)   
 - Co-Constituent With → [Systematic Competence](systematic-competence.md), Human Agency   
+- Complements → [Diachronic Alterity](diachronic-alterity.md) (Journal)   
 - Level → Micro (Utterance); FT operates at Meso (Interaction)   
    
 **Notes:** AI's turn-by-turn generation of productive difference; preserves epistemic tension. FA contributes to the [Bakhtin](mikhail-bakhtin.md) paradox resolution; FT is the full resolution (legitimation claim).   

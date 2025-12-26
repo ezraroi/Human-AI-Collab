@@ -31,6 +31,7 @@ Backlinks:
     - 9-the-hidden-implications-youve-discovered.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
+    - 2-the-wrong-model-vs-the-correct-model.md
     - somatic-marker-hypothesis.md
     - 9-final-integration-principles.md
     - pre-reflective-awareness.md
@@ -41,6 +42,7 @@ Backlinks:
     - 8-critical-connection-6-my-method-works-becaus.md
     - 7-research-usage.md
     - recursive-pattern-verification-loop.md
+    - 10-the-s-connection.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - cognitive-debt.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
@@ -56,8 +58,9 @@ Backlinks:
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - ii-the-novelty-of-the-specific-mechanisms.md
+    - 3-how-entries-are-created.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_0.md
+    - 1-executive-summary_1u.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

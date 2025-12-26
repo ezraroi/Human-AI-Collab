@@ -25,6 +25,7 @@ Links:
     - protein-shake-brain-psb.md
     - alpha-function.md
     - journal.md
+    - selected-fact.md
     - time.md
     - touch-grass-protocol.md
     - human.md
@@ -50,7 +51,7 @@ Neural systems that encode reward, reinforcement, and approach motivation, shapi
 **Relations (wiring)**   
 - **Risk for:** [Category Error](category-error.md); [Cognitive Dependency](cognitive-dependency.md); [PSB](protein-shake-brain-psb.md) (“Protein Shake Brain”)   
 - **Competes with:** Metabolization pathway ([Alpha-Function](alpha-function.md)) as an explanation for perceived improvement   
-- **Moderated by:** [Journal](journal.md) (durable materialization + return substrate for macro-verification) + [Time](time.md) (consolidation, spacing); [Touch Grass Protocol](touch-grass-protocol.md) (boundary enforcement)   
+- Moderated by: [Journal](journal.md) (durable materialization + return substrate that **enables** macro-verification/**probation**; **probation logic belongs to [Selected Facts](selected-fact.md) / RPVL**) + [Time](time.md) (consolidation, spacing); [Touch Grass Protocol](touch-grass-protocol.md) (boundary enforcement)   
 - **Needs contrast with:** [Human](human.md) co-regulation (not provided by [AI](ai.md))   
    
 **Notes**   

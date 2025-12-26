@@ -8,7 +8,7 @@ Tag:
     - Meta-Framework
 Backlinks:
     - neural-synchrony.md
-    - 1-purpose-and-scope_l.md
+    - 1-purpose-and-scope.md
 Research Status: Sealed
 Origin Domain:
     - Neurobiology & Neuroscience

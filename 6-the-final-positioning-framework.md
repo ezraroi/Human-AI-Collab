@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - 'Notebook 9: Positioning the Contribution in Existing AI–Human Collaboration Literature'
 Creation date: "2025-12-18T20:50:22Z"

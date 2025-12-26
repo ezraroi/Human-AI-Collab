@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-25:type-692188da60de23efb249f09b:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-26:type-692188da60de23efb249f09b:ver-1.0",
   "type": "object",
   "title": "Manuscript Section",
   "x-app": "Anytype",

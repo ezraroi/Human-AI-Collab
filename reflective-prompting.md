@@ -19,13 +19,13 @@ Backlinks:
     - part-ii-reflective-prompting-and-the-zone-of-p.md
     - cognitive-debt-awareness.md
     - section-5-the-category-error-relational-axis-f.md
-    - journal.md
     - metacognition.md
     - self-explanation.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - 4-mechanism-specificity-requires-condition-con.md
     - digital-neurophenomenology.md
+    - 2-the-wrong-model-vs-the-correct-model.md
     - 2-the-core-mechanism-the-dual-process-of-self-.md
     - section-10-the-grand-unification.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -47,7 +47,7 @@ Backlinks:
     - 1-what-this-review-established.md
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_o.md
+    - 1-executive-summary_1.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

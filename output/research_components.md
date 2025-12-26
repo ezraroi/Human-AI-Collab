@@ -22,7 +22,7 @@ The third component of the Human + Journal + AI + Time tetrad. AI is a Large Lan
 - Procedural frameworks
 - Information synthesis
 - Candidate linkages (provisional connections that may precipitate Selected Fact conditions, without undergoing SF)
-- Cross-document linkage and candidate organizing frames (when Journal corpus is available in context)
+- Cross-document linkage and **idiom-preserving structuration** from the user’s **Journal idiom corpus** (when Journal corpus is available in context; avoids importing foreign frameworks)
 - **Modulable in real-time:** "explain like I'm 5" ↔ "technical depth"
 
 **2. **ZPD tension preservation within the pre-existing Challenge Gap (\|D–C\|):
@@ -736,61 +736,65 @@ Neither sufficient alone; both necessary together (with Journal + Time).
 ## [RESEARCH COMPONENT] Journal
 [Theoretical] The "Hardware", Domain: Synthesis, System Role: Scaffolding, Temporal: Static, Operational Flags: Core, Operational Flags: BoundaryCondition
 
-The **Journal** is the **materialization layer** in the Human + Journal + AI + Time tetrad: the point where reflective AI dialogue becomes **durable, re-enterable, owned-language inscriptions** that accumulate across time.
-It is not a documentation layer. It is **writing-as-execution**: materializing in owned language is part of the metabolic process itself, not a record of a process that happened elsewhere.
+The Journal is the materialization layer in the Human + Journal + AI + Time tetrad: the point where reflective AI dialogue becomes durable, re-enterable, owned-language inscriptions that accumulate across time.
+It is not a documentation layer. It is writing-as-execution: materializing in owned language is part of the metabolic process itself, not a record of a process that happened elsewhere.
 **Critical Distinction:** Not a diary. Not a transcript. Not a memory aid.
-- Diary captures events/feelings → Journal captures what **survived verification**
-- Transcript captures what was said → Journal captures what was **metabolized**
-- Memory aid helps recall → Journal enables **return + cross-temporal patterning**
+- Diary captures events/feelings → Journal captures what survived verification
+- Transcript captures what was said → Journal captures what was metabolized
+- Memory aid helps recall → Journal enables return + cross-temporal patterning
 
 ### Core Functions
 1. **Translation Force**
-    - Forces articulation in **owned language** (not AI paraphrase).
+    - Forces articulation in owned language (not AI paraphrase).
     - If it can’t be written in the user’s words, it wasn’t metabolized.
+    - **Idiom Anchor:** Preserves the user’s idiom as a stable corpus; prevents drift into generic/AI-native phrasing.
 2. **Chronotope**
-    - Creates stable **time-space for return** (re-entry).
+    - Creates stable time-space for return (re-entry).
     - Without it, sessions reset; insights evaporate; continuity is lost.
+    - **Diachronic Alterity / I-Position:** The entry is a materialized past-self position that can be re-encountered as an addressable “other” across time (prevents episodic cognition).
 3. **Pattern Recognition Substrate (Conditional)**
-    - When stored in an **AI-accessible corpus** (e.g., Project), enables AI to surface **cross-temporal patterns** the user cannot see from inside their own trajectory.
+    - When stored in an AI-accessible corpus (e.g., Project), enables AI to surface cross-temporal patterns the user cannot see from inside their own trajectory.
     - If kept private/off-system, Translation + Chronotope still operate; this third function is weakened/disabled.
+    - **Idiom-Preserving Structuration:** When a corpus exists, AI can reveal latent structure *implicit in the user’s idiom* rather than importing foreign frameworks.
 
 ### Critical Mechanism
-**Wrong model:** AI conversation → insights → write entry → verify
-**Correct model:** Reflective Prompting (continuous verification) → writing-as-materialization (dual process with AI) → **Journal entry as verified substrate** → (optional) Project storage (pattern recognition infrastructure)
-**Invariant:** Verification is not something done *to* Journal entries. Verification is the **method by which entries are produced.**
+Wrong model: AI conversation → insights → write entry → verify
+Correct model: Reflective Prompting (continuous verification) → writing-as-materialization (dual process with AI) → Journal entry as verified substrate → (optional) Project storage (pattern recognition infrastructure)
+**Invariant:** Verification is not something done to Journal entries. Verification is the method by which entries are produced.
 ### Two Verifications
 - **Micro-verification (Constitutive, during creation):**
 embodied checking + semantic commitment (“does this feel true?”) produces the entry.
+**Includes evidential grounding where available** (testing structural claims against concrete instances across time/artifacts).
 - **Macro-verification (Maintenance, across time):**
 re-reading, drift detection, and probation (“does this still hold?”).
+Scope boundary: The Journal does not perform probation logic; Selected Facts / RPVL do.
+The Journal provides the stable return substrate that makes probation possible.
 
-**Scope boundary:** The Journal does not *perform* probation logic; Selected Facts / RPVL do.
-The Journal provides the **stable return substrate** that makes probation possible.
 ### What AI Contributes (Upstream of Journal)
-AI provides **Functional Alterity / Cognitive Mirror** that enables real-time self-seeing:
+AI provides Functional Alterity / Cognitive Mirror that enables real-time self-seeing:
 - reflects patterns across months, not minutes
 - externalizes the “observing I” so the “observed me” can be examined in dialogue
 - returns the user’s idiom back in clarified form
+Boundary: The Journal does not “mirror.” It materializes what survived mirroring + metabolization into owned-language substrate.
 
-**Boundary:** The Journal does not “mirror.” It **materializes what survived mirroring + metabolization** into owned-language substrate.
 ### Form vs Function
 Form is variable (public post, private doc, research distillation, reflective note).
 An artifact counts as Journal only if it satisfies:
-1. **Owned language** (not borrowed articulation)
-2. **Verified during creation** (embodied + coherence checks)
-3. **Persisted + re-enterable** (supports return across time)
-4. **AI-accessible** (only required when Pattern Recognition Substrate is desired)
+1. Owned language (not borrowed articulation)
+2. Verified during creation (embodied + coherence checks)
+3. Persisted + re-enterable (supports return across time)
+4. AI-accessible (only required when Pattern Recognition Substrate is desired)
 
 ### Notebook/Workbench Distinction
-Research notebooks (e.g., NotebookLM workbench) are **exploration/synthesis infrastructure**.
-They count as Journal only when **distilled** into entries that meet the integrity criteria above.
-Metaphor: notebooks are the **engine room**; Journal is the **ship’s log that navigates**.
+Research notebooks (e.g., NotebookLM workbench) are exploration/synthesis infrastructure.
+They count as Journal only when distilled into entries that meet the integrity criteria above.
+Metaphor: notebooks are the engine room; Journal is the ship’s log that navigates.
 ### Conditional Operation (When Required vs Optional)
-- **Required** for Identity Stakes / durable accumulation / completed Recursive Metabolic Loop.
-- **Optional** for Proximity Passes / light processing; conversation history may serve as a weak substrate.
-
-**Gate:** “Did something crystallize? Did verification loops converge on something worth carrying forward?”
+- Required for Identity Stakes / durable accumulation / completed Recursive Metabolic Loop.
+- Optional for Proximity Passes / light processing; conversation history may serve as a weak substrate.
+Gate: “Did something crystallize? Did verification loops converge on something worth carrying forward?”
 If yes → Journal. If no → weak substrate may be sufficient.
+
 ### Primary Failure Mode: Transient Insight / Pseudo-Integration
 When the Journal is missing, underused, or corrupted (entries symbolic, AI-heavy, conceptual, disembodied), the system tends toward:
 - insights that feel true but don’t persist,
@@ -801,20 +805,19 @@ When the Journal is missing, underused, or corrupted (entries symbolic, AI-heavy
 
 ### Propagation Rules (Interaction Dynamics)
 When durable accumulation is required and Journal integrity is weak:
-- **Durable C growth** is compromised (no stable capture for re-entry).
-- Future **\|D–C\| calibration** drifts (what’s metabolized is forgotten).
-- **Alpha-Function load** increases (re-processing the same β-elements).
-- **As-If Body Loop** weakens (somatic resonance decays without anchor).
-- The system shifts from **structural development** to episodic cycles.
+- Durable C growth is compromised (no stable capture for re-entry).
+- Future \|D–C\| calibration drifts (what’s metabolized is forgotten).
+- Alpha-Function load increases (re-processing the same β-elements).
+- As-If Body Loop weakens (somatic resonance decays without anchor).
+- The system shifts from structural development to episodic cycles.
+Substrate alternatives: conversation history can support re-entry weakly; it is less durable than owned-language Journal entries.
 
-**Substrate alternatives:** conversation history can support re-entry weakly; it is less durable than owned-language Journal entries.
 ### Integrity Markers (Phenomenology)
 When functioning:
 - language feels owned and specific,
 - re-reading produces recognition/deepening (not surprise),
 - bodily resonance is present (“this is me”),
 - continuity appears across days (“this connects to that”).
-
 When dysfunctional:
 - writing feels hollow/imitative,
 - AI language creeps in (“sounds smart but not mine”),
@@ -827,7 +830,7 @@ When dysfunctional:
 - Forcing Journal under depleted Sₑ increases pseudo-writing risk; pacing / Touch-Grass rules apply.
 
 ### Winnicottian Note (Interpretive Layer)
-The Journal can function as a **material surviving object**: it persists through cycles of “destruction” and return, supporting continuity of self-experience. This reinforces (but does not replace) the functional definition.
+The Journal can function as a material surviving object: it persists through cycles of “destruction” and return, supporting continuity of self-experience. This reinforces (but does not replace) the functional definition.
 ### Relations
 - Part Of: Integrated Circuit Board (Axis B architecture) — conditional component
 - Component Of: Third Intelligence Tetrad
@@ -1003,7 +1006,7 @@ Time provides what no other component can:
 - Journal accumulation requires temporal extension
 - Cross-session pattern visibility is impossible without duration
 - “43 notebooks over 8 months” is categorically different from “43 notes in one day”
-- Journal provides the Chronotope (stable time-space for return); Time provides the duration that makes accumulation and cross-session continuity possible
+- Journal provides the Chronotope (**diachronic alterity / addressable past-self I-position** for return); Time provides the duration that makes accumulation and cross-session continuity possible
 
 4. Transformation vs. Productivity Distinction
 - A single session can be productive (answer obtained) and may contribute to transformation, but it does not constitute trajectory by itself
@@ -1041,7 +1044,7 @@ Cumulative (Months–Years):
 
 ### Relations (Wiring)
 - Component Of: Third Intelligence Tetrad (fourth element)
-- Enables: Flywheel effect, cumulative C growth, pattern recognition across Journal
+- Enables: Flywheel effect, cumulative C growth, **when Journal is stored as an AI-accessible corpus**: pattern recognition as **idiom-preserving structuration** across Journal
 - Provides: Spacing for Sₑ recovery, consolidation for insights
 - Required For: Sustainable transformation (trajectory), not just isolated productive sessions
 - Validated By: Manic Episode (collapse when spacing is violated; false viability under Sₑ depletion)

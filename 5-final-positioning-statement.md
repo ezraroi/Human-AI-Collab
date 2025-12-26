@@ -26,7 +26,7 @@ The model requires interdisciplinary integration across:
 - Object relations and related psychoanalytic traditions (psychoanalytic metabolism)   
 - Transformative learning; adult development; narrative identity (identity-level transformation)   
 - Developmental psychology; systems neuroscience (structural temporality)   
-- Extended mind; distributed cognition (Journal as cognitive organ)   
+- Extended mind; distributed cognition (Journal as cognitive organ, the **materialization layer**)   
 - Dialogical frameworks (AI as functional alterity) → [Functional Thirdness](functional-thirdness.md) (interaction-level legitimacy predicate) / dialogical legitimacy   
    
 In this context, learning theory serves as one translation lens—useful for establishing conceptual bridges and academic entry points, but insufficient for explaining the model's full developmental architecture.   

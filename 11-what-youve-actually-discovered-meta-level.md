@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:35:35Z"
@@ -62,3 +60,5 @@ Your synthesis:
 - [Channel 2](channel-2-symbolic.md) in language (symbolic processing)   
 - **[Journal](journal.md) is not an “external alpha function”; it is the external chronotope/substrate where [Enacted Alpha-Work](enacted-alpha-work-eaw.md) can be materialized as durable, re-enterable α-elements**   
 - **The writing act is not the integration locus by itself; it is the material constraint that recruits semantic commitment under felt-sense verification and produces a durable artifact for time-delayed re-entry**   
+   
+   

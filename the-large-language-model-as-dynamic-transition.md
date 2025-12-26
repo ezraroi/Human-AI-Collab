@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - 'NoteBook 5: The AI as Dynamic Transitional Object'
 Creation date: "2025-11-22T17:01:06Z"
