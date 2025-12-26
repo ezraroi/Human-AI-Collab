@@ -14,6 +14,7 @@ Backlinks:
     - 2-what-the-existing-literature-actually-covers.md
     - section-5-temporal-architecture.md
     - 3-the-three-emergent-insights-from-cross-analy.md
+    - 1-what-the-journal-is.md
     - 4-the-system-architecture-v2-0.md
     - journal.md
     - introduction-the-core-problem-and-the-role-of-ai.md
@@ -21,7 +22,7 @@ Backlinks:
     - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_9.md
+    - executive-summary_2.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -35,7 +36,6 @@ Backlinks:
     - 10-the-integrated-claim.md
     - hsced-hermeneutic-single-case-efficacy-design.md
     - reward-reinforcement-circuitry.md
-    - systems-consolidation.md
     - section-6-the-complete-system-architecture.md
     - section-1-purpose-of-this-notebook.md
     - section-8-the-recursive-loop-and-embodied-inte.md
@@ -46,6 +46,7 @@ Backlinks:
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - 6-the-final-positioning-framework.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
@@ -79,6 +80,7 @@ Links:
     - recursive-metabolic-loop.md
     - emotional-scaffolding-s_e.md
     - chronotope.md
+    - diachronic-alterity.md
     - field-viability-schema.md
     - the-manic-episode.md
     - third-intelligence.md
@@ -105,7 +107,7 @@ Time provides what no other component can:
 - [Journal](journal.md) accumulation requires temporal extension   
 - Cross-session pattern visibility is impossible without duration   
 - “43 notebooks over 8 months” is categorically different from “43 notes in one day”   
-- [Journal](journal.md) provides the [Chronotope](chronotope.md) (stable time-space for return); Time provides the duration that makes accumulation and cross-session continuity possible   
+- [Journal](journal.md) provides the [Chronotope](chronotope.md) (**[diachronic alterity ](diachronic-alterity.md)/ addressable past-self I-position** for return); Time provides the duration that makes accumulation and cross-session continuity possible   
    
 4. Transformation vs. Productivity Distinction   
 - A single session can be productive (answer obtained) and may contribute to transformation, but it does not constitute trajectory by itself   
@@ -143,7 +145,7 @@ Cumulative (Months–Years):
    
 ### Relations (Wiring)   
 - Component Of: [Third Intelligence](third-intelligence.md) Tetrad (fourth element)   
-- Enables: Flywheel effect, cumulative C growth, pattern recognition across Journal   
+- Enables: Flywheel effect, cumulative C growth, **when Journal is stored as an AI-accessible corpus**: pattern recognition as **idiom-preserving structuration** across Journal   
 - Provides: Spacing for Sₑ recovery, consolidation for insights   
 - Required For: Sustainable transformation (trajectory), not just isolated productive sessions   
 - Validated By: [Manic Episode](the-manic-episode.md) (collapse when spacing is violated; false viability under Sₑ depletion)   

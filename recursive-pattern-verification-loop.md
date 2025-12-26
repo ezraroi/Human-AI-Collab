@@ -15,6 +15,7 @@ Backlinks:
     - preconditions-for-transformative-ai-dialogue.md
     - 4ps-protocol.md
     - section-5-the-category-error-relational-axis-f.md
+    - parity-principle-pp.md
     - journal.md
     - authoritative-discourse.md
     - cognitive-style-bias.md
@@ -24,7 +25,6 @@ Backlinks:
     - protected-self-holding-principle.md
     - enacted-alpha-work-eaw.md
     - epistemological-humility.md
-    - 3-the-13-stage-development-sequence.md
     - alpha-function.md
     - cognitive-debt.md
     - protein-shake-brain-psb.md

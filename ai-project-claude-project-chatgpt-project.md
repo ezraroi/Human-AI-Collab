@@ -4,6 +4,8 @@ Object type:
     - Tool
 Backlinks:
     - journal.md
+    - 4-the-three-functions.md
+    - 6-how-to-journal.md
 Origin Domain:
     - Artificial Intelligence (Tech & Management)
 Research Status: Evergreen

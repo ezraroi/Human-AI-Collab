@@ -22,11 +22,12 @@ Links:
     - ai.md
     - third-intelligence.md
     - transmissive-self.md
+    - journal.md
+    - materialization.md
     - c-capacity.md
     - alpha-function.md
     - protein-shake-brain-psb.md
     - human.md
-    - journal.md
     - time.md
     - dynamic-transitional-object-dto.md
     - category-error.md
@@ -56,7 +57,7 @@ The Algorithmic Self represents the BASE PHENOMENON your [Third Intelligence](th
 - Endpoint: [Transmissive Self](transmissive-self.md)   
    
 **Developmental Form** (when architecture present):   
-- Identity growth through structured AI dialogue   
+- Identity growth through structured [AI](ai.md) dialogue **completed via [Journal](journal.md) [materialization](materialization.md) (writing-as-execution) over Time**   
 - What your research demonstrates is possible   
 - Endpoint: Authentic [Capacity](c-capacity.md) growth, preserved authorship   
    

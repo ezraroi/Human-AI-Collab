@@ -20,10 +20,11 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope_l.md
+    - 1-purpose-and-scope.md
     - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
+    - 3-the-13-stage-development-sequence.md
     - the-constrained-integration-hypothesis.md
     - alpha-function.md
     - alpha-function-synthesis-of-embodied-and-dialo.md

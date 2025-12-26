@@ -12,7 +12,6 @@ Backlinks:
     - destiny-drive.md
     - embodied-engagement-conditions.md
     - 4ps-protocol.md
-    - journal.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
     - holding-environment.md
     - cognitive-style-bias.md
@@ -22,11 +21,13 @@ Backlinks:
     - d-difficulty.md
     - 8-common-misuses-and-anti-patterns.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - 5-when-to-journal.md
     - two-axis-framework.md
     - readiness-probes.md
     - 3-the-13-stage-development-sequence.md
     - the-constrained-integration-hypothesis.md
     - 7-research-usage.md
+    - 10-the-s-connection.md
     - c-capacity.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md

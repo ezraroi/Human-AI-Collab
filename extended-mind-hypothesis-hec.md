@@ -14,7 +14,7 @@ Backlinks:
     - cognitive-offloading.md
     - 3-implications-for-positioning.md
     - dynamic-transitional-object-dto.md
-    - executive-summary_e.md
+    - executive-summary_4.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition
@@ -24,6 +24,7 @@ Creation date: "2025-11-22T15:48:21Z"
 Created by:
     - Roi Ezra
 Links:
+    - parity-principle-pp.md
     - journal.md
     - human.md
     - ai.md
@@ -31,7 +32,6 @@ Links:
     - beta-elements.md
     - alpha-elements.md
     - felt-sense.md
-    - parity-principle-pp.md
     - chronotope.md
     - enacted-alpha-work-eaw.md
     - third-intelligence.md
@@ -41,7 +41,7 @@ id: bafyreibsw6cxgizmhoonajs4cdcumjgugkxy2pijkq3fysmppnqwh7zthi
 # Extended Mind Hypothesis (HEC)   
 The **Extended Mind Hypothesis (EMH)** argues that human cognition can **extend beyond the boundaries of brain and body** into the environment when external artifacts and structures function as **constitutive parts of cognitive activity**. On this view, cognition is not confined to internal symbol manipulation; it can be a property of a **dynamically coupled organism–environment system**, spatially and temporally distributed across brain, body, and world.   
 ### Operational Criteria (classic “glue and trust”)   
-EMH is typically justified via the **Parity Principle (PP)**: if an external process plays the same functional role as an internal cognitive process, it should count as part of cognition.   
+EMH is typically justified via the **[Parity Principle (PP)](parity-principle-pp.md)**: if an external process plays the same functional role as an internal cognitive process, it should count as part of cognition.   
 In classic cases (e.g., Otto’s notebook), discussions often add coupling criteria (“glue and trust”), such as:   
 1. The resource is reliably present and consulted when relevant.   
 2. The information is easily accessible.   
@@ -54,8 +54,8 @@ These criteria specify when an external resource is not merely used, but **integ
 EMH supports the system’s claim that the **Journal is not merely a record**, but a constitutive component of a distributed cognitive architecture ([Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md)). Specifically, EMH legitimizes the Journal’s cognitive roles:   
 - **Persistence and re-enterability** (cross-temporal stability)   
 - **Material constraint** (forces sequential commitment and articulation)   
-- **Revision and iterative repair** (re-reading, rewriting, refining)   
-- **Chronotope function** (inscribed time-space enabling continuity and recursion)   
+- **Revision and iterative repair enabled by re-entry** (re-reading, rewriting, refining)   
+- Chronotope function (diachronic alterity: past-self as addressable I-position enabling re-entry and cross-temporal recursion)   
    
 **Critical distinction (locked ontology):** EMH legitimizes the **infrastructure**. What happens at that infrastructure—the transformation of [beta-elements](beta-elements.md) into owned [alpha-elements](alpha-elements.md) via semantic commitment under [felt-sense](felt-sense.md) constraint—is **Enacted Alpha-Work (EAW)**. The Journal provides the conditions; the **human performs the metabolic labor**.   
 ### 2) Journal vs. AI: EMH-compliant coupling versus Anti-Otto coupling   
@@ -64,7 +64,7 @@ EMH supports the system’s claim that the **Journal is not merely a record**, b
    
 ### 3) The Trust Paradox (AI as “Anti-Otto” device)   
 Classic EMH relies on **automatic trust**. This system requires **mandatory skepticism**.   
-AI’s unreliability is reframed as functional: AI operates as an **Anti-Otto device** whose non-endorseability forces verification (RPVL), preserving authorship and maintaining productive tension so that material can be metabolized rather than adopted.   
+AI’s unreliability is reframed as functional: AI operates as an Anti-Otto device whose non-endorseability forces micro-verification during creation, preserving authorship.   
 ## Relations (Wiring)   
 - **[Parity Principle (PP)](parity-principle-pp.md) — Grounded In**   
     PP provides the core heuristic used to justify extended cognition claims.   

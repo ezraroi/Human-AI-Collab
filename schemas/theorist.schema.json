@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-25:type-692188bc60de23efb249f099:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-26:type-692188bc60de23efb249f099:ver-1.0",
   "type": "object",
   "title": "Theorist",
   "x-app": "Anytype",

@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - Selected Fact Notebook Synthesis
 Creation date: "2025-12-20T07:20:24Z"

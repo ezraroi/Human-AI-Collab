@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - 'Unified Architecture: Neurobiological Resolution of Psychic Tensions'
 Creation date: "2025-11-22T15:08:53Z"

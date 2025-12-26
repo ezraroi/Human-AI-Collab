@@ -2,8 +2,6 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
-Tag:
-    - DRAFTING
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
 Creation date: "2025-11-22T11:02:40Z"
@@ -34,7 +32,7 @@ Links:
 id: bafyreia4lczk7wfpc7gwn5hfz6iqi5w4kgulu6333ocp73ofzkcj3jvcoe
 ---
 # Section 12 - Resolution of Theoretical Contradictions   
-## 14. Resolution of All Theoretical Contradictions   
+## 12. Resolution of All Theoretical Contradictions   
 This system model resolves the core philosophical paradoxes that previously constrained the model’s articulation.   
 [Bakhtin's](mikhail-bakhtin.md) Paradox ([Chronotope](chronotope.md) & Eventness):   
 Resolution: The Journal provides the chronotope (stable time-space). The “event” is the user’s act of inscription: materializing an α-element into the [Journal](journal.md) ([chronotope](chronotope.md)), an insight catalyzed by the AI but not created by it.   

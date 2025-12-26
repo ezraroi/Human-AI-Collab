@@ -40,6 +40,7 @@ Links:
     - human.md
     - journal.md
     - chronotope.md
+    - diachronic-alterity.md
     - false-self.md
     - identity-stakes.md
     - protein-shake-brain-psb.md
@@ -72,7 +73,7 @@ Without sufficient [Emotional Scaffolding](emotional-scaffolding-s_e.md), the en
 The analyst's consistent attention, reliable setting, empathic attunement, and interpretive work recreate the Holding Environment, allowing previously foreclosed developmental processes to resume.   
 **In the [Third Intelligence](third-intelligence.md) System:**   
 - The **[Human](human.md)** provides S\_e through embodied self-regulation, emotional resilience, and physiological stability   
-- The [Journal](journal.md) can support continuity-of-being by providing re-enterable materialized outcomes ([Chronotope](chronotope.md)), creating persistence across time   
+- The [Journal](journal.md) can support continuity-of-being by providing re-enterable materialized outcomes (**[Chronotope](chronotope.md): [diachronic alterity](diachronic-alterity.md) / addressable past-self I-position**), creating persistence across time   
 - **S\_e depletion** within sessions is a critical boundary condition requiring withdrawal protocols   
    
 ### **Failure Mode:**   

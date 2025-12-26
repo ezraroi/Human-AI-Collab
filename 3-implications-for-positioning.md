@@ -25,7 +25,6 @@ Links:
 id: bafyreidwbowxfgrv67qervmiwbyzhocuhynihdupitvyectnh3amom3qge
 ---
 # 3. Implications for Positioning   
-# 3. Positioning and Theoretical Integration   
 ### 3.1 Learning Theory Is a Translation Layer, Not a Foundation   
 The correct relationship is as follows:   
 This work is not "applied learning theory." It is a transformation methodology that shares structural resonances with learning theory without being contained by it.   

@@ -13,7 +13,7 @@ Backlinks:
     - dialogical-knowing.md
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
-    - executive-summary_9.md
+    - executive-summary_2.md
     - 5-the-three-dimensional-integration.md
     - section-3-foundational-theoretical-integration.md
     - ai.md

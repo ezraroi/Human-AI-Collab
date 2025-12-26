@@ -123,8 +123,7 @@ But AI still does **not** provide Sₑ; it only supports conditions in which the
 1. Increase spacing (daily → alternate days → weekly)   
 2. Move from exploration to integration (process what already exists)   
 3. Strengthen offline embodiment + human relationships   
-4. Test “Journal-only” sessions (no AI)   
-5. Maintenance mode (periodic use for specific transitions only)   
+4. Maintenance mode (periodic use for specific transitions only)   
    
 ## C. Shadow axis: pathologies, failures, and boundaries   
 ### 1) Protein Shake Brain (PSB)   

@@ -24,6 +24,7 @@ Backlinks:
     - potential-space.md
     - activation-pathway-of-destiny-drive.md
     - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - functional-thirdness.md
     - psychoanalytic-prerequisites.md
     - internally-persuasive-discourse.md
     - the-recursive-third-intelligence-system-archit.md

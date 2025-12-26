@@ -60,7 +60,7 @@ Describes the **functional architecture** that transforms accessible experience 
 - [Functional Alterity](functional-alterity.md) (irreducible difference that prevents collapse into sycophancy or monologue)   
    
 **Materialization infrastructure (**required for RML completion**):**   
-- [Journal](journal.md) = materialization substrate enabling [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles to complete and accumulate ([Chronotope](chronotope.md); surviving object)   
+- [Journal](journal.md) = materialization substrate enabling [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles to complete and accumulate ([Chronotope](chronotope.md); surviving object, the **materialization layer**)   
    
 **Emergent outcome (revealed vector, not mechanism):**   
 - [Destiny Drive](destiny-drive.md) = emergent directionality of idiom articulation (the “where the grown [C](c-capacity.md) goes” once obstructions clear)   

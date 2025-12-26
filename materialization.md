@@ -7,11 +7,16 @@ Tag:
     - 'System Role: Mechanism'
     - 'Temporal: Dynamic'
 Backlinks:
+    - 1-what-the-journal-is.md
+    - journal.md
     - digital-neurophenomenology.md
+    - algorithmic-self.md
     - ai.md
+    - 2-the-wrong-model-vs-the-correct-model.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
+    - 3-the-13-stage-development-sequence.md
     - c-capacity.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
@@ -34,14 +39,14 @@ Emoji: "\U0001F4A1"
 id: bafyreifqpc444d7ken5elladd3mutm5mqjwvlfqxvq2rhagaahbsip45ui
 ---
 # Materialization   
-**Materialization** (or *concretization*) refers to the process by which something abstract or symbolic achieves a **concrete, material, or physical existence**.   
+Materialization (or concretization) refers to the process by which something abstract or symbolic achieves a concrete, material, or physical existence; **in this system it occurs as writing-as-execution in the [Journal](journal.md), produced through continuous verification during creation (not post-hoc documentation).**   
 In terms of expression or consciousness:   
 • Utterances are situated in **embodied, material,** multisensory worlds.   
 • Consciousness requires **embodiment in some particular material** (such as gesture, the inner word, or outery).   
-In one psychological framework, concretization describes a move away from symbolic functioning. *(Note: This usage differs from this system's use, where Journal materialization produces metabolized α-elements, not β-level content.)*   
+In one psychological framework, concretization describes a move away from symbolic functioning. *(*Note: This usage differs from this system's use, where Journal materialization is writing-as-execution: verified articulation in owned language completes metabolic processing, producing α-elements rather than recording them.*)*   
 • Aspects of the self that are strongly adhered to (*cleaved to*) are said to develop a **materiality**   
 **Relations:**   
 - Link to [Journal](journal.md) (Relation: **Enacted Through** / Occurs At).   
-- Link to [Alpha-Elements](alpha-elements.md) (Relation: Inscribes / Captures).   
+- Link to [Alpha-Elements](alpha-elements.md) (Relation: Produces Through Verified Articulation).   
    
    

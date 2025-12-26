@@ -19,6 +19,7 @@ Backlinks:
     - 3-the-three-emergent-insights-from-cross-analy.md
     - teleological-drift.md
     - section-9-container-as-function-authorization.md
+    - 1-what-the-journal-is.md
     - 4-the-system-architecture-v2-0.md
     - journal.md
     - introduction-the-core-problem-and-the-role-of-ai.md
@@ -31,7 +32,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_9.md
+    - executive-summary_2.md
     - selected-fact.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
@@ -69,7 +70,6 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
-    - functional-thirdness.md
     - section-3-causal-sequence-placement.md
     - emotional-scaffolding-s_e.md
     - section-6-journal-function-refinement.md

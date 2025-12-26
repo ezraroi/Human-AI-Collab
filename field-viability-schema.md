@@ -22,7 +22,7 @@ Backlinks:
     - digital-neurophenomenology.md
     - time.md
     - section-2-the-field-viability-schema-and-its-c.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_q.md
     - d-difficulty.md
     - challenge-gap-d-c.md
     - 8-common-misuses-and-anti-patterns.md

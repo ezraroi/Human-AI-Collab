@@ -10,14 +10,17 @@ Tag:
     - 'Operational Flags: Core'
 Backlinks:
     - section-4-attribution-logic.md
+    - diachronic-alterity.md
     - section-10-open-edges-to-bridge-later.md
     - section-5-temporal-architecture.md
     - section-2-definition.md
+    - parity-principle-pp.md
     - journal.md
     - section-7-counterfeit-detection-framework.md
     - section-8-boundary-conditions-prerequisites.md
     - enacted-alpha-work-eaw.md
     - ai.md
+    - reward-reinforcement-circuitry.md
     - section-1-purpose-of-this-notebook.md
     - dynamic-transitional-object-dto.md
     - 3-the-mechanism-catalytic-externalization.md
@@ -40,10 +43,12 @@ Links:
     - alpha-function.md
     - functional-thirdness.md
     - functional-alterity.md
+    - chronotope.md
+    - diachronic-alterity.md
     - human.md
     - time.md
-    - journal.md
     - ai.md
+    - journal.md
 Emoji: "\U0001F4A1"
 id: bafyreicne3tv22pxrtqpjgrdahezgeljlihrakuqkzqu4glknhpdpqj7p4
 ---
@@ -98,15 +103,15 @@ Counterfeit coherence tends toward:
    
 **System Relations:**   
 - May Emerge During → [Functional Thirdness](functional-thirdness.md) episodes (interaction-level dialogical space; not ontological intersubjectivity)   
-- Likelihood Increased By → Functional Thirdness episodes   
-- Precipitated By → [Functional Alterity](functional-alterity.md) (AI); return to accumulated Journal substrate   
+- Likelihood Increased By → [Functional Thirdness](functional-thirdness.md) episodes   
+- Precipitated By → [Functional Alterity](functional-alterity.md) (AI); **re-entry into accumulated Journal substrate ([chronotope](chronotope.md): [diachronic alterity](diachronic-alterity.md) / addressable past-self I-position)**   
 - Owned By → [Human](human.md) (metabolic integration only)   
-- Validated Through → [Time](time.md) (in-futuro probation); [Journal](journal.md) (return substrate for re-reading / drift detection)   
+- Validated Through → [Time](time.md) (in-futuro probation); Journal (**return substrate enabling re-reading across time; probation/drift logic belongs to Selected Facts / RPVL**)   
    
 **Four-Component Mapping:**   
 - Human: site of alpha-function; operational owner through embodiment   
 - [AI](ai.md): precipitates conditions (candidate linkages, alterity); cannot own   
-- [Journal](journal.md): cross-temporal pattern substrate; return-capable materialization supporting re-reading and drift detection   
+- [Journal](journal.md): **return-capable materialization** supporting re-reading; **when stored as an AI-accessible corpus**, supports cross-temporal pattern recognition as **idiom-preserving structuration** (from the user’s idiom corpus)   
 - Time: constitutive validation medium (not optional backdrop)   
    
 **Authorization:**   

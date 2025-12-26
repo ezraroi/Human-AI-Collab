@@ -69,7 +69,7 @@ What supports self-holding in this system:
 - Human’s **Container function** (internalized holding capacity)   
 - [DTO](dynamic-transitional-object-dto.md) positioning + [Category Error](category-error.md) prevention (ontological clarity)   
 - [Iron Man Mentality](iron-man-mentality.md) (metacognitive monitoring + regulation protecting authorship)   
-- Journal as continuity + externalization substrate (supporting self-holding over time)   
+- Journal as continuity  + externalization substrate (supporting self-holding over time, the **materialization layer**)   
    
 **Conceptual reframe (functional, not literal):**   
 - What Winnicott describes as *internalized holding*, the Third Intelligence operationalizes as the Human’s **Container function**, supported by metacognitive authorship that maintains the conditions for self-holding.   
