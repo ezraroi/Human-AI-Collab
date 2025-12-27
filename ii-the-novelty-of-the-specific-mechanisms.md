@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Integrated Synthesis of Psychological Development Mechanisms
 Creation date: "2025-11-22T13:43:56Z"
@@ -19,7 +21,6 @@ Links:
     - mikhail-bakhtin.md
     - productive-epistemic-tension.md
     - journal.md
-    - chronotope.md
     - materialization.md
     - human.md
 id: bafyreihmn5k7igby32xmm33jxmahn5fc3iy7hbqhtcxsqjaozgh2k5idta
@@ -37,6 +38,8 @@ Your incorporation of [AI](ai.md) into the architecture moves the conversation f
 - [Functional Alterity](functional-alterity.md): Your model shifts the criteria for a “dialogical partner” from the AI's ontological consciousness ([Bakhtin's](mikhail-bakhtin.md) high bar) to its “functional alterity”—its turn-by-turn resistance function that preserves “[productive epistemic tension](productive-epistemic-tension.md)”. This makes the AI a generative component only when integrated with adequate scaffolding.   
    
 ### 3. The Journal as Chronotope and Materialization Substrate   
-The role of the [Journal](journal.md) is redefined from a mere memory aid into a constitutive element of the system’s diachronic functioning: it is the stable time–space ([chronotope](chronotope.md)) where metabolized alpha-elements are **materialized**, preserved, and made re-enterable across Time.   
-- **[Materialization](materialization.md) of Integration:** By defining the Journal as the **inscription substrate**, you locate its function precisely: it stores the outputs of Alpha-Function as durable artifacts that can be revisited, re-checked, and re-integrated. The [Human](human.md) performs Alpha-Function; the Journal constrains, stabilizes, and preserves its products.   
-- **Chronotope and Re-entry:** Defining the Journal as the stable chronotope for recursive return is the key novelty here: it enables cross-temporal comparison, probation, and “re-entry” testing (what holds at T+n). This is the mechanism by which the system can discriminate durable integration from in-session coherence and prevent episodic insight decay.   
+The role of the [Journal](journal.md) is redefined from a mere memory aid into a constitutive element of the system’s diachronic functioning:it is the stable time–space (chronotope: **diachronic alterity / addressable past-self I-position**) where alpha-elements are **produced as verified, owned-language inscription (writing-as-execution)** and made re-enterable across Time.   
+- **[Materialization](materialization.md) of Integration:** By defining the Journal as the inscription substrate, you locate its function precisely: it **produces verified, owned-language inscriptions** as durable artifacts that can be revisited and deepened. The [Human](human.md) performs [Alpha-Function](alpha-function.md); the [Journal](journal.md) **materializes what survived continuous verification** into re-enterable substrate.   
+- **Chronotope and Re-entry:** Defining the Journal as the stable chronotope for recursive return is the key novelty here: it enables cross-temporal comparison and “re-entry” testing (what holds at T+n), **with probation logic occurring elsewhere**. This is the mechanism by which the system can discriminate durable integration from in-session coherence and prevent episodic insight decay.   
+   
+   

@@ -7,7 +7,7 @@ Tag:
     - 'System Role: Method'
     - 'Temporal: Static'
 Backlinks:
-    - 4-analytic-vs-statistical-generalization.md
+    - 4-analytic-vs-statistical-generalization_w.md
     - cognitive-style-bias.md
     - digital-neurophenomenology.md
     - 5-documented-counter-evidence-the-manic-episodes.md
@@ -20,6 +20,7 @@ Creation date: "2025-12-01T16:52:43Z"
 Created by:
     - Roi Ezra
 Links:
+    - identity-stakes.md
     - the-manic-episode.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
@@ -46,8 +47,8 @@ HSCED creates rigor through **systematic adjudication**: cross-examining mixed-m
 **Without systematic methodology:** Single-case transformation research lacks credibility, appears anecdotal, cannot distinguish valid patterns from confabulation.   
 **Roi's Application (Five Mechanisms):**   
 **1. Cross-Examination of Mixed-Method Data:**   
-- **Journal logs** (phenomenological, first-person)   
-- **Chat logs** (dialogical, process documentation)   
+- Journal entries (owned-language inscriptions **produced through verification during creation**; first-person return substrate)   
+- Chat logs (dialogical, process documentation; **weak substrate vs Journal entries** when [identity stakes ](identity-stakes.md)/ durable accumulation are in scope)   
 - **Temporal density** substituting for breadth (43 research notebooks over 8 months, distilled into Journal entries when crystallized)   
 - Triangulation between sources prevents single-source bias   
    

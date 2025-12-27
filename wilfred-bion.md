@@ -18,6 +18,7 @@ Backlinks:
     - section-3-foundational-theoretical-integration.md
     - section-4-the-importance-of-emotional-scaffold.md
     - the-container.md
+    - conclusion-on-novelty-and-contribution.md
     - d-difficulty.md
     - enacted-alpha-work-eaw.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
@@ -34,7 +35,7 @@ Backlinks:
     - section-11-the-dialogical-illusion-as-producti.md
     - integrated-synthesis-of-psychological-developm.md
     - 2-the-unbundled-rationale-architecture.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - section-13-significance-and-forward-direction.md
     - psychoanalytic-prerequisites.md
     - emotional-scaffolding-s_e.md

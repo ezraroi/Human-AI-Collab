@@ -40,10 +40,10 @@ id: bafyreicpcmh5xy6zuhcl3l4qwnfmayxxmq4uxf5oyehsmsz3l5szfx7rcu
 # Digital Neurophenomenology   
 Digital Neurophenomenology is the epistemic stance of the Third Intelligence research: an adaptation of Varela’s neurophenomenology to AI-mediated dialogue that legitimates first-person transformation data as credible research material.   
 ### The Structural Mapping   
-|        Position |                            Provider |                                                                            Function |
-|:----------------|:------------------------------------|:------------------------------------------------------------------------------------|
-| 1st-Person (1P) |                   [Human](human.md) |                            Raw, lived, pre-reflective experience (“hiker’s report”) |
-| 3rd-Person (3P) | [AI](ai.md) + [Journal](journal.md) |     Structural constraint: logic, coherence checking, candidate frames (“mapmaker”) |
+|        Position |                                                  Provider |                                                                            Function |
+|:----------------|:----------------------------------------------------------|:------------------------------------------------------------------------------------|
+| 1st-Person (1P) |                                         [Human](human.md) |                            Raw, lived, pre-reflective experience (“hiker’s report”) |
+| 3rd-Person (3P) | [AI](ai.md) (+ [Journal](journal.md) as return substrate) |     Structural constraint: logic, coherence checking, candidate frames (“mapmaker”) |
 
 ### Critical Clarification: What 3P Means Here   
 3P is not empirical measurement. AI provides structural constraint (objectification, coherence checking, candidate frames), not lab-grade third-person data. Empirical 3P validation remains part of the research agenda, not a claim already satisfied.   
@@ -77,7 +77,7 @@ Failure when roles swap:
 ### Relations (Wiring)   
 - Derived From → [Francisco Varela](francisco-varela.md) (Neurophenomenology)   
 - Methodology Of → [Third Intelligence](third-intelligence.md) Research Design   
-- Enacted Through → [Reflective Prompting](reflective-prompting.md), [Journal](journal.md) ([Materialization](materialization.md))   
+- Enacted Through → [Reflective Prompting](reflective-prompting.md); [Journal](journal.md) (**verified [materialization](materialization.md) / return substrate**)   
 - Constrained By → [Field Viability Schema](field-viability-schema.md) (Sₑ ⊗ Sₜ)   
 - Role Integrity Grounded In → [Protected Self-Holding Principle](protected-self-holding-principle.md)   
 - Maps To → Two-Axis Framework (role preservation = viable quadrant)   

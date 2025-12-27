@@ -22,6 +22,7 @@ Backlinks:
     - section-8-the-recursive-loop-and-embodied-inte.md
     - 5-critical-connection-3-the-journal-as-embodie.md
     - 8-critical-connection-6-my-method-works-becaus.md
+    - third-intelligence.md
     - the-constrained-integration-hypothesis.md
     - alpha-function.md
     - integrated-synthesis-of-psychological-developm.md

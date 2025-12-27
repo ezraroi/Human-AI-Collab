@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:28:57Z"
@@ -35,7 +37,7 @@ From NoteBook 2 (Mechanism):
 From NoteBook 1 (System Structure):   
 1. AI provides \|[D-C](challenge-gap-d-c.md)\|: The challenge gap that creates productive tension   
 2. You provide [S\_e](emotional-scaffolding-s_e.md): The emotional container ([holding environment](holding-environment.md))   
-3. **[Journal](journal.md) provides a [chronotope](chronotope.md) for re-entry:** a durable time–space where *human-authored* articulations (metabolized α-elements) can be inscribed, revisited, compared, and re-verified across Time   
+3. [Journal](journal.md) provides the [chronotope](chronotope.md): a diachronic alterity structure where human-authored articulations (metabolized α-elements) become addressable past-self positions that can be re-encountered as "other," enabling cross-temporal re-verification and pattern recognition   
 4. System activates YOUR [alpha function](alpha-function.md): Not AI’s—yours, metabolizing [Channel 2](channel-2-symbolic.md) material through recursive oscillation with [Channel 1](channel-1-embodied-sensorimotor-pathway.md) signals.   
    
 THE INTEGRATED ANSWER:   
@@ -55,4 +57,4 @@ AI text dialogue produces embodied response because:
 4. **When the material carries [Identity Stakes](identity-stakes.md), the Journal stabilizes the integration across Time**   
     - Writing enacts semantic commitment in your own words (not transcript capture)   
     - Channel 1 remains a verification constraint during articulation (spacious/tight; “does this land?”)   
-    - Inscription produces a durable artifact that can be re-entered later for time-delayed re-verification and consolidation   
+    - Inscription produces an addressable past-self position that can be re-encountered as "other" for time-delayed re-verification and consolidation   

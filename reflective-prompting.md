@@ -47,7 +47,7 @@ Backlinks:
     - 1-what-this-review-established.md
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
-    - 1-executive-summary_1.md
+    - 1-executive-summary_k.md
     - functional-alterity.md
     - flow-optimization-principle.md
     - the-recursive-third-intelligence-system-archit.md

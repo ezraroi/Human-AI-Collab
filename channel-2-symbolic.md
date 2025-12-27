@@ -51,7 +51,7 @@ Backlinks:
     - integrated-synthesis-of-psychological-developm.md
     - protein-shake-brain-psb.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - internally-persuasive-discourse.md
     - embodied-cognition.md
@@ -59,7 +59,7 @@ Backlinks:
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 3-how-entries-are-created.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_1u.md
+    - 1-executive-summary_3.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Theoretical Framework: Structuring ideas/axioms'

@@ -41,11 +41,12 @@ Backlinks:
     - c-capacity.md
     - integrated-synthesis-of-psychological-developm.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
     - section-3-causal-sequence-placement.md
     - section-6-journal-function-refinement.md
+    - 11-what-youve-actually-discovered-meta-level.md
     - unified-architecture-neurobiological-resolutio.md
     - wilfred-bion.md
     - 4-the-critical-ontological-distinction.md

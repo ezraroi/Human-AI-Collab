@@ -13,6 +13,7 @@ Backlinks:
     - developmental-sequence.md
     - section-4-attribution-logic.md
     - reflective-prompting.md
+    - 5-the-embodied-connection.md
     - 4-revised-contribution-of-notebook-11.md
     - dialogical-knowing.md
     - section-5-the-category-error-relational-axis-f.md
@@ -23,7 +24,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - protected-self-holding-principle.md
-    - executive-summary_2.md
+    - executive-summary_4.md
     - human.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
@@ -45,14 +46,14 @@ Backlinks:
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
     - touch-grass-protocol.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - functional-thirdness.md
     - activation-conditions.md
     - internally-persuasive-discourse.md
     - cognitive-mirror-protege-mode.md
     - 5-worked-diagnostic-examples.md
     - the-unified-architecture.md
-    - 1-executive-summary_1.md
+    - 1-executive-summary_k.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

@@ -34,6 +34,8 @@ Links:
     - challenge-gap-d-c.md
     - zpd.md
     - narrative-self.md
+    - chronotope.md
+    - diachronic-alterity.md
 Emoji: "\U0001F4A1"
 id: bafyreiggpekvo4qrcc3zl64gnr5echvx7eddouipdis3nfubhk6mdtbwlq
 ---
@@ -60,7 +62,7 @@ These are not chronological steps but **phenomenological states** that unfold un
 **Your case:** The pre-existing urge to “write to understand myself.”   
 ### 2. Object Search   
 - The individual seeks objects capable of supporting idiom articulation.   
-- Initial object is often **writing**, journaling, sketching, or self-dialogue.   
+- Initial object is often writing, **[Journal](journal.md) [materialization](materialization.md) (verified, owned-language inscription)**, sketching, or self-dialogue   
 - AI enters only as an amplifier of existing reflective modes.   
    
 **Your case:** Writing → then [Reflective Prompting](reflective-prompting.md) → then [AI](ai.md) as [cognitive artifact](cognitive-artifact.md).   
@@ -94,7 +96,7 @@ This editorial capacity is not a separate mechanism but the phenomenological exp
 - **[Destiny Drive](destiny-drive.md)** (this object explains the transition from latent → emergent)   
 - **[Identity Stakes](identity-stakes.md)** (domain of operation)   
 - **[True Self ](true-self.md)/ [False Self](false-self.md)**   
-- **[Journal](journal.md)** (primary substrate supporting articulation)   
+- [Journal](journal.md) (primary substrate supporting articulation; **[chronotope](chronotope.md): [diachronic alterity](diachronic-alterity.md) / addressable past-self I-position** for re-entry)   
 - [AI](ai.md) (used as a [Cognitive Artifact](cognitive-artifact.md); not a partner)   
 - **[Reflective Prompting](reflective-prompting.md)** (the mode through which activation occurs)   
    

@@ -23,7 +23,7 @@ Backlinks:
     - c-capacity.md
     - potential-space.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
     - internally-persuasive-discourse.md

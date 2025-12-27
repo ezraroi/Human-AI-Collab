@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Unified Architecture: Neurobiological Resolution of Psychic Tensions'
 Creation date: "2025-11-22T15:08:53Z"
@@ -76,7 +78,7 @@ The initial model mapped S\_e (Holding Container) to the PFC-Amygdala link (emot
    
 ### 4. The Journal’s Role ([chronotope](chronotope.md) + diachronic I-position)   
 The function of the Journal was strengthened by acknowledging its role as an infrastructural element.   
-- **The Refinement: Substrate for Pattern Recognition:** The Journal is not just a record of verified insights; it is the material substrate that enables pattern recognition across time and contexts. This makes developmental pattern synthesis possible across sessions and allows detection of trajectories and blindspots that present-moment cognition cannot reliably hold alone.   
+- **The Refinement: Substrate for Pattern Recognition:** The Journal is constitutive infrastructure where verification produces entries (not a post-hoc record). It functions as diachronic alterity—entries become addressable past-self I-positions for re-encounter as other—and, when AI-accessible, enables idiom-preserving pattern recognition across time. This makes developmental trajectory detection possible that present-moment cognition cannot reliably hold alone.   
    
 ## III. The Fundamental Element that Connects Everything   
 The deepest synthesis is the sequential, multi-level relationship between the psychoanalytic prerequisites and the neurobiological outcomes. The entire system works because it forces coordination of necessary psychic and neurological functions in a disciplined, recursive cycle:   

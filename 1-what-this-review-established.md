@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 10: Learning Theory & Education Preliminary Synthesis – Constructivist Tradition'
 Creation date: "2025-12-18T20:55:14Z"
@@ -12,6 +14,7 @@ Links:
     - challenge-gap-d-c.md
     - mko-more-knowledgeable-other.md
     - journal.md
+    - diachronic-alterity.md
     - reflective-prompting.md
 id: bafyreigjhbqcwt6o5zxxn5fj5kedum2xkn2upoa4varq2jpccbuf5jdpd4
 ---
@@ -35,8 +38,8 @@ Claim strength: Moderate–high. Conceptually coherent; requires literature chec
 ### 1.3 The Journal and Cognitive Apprenticeship   
 Cognitive apprenticeship emphasizes “making thinking visible” through articulation, reflection, and guided practice. The [Journal](journal.md) aligns with this tradition while adding distinctive structural functions:   
 - Externalization of reflective AI dialogue (metabolized dialogical work, not private monologue)   
-- Stable substrate for revisiting and refining prior thinking   
-- Material continuity across sessions   
+- [Diachronic alterity](diachronic-alterity.md) structure—entries become addressable past-self positions for re-encounter and refinement   
+- Cross-temporal self-relation across sessions   
 - Support for cross-temporal pattern recognition   
    
 Where cognitive apprenticeship emphasizes reflection as pedagogically central, this model treats materialization as structurally necessary for transformation.   

@@ -17,14 +17,14 @@ Backlinks:
     - neural-synchrony.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_c.md
     - pre-reflective-awareness.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - as-if-body-loop.md
     - alpha-function-synthesis-of-embodied-and-dialo.md
     - 3-the-felt-sense-and-the-insula-channel-1-veri.md
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - embodied-cognition.md
     - the-unified-architecture.md

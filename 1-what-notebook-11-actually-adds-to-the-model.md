@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 11: The Ontology of the New Machine'
 Creation date: "2025-12-19T10:30:46Z"
@@ -81,7 +83,7 @@ the human:
    
 These boundary conditions ensure that:   
 - The Human remains the architect   
-- The Journal remains the durable substrate for interpretation across time.   
+- The Journal remains the diachronic alterity substrate—addressable past-self positions for re-encounter and interpretation across time.   
 - The AI remains a DTO (appearing relational without being one)   
    
 Here, the relational classification functions as a diagnostic and protective layer for the system.   

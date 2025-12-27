@@ -8,7 +8,7 @@
 ## [METHOD] 4Ps Protocol
 [Theoretical] NoteBook 6 - Cognitive Mechanics, Domain: Methodology, System Role: Method, Temporal: Dynamic
 
-A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation (Flavell) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied verification before adopting an output as ‘owned’; **time-delayed re-entry and/or Journal inscription apply when durable ownership is required**.
+A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation (Flavell) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied verification before adopting an output as ‘owned’; when durable ownership is required, **Possess completes through writing-as-execution (continuous verification producing a Journal entry) plus time-delayed re-entry**.
 ### Minimal Constrained-Integration Link
 4Ps is a **local intervention** used when drift threatens transformation conditions: it pulls the user back from “cold fluency” into **owned processing** by (1) interrupting autopilot, (2) restoring epistemic responsibility, (3) re-authoring in one’s idiom, and (4) requiring **embodied + time-delayed verification** (i.e., the As-If Body Loop is most explicitly engaged in **Possess**, and often begins in **Process**). It also supports **SN integrative mode** by reintroducing “check + integration” instead of “consume + proceed.”
 ## Purpose
@@ -64,9 +64,9 @@ Reflective Prompting (session structure)
 - **Function:** Transfers authorship from “sounds right” → “is mine.”
 - **Checks:**
     - Spacious vs tight (“does this *land*?”)
-    - One concrete instantiation (“where is this true in my life/work?”)
+    - One concrete instantiation (“where is this true in my life/work?”) **and, where available, evidential grounding (test the structural claim against concrete instances/artifacts)**
     - Durability (“can I explain this tomorrow without notes?”)
-- **Identity-stakes:** Complete via **Journal inscription** (transcript is not enough).
+- **Identity-stakes:** Complete via Journal inscription (**chronotope: diachronic alterity / addressable past-self I-position**; transcript is not enough).
 - **Escalation:** Persistent tightness / grounding failure / rising depletion → **Touch Grass Protocol** (do not force adoption).
 - **Done when:** It survives re-entry and feels both reconstructable and internally authored.
 
@@ -126,8 +126,8 @@ HSCED creates rigor through **systematic adjudication**: cross-examining mixed-m
 **Without systematic methodology:** Single-case transformation research lacks credibility, appears anecdotal, cannot distinguish valid patterns from confabulation.
 **Roi's Application (Five Mechanisms):**
 **1. Cross-Examination of Mixed-Method Data:**
-- **Journal logs** (phenomenological, first-person)
-- **Chat logs** (dialogical, process documentation)
+- Journal entries (owned-language inscriptions **produced through verification during creation**; first-person return substrate)
+- Chat logs (dialogical, process documentation; **weak substrate vs Journal entries** when identity stakes / durable accumulation are in scope)
 - **Temporal density** substituting for breadth (43 research notebooks over 8 months, distilled into Journal entries when crystallized)
 - Triangulation between sources prevents single-source bias
 

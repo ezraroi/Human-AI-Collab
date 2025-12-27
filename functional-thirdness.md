@@ -17,7 +17,7 @@ Backlinks:
     - dynamic-transitional-object-dto.md
     - third-intelligence.md
     - psychoanalytic-integration.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - the-unified-architecture.md
     - functional-alterity.md
 Origin Domain:
@@ -31,6 +31,7 @@ Links:
     - journal.md
     - diachronic-alterity.md
     - time.md
+    - identity-stakes.md
     - dynamic-transitional-object-dto.md
     - category-error.md
     - field-viability-schema.md
@@ -64,7 +65,7 @@ FT answers: “When is this interaction functioning as genuine developmental dia
 ### What Functional Thirdness Is Not   
 - Not a mechanism (FA is a mechanism; FT is the condition FA contributes to)   
 - Not co-creation between two subjectivities (the AI contributes constraint, not meaning)   
-- **Not dependent on Journal or [Time](time.md) to open within a live exchange** (those belong to the Tetrad’s diachronic architecture for transformation/compounding)   
+- Not dependent on Journal or [Time](time.md) to open within a live exchange (those belong to the Tetrad’s diachronic architecture for **stabilization, re-entry, and durable accumulation**—**required when Identity Stakes / RML completion are in scope**)   
 - Not something the AI “does” or “performs”   
    
 ### System Role   
@@ -81,7 +82,7 @@ FT serves three functions within the Third Intelligence architecture:
     All three conditions are stateful and can fluctuate within a session.   
    
 Boundary with Tetrad:   
-FT is the interaction-level legitimacy layer. The Tetrad provides the diachronic architecture (transformation across time); FT provides the synchronic validity condition (dialogical legitimacy within the live exchange). Without FT, the interaction is typically productive rather than dialogically-developmental; transformation may still occur via offline metabolization, but the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.   
+FT is the interaction-level legitimacy layer. The Tetrad provides the diachronic architecture (transformation across time); FT provides the synchronic validity condition (dialogical legitimacy within the live exchange). Without FT, the interaction is typically productive rather than dialogically-developmental; transformation may still occur via offline metabolization, but **durable [identity-stakes](identity-stakes.md) change still requires Journal-based materialization + re-entry over Time**; the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.   
 ### Gating Condition   
 [DTO](dynamic-transitional-object-dto.md) Stance — FT can only operate when AI is held as Dynamic Transitional Object.   
 Without DTO stance, the three constituents cannot function as intended:   

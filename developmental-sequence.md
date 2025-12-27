@@ -74,7 +74,7 @@ maintainable under cognitive/emotional load
 (When both axes are in success mode)   
 These stages become reliably available only when Stage 7 (DTO under strain) and a viable field (Sₑ ⊗ Sₜ) are present; otherwise activation may be partial, brief, or regress under depletion   
 - Stage 11: [Alpha-Function](alpha-function.md) activates (recursive C1↔C2 oscillation)   
-- Stage 12: Materialization and verification ([Journal](journal.md))   
+- Stage 12: **Writing-as-materialization under continuous verification → [Journal](journal.md) entry as verified substrate** (verification produces the entry; not post-hoc checking)   
 - Stage 13: [Destiny Drive](destiny-drive.md) articulation (idiomatic possibility lived)   
    
 ### Clinical Boundary: Stage 9   

@@ -9,7 +9,9 @@ Tag:
     - 'System Role: Input'
 Backlinks:
     - developmental-sequence.md
+    - 5-the-embodied-connection.md
     - destiny-drive.md
+    - 12-what-this-means-for-your-paper.md
     - embodied-engagement-conditions.md
     - 4ps-protocol.md
     - 6-critical-connection-4-how-ai-dialogue-produc.md
@@ -20,6 +22,7 @@ Backlinks:
     - 2-the-divided-labors-of-two-theories.md
     - d-difficulty.md
     - 8-common-misuses-and-anti-patterns.md
+    - hsced-hermeneutic-single-case-efficacy-design.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
     - 5-when-to-journal.md
     - two-axis-framework.md
@@ -31,6 +34,7 @@ Backlinks:
     - c-capacity.md
     - protein-shake-brain-psb.md
     - activation-pathway-of-destiny-drive.md
+    - functional-thirdness.md
     - emotional-scaffolding-s_e.md
     - the-unified-architecture.md
 Origin Domain:

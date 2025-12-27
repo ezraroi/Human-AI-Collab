@@ -60,7 +60,7 @@ Backlinks:
     - ii-the-novelty-of-the-specific-mechanisms.md
     - 3-how-entries-are-created.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
-    - 1-executive-summary_1u.md
+    - 1-executive-summary_3.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

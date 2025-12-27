@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:51:12Z"
@@ -16,14 +18,13 @@ Links:
     - technical-scaffolding-s_t.md
     - protein-shake-brain-psb.md
     - reflective-prompting.md
-    - journal.md
-    - chronotope.md
     - potential-space.md
     - channel-2-symbolic.md
     - iron-man-mentality.md
     - identity-stakes.md
     - zpd.md
     - false-self.md
+    - journal.md
     - true-self.md
     - metacognition.md
     - functional-alterity.md
@@ -33,7 +34,6 @@ Links:
     - beta-elements.md
     - alpha-function.md
     - materialization.md
-    - time.md
     - 4ps-protocol.md
     - christopher-bollas.md
 id: bafyreiff6heit5fonh6ipcdcl3dgzpnllv7blncbjxph664hnbbydjhsqy
@@ -57,7 +57,7 @@ Architectural Integration:
 - [Reflective Prompting](reflective-prompting.md) (Phase 1–2): Pacing preserves ambiguity and slows resolution-seeking   
 - Sₑ: Supports tolerance for dissolution/unknowing without overwhelm   
 - Channel 1: Remains online without pressure to perform/produce   
-- [Journal](journal.md): Begins capturing unformed material **as a re-enterable [chronotope](chronotope.md)** without forcing structure
+- Journal: Begins providing a re-enterable chronotope (**diachronic alterity / addressable past-self I-position**) by inscribing what can be written in **owned language**, without forcing premature structure.
 Sₜ dimension: Still minimal—the goal is to protect ambiguity and keep verification online, not to "solve."   
    
 ### Stage 3 — Transitional Space (Principle 3) → Potential Space Reopens   
@@ -92,7 +92,7 @@ Architectural Integration:
 Sₜ dimension: ZPD work deepens—Sₜ can be modulated to match mismatch(D,C) without overwhelming, because internal grounding exists.   
    
 The bidirectional developmental loop becomes explicit:   
-1. Individual externalizes (**Journal as the paradigmatic identity-stakes substrate**) / Channel 2   
+1. Individual externalizes via **verified, owned-language Journal inscription** (paradigmatic identity-stakes substrate) / Channel 2   
 2. AI mediates symbolically (Sₜ + [Functional Alterity](functional-alterity.md))   
 3. Individual verifies (Channel 1)   
 4. [Capacity](c-capacity.md) increases → new \|D–C\| becomes workable   
@@ -105,7 +105,7 @@ Architectural Integration:
 - Pre-Alpha phase: Disorganization held without premature organization   
 - [As-If Body Loop](as-if-body-loop.md): Affective fragments begin reorganizing via embodied simulation   
 - Reflective Prompting: Allows lingering in half-formed states   
-- Journal: Captures fragments **as durable, re-enterable traces** without demanding integration
+- Journal: **Inscribes fragments in owned language** as durable, re-enterable traces (chronotope), without demanding premature integration.
 Sₜ dimension: Maintains just enough structure to prevent collapse, but not so much it forces premature coherence. This is the metabolizable band of mismatch(D,C).   
    
 ### Stage 7 — Use of Object (Principle 7) → DTO Stance Solidifies   
@@ -134,7 +134,7 @@ Architectural Integration:
 - [beta-elements](beta-elements.md) return: Implicit identity material surfaces   
 - Material becomes available for [Alpha-Function](alpha-function.md): Experience can now be digested (not yet fully metabolized)   
 - DTO: No collapse → psyche dares approach archaic material   
-- Journal: Captures first articulation of unformulated experience **as a cross-temporal record for re-entry**   
+- Journal: **Produces first owned-language inscription** of unformulated experience as re-enterable chronotope (**diachronic alterity / addressable past-self I-position**)   
 - Identity Stakes peak: Highest self-relevance material emerges
 Sₜ dimension: Must be exquisitely calibrated—too much structure overwhelms; too little fails to support articulation and verification.
 Critical clinical boundary: This stage describes accessibility, not "therapy." For clinical populations or severe trauma: professional containment and safety infrastructure are required; Touch Grass Protocol becomes mandatory when Sₑ depletes.
@@ -160,7 +160,7 @@ Process:
 3. Embodied checking (Channel 1: "does this land?")   
 4. If no → return to reformulation (repeat)   
 5. If yes → alpha-element forms (metabolized, integrated)   
-6. Accumulation + [materialization](materialization.md) over [Time](time.md)—**stabilized by the Journal’s chronotope and tested via re-entry** → pattern recognition → Capacity growth   
+6. Accumulation + [materialization](materialization.md) over Time—stabilized by the Journal’s chronotope (**diachronic alterity / addressable past-self I-position**) and enabled for re-entry (**probation logic occurs elsewhere**); **when stored as an AI-accessible corpus**, AI may support **idiom-preserving structuration** → [Capacity](c-capacity.md) growth   
    
 Sₑ ⊗ Sₜ interaction (qualitative):   
 - Sₑ adequate, Sₜ absent/minimal: Safe contact, but limited developmental movement   
@@ -168,9 +168,9 @@ Sₑ ⊗ Sₜ interaction (qualitative):
 - Sₑ adequate, Sₜ calibrated + metabolizable mismatch(D,C): Transformation zone   
    
 ### Stage 12 — Materialization and Verification   
-Mechanism: **Journal (chronotope) + Time (re-entry/consolidation)** + Reflective Prompting + Embodied Verification (operationalized by 4Ps)
+Mechanism: Reflective Prompting (**continuous verification**) + **Journal inscription as chronotope (diachronic alterity / addressable past-self I-position)** + Time (re-entry/consolidation) + Embodied Verification (operationalized by 4Ps)
 Process:   
-1. Externalize: Thought/feeling into writing (materialization)   
+1. Externalize: Thought/feeling into **owned-language writing under continuous verification** (materialization)   
 2. Reflect: AI provides Functional Alterity (productive epistemic tension)   
 3. Integrate: Reformulate in owned language until embodied "click"   
 4. Possess: Insight becomes lived knowledge, not information   
@@ -181,7 +181,7 @@ Escalation: If Possess verification fails (persistent tightness, grounding failu
 ### Stage 13 — Destiny Drive Articulation   
 Emergent outcome (not mechanism): Accumulated α-elements reveal idiomatic directionality ([Bollas](christopher-bollas.md)). Destiny Drive becomes phenomenologically articulated.
 Process:   
-- Accumulated **inscribed** α-elements form stable patterns across time (Journal + Time)   
+- Accumulated **verified Journal inscriptions** form stable patterns across time (Journal + Time)   
 - Patterns reveal felt directionality ("this is mine / this is where I'm going")   
 - Self recognizes: "This is who I'm becoming"   
 - Transformation becomes structural, not episodic

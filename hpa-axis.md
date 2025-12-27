@@ -13,10 +13,10 @@ Backlinks:
     - human.md
     - 4-the-container-s_e-as-a-physiological-state-t.md
     - 3-the-discriminator-framework.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_c.md
     - the-constrained-integration-hypothesis.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - the-recursive-third-intelligence-system-archit.md

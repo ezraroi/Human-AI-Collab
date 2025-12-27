@@ -41,7 +41,7 @@ Backlinks:
     - iron-man-mentality.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_2.md
+    - executive-summary_4.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -108,7 +108,6 @@ Backlinks:
     - 6-how-to-journal.md
     - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
-    - section-3-causal-sequence-placement.md
     - internally-persuasive-discourse.md
     - section-6-journal-function-refinement.md
     - 11-why-it-matters.md

@@ -55,7 +55,7 @@ Backlinks:
     - section-10-the-grand-unification.md
     - recursive-metabolic-loop.md
     - 8-the-unified-relational-ontology.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_c.md
     - section-7-temporal-dynamics-across-the-archite.md
     - transmissive-self.md
     - 2-the-alpha-function-as-the-triple-network-the.md
@@ -109,6 +109,8 @@ Links:
     - third-intelligence.md
     - recursive-metabolic-loop.md
     - channel-1-embodied-sensorimotor-pathway.md
+    - alpha-function.md
+    - materialization.md
     - journal.md
     - c-capacity.md
     - channel-2-symbolic.md
@@ -118,8 +120,6 @@ Links:
     - recursive-pattern-verification-loop.md
     - identity-stakes.md
     - felt-shift.md
-    - alpha-function.md
-    - materialization.md
     - protected-self-holding-principle.md
     - category-error.md
     - dynamic-transitional-object-dto.md
@@ -134,8 +134,8 @@ PSB is the **diagnostic inverse of transformation**.
 ### System Role   
 PSB is the primary failure mode of the [Third Intelligence](third-intelligence.md) because it breaks the [Recursive Metabolic Loop](recursive-metabolic-loop.md) by:   
 - **Loss of embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))** in identity-stakes work   
-- **Alpha-Function under-engagement** (β → α conversion does not complete)   
-- **Blocked materialization** (missing/weak owned-language [Journal](journal.md) entries when durability is needed) and weakened possession/verification posture   
+- **[Alpha-Function](alpha-function.md) under-engagement** (β → α conversion does not complete)   
+- Blocked [materialization](materialization.md) (**failure to produce verified, owned-language [Journal](journal.md) entries through micro-verification during creation** when durability is needed) and weakened possession/verification posture   
 - **[Capacity](c-capacity.md) (C) stagnation** across time   
    
 **Critical distinction:** PSB is not “failure to think.” It is **thinking without metabolizing**.   

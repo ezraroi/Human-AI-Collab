@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:55:43Z"
@@ -52,7 +54,7 @@ id: bafyreihsyfnfslwkyop2zpzzzk7humfo7xr7olipctvway34ousy2esx5y
 - Controls stance ([DTO](dynamic-transitional-object-dto.md) + [Iron Man Mentality](iron-man-mentality.md))   
 - **Controls engagement with [Functional Alterity](functional-alterity.md)** (timing/stance via relation-shifting, and Sₜ calibration via prompting)   
 - Performs embodied verification ([Channel 1](channel-1-embodied-sensorimotor-pathway.md))   
-- Writes in the [Journal](journal.md) (materialization / durable inscription)   
+- Writes in the [Journal](journal.md) (**materialization as verified, owned-language inscription**)   
 - Owns the transformation and [Capacity](c-capacity.md) growth (C)   
    
 This boundary preserves the integrity of both theories and prevents category confusion.   
@@ -69,7 +71,7 @@ What supports self-holding in this system:
 - Human’s **Container function** (internalized holding capacity)   
 - [DTO](dynamic-transitional-object-dto.md) positioning + [Category Error](category-error.md) prevention (ontological clarity)   
 - [Iron Man Mentality](iron-man-mentality.md) (metacognitive monitoring + regulation protecting authorship)   
-- Journal as continuity  + externalization substrate (supporting self-holding over time, the **materialization layer**)   
+- Journal as chronotope (**diachronic alterity / addressable past-self I-position**) + **verified, owned-language inscription** substrate (supporting self-holding over time, the materialization layer)   
    
 **Conceptual reframe (functional, not literal):**   
 - What Winnicott describes as *internalized holding*, the Third Intelligence operationalizes as the Human’s **Container function**, supported by metacognitive authorship that maintains the conditions for self-holding.   

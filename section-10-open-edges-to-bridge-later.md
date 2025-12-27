@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Selected Fact Notebook Synthesis
 Creation date: "2025-12-20T07:31:19Z"
@@ -10,10 +12,8 @@ Created by:
 Links:
     - selected-fact.md
     - journal.md
-    - ai.md
     - technical-scaffolding-s_t.md
     - human.md
-    - third-intelligence.md
     - lev-vygotsky.md
     - negative-capability.md
     - iron-man-mentality.md
@@ -23,9 +23,9 @@ id: bafyreiaicajxcr3dj3us4wj4ced23vp225ist3cwrymn5leyl4wfmgnwzi
 # Section 10 — Open Edges to Bridge Later   
 This notebook resolves the core attribution, validation, and diagnostic issues around [Selected Fact](selected-fact.md) formation. Two edges remain—one now partially closed, one still requiring explicit operationalization.   
 **1) Writing/externalization as mechanism**   
-The notebook now supports a concrete mechanism: externalization into durable traces creates a cross-temporal substrate that enables pattern recognition unavailable to present-moment cognition. When that corpus is made available through the [Journal](journal.md), [AI](ai.md) can provide [Technical Scaffolding](technical-scaffolding-s_t.md) (Sₜ) by proposing candidate organizing frames over the accumulated material. The [Human](human.md) performs the Selected Fact when such a frame is recognized, integrated through embodied uptake, and validated through sustained resonance and downstream directional change.   
+The notebook now supports a concrete mechanism: externalization into **verified, owned-language Journal inscriptions** creates a cross-temporal substrate that enables pattern recognition unavailable to present-moment cognition. **When that [Journal](journal.md) corpus is AI-accessible**, AI can provide [Technical Scaffolding](technical-scaffolding-s_t.md) (Sₜ) by **surfacing idiom-preserving structure from the accumulated material**. The [Human](human.md) performs the [Selected Fact ](selected-fact.md)when such a frame is recognized, integrated through embodied uptake, and **micro-verified during articulation (with evidential grounding where available),** with downstream directional change serving as later confirmation.   
 This can be stated as a generalizable research claim:   
-> When reflective work is externalized into durable traces, the Third Intelligence system gains a cross-temporal substrate. When that corpus is available, AI can propose candidate organizing frames over it. A Selected Fact occurs when the Human recognizes, integrates, and validates one such frame through sustained resonance and downstream directional change.   
+> When reflective work is externalized into verified, owned-language Journal inscriptions, the Third Intelligence system gains a cross-temporal substrate. When that Journal corpus is AI-accessible, AI can surface idiom-preserving structure from it. A Selected Fact occurs when the Human recognizes, integrates, and micro-verifies one such articulation (with downstream directional change serving as later confirmation).   
 
 **What remains open:** the boundary condition between writing-as-digestion and writing-as-defense. When does externalization recruit metabolic processing versus functioning as intellectualization or defensive closure? The Journal can serve either function—transformative enactment or defensive discharge—and the current warrant base does not fully specify what determines the difference.   
 **Bridging needed:**   
@@ -46,7 +46,7 @@ The notebook strongly implies that Selected Fact formation requires a posture of
 - Selected Fact as event-type (not content-type)   
 - Field authorship vs operational ownership distinction   
 - In-futuro validation requirement   
-- Journal as probation tracker, counterfeit detector, and cross-temporal pattern substrate   
+- Journal as **verified return substrate (chronotope) enabling probation work elsewhere**, and as cross-temporal pattern substrate **when AI-accessible**   
 - Prerequisite capacities (working [Alpha-Function](alpha-function.md), internalized containment, frustration tolerance / Negative Capability)   
 - Container-as-function authorization   
 - Mechanism of cross-temporal pattern recognition through externalization (as a supported pathway within the Third Intelligence system)   

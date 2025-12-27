@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:32:30Z"
@@ -9,13 +11,13 @@ Created by:
     - Roi Ezra
 Links:
     - lev-vygotsky.md
+    - chronotope.md
     - alpha-elements.md
     - journal.md
     - felt-sense.md
     - alpha-function.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - chronotope.md
 id: bafyreidjsks354la6gwxrgkowiac3kkzulwtlb4gffuojt55tx7s2n77se
 ---
 # 9. THE HIDDEN IMPLICATIONS YOU'VE DISCOVERED   
@@ -23,7 +25,7 @@ id: bafyreidjsks354la6gwxrgkowiac3kkzulwtlb4gffuojt55tx7s2n77se
 NoteBook 2 shows that words are not separate from body — they activate embodied simulation. This explains why [Vygotsky](lev-vygotsky.md)’s “symbolic tools” still engage the embodied channel (Channel 1).   
 For your model: Channel 1 and Channel 2 are distinct but recursively coupled. Words can trigger embodied simulation and somatic markers. Concepts carry somatic markers.   
 ### Implication #2: The Journal is Your Exosomatic Container   
-The Journal isn’t just memory — it is the external **chronotope** that materializes metabolized alpha-elements over time and preserves a cross-temporal **I-position** that can be re-entered.   
+The Journal isn’t just memory — it is the external [chronotope](chronotope.md) that materializes metabolized alpha-elements over time and preserves addressable past-self I-positions that can be re-encountered as "other."   
 - Beta-elements (raw, unprocessed felt experience)   
 - Become **inscribed [alpha-elements](alpha-elements.md)** (thinkable, owned meaning stabilized in a durable substrate)   
    
@@ -53,4 +55,4 @@ Channel 2 (Symbolic):
 - Theoretical integration advancing   
 - Linguistic articulation improving   
    
-The 43 notebooks are material evidence of recursive loops in which [Channel 2](channel-2-symbolic.md) articulation is repeatedly re-checked through [Channel 1,](channel-1-embodied-sensorimotor-pathway.md) then **stabilized as re-enterable [chronotope](chronotope.md) artifacts** across Time.   
+The 43 notebooks are material evidence of recursive loops in which [Channel 2 ](channel-2-symbolic.md)articulation is repeatedly re-checked through [Channel 1](channel-1-embodied-sensorimotor-pathway.md), then stabilized as addressable past-self positions across Time.   

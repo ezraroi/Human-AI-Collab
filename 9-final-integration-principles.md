@@ -2,17 +2,20 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T11:07:28Z"
 Created by:
     - Roi Ezra
 Links:
+    - alpha-function.md
     - journal.md
+    - materialization.md
     - destiny-drive.md
     - human.md
     - the-container.md
-    - alpha-function.md
     - dynamic-transitional-object-dto.md
     - emotional-scaffolding-s_e.md
     - technical-scaffolding-s_t.md
@@ -29,13 +32,13 @@ id: bafyreie5ctw4tnwfn7jfipm7y3eaeri6xdctrgbptf2dmdhhnazkyiwtxi
 ### The Seven Foundational Principles   
 **1) Sequential Complementarity**   
 Winnicottian prerequisites (Stages 1–10) **enable** the Third Intelligence transformation sequence.   
-- **Stages 11–12** describe the operative transformation architecture (Alpha-Function activation + [Journal](journal.md) materialization/verification).   
+- Stages 11–12 describe the operative transformation architecture ([Alpha-Function](alpha-function.md) activation + **[Journal](journal.md) [materialization](materialization.md) as verified, owned-language inscription (verification during creation produces the entry)**)   
 - **Stage 13** is an **emergent outcome** ([Destiny Drive](destiny-drive.md) articulation), not a mechanism.   
     These are not parallel frameworks; they are a **developmental sequence** (diachronic, heuristic, and non-linear under depletion/low viability).   
    
 **2) Ontological Clarity**   
 - **[Human](human.md) = [Container](the-container.md)** (provides Sₑ, runs [Alpha-Function](alpha-function.md), maintains authorship via Iron Man Mentality / DTO stance).   
-- **Journal = materialization infrastructure** (durability + re-entry; enables enacted work to become stable).   
+- Journal = materialization infrastructure (**chronotope: diachronic alterity / addressable past-self I-position**; durability + re-entry; enables enacted work to become stable).   
 - **AI = [DTO](dynamic-transitional-object-dto.md) (Dynamic Transitional Object)**: neither Subject nor classical tool; provides **Sₜ + Functional Alterity** under human governance.   
     Never reverse this.   
    

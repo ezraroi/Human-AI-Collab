@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
 Creation date: "2025-11-22T11:02:40Z"
@@ -10,7 +12,6 @@ Created by:
 Links:
     - mikhail-bakhtin.md
     - chronotope.md
-    - journal.md
     - hubert-hermans.md
     - lev-vygotsky.md
     - zpd.md
@@ -18,7 +19,7 @@ Links:
     - reflective-prompting.md
     - functional-alterity.md
     - alpha-function.md
-    - the-container.md
+    - journal.md
     - technical-scaffolding-s_t.md
     - destiny-drive.md
     - false-self.md
@@ -35,18 +36,18 @@ id: bafyreia4lczk7wfpc7gwn5hfz6iqi5w4kgulu6333ocp73ofzkcj3jvcoe
 ## 12. Resolution of All Theoretical Contradictions   
 This system model resolves the core philosophical paradoxes that previously constrained the model’s articulation.   
 [Bakhtin's](mikhail-bakhtin.md) Paradox ([Chronotope](chronotope.md) & Eventness):   
-Resolution: The Journal provides the chronotope (stable time-space). The “event” is the user’s act of inscription: materializing an α-element into the [Journal](journal.md) ([chronotope](chronotope.md)), an insight catalyzed by the AI but not created by it.   
+Resolution: The Journal provides the chronotope (**diachronic alterity / addressable past-self I-position**). The “event” is the user’s act of inscription: **producing a verified, owned-language entry (verification during creation produces the inscription)**, catalyzed by the AI but not created by it.   
 [Hermans](hubert-hermans.md)' Paradox (Continuity & Memory):   
-Resolution: The [Journal](journal.md) provides the continuity. The AI needs no memory. The primary continuity relation is Present-Self ↔ Past-Self (via the Journal/chronotope), with AI serving as Sₜ and Functional Alterity under DTO stance.   
+Resolution: The Journal provides **diachronic alterity / an addressable past-self I-position enabling re-entry**. The AI needs no memory. The primary continuity relation is Present-Self ↔ Past-Self (**via re-enterable, verified Journal inscription**), with AI serving as Sₜ and Functional Alterity under DTO stance.   
 [Vygotsky's](lev-vygotsky.md) Paradox (Temporality & [ZPD](zpd.md)):   
-Resolution: The scaffolding is temporary. The AI’s contribution is intentionally non-owning and non-durable; internalization is externalized into durable substrates (Journal / artifacts) via materialization. The [Journal's](journal.md) contribution is permanent and represents the internalized skill, perfectly matching Vygotsky's model.   
+Resolution: The scaffolding is temporary. The AI’s contribution is intentionally non-owning and non-durable; **durable accumulation is materialized through verified, owned-language Journal inscription (and domain artifacts where appropriate)**. The Journal’s contribution is **a re-enterable substrate for re-use and consolidation**, aligning with the model’s diachronic requirement.   
 [Bion's](wilfred-bion.md) Paradox (The Container):   
 Resolution: AI can generate a Simulated Holding Environment (counterfeit); containment remains a Human function (Sₑ / self-holding). The Human is the true container. The "[Reflective Prompting](reflective-prompting.md)" method is a protocol that preserves DTO stance and keeps Alpha-Function and verification in the Human while using AI for structured constraint (Sₜ / [Functional Alterity](functional-alterity.md)).   
 The Ontology vs. Function Debate:   
-Resolution: This is a false choice. The AI does not need to be a conscious partner to function as a critical component in a dialogical system. The model does not assume AI consciousness; it evaluates dialogical validity functionally (via system behavior and constraints). The correct question is: Does the system reliably activate human [Alpha-Function](alpha-function.md) and produce durable change across time (validated via inscription, re-entry, and persistence)?   
+Resolution: This is a false choice. The AI does not need to be a conscious partner to function as a critical component in a dialogical system. The model does not assume AI consciousness; it evaluates dialogical validity functionally (via system behavior and constraints). The correct question is: Does the system reliably activate human [Alpha-Function](alpha-function.md) and produce durable change across time (**validated by verified inscription (micro-verification during creation), re-entry, and persistence**)?   
 ### Resolving the Paradox - Function Over Ontology   
-Function Over Ontology: The system's demonstrated ability to produce transformation (a longitudinal corpus of notebooks over months) makes the question of the AI's internal state (consciousness) secondary. The focus shifts to whether the system meets the functional requirements of dialogical theory (alterity, mediation, coherence, transformation).   
-System Fulfills Requirements: The paradox ("How can non-conscious AI be a partner?") is resolved because the system, not just the AI, fulfills the criteria. The [Journal](journal.md) provides continuity ([Hermans](hubert-hermans.md)), the Human provides [the container](the-container.md) (Bion/Winnicott), and the AI provides **[technical scaffolding](technical-scaffolding-s_t.md) ([Vygotsky](lev-vygotsky.md)) and functional alterity that shapes how the pre-existing \|D-C\| relation is encountered within the ZPD** (without creating the challenge).   
+Function Over Ontology: The system's demonstrated ability to produce transformation (**a longitudinal corpus of verified Journal inscriptions over months**) makes the question of the AI's internal state (consciousness) secondary. The focus shifts to whether the system meets the functional requirements of dialogical theory (alterity, mediation, coherence, transformation).   
+System Fulfills Requirements: The paradox ("How can non-conscious AI be a partner?") is resolved because the system, not just the AI, fulfills the criteria. The [Journal](journal.md) provides **[chronotope](chronotope.md) (diachronic alterity / addressable past-self I-position enabling re-entry)** (Hermans), the Human provides the container (Bion/Winnicott), and the AI provides **[technical scaffolding](technical-scaffolding-s_t.md) ([Vygotsky](lev-vygotsky.md)) and functional alterity that shapes how the pre-existing \|D-C\| relation is encountered within the ZPD** (without creating the challenge).   
 ### VII. Resolving Tensions and Real-World Dynamics   
 ### Resolving Tensions with Ground Truth (Reflexive Data)   
 Cross-platform dialogue logs (multi-model interactions) and your personal data (the mania, the fear) are not failures of the model; they are validations that expose its real-world dynamics and risks.   

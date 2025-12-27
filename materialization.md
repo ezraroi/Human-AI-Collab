@@ -13,14 +13,19 @@ Backlinks:
     - algorithmic-self.md
     - ai.md
     - 2-the-wrong-model-vs-the-correct-model.md
+    - 9-final-integration-principles.md
     - 3-the-metric-of-growth-high-resolution-uncerta.md
+    - two-axis-framework.md
     - the-integrated-circuit-board.md
+    - 8-critical-connection-6-my-method-works-becaus.md
     - third-intelligence.md
     - 3-the-13-stage-development-sequence.md
     - c-capacity.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
+    - neuroscience-of-transformation.md
     - activation-pathway-of-destiny-drive.md
+    - section-13-significance-and-forward-direction.md
     - section-6-journal-function-refinement.md
     - 2-what-learning-theory-as-surveyed-cannot-adeq.md
     - the-unified-architecture.md

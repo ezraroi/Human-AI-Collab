@@ -40,6 +40,9 @@ Links:
     - protein-shake-brain-psb.md
     - identity-stakes.md
     - journal.md
+    - chronotope.md
+    - diachronic-alterity.md
+    - touch-grass-protocol.md
     - reflective-prompting.md
     - recursive-pattern-verification-loop.md
     - metacognition.md
@@ -48,13 +51,12 @@ Links:
     - the-constrained-integration-hypothesis.md
     - self-explanation.md
     - felt-sense.md
-    - touch-grass-protocol.md
     - subject-supposed-to-know-sss.md
 Emoji: "\U0001F6E0️"
 id: bafyreiat4xbdomf4nfou7n2d5rcshasyqeviqh6rzvkzxth6fy7ziflhjm
 ---
 # 4Ps Protocol   
-A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation ([Flavell](john-flavell.md)) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied verification before adopting an output as ‘owned’; **time-delayed re-entry and/or Journal inscription apply when durable ownership is required**.   
+A four-step **acceptance gate** that operationalizes metacognitive monitoring + regulation ([Flavell](john-flavell.md)) to prevent passive consumption of AI outputs. 4Ps requires explicit interruption, challenge, self-explanation, and embodied verification before adopting an output as ‘owned’; when durable ownership is required, **Possess completes through writing-as-execution (continuous verification producing a Journal entry) plus time-delayed re-entry**.   
 ### Minimal Constrained-Integration Link   
 4Ps is a **local intervention** used when drift threatens transformation conditions: it pulls the user back from “cold fluency” into **owned processing** by (1) interrupting autopilot, (2) restoring epistemic responsibility, (3) re-authoring in one’s idiom, and (4) requiring **embodied + time-delayed verification** (i.e., the As-If Body Loop is most explicitly engaged in **Possess**, and often begins in **Process**). It also supports **SN integrative mode** by reintroducing “check + integration” instead of “consume + proceed.”   
 ## Purpose   
@@ -111,10 +113,10 @@ Reflective Prompting (session structure)
 - **Function:** Transfers authorship from “sounds right” → “is mine.”   
 - **Checks:**   
     - Spacious vs tight (“does this *land*?”)   
-    - One concrete instantiation (“where is this true in my life/work?”)   
+    - One concrete instantiation (“where is this true in my life/work?”) **and, where available, evidential grounding (test the structural claim against concrete instances/artifacts)**   
     - Durability (“can I explain this tomorrow without notes?”)   
-- **Identity-stakes:** Complete via **Journal inscription** (transcript is not enough).   
-- **Escalation:** Persistent tightness / grounding failure / rising depletion → **Touch Grass Protocol** (do not force adoption).   
+- **Identity-stakes:** Complete via [Journal](journal.md) inscription (**[chronotope](chronotope.md): [diachronic alterity](diachronic-alterity.md) / addressable past-self I-position**; transcript is not enough).   
+- **Escalation:** Persistent tightness / grounding failure / rising depletion → **[Touch Grass Protocol](touch-grass-protocol.md)** (do not force adoption).   
 - **Done when:** It survives re-entry and feels both reconstructable and internally authored.   
    
 ## Alarm → Step Routing (Operational Map)   

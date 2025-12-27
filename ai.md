@@ -11,11 +11,8 @@ Backlinks:
     - 5-final-synthesis-statement.md
     - section-4-attribution-logic.md
     - cognitive-artifact.md
-    - diachronic-alterity.md
-    - section-10-open-edges-to-bridge-later.md
     - 4-revised-contribution-of-notebook-11.md
     - 5-measurement-program-menu.md
-    - idiom-aligned-scaffolding.md
     - embodied-engagement-conditions.md
     - dialogical-knowing.md
     - 2-what-the-existing-literature-actually-covers.md
@@ -41,7 +38,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_2.md
+    - executive-summary_4.md
     - selected-fact.md
     - human.md
     - digital-neurophenomenology.md
@@ -54,7 +51,6 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - 1-what-notebook-11-actually-adds-to-the-model.md
     - 4-remaining-questions-for-tier-3.md
-    - 7-final-conclusion-the-third-intelligence.md
     - section-8-boundary-conditions-prerequisites.md
     - enacted-alpha-work-eaw.md
     - algorithmic-self.md
@@ -92,7 +88,7 @@ Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
     - touch-grass-protocol.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - 1-executive-summary.md
     - 3-the-mechanism-catalytic-externalization.md
     - 6-how-to-journal.md

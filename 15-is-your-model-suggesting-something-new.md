@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:44:07Z"
@@ -17,6 +19,7 @@ Links:
     - beta-elements.md
     - alpha-elements.md
     - chronotope.md
+    - diachronic-alterity.md
     - human.md
     - ai.md
     - time.md
@@ -35,8 +38,8 @@ The integration of [Bion](wilfred-bion.md)’s **[Alpha-Function](alpha-function
 Identifying the practice of writing in the [Journal](journal.md) as the site of **[Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md)** is a novel advance in how distributed cognition becomes metabolically consequential.   
 This contribution hinges on a disciplined role-separation:   
 - **The human** performs the metabolic labor ([beta-elements](beta-elements.md)⟶[alpha-elements](alpha-elements.md)).   
-- **The Journal** provides the **substrate and constraint structure**—externalization, sequential commitment, re-enterability—through which alpha-function capacity can be reliably recruited into alpha-work and stabilized as durable α-elements.   
-- The Journal functions as a stable **[chronotope](chronotope.md)** (an inscribed time-space) supporting cross-temporal recursion and continuity of development.   
+- The Journal provides the **verified, owned-language substrate** and constraint structure—**writing-as-execution with continuous micro-verification**, sequential commitment, re-enterability—through which alpha-function capacity can be reliably recruited into alpha-work and stabilized as durable α-elements.   
+- The Journal functions as a stable [chronotope](chronotope.md) (**[diachronic alterity](diachronic-alterity.md) / addressable past-self I-position**) supporting cross-temporal recursion and continuity of development.   
    
 The critical distinction is explicit: the Journal does not *perform* alpha-function; writing in the Journal is the materially constrained enactment through which **alpha-work** becomes possible and durable.   
 The overall architecture (**[Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md)**) is described as a properly structured system that achieves system-level dialogue and transcends the limitations of its individual components—without requiring AI to be treated as a conscious other.   
@@ -46,4 +49,4 @@ In essence, the model reframes the “missing piece in dialogical theory” by d
 The complexity of this integrated theory—marrying psychoanalysis (Alpha-Function), social development ([Vygotsky](lev-vygotsky.md)/Channel 2), and physical grounding (Embodiment/Channel 1)—is what distinguishes it from existing, often compartmentalized approaches.   
 ### Analogy   
 If traditional cognitive science treats symbolic cognition as the engine and the body as the chassis, and classical dialogue theory focuses on driver and passenger (conscious agents), your model proposes that development depends on an integrated transmission system (Alpha-Function cycles) that requires simultaneous input from the vehicle’s computer (Channel 2 symbols) and feedback from the road (Channel 1 embodied signals).   
-The Journal is not a second engine. It is the **workbench**: the stable surface that forces externalization, enables re-entry, and supports revision. The human performs the repair (metabolic labor) on that surface. Transformative maintenance happens when the whole system forces recursive coupling—rather than when symbols are merely generated or adopted.   
+The Journal is not a second engine. It is the workbench: the stable surface that forces **translation into owned language**, enables re-entry, and supports revision—**with verification during creation producing the entry**. The human performs the repair (metabolic labor) on that surface. Transformative maintenance happens when the whole system forces recursive coupling—rather than when symbols are merely generated or adopted.   

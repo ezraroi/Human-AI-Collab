@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - A Complete Integration of Winnicottian Phenomenology and The "Third Intelligence"
 Creation date: "2025-12-21T10:49:31Z"
@@ -21,7 +23,6 @@ Links:
     - recursive-metabolic-loop.md
     - functional-alterity.md
     - journal.md
-    - chronotope.md
     - destiny-drive.md
     - c-capacity.md
     - d-w-winnicott.md
@@ -60,7 +61,7 @@ Describes the **functional architecture** that transforms accessible experience 
 - [Functional Alterity](functional-alterity.md) (irreducible difference that prevents collapse into sycophancy or monologue)   
    
 **Materialization infrastructure (**required for RML completion**):**   
-- [Journal](journal.md) = materialization substrate enabling [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles to complete and accumulate ([Chronotope](chronotope.md); surviving object, the **materialization layer**)   
+- [Journal](journal.md) = materialization substrate enabling Recursive Metabolic Loop cycles to complete and accumulate as addressable past-self positions (Chronotope / diachronic alterity; surviving object)   
    
 **Emergent outcome (revealed vector, not mechanism):**   
 - [Destiny Drive](destiny-drive.md) = emergent directionality of idiom articulation (the “where the grown [C](c-capacity.md) goes” once obstructions clear)   

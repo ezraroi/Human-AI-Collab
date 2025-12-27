@@ -9,7 +9,6 @@ Tag:
     - 'Temporal: Static'
     - 'Operational Flags: Core'
 Backlinks:
-    - 5-final-synthesis-statement.md
     - section-12-resolution-of-theoretical-contradic.md
     - section-4-attribution-logic.md
     - reflective-prompting.md
@@ -32,7 +31,7 @@ Backlinks:
     - section-1-introduction-and-framework-positioning.md
     - 4-mechanism-specificity-requires-condition-con.md
     - protected-self-holding-principle.md
-    - executive-summary_2.md
+    - executive-summary_4.md
     - selected-fact.md
     - digital-neurophenomenology.md
     - 5-the-three-dimensional-integration.md
