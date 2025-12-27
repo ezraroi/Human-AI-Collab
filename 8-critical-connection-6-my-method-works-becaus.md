@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:31:24Z"
@@ -15,6 +17,7 @@ Links:
     - journal.md
     - alpha-function.md
     - felt-sense.md
+    - materialization.md
     - recursive-metabolic-loop.md
     - c-capacity.md
 id: bafyreifd6755px3jaikist5djqdxxzkb6lp5utf5vw3ymxovl3nje2xbzy
@@ -33,7 +36,7 @@ From NoteBook 1 perspective:
 - Keeps AI in proper role (Piagetian Object/tool)   
 - Activates YOUR [alpha function](alpha-function.md) (you're the container)   
 - Maintains optimal \|D-C\| (productive tension)   
-- Journal provides chronotope/continuity as the **materialization layer**   
+- Journal provides chronotope (diachronic alterity—addressable past-self positions) as the materialization layer   
    
 From NoteBook 2 perspective:   
 - Dialogue format activates social cognition systems   
@@ -44,7 +47,7 @@ From NoteBook 2 perspective:
 THE SYNTHESIS: My method succeeds because it forces both channels to work together:   
 - Prevents bypass of [felt sense](felt-sense.md) verification by requiring Channel 1 check-ins   
 - Can't avoid semantic articulation (Channel 2 required)   
-- [Journal](journal.md) materialization recruits Channel 2 articulation and enables Channel 1 re-checking through return to the durable trace.   
+- [Journal](journal.md) [materialization](materialization.md) recruits Channel 2 articulation and enables Channel 1 re-verification through re-encounter with past-self as addressable other.   
 - Completed [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles strengthen your [capacity](c-capacity.md) (C) over time when integration reaches crystallization → materialization → re-entry as a new baseline.   
    
    

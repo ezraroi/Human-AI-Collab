@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'NoteBook 5: The AI as Dynamic Transitional Object'
 Creation date: "2025-11-22T16:58:31Z"
@@ -16,6 +18,7 @@ Links:
     - in-context-learning.md
     - challenge-gap-d-c.md
     - chronotope.md
+    - diachronic-alterity.md
 id: bafyreib6h4ozbxdtjf4f5i3qssgglsmhzjzm3bybahuqsdywuso2dcycxi
 ---
 # 4. The System Architecture (V2.0)   
@@ -32,4 +35,4 @@ Notebook 5 identified "[In-Context Learning](in-context-learning.md)" (ICL) as a
    
 ### C. The Journal: The Chronotope   
 Notebook 5 wrestled with "fleeting systems".   
-Role: The [Journal](journal.md) provides the Persistence that the AI lacks. It is the **[chronotope](chronotope.md)** and **materialization substrate**: it stabilizes owned α-elements into durable artifacts that can be revisited, tested on re-entry, and integrated across Time. The Journal does not make growth “permanent” by itself; it makes metabolized meaning *persist* so consolidation and capacity change can accumulate diachronically—especially when the work carries Identity Stakes.   
+Role: The [Journal](journal.md) provides the Persistence that the AI lacks. It is the [chronotope](chronotope.md) (**[diachronic alterity](diachronic-alterity.md) / addressable past-self I-position**) and materialization substrate: it **produces verified, owned-language inscription (writing-as-execution)** that can be revisited and re-entered across Time (**with probation logic occurring elsewhere**). The Journal does not make growth “permanent” by itself; it enables durable accumulation so consolidation and capacity change can accumulate diachronically—especially when the work carries Identity Stakes.   

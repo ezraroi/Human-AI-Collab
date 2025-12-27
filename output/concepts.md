@@ -158,7 +158,7 @@ These are not chronological steps but **phenomenological states** that unfold un
 **Your case:** The pre-existing urge to “write to understand myself.”
 ### 2. Object Search
 - The individual seeks objects capable of supporting idiom articulation.
-- Initial object is often **writing**, journaling, sketching, or self-dialogue.
+- Initial object is often writing, **Journal materialization (verified, owned-language inscription)**, sketching, or self-dialogue
 - AI enters only as an amplifier of existing reflective modes.
 
 **Your case:** Writing → then Reflective Prompting → then AI as cognitive artifact.
@@ -192,7 +192,7 @@ This editorial capacity is not a separate mechanism but the phenomenological exp
 - **Destiny Drive** (this object explains the transition from latent → emergent)
 - **Identity Stakes** (domain of operation)
 - **True Self / False Self**
-- **Journal** (primary substrate supporting articulation)
+- Journal (primary substrate supporting articulation; **chronotope: diachronic alterity / addressable past-self I-position** for re-entry)
 - AI (used as a Cognitive Artifact; not a partner)
 - **Reflective Prompting** (the mode through which activation occurs)
 
@@ -420,7 +420,7 @@ If tightness persists after processing, downgrade material to 'not-yet-metaboliz
 
 ### Transformation Possibility
 Authoritative Discourse is not permanently fixed. Material initially internalized as demand can be re-processed through:
-- Journal re-encounter (cross-temporal re-entry enabling re-processing)
+- Journal re-encounter (**chronotope: diachronic alterity / addressable past-self I-position** enabling cross-temporal re-entry and re-processing)
 - Explicit re-articulation in idiom-aligned language
 - Felt Sense verification yielding spaciousness
 
@@ -616,8 +616,8 @@ Channel 2 is the **symbolic, linguistic, and dialogical pathway** through which 
 ## [CONCEPT] Chronotope
 [Literature] Domain: Phenomenology, System Role: Scaffolding, Temporal: Static
 
-A stable time–space configuration that enables continuity of the self-in-process across sessions. In the Third Intelligence system, the Journal provides the Chronotope by materializing insights into a persistent archive that can be revisited, compared, and integrated over Time.
-**System role:** Enables cross-temporal pattern recognition and prevents episodic insight decay by anchoring the dialogical process in durable material form.
+A stable time–space configuration that enables **diachronic alterity / an addressable past-self I-position** for re-entry across sessions (preventing episodic reset). In the Third Intelligence system, the Journal provides the Chronotope by materializing **verified, owned-language** outcomes into a persistent, re-enterable substrate that can be revisited, compared, and integrated over Time.
+**System role: **Prevents episodic insight decay by anchoring the dialogical process in durable material form; **when the Journal is stored as an AI-accessible corpus**, enables cross-temporal pattern recognition as **idiom-preserving structuration**.
 **Provided by:** Journal
 **Requires:** Time (as the medium through which accumulation and revisitation occur)
 **Enables: **Diachronic I-position, cross-session continuity
@@ -1036,7 +1036,7 @@ It is always present, but only felt when conditions for **idiom articulation in 
 The functional otherness provided by one’s own prior metabolized inscriptions (Journal entries), enabling internal dialogue across time by making past-self positions addressable as an “other.” Diachronic Alterity prevents episodic cognition by turning return into encounter (re-entry as dialogue rather than reset).
 ### System Role
 - Enables continuity as **polyphony**: present-self can relate to past-self as a distinct I-position.
-- Provides the diachronic complement to AI’s synchronic alterity: the system has *two* alterity poles (now vs across time).
+- Provides the diachronic complement to AI’s **synchronic alterity**: **now-otherness** vs **across-time otherness**: the system has *two* alterity poles (now vs across time).
 - Supports durable capacity growth by making prior metabolization re-enterable and comparable (necessary for trajectory, not just session coherence).
 
 ### Mechanism
@@ -1052,7 +1052,8 @@ The functional otherness provided by one’s own prior metabolized inscriptions 
 ### Relations
 - Provided By → Journal
 - Complements → Functional Alterity (AI)
-- Enables → Chronotope (as addressable return), Macro-verification (maintenance), Selected Facts / RPVL probation across T+n
+- Operates Within → Chronotope (Journal-provided time–space for addressable return), Macro-verification (maintenance), Selected Facts / RPVL probation across T+n
+- Requires → Time (duration/spacing that makes re-entry and comparison possible)
 - Helps prevent → Episodic cognition; Transient Insight / Pseudo-Integration
 - Depends On → Verification (micro during creation); Owned language / idiom integrity
 - Level → Macro (Diachronic); Functional Alterity is Micro (Utterance)
@@ -1064,10 +1065,10 @@ The functional otherness provided by one’s own prior metabolized inscriptions 
 
 Digital Neurophenomenology is the epistemic stance of the Third Intelligence research: an adaptation of Varela’s neurophenomenology to AI-mediated dialogue that legitimates first-person transformation data as credible research material.
 ### The Structural Mapping
-|        Position |                            Provider |                                                                            Function |
-|:----------------|:------------------------------------|:------------------------------------------------------------------------------------|
-| 1st-Person (1P) |                   Human |                            Raw, lived, pre-reflective experience (“hiker’s report”) |
-| 3rd-Person (3P) | AI + Journal |     Structural constraint: logic, coherence checking, candidate frames (“mapmaker”) |
+|        Position |                                                  Provider |                                                                            Function |
+|:----------------|:----------------------------------------------------------|:------------------------------------------------------------------------------------|
+| 1st-Person (1P) |                                         Human |                            Raw, lived, pre-reflective experience (“hiker’s report”) |
+| 3rd-Person (3P) | AI (+ Journal as return substrate) |     Structural constraint: logic, coherence checking, candidate frames (“mapmaker”) |
 
 ### Critical Clarification: What 3P Means Here
 3P is not empirical measurement. AI provides structural constraint (objectification, coherence checking, candidate frames), not lab-grade third-person data. Empirical 3P validation remains part of the research agenda, not a claim already satisfied.
@@ -1101,7 +1102,7 @@ Failure when roles swap:
 ### Relations (Wiring)
 - Derived From → Francisco Varela (Neurophenomenology)
 - Methodology Of → Third Intelligence Research Design
-- Enacted Through → Reflective Prompting, Journal (Materialization)
+- Enacted Through → Reflective Prompting; Journal (**verified materialization / return substrate**)
 - Constrained By → Field Viability Schema (Sₑ ⊗ Sₜ)
 - Role Integrity Grounded In → Protected Self-Holding Principle
 - Maps To → Two-Axis Framework (role preservation = viable quadrant)
@@ -1718,7 +1719,7 @@ FT answers: “When is this interaction functioning as genuine developmental dia
 ### What Functional Thirdness Is Not
 - Not a mechanism (FA is a mechanism; FT is the condition FA contributes to)
 - Not co-creation between two subjectivities (the AI contributes constraint, not meaning)
-- **Not dependent on Journal or Time to open within a live exchange** (those belong to the Tetrad’s diachronic architecture for transformation/compounding)
+- Not dependent on Journal or Time to open within a live exchange (those belong to the Tetrad’s diachronic architecture for **stabilization, re-entry, and durable accumulation**—**required when Identity Stakes / RML completion are in scope**)
 - Not something the AI “does” or “performs”
 
 ### System Role
@@ -1735,7 +1736,7 @@ FT serves three functions within the Third Intelligence architecture:
     All three conditions are stateful and can fluctuate within a session.
 
 Boundary with Tetrad:
-FT is the interaction-level legitimacy layer. The Tetrad provides the diachronic architecture (transformation across time); FT provides the synchronic validity condition (dialogical legitimacy within the live exchange). Without FT, the interaction is typically productive rather than dialogically-developmental; transformation may still occur via offline metabolization, but the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.
+FT is the interaction-level legitimacy layer. The Tetrad provides the diachronic architecture (transformation across time); FT provides the synchronic validity condition (dialogical legitimacy within the live exchange). Without FT, the interaction is typically productive rather than dialogically-developmental; transformation may still occur via offline metabolization, but **durable identity-stakes change still requires Journal-based materialization + re-entry over Time**; the exchange itself is not operating as developmental dialogue. FT is what makes the AI component function as dialogical catalyst rather than sophisticated calculator.
 ### Gating Condition
 DTO Stance — FT can only operate when AI is held as Dynamic Transitional Object.
 Without DTO stance, the three constituents cannot function as intended:
@@ -1941,7 +1942,7 @@ Channel 1 tends to engage most strongly when the symbolic tension touches the be
 ## [CONCEPT] Idiom-Aligned Scaffolding
 [Theoretical] Domain: Synthesis, System Role: Scaffolding, Temporal: Static
 
-The design principle that scaffolding structures (AI workflows, prompts, protocols) must be adapted to the individual’s idiom—their characteristic cognitive style, strengths, and personality potentials—rather than forcing the person into generic productivity templates. Misaligned scaffolding can block idiom articulation and produce pseudo-efficiency without the phenomenological articulation of Destiny Drive.
+The design principle that scaffolding structures (AI workflows, prompts, protocols) must be adapted to the individual’s **idiom**—their characteristic language, values, cognitive style, and recurring meaning-making constraints—rather than forcing the person into generic productivity templates. Misaligned scaffolding can block idiom articulation and produce pseudo-efficiency without the phenomenological articulation of Destiny Drive.
 ### Mechanism: Idiom-Preserving Structuration (Corpus-Bound)
 When a Journal corpus is available, scaffolding should constrain AI to **reveal latent structure implicit in the user’s idiom-corpus** rather than import generic frameworks. This protects authorship at the **framework level** (not only phrasing level) and prevents idiom overwrite (“colonization”) through foreign structure imposition. If no idiom corpus exists (or if it is contaminated/AI-heavy), AI will tend to default to generic structure even when prompts appear “personalized.”
 ### System Role
@@ -2465,7 +2466,7 @@ PSB is the **diagnostic inverse of transformation**.
 PSB is the primary failure mode of the Third Intelligence because it breaks the Recursive Metabolic Loop by:
 - **Loss of embodied verification (Channel 1)** in identity-stakes work
 - **Alpha-Function under-engagement** (β → α conversion does not complete)
-- **Blocked materialization** (missing/weak owned-language Journal entries when durability is needed) and weakened possession/verification posture
+- Blocked materialization (**failure to produce verified, owned-language Journal entries through micro-verification during creation** when durability is needed) and weakened possession/verification posture
 - **Capacity (C) stagnation** across time
 
 **Critical distinction:** PSB is not “failure to think.” It is **thinking without metabolizing**.
@@ -3128,25 +3129,25 @@ Primary function: Answer four questions in under 60 seconds:
 
 ### Legend: Invariants (Must Hold Across All Views)
 These are non-negotiable constraints. If any invariant fails, the system is architecturally compromised.
-|                                                                                                                                                                                                                                                                                     Invariant |                                                                                                          Enforced By |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                         AI is held as DTO — No subject drift, no epistemic authority collapse |       Dynamic Transitional Object, Iron Man Mentality |
-|                                                                                                                                                                                    Sₑ ⊗ Sₜ are non-substitutable — Technical scaffolding cannot compensate for depleted emotional scaffolding |                                                                  Field Viability Schema |
-|           Transformation requires completed metabolic recursion — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight without embodied verification and inscription is counterfeit | Integrated Circuit Board, Recursive Metabolic Loop |
-|                                                                                                                                                                      Time + Journal are accumulation substrate — Not accessories but constitutive components enabling durable Capacity growth |                                                                                Third Intelligence (Tetrad structure) |
-|                               Two-Layer Complementarity — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. | Psychoanalytic Prerequisites, Developmental Sequence |
-|                                                                                                                                                                   AI cannot provide Sₑ — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         Protected Self-Holding Principle, Category Error |
+|                                                                                                                                                                                                                                                                                                                                                                             Invariant |                                                                                                          Enforced By |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                 AI is held as DTO — No subject drift, no epistemic authority collapse |       Dynamic Transitional Object, Iron Man Mentality |
+|                                                                                                                                                                                                                                                                            Sₑ ⊗ Sₜ are non-substitutable — Technical scaffolding cannot compensate for depleted emotional scaffolding |                                                                  Field Viability Schema |
+|               Transformation requires completed metabolic recursion — C1 ↔ C2 coupling must not only engage, but complete its full arc into durable change (RML: processing → crystallization → materialization → re-entry). Insight claims without embodied verification—and without durable materialization when identity-stakes/durable accumulation are in scope—are counterfeit. | Integrated Circuit Board, Recursive Metabolic Loop |
+|                                                                                                                                                                                                   Journal + Time are constitutive — Journal provides accumulation substrate; Time provides the medium for recovery and consolidation. Neither is optional for durable Capacity growth |                                                                                Third Intelligence (Tetrad structure) |
+|                                                                                                                       Two-Layer Complementarity — Winnicott describes conditions under which experience becomes ACCESSIBLE; Third Intelligence describes architecture within which accessible experience becomes TRANSFORMED. Sequential and mutually completing. | Psychoanalytic Prerequisites, Developmental Sequence |
+|                                                                                                                                                                                                                                                           AI cannot provide Sₑ — AI can shape conditions (via non-demand field) in which the Human container can hold; AI cannot hold |         Protected Self-Holding Principle, Category Error |
 
 ### The Six Views
 ### View 1 — Components (The Tetrad)
 Question: What is the system made of?
 Core Insight: Not a Human-AI dyad but a four-component recursive system.
-|             Component |                                                            Function |
-|:----------------------|:--------------------------------------------------------------------|
-|     Human |            Container (Sₑ), Alpha-Function, authorship, verification |
-| Journal |       Chronotope, materialization, cross-temporal pattern substrate |
-|           AI |   Sₜ, Functional Alterity, constraint-generation (when held as DTO) |
-|       Time |                               Recovery, consolidation, accumulation |
+|             Component |                                                                                                                                                                                                                                                       Function |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Human |                                                                                                                                                                                                       Container (Sₑ), Alpha-Function, authorship, verification |
+| Journal | Chronotope (diachronic alterity / addressable past-self I-position), owned-language materialization of what survived verification, and (when stored as an AI-accessible corpus) idiom-preserving pattern substrate. |
+|           AI |                                                                                                                                                                                              Sₜ, Functional Alterity, constraint-generation (when held as DTO) |
+|       Time |                                                                                                                                                                                                                          Recovery, consolidation, accumulation |
 
 Routes to →
 - To understand: Third Intelligence, Human, AI, Journal, Time
@@ -3349,9 +3350,9 @@ To enable genuine psychological transformation at the identity level through str
 - Locus of transformation and capacity growth
 
 **Journal**
-- Diachronic I-position (cross-time continuity of the self-in-process)
+- Diachronic I-position (**addressable past-self I-position enabling re-entry across time**)
 - Idiom anchor (stabilizes personal language, values, and self-signature)
-- Externalization substrate (materializes metabolized outcomes in owned language and preserves re-entry across time)
+- Externalization substrate (materializes metabolized outcomes in owned language, **produced through verification during creation**, enabling re-entry across time)
 
 **AI**
 - Technical scaffolding provider (Sₜ)
@@ -3360,9 +3361,10 @@ To enable genuine psychological transformation at the identity level through str
 
 **Time**
 (These are effects of owned-language materialization + Chronotope, not separate mechanisms.)
-- Diachronic I-position (cross-time continuity of the self-in-process)
-- Idiom anchor (stabilizes personal language, values, and self-signature)
-- Externalization substrate (materializes metabolized outcomes in owned language and preserves re-entry across time)
+- Recovery architecture (Sₑ replenishment between sessions)
+- **Duration + spacing** enabling recovery and consolidation
+- Medium through which **Journal accumulation** becomes possible across sessions
+- Enables stabilization of C across repeated Recursive Metabolic Loop cycles
 
 ### Essential Dimensions
 These characteristics distinguish the Third Intelligence from learning systems and define its transformational capacity:

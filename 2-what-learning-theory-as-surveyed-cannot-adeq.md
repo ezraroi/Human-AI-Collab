@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 10: Learning Theory & Education Preliminary Synthesis – Constructivist Tradition'
 Creation date: "2025-12-18T20:56:29Z"
@@ -64,11 +66,11 @@ What learning theory (as surveyed) offers:
    
 Gap: Learning science often treats time primarily as an instructional variable (how to schedule practice). This model treats time as a constitutive structural dimension of development: emotional and cognitive resources fluctuate, consolidation occurs across scales, and capacity growth is intrinsically diachronic.   
 Gap status: Significant within the surveyed base. Additional review is needed in developmental psychology, systems consolidation neuroscience, and rhythm literature (e.g., circadian/ultradian dynamics) to determine closer matches.   
-### 2.4 The Journal as Constitutive Chronotope (Distributed Substrate)   
+### 2.4 The Journal as a constitutive component of the system's diachronic alterity (a chronotope enabling re-encounter with past-self as addressable other)   
 What this model proposes:   
 - The [Journal](journal.md) as a constitutive component of the system’s diachronic continuity (a **[chronotope](chronotope.md)**), not merely a reflective tool   
 - [Materialization](materialization.md) as necessary for cross-session continuity and pattern recognition   
-- A durable external substrate that enables re-entry, comparison, and integration across time   
+- A durable external substrate that enables re-encounter with past-self positions, comparison, and integration across time   
 - A stability function: the Journal constrains and stabilizes metabolized meaning without performing metabolization (the Human remains the metabolic agent)   
 - A stable substrate enabling long-horizon integration (not a transcript, not a diary, not a memory aid)   
    
@@ -77,7 +79,7 @@ What learning theory (as surveyed) offers:
 - Writing as support for metacognition   
 - Articulation as a learning tool   
    
-Gap: In the surveyed traditions, journaling is typically treated as helpful but optional. Here, the Journal is framed as structurally necessary continuity infrastructure (a constitutive component of the system’s developmental loop). Related ideas likely exist in extended mind, distributed cognition, and artifact-mediated learning theories and require targeted review.   
+Gap: In the surveyed traditions, journaling is typically treated as helpful but optional. Here, the Journal is framed as structurally necessary diachronic alterity infrastructure (a constitutive component of the system’s developmental loop). Related ideas likely exist in extended mind, distributed cognition, and artifact-mediated learning theories and require targeted review.   
 Gap status: Moderate.   
 ### 2.5 AI as Functional Alterity   
 What this model proposes:   

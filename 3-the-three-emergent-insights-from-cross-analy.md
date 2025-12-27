@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 9: Positioning the Contribution in Existing AI–Human Collaboration Literature'
 Creation date: "2025-12-18T20:46:45Z"
@@ -54,7 +56,7 @@ Existing literature assumes a dyadic architecture: Human ↔ AI.
 Almost all frameworks—human-in-the-loop, Centaur models, hybrid intelligence—operate within this assumption.   
 Your work introduces a corrected architecture: [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md).   
 Where:   
-- The Journal provides materialized continuity and externalized processing   
+- The Journal provides **chronotope (diachronic alterity / addressable past-self I-position enabling re-entry)** and **verified, owned-language inscription (writing-as-execution)**   
 - Time enables cumulative change and capacity growth   
 - The Human serves as container and source of authorship   
 - The AI provides structured difference ([functional alterity](functional-alterity.md)) and **[technical scaffolding](technical-scaffolding-s_t.md) to maintain productive engagement with the pre-existing challenge** (\|[D–C](challenge-gap-d-c.md)\|)   

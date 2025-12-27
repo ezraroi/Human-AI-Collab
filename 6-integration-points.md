@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Field Viability Schema - Operational Guide
 Creation date: "2025-12-21T08:01:22Z"
@@ -13,8 +15,8 @@ Links:
     - ai.md
     - journal.md
     - time.md
+    - chronotope.md
     - c-capacity.md
-    - challenge-gap-d-c.md
 id: bafyreifadaiodjkwdx5gbsllbjblxobdesn7v4mmpzqhycukvh3dno7arq
 ---
 # 6. Integration Points   
@@ -28,5 +30,5 @@ When field viability holds → the loop can run. When field viability fails → 
 The schema **describes the constraints that determine** whether the loop can operate; the loop does the actual work.   
 **Level 4 — Accumulation:**   
 Journal and Time are not "missing" from the schema. They operate at a different level.   
-Successful metabolization → [Journal](journal.md) materializes α-elements → [C](c-capacity.md) grows → future [mismatch(D,C)](challenge-gap-d-c.md) changes.   
+Successful metabolization → **[Journal](journal.md) produces verified, owned-language inscription ([chronotope](chronotope.md): diachronic alterity / addressable past-self I-position)** → [C](c-capacity.md) grows → future mismatch(D,C) changes.   
 The schema **diagnoses viability conditions for each iteration**. Accumulation governs trajectory across iterations.   

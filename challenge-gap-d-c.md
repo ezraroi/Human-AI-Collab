@@ -34,7 +34,6 @@ Backlinks:
     - 5-documented-counter-evidence-the-manic-episodes.md
     - section-8-the-recursive-loop-and-embodied-inte.md
     - dynamic-transitional-object-dto.md
-    - 6-integration-points.md
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
@@ -42,6 +41,7 @@ Backlinks:
     - technical-scaffolding-s_t.md
     - field-viability-schema.md
     - 1-introduction-why-functional-alterity-is-nece.md
+    - c-capacity.md
     - part-iv-reflective-prompting-as-system-level-p.md
     - activation-pathway-of-destiny-drive.md
     - 1-what-this-review-established.md

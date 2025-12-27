@@ -10,7 +10,6 @@ Backlinks:
     - developmental-sequence.md
     - document-abstract.md
     - 5-the-embodied-connection.md
-    - section-10-open-edges-to-bridge-later.md
     - destiny-drive.md
     - section-5-temporal-architecture.md
     - 3-the-mechanism-vs-existence-distinction.md
@@ -57,7 +56,7 @@ Backlinks:
     - psychoanalytic-integration.md
     - 6-clinical-boundaries-what-this-system-is-and-.md
     - protein-shake-brain-psb.md
-    - executive-summary_4.md
+    - executive-summary_i.md
     - neuroscience-of-transformation.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
@@ -67,6 +66,7 @@ Backlinks:
     - functional-thirdness.md
     - psychoanalytic-prerequisites.md
     - activation-conditions.md
+    - chronotope.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
     - 4-the-critical-ontological-distinction.md
@@ -94,6 +94,7 @@ Links:
     - systematic-competence.md
     - materialization.md
     - chronotope.md
+    - recursive-metabolic-loop.md
     - zpd.md
     - challenge-gap-d-c.md
     - c-capacity.md
@@ -113,9 +114,9 @@ To enable genuine psychological transformation at the identity level through str
 - Locus of transformation and capacity growth   
    
 **Journal**   
-- Diachronic I-position (cross-time continuity of the self-in-process)   
+- Diachronic I-position (**addressable past-self I-position enabling re-entry across time**)   
 - Idiom anchor (stabilizes personal language, values, and self-signature)   
-- Externalization substrate (materializes metabolized outcomes in owned language and preserves re-entry across time)   
+- Externalization substrate (materializes metabolized outcomes in owned language, **produced through verification during creation**, enabling re-entry across time)   
    
 **AI**   
 - [Technical scaffolding](technical-scaffolding-s_t.md) provider (Sₜ)   
@@ -124,9 +125,10 @@ To enable genuine psychological transformation at the identity level through str
    
 **Time**   
 (These are effects of owned-language [materialization](materialization.md) + [Chronotope](chronotope.md), not separate mechanisms.)   
-- Diachronic I-position (cross-time continuity of the self-in-process)   
-- Idiom anchor (stabilizes personal language, values, and self-signature)   
-- Externalization substrate (materializes metabolized outcomes in owned language and preserves re-entry across time)   
+- Recovery architecture (Sₑ replenishment between sessions)   
+- **Duration + spacing** enabling recovery and consolidation   
+- Medium through which **[Journal](journal.md) accumulation** becomes possible across sessions   
+- Enables stabilization of C across repeated [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles   
    
 ### Essential Dimensions   
 These characteristics distinguish the Third Intelligence from learning systems and define its transformational capacity:   

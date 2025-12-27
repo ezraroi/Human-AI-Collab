@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 11: The Ontology of the New Machine'
 Creation date: "2025-12-19T10:34:17Z"
@@ -27,7 +29,7 @@ id: bafyreiaincpz5n4tlk6wyiaivedtwparb4qmrvhvyvzt3uzndfvnmq4xky
    
 ### 4.2 What it clarifies   
 - The system's dialogical legitimacy depends on the human's capacity to re-position the AI across relational stances   
-- The Journal stabilizes interpretation across time and supports DTO stance by anchoring the work in inscriptions (reducing relational drift).   
+- The Journal **as chronotope (diachronic alterity / addressable past-self I-position)** supports DTO stance by anchoring the work in **verified, owned-language inscriptions** (reducing relational drift).   
 - Embodied evaluation provides a check on symbolic meaning   
 - Time enables recursive deepening and long-range development   
    

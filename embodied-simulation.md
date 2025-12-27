@@ -8,7 +8,7 @@ Tag:
     - 'Temporal: Dynamic'
 Backlinks:
     - 14-alpha-function-integrating-dialogical-and-e.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - embodied-cognition.md
 Origin Domain:
     - Cognitive Science & Embodied Cognition

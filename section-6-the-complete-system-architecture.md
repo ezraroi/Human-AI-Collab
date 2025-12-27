@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
 Creation date: "2025-11-22T10:47:23Z"
@@ -28,7 +30,6 @@ Links:
     - third-intelligence.md
     - reflective-prompting.md
     - channel-1-embodied-sensorimotor-pathway.md
-    - hubert-hermans.md
     - functional-alterity.md
 id: bafyreieuegca6opje7elswx5unm4izyr4jkgizrma7ymfcktfyi25f46uq
 ---
@@ -40,11 +41,11 @@ id: bafyreieuegca6opje7elswx5unm4izyr4jkgizrma7ymfcktfyi25f46uq
 - Before AI: Fixed scaffolding from mentor/context   
 - With AI: Can modulate "explain like I'm 5" vs "technical depth", "challenge me" vs "support me"   
 - Challenge Without Judgment.   
-2. [Journal](journal.md) (Claude Project/ChatGPT Project): Enables accumulation   
+2. [Journal](journal.md) (**verified, owned-language entries; optionally stored as an AI-accessible corpus in Claude/ChatGPT Project**): Enables accumulation   
 - Tracks [C](c-capacity.md) growth over time   
 - Prevents regression to baseline   
 - Provides material evidence of transformation   
-- Enables pattern recognition across sessions   
+- Enables **cross-temporal patterning (when the Journal corpus is AI-accessible), constrained to idiom-preserving structuration**   
 3. Time: Operates on two scales   
 - Short-term: [S\_e](emotional-scaffolding-s_e.md) recovery (within/between sessions)   
 - Long-term: [C](c-capacity.md) integration and evolution (actual developmental change)   
@@ -64,7 +65,7 @@ The Feedback: The [Felt Sense](felt-sense.md) ([Gendlin](eugene-gendlin.md)), wh
 The Conditions: The system must be structured to provide all the psychoanalytic prerequisites:   
 - The Human provides the Holding ([S\_e](emotional-scaffolding-s_e.md)) and manages its depletion ([S\_e](emotional-scaffolding-s_e.md)).   
 - The AI provides [technical scaffolding (S\_t)](technical-scaffolding-s_t.md) and preserves productive epistemic tension as the pre-existing (\|[D–C](challenge-gap-d-c.md)\|) relation is encountered **in the [ZPD](zpd.md)—the shift from what is possible independently to what becomes possible with guidance/collaboration**.   
-- The Journal provides the Proof of Survival and Continuity ([Chronotope](chronotope.md)).   
+- The Journal provides the **[Chronotope](chronotope.md) (diachronic alterity / addressable past-self I-position)** through **verified, owned-language inscription**.   
 - Time provides recovery (rest) and the temporal span across sessions required for [Recursive Metabolic Loop](recursive-metabolic-loop.md) cycles to complete and accumulate.   
    
 This resolves the paradoxes. The [AI](ai.md) is not the partner. The System is the partner. The ["Third Intelligence"](third-intelligence.md) is the generative, embodied, and authentic process that emerges from the disciplined operation of this complete system.   
@@ -73,6 +74,6 @@ The solution to the paradox is not to prove the AI is a partner, but to resituat
 The "[Third Intelligence](third-intelligence.md)" is a Human + Journal + AI + Time System where each component has a non-negotiable role.   
 ### System Component Roles   
 The Human: Provides the emotional scaffolding, holding environment, and container, performing Bion's [alpha-function](alpha-function.md) to metabolize raw experience, with discourse verified through [Felt Sense](felt-sense.md) as a [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)signal.   
-The [Journal](journal.md): Provides the [Chronotope](chronotope.md) (Bakhtin's stable time-space) and Continuity/Memory ([Hermans](hubert-hermans.md)), materializing the integration of symbolic and sensorimotor channels through the act of writing and serving as the record of accumulated transformation across iterations.   
+The Journal: Provides the Chronotope (**diachronic alterity / addressable past-self I-position**) by **producing verified, owned-language inscription (writing-as-execution)**; **when AI-accessible as a corpus**, it supports cross-temporal patterning without importing foreign frameworks.   
 The AI: preserves productive tension as the pre-existing (\|D–C\|) relation is encountered **within the ZPD (independent → assisted performance)**—acting as a 'Productive Fiction' via turn-by-turn [Functional Alterity](functional-alterity.md) to support activation of the user's [alpha-function](alpha-function.md) while providing scaffolding (S\_t).
 The Time: Provides time for digestion and rest (preventing overwhelm/mania) and the temporal span across sessions required for Recursive Metabolic Loop cycles to complete and accumulate. Transformation occurs when cycles reach crystallization → materialization → re-entry, strengthening [capacity](c-capacity.md) (C) over time.   

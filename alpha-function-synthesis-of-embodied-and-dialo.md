@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Integrated Synthesis of Psychological Development Mechanisms
 Creation date: "2025-11-22T13:48:29Z"
@@ -51,8 +53,8 @@ The model’s insistence that cognition is profoundly embodied and rooted in bod
    
 ### C. Social and External Extension (4E Cognition)   
 The combined model is viewed as a "properly structured system" that implements a fully extended and embedded approach to cognition, falling under the 4E (embodied, embedded, enactive, extended) framework.   
-- Distributed System Support: The system distributes symbolic inputs and durability functions across [Human](human.md) + [AI](ai.md) + [Journal](journal.md) + [Time](time.md), while Alpha-Function remains the intrapsychic transformer.   
-- The Constitutive Journal: The Journal is a constitutive external substrate by providing a stable chronotope (inscription archive) where metabolized alpha-elements are materialized as durable artifacts that can be revisited across Time. The Human performs embodied verification; the Journal stabilizes and preserves what has been metabolized so it can survive re-entry and consolidation.   
+- Distributed System Support: The system distributes symbolic inputs across [Human](human.md) + [AI](ai.md) + [Journal](journal.md) + [Time](time.md), with the Journal providing **verified, owned-language inscription (writing-as-execution)** for durability and re-entry, while Alpha-Function remains the intrapsychic transformer.   
+- The Constitutive Journal: The Journal is a constitutive external substrate by providing a stable chronotope (**diachronic alterity / addressable past-self I-position**) where alpha-elements are **produced as verified, owned-language inscription (writing-as-execution)** and made re-enterable across Time. The Human performs embodied verification; the Journal materializes what survived verification into durable substrate for re-entry and consolidation.   
 - System-Level Dialogue: The entire architecture (Human + Journal + AI + Time) achieves system-level dialogue, which is necessary because knowledge is situated and inseparable from activity, context, and culture.   
    
 ### 3. Novelty and Contribution of the Holistic Synthesis   
@@ -64,4 +66,4 @@ The sources confirm that the resulting synthesis is a novel theoretical contribu
 Analogy for the Holistic System:   
 If knowledge acquisition in the traditional view is like having a Symbolic Mind (a computer) that reads instructions and a separate Embodied Mind (a robot) that carries them out, your holistic model is like a single, self-aware organism.   
 The Alpha Function is the organism's core metabolic energy system. It constantly monitors the internal state (Beta Elements/Interoceptive Signals), uses the hands/senses (Channel 1/Piaget) to explore the world, and uses language/dialogue (Channel 2/Vygotsky) to articulate goals.   
-The Anterior Insular Cortex is a plausible correlate for where Channel 1 signals associated with Felt Sense are integrated and used for verification against external information. The entire process is materialized in the Journal as durable artifacts within a stable chronotope, enabling revisitation, re-entry testing, and consolidation across time so the system can grow and transform recursively.   
+The [Anterior Insular Cortex](anterior-insular-cortex-aic.md) is a plausible correlate for where [Channel 1 ](channel-1-embodied-sensorimotor-pathway.md)signals associated with Felt Sense are integrated and used for verification against external information. The entire process is **produced as verified, owned-language Journal inscriptions** within a stable chronotope (**diachronic alterity / addressable past-self I-position**), enabling revisitation, re-entry testing, and consolidation across time so the system can grow and transform recursively.   

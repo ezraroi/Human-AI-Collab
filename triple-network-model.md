@@ -9,11 +9,11 @@ Backlinks:
     - salience-network-core.md
     - executive-summary.md
     - 3-the-discriminator-framework.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_c.md
     - 2-the-alpha-function-as-the-triple-network-the.md
     - the-constrained-integration-hypothesis.md
     - neuroscience-of-transformation.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - the-unified-architecture.md
     - unified-architecture-neurobiological-resolutio.md
 Origin Domain:

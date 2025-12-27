@@ -10,6 +10,7 @@ Backlinks:
     - cognitive-artifact.md
     - document-abstract.md
     - john-flavell.md
+    - conclusion-on-novelty-and-contribution.md
     - 2-the-core-parallel-two-descriptions-of-one-pr.md
     - recursive-metabolic-loop.md
     - 7-critical-connection-5-why-psb-happens.md

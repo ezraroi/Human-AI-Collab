@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
 Creation date: "2025-11-22T10:51:08Z"
@@ -49,7 +51,7 @@ Metabolic processing (C1 ↔ C2 oscillation via [Alpha-Function](alpha-function.
 **Principle:C ([Capacity](c-capacity.md)) evolves based on whether metabolization occurred and persisted.**   
 **Growth trajectory:**   
 - When field viability is sustained and metabolization occurs → α-elements are produced   
-- The Journal materializes α-elements → they become part of C   
+- The Journal **produces verified, owned-language inscription (writing-as-execution) as the durable substrate** → they become part of C   
 - Increased C changes future mismatch(D, C) → larger challenges become workable   
 - This enables the [Coherence Flywheel](coherence-flywheel.md): higher C → engage higher D → workable mismatch under scaffolding → further Capacity growth   
    
@@ -60,13 +62,13 @@ Metabolic processing (C1 ↔ C2 oscillation via [Alpha-Function](alpha-function.
    
 **The [Journal](journal.md)’s critical role:**   
 Without the Journal, capacity growth cannot reliably accumulate because:   
-- [alpha-elements](alpha-elements.md) are not materialized outside the session   
+- **verified, owned-language inscription (writing-as-execution) is not produced**, so [α-elements](alpha-elements.md) do not become durable outside the session   
 - There is no durable evidence that transformation occurred   
-- Pattern recognition across sessions weakens   
+- Cross-temporal patterning weakens (and when AI-accessible, idiom-preserving structuration over the corpus is reduced)   
 - The work risks restarting without carryover each time   
 - Regression becomes invisible   
    
-The [Journal](journal.md) is not “in” the schema (Level 2). It operates at the Accumulation level (Level 4): the schema describes conditions; the Journal determines whether successful metabolization persists.   
+The [Journal](journal.md) is not “in” the schema (Level 2). It operates at the Accumulation level (Level 4): the schema describes conditions; the Journal **as chronotope (diachronic alterity / addressable past-self I-position)** determines whether successful metabolization persists.   
 ### Summary: Temporal Dynamics Across Levels   
 |                Level |  Temporal Scale |                                                           Key Dynamic |
 |:---------------------|:----------------|:----------------------------------------------------------------------|

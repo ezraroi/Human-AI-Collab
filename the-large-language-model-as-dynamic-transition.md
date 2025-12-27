@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'NoteBook 5: The AI as Dynamic Transitional Object'
 Creation date: "2025-11-22T17:01:06Z"
@@ -64,7 +66,7 @@ Functional Alterity defines the AI's role by its deliberate dissimilarity—its 
 [Reflective Prompting](reflective-prompting.md) (RP) is the operational procedure that manages this tension while ensuring that owned outcomes are **materialized in the [Journal](journal.md)**, enabling **cross-temporal re-entry** and assessment across Time.   
 1. Mandatory Criticality: RP mandates Purposeful Judgment and Active Skepticism, ensuring the human mind stays firmly in the loop to metabolize the generated concepts. This deliberate strategy maximizes germane load (productive effort) and prevents passive cognitive offloading.   
 2. Adaptive Calibration: The LLM's technical property of [In-Context Learning](in-context-learning.md) (ICL) is utilized as the servomechanism for Adaptive Calibration. This dynamic adaptation allows the interaction to be adjusted in real time so tension remains workable within the pre-existing \|D-C\| relation, helping **maintain the conditions for a workable ZPD**.   
-3. Accumulation of Growth: The Journal component ensures that the successful transformation (the insight/[Alpha Element](alpha-elements.md)) is inscribed into a material record. This materialization provides persistence ([Chronotope](chronotope.md)) and provides a **persistent material substrate (chronotope)** for cross-temporal re-entry, comparison, and pattern recognition, allowing the system to observe changes in the human user's [Capacity](c-capacity.md) (C) over time through the journal record.   
+3. Accumulation of Growth: The [Journal](journal.md) component is where transformation completes: writing-as-materialization is part of the metabolic process itself, not a record of transformation that occurred elsewhere. This materialization creates the [Chronotope](chronotope.md)—a diachronic alterity structure where entries become addressable past-self positions enabling re-entry as relation (not mere retrieval), and cross-temporal pattern recognition, allowing the system to observe changes in the human user's [Capacity](c-capacity.md) (C) over time through the journal record.   
    
 In summary, the LLM transitions from a simple tool to a component of a cognitive system because its unique properties—Generativity and Dynamic Adaptation—allow it to be leveraged through [Reflective Prompting](reflective-prompting.md) to instantiate [Functional Alterity](functional-alterity.md) turn-by-turn, preserving the conditions under which the human user performs the internal work of transformation (the Alpha-Function), the results of which are then **materialized in the Journal and consolidated across Time**.   
  --- 

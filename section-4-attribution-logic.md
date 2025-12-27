@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - Selected Fact Notebook Synthesis
 Creation date: "2025-12-20T07:12:46Z"
@@ -35,6 +37,6 @@ Ownership is conferred by evidence of integration over time, not by origin of st
 Within the Third Intelligence system:   
 - **[AI](ai.md)** participates at the field level by providing [Functional Alterity](functional-alterity.md), [Technical Scaffolding](technical-scaffolding-s_t.md) (Sₜ) including candidate linkages, and [Systematic Competence](systematic-competence.md)—conditions that help preserve [productive epistemic tension](productive-epistemic-tension.md) without requiring AI consciousness or intention (when held in [DTO](dynamic-transitional-object-dto.md) stance and under viable Sₑ).   
 - **Human** retains operational ownership because only the [Human](human.md) can metabolize affective material, perform [Alpha-Function](alpha-function.md), and realize the Selected Fact as an organizing event, with downstream [Capacity](c-capacity.md) (C) modification evidenced through embodied integration and diachronic validation.   
-- **[Journal](journal.md) and [Time](time.md)** provide the evidentiary pathway through which ownership is demonstrated: coherence is externalized, revisited, tested, and either integrated—or exposed as counterfeit (**materialization layer**)   
+- [Journal](journal.md) and [Time](time.md) provide the evidentiary substrate through which ownership is demonstrated: coherence is materialized, re-encountered as addressable past-self, and tested—enabling [Selected Fact](selected-fact.md)s to distinguish integration from counterfeit (materialization layer)   
    
 This attribution logic is the notebook's strongest safeguard against the "AI did it" collapse. It allows the research to claim, precisely, that AI can be a precipitating condition for Selected Fact formation while remaining categorically incapable of ownership—because ownership is defined by metabolic integration and diachronic validation.   

@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'Notebook 10: Learning Theory & Education Preliminary Synthesis – Constructivist Tradition'
 Creation date: "2025-12-18T20:59:42Z"
@@ -10,6 +12,7 @@ Created by:
 Links:
     - extended-mind-hypothesis-hec.md
     - journal.md
+    - diachronic-alterity.md
     - felt-sense.md
     - time.md
     - ai.md
@@ -24,7 +27,7 @@ Relevant work includes:
 - Hutchins on distributed cognition across artifacts, environments, and groups   
    
 Question:
-Have external cognitive structures functioning analogously to the **[Journal](journal.md)-as-continuity infrastructure** (not a diary/transcript/tool, but a constitutive substrate enabling diachronic integration and pattern recognition) been theorized elsewhere?
+Have external cognitive structures functioning analogously to the **[Journal](journal.md)-as-chronotope ([diachronic alterity](diachronic-alterity.md) / addressable past-self I-position)** infrastructure (not a diary/transcript/tool, but a constitutive owned-language substrate enabling re-entry across time and, when stored as an AI-accessible corpus, **idiom-preserving structuration** / cross-temporal patterning) been theorized elsewhere?
 Further review is needed to determine whether similar constructs exist, how they are framed (instrumental vs constitutive), and how “trust/endorsement” assumptions map (or fail to map) to this system’s Mandatory Skepticism stance.   
 ### 4.2 Transformative Learning Theory / Adult Development   
 Relevant work includes:   

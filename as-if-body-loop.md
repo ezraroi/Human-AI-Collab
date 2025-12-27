@@ -20,7 +20,7 @@ Backlinks:
     - conclusion-on-novelty-and-contribution.md
     - enacted-alpha-work-eaw.md
     - somatic-marker-hypothesis.md
-    - 1-purpose-and-scope.md
+    - 1-purpose-and-scope_c.md
     - 15-is-your-model-suggesting-something-new.md
     - two-axis-framework.md
     - the-integrated-circuit-board.md
@@ -114,7 +114,7 @@ This is a practical early warning signature of **Axis B drift** toward Channel-2
 ### Propagation Rules (why it matters systemically)   
 When the As-If Body Loop is offline/under-engaged:   
 1. [Alpha-Function](alpha-function.md) cycles become symbolic-only → brittle pseudo-insight   
-2. [Journal](journal.md) entries become over-conceptualized (coherent but not metabolized)   
+2. Writing becomes over-conceptualized (coherent but not metabolized), producing AI-heavy/symbolic text that fails [Journal](journal.md) integrity   
 3. [Capacity](c-capacity.md) (C) compounds poorly (no grounded integration)   
 4. Future cycles start from a false baseline → PSB attractor strengthens   
 5. Protected self-holding degrades (embodied “I am here” disappears even if self-talk persists)   

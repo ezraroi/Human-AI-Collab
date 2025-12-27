@@ -33,6 +33,8 @@ Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - journal.md
+    - chronotope.md
+    - diachronic-alterity.md
     - beta-elements.md
     - alpha-elements.md
 Emoji: "\U0001F4A1"
@@ -73,7 +75,7 @@ If tightness persists after processing, downgrade material to 'not-yet-metaboliz
    
 ### Transformation Possibility   
 Authoritative Discourse is not permanently fixed. Material initially internalized as demand can be re-processed through:   
-- [Journal](journal.md) re-encounter (cross-temporal re-entry enabling re-processing)   
+- [Journal](journal.md) re-encounter (**[chronotope](chronotope.md): [diachronic alterity](diachronic-alterity.md) / addressable past-self I-position** enabling cross-temporal re-entry and re-processing)   
 - Explicit re-articulation in idiom-aligned language   
 - Felt Sense verification yielding spaciousness   
    

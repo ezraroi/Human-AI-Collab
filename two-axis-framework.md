@@ -44,12 +44,15 @@ Links:
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
+    - journal.md
+    - materialization.md
+    - chronotope.md
+    - diachronic-alterity.md
     - protein-shake-brain-psb.md
     - field-viability-schema.md
     - activation-conditions.md
     - cognitive-dependency.md
     - the-integrated-circuit-board.md
-    - journal.md
     - identity-stakes.md
     - emotional-scaffolding-s_e.md
     - reflective-prompting.md
@@ -80,7 +83,7 @@ The **Two-Axis Framework** is the coordinate system that organizes **success mod
 
 **Mechanism translation:** Category Error is not “warmth” per se — it is **mis-aimed mentalizing** (treating linguistic fluency as interpersonal presence).   
 ### Axis B — Processing Mode   
-**Goal:** **Recursive Metabolic Oscillation** ([Channel 2](channel-2-symbolic.md) ↔ [Channel 1](channel-1-embodied-sensorimotor-pathway.md)) metabolized through **[Alpha-Function](alpha-function.md)** and stabilized through materialization (identity-stakes requires Journal).   
+**Goa**l: Recursive Metabolic Oscillation ([Channel 2](channel-2-symbolic.md) ↔ [Channel 1](channel-1-embodied-sensorimotor-pathway.md)) metabolized through [Alpha-Function](alpha-function.md) and, when identity-stakes/durable accumulation are in scope, stabilized through **verified, owned-language [Journal](journal.md) [materialization](materialization.md) ([chronotope](chronotope.md): [diachronic alterity](diachronic-alterity.md) / addressable past-self I-position)**   
 **Primary failure:** **[PSB](protein-shake-brain-psb.md)** — symbolic fluency without embodied verification (“correct but not mine”).   
 **Phenomenological anchor:** **Embodied verification** (felt-sense access; “tight vs spacious” discriminator; owned resonance).   
 ## System Role   
@@ -146,7 +149,7 @@ The Constrained Integration state taxonomy maps onto the Two-Axis space as follo
 Axis B is realized by the Integrated Circuit Board:   
 - **Alpha-Function:** metabolic processor (β → α via C1↔C2 oscillation)   
 - **As-If Body Loop:** embodied-verification substrate enabling C1 signals during symbolic work   
-- **[Journal](journal.md) / Materialization:** stabilizes across time (constitutive in [identity-stakes](identity-stakes.md) work)   
+- [Journal](journal.md) / Materialization: stabilizes across time via **chronotope (diachronic alterity / addressable past-self I-position)** (constitutive in [identity-stakes](identity-stakes.md) work)   
    
 **Dependency statement (tight):**   
 Metabolic Axis B requires **As-If Body Loop accessibility**; without it, Alpha-Function tends to degrade into symbolic-only processing (PSB).   

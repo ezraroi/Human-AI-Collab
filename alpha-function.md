@@ -108,8 +108,7 @@ Backlinks:
     - bions-alpha-function-synthesizing-piaget-and-v.md
     - 2-the-unbundled-rationale-architecture.md
     - activation-pathway-of-destiny-drive.md
-    - resolving-core-theoretical-gaps-in-human-ai-di.md
-    - 1-executive-summary.md
+    - resolving-core-theoretical-gaps-in-human-ai-di_h.md
     - section-13-significance-and-forward-direction.md
     - 3-critical-connection-1-the-two-channel-model-.md
     - psychoanalytic-prerequisites.md
@@ -126,7 +125,7 @@ Backlinks:
     - wilfred-bion.md
     - 13-dialogical-and-embodied-frameworks-an-integ.md
     - zpd.md
-    - 1-executive-summary_1u.md
+    - 1-executive-summary_3.md
     - 4-the-critical-ontological-distinction.md
     - the-recursive-third-intelligence-system-archit.md
 Origin Domain:

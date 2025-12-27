@@ -7,7 +7,6 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Dynamic'
 Backlinks:
-    - section-12-resolution-of-theoretical-contradic.md
     - reverie.md
     - section-9-container-as-function-authorization.md
     - protected-self-holding-principle.md

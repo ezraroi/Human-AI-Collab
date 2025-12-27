@@ -244,24 +244,29 @@ The absence of empirical neurobiological evidence validating the mechanisms prop
 
 ### Theoretical Model Exists (Unvalidated)
 **Psychological → Neurobiological candidate mappings (current hypotheses):**
-1. **Alpha-Function → Triple Network / switching dynamics**
+**1.Alpha-Function → Triple Network / switching dynamics**
 - DMN: self-narrative / autobiographical material (candidate source of “raw” material).
 - FPN/CEN: executive processing that can transform meaning when properly engaged.
 - SN (insula/dACC): candidate gating/switching mechanism enabling “doing both” (self-contact + analysis) rather than rumination or detached cognition.
-2. **Felt Sense → Anterior Insula / interoceptive inference (prediction-error)**
+
+**2.Felt Sense → Anterior Insula / interoceptive inference (prediction-error)**
 - “Tight” / “stuck” sensations as candidate marker of unresolved interoceptive prediction error.
 - “Felt shift” as candidate marker of model update / error collapse (a biologically legible discriminator for metabolization vs rhetorical coherence).
-3. **Container / Sₑ → stress physiology and regulation capacity**
+
+**3.Container / Sₑ → stress physiology and regulation capacity**
 - HPA axis (cortisol dynamics) + autonomic regulation (vagal tone/HRV as a candidate proxy for “window of tolerance”).
 - Depletion / manic boundary framed as metabolic overload + dysregulated regulation capacity (candidate physiological signature, unvalidated).
-4. **Journal ↔ Time → re-entry substrate + consolidation mechanisms**
+
+4. Journal ↔ Time → **verified materialization + re-entry substrate** + consolidation mechanisms
 - Reconsolidation window as candidate mechanism for updating self-models after salient reflective sessions.
-- Sleep-dependent consolidation as candidate mechanism for durability of metabolized content over time (enabled by re-entry to materialized outcomes).
-5. **Self-Holding preservation → neural/physiological signature unspecified (high priority sub-gap)**
+- Sleep-dependent consolidation as candidate mechanism for durability of metabolized content over time (enabled by re-entry to materialized outcomes **as chronotope: diachronic alterity / addressable past-self I-position**).
+
+**5. Self-Holding preservation → neural/physiological signature unspecified (high priority sub-gap)**
 - Hypothesis: transformation requires sustained self-referential continuity while engaging executive processing (not self-erasure).
 - Category Error / dependency collapse may correspond to a measurable pattern of dysregulation + altered self-referential network engagement.
 - This remains **underspecified** and requires operational definition.
-6. **AI interaction risk layer (added): Reward vs social-cognition profile**
+
+**6. AI interaction risk layer (added): Reward vs social-cognition profile**
 - Hypothesis: AI may strongly activate reward/validation loops while under-engaging social co-regulation mechanisms that occur in human attachment contexts.
 - This introduces a measurable risk: *pseudo-safety* and *counterfeit coherence* that feel good but do not metabolize.
 

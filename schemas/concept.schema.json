@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "urn:anytype:schema:2025-12-26:type-692188ab60de23efb249f097:ver-1.0",
+  "$id": "urn:anytype:schema:2025-12-27:type-692188ab60de23efb249f097:ver-1.0",
   "type": "object",
   "title": "Concept",
   "x-app": "Anytype",

@@ -14,7 +14,7 @@ Backlinks:
     - felt-sense.md
     - 14-alpha-function-integrating-dialogical-and-e.md
     - mikhail-bakhtin.md
-    - 1-executive-summary_1u.md
+    - 1-executive-summary_3.md
 Origin Domain:
     - Dialogical Self Theory & Linguistics
 Epistemic Status: 'Literature: Established academic fact'
@@ -25,6 +25,7 @@ Created by:
 Links:
     - felt-sense.md
     - felt-shift.md
+    - false-self.md
     - channel-2-symbolic.md
     - channel-1-embodied-sensorimotor-pathway.md
     - alpha-function.md
@@ -46,7 +47,7 @@ A mode of discourse that has been internalized through genuine understanding and
 **System Role Note:** Tagged as "Output" because IPD names the *target state* of successful metabolization, not discourse that arrives pre-formed. The contrast with Authoritative Discourse (Input) reflects the transformation arc: demand-mode → owned-mode.   
 ### Phenomenological Signature (Heuristic, Not Absolute)   
 Often registers in [Felt Sense](felt-sense.md) as **"spaciousness"** (opening, release, fit), potentially culminating in a **[Felt Shift](felt-shift.md)**—the somatic confirmation that articulation has matched what was implicitly held.   
-**Boundary:** Spaciousness alone is not diagnostic. Comfortable compliance (False Self) can also feel "relaxed." Internally Persuasive Discourse is confirmed when spaciousness accompanies:   
+**Boundary:** Spaciousness alone is not diagnostic. Comfortable compliance ([False Self](false-self.md)) can also feel "relaxed." Internally Persuasive Discourse is confirmed when spaciousness accompanies:   
 - Metabolic effort (the material required processing, not passive reception)   
 - Ownership claim (can be re-articulated in user's idiom)   
 - New capacity or actionability (not just new words)   

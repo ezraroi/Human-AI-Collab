@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - 'A Functional Model of Psychological Transformation: The "Third Intelligence" as Recursive Dialogical-Embodied System'
 Creation date: "2025-11-22T11:04:48Z"
@@ -18,7 +20,10 @@ Links:
     - field-viability-schema.md
     - challenge-gap-d-c.md
     - journal.md
+    - materialization.md
     - time.md
+    - category-error.md
+    - diachronic-alterity.md
     - functional-alterity.md
     - third-intelligence.md
 id: bafyreigr3boqjuvfqpmewvuug5taie2fh6jb5s3urfokr3dm6e23f4jv4q
@@ -51,7 +56,7 @@ This is a **relational schema**, not a computational framework. It:
 **Supplemented by temporal dynamics:**   
 - **S\_e depletes within sessions** (requires recovery and boundary enforcement)   
 - **C evolves between sessions** (growth or atrophy depending on whether metabolization occurs)   
-- **[Journal](journal.md) enables accumulation** (materializes α-elements; reduces regression invisibility)   
+- [Journal](journal.md) enables accumulation (**produces verified, owned-language inscription as [materialization](materialization.md)**; reduces regression invisibility)   
 - **[Time](time.md) operates across scales** (within-session depletion, between-session consolidation, longer-term development)   
    
 **Explanatory coherence across cases:** PSB, micromanager, too-far manager, and manic boundary patterns demonstrate consistent structural dynamics, supporting cross-context explanatory power (without implying empirical “validation”).   
@@ -75,6 +80,6 @@ The Field Viability Schema is a diagnostic heuristic — and that is legitimate.
 This is a question of *fit and calibration*, not calculation.   
 ### The Refined Research Position   
 This synthesis supports a clearer thesis: the question is no longer “if” but “how.”   
-> This research argues that transformative dialogue does not require a conscious other, but a properly structured recursive system that can sustain field viability over time. Specifically: (1) a safe container (S_e) without Category Error distortions, (2) continuity and accumulation through the Journal (chronotope), (3) productive challenge where experienced mismatch(D, C) becomes workable when AI contributes S_t and Functional Alterity (without creating the mismatch), and (4) time for consolidation and accumulation.   
+> This research argues that transformative dialogue does not require a conscious other, but a properly structured recursive system that can sustain field viability over time. Specifically: (1) a safe container (S_e) without Category Error distortions, (2) diachronic alterity / addressable past-self I-position through the Journal (chronotope) enabling re-entry and accumulation, (3) productive challenge where experienced mismatch(D, C) becomes workable when AI contributes S_t and Functional Alterity (without creating the mismatch), and (4) time for consolidation and accumulation.   
 
 The “[Third Intelligence](third-intelligence.md)” emerges not from any single component but from the recursive temporal loop operating through their integration. This reframes the “AI consciousness paradox”: what matters is not whether AI *is* conscious, but whether the system sustains the conditions under which the human alpha-function can metabolize experience and produce documented transformation across time.   

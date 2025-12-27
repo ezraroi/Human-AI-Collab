@@ -5,12 +5,25 @@ Object type:
 Tag:
     - 'Domain: Psychoanalytic'
 Backlinks:
+    - 5-final-synthesis-statement.md
+    - 4ps-protocol.md
+    - 4-the-system-architecture-v2-0.md
     - holding-environment.md
+    - authoritative-discourse.md
     - selected-fact.md
     - time.md
+    - 4-remaining-questions-for-tier-3.md
     - systems-consolidation.md
+    - 15-is-your-model-suggesting-something-new.md
+    - two-axis-framework.md
     - the-integrated-circuit-board.md
+    - neuroscience-of-transformation.md
+    - activation-pathway-of-destiny-drive.md
+    - 1-what-this-review-established.md
+    - section-13-significance-and-forward-direction.md
     - functional-thirdness.md
+    - chronotope.md
+    - the-unified-architecture.md
     - functional-alterity.md
 Origin Domain:
     - Psychoanalysis
@@ -21,11 +34,10 @@ Created by:
     - Roi Ezra
 Links:
     - journal.md
-    - ai.md
     - c-capacity.md
     - functional-alterity.md
-    - chronotope.md
     - selected-fact.md
+    - time.md
 Emoji: "\U0001F4A1"
 id: bafyreiahhijfeu5ltby5rnsw7dmxjz3rpd33vl7x2n5tiyhpbc2mxxzesu
 ---
@@ -33,7 +45,7 @@ id: bafyreiahhijfeu5ltby5rnsw7dmxjz3rpd33vl7x2n5tiyhpbc2mxxzesu
 The functional otherness provided by one’s own prior metabolized inscriptions ([Journal](journal.md) entries), enabling internal dialogue across time by making past-self positions addressable as an “other.” Diachronic Alterity prevents episodic cognition by turning return into encounter (re-entry as dialogue rather than reset).   
 ### System Role   
 - Enables continuity as **polyphony**: present-self can relate to past-self as a distinct I-position.   
-- Provides the diachronic complement to [AI](ai.md)’s synchronic alterity: the system has *two* alterity poles (now vs across time).   
+- Provides the diachronic complement to AI’s **synchronic alterity**: **now-otherness** vs **across-time otherness**: the system has *two* alterity poles (now vs across time).   
 - Supports durable [capacity](c-capacity.md) growth by making prior metabolization re-enterable and comparable (necessary for trajectory, not just session coherence).   
    
 ### Mechanism   
@@ -49,7 +61,8 @@ The functional otherness provided by one’s own prior metabolized inscriptions 
 ### Relations   
 - Provided By → [Journal](journal.md)   
 - Complements → [Functional Alterity](functional-alterity.md) (AI)   
-- Enables → [Chronotope](chronotope.md) (as addressable return), Macro-verification (maintenance), [Selected Facts](selected-fact.md) / RPVL probation across T+n   
+- Operates Within → Chronotope (Journal-provided time–space for addressable return), Macro-verification (maintenance), [Selected Facts](selected-fact.md) / RPVL probation across T+n   
+- Requires → [Time](time.md) (duration/spacing that makes re-entry and comparison possible)   
 - Helps prevent → Episodic cognition; Transient Insight / Pseudo-Integration   
 - Depends On → Verification (micro during creation); Owned language / idiom integrity   
 - Level → Macro (Diachronic); Functional Alterity is Micro (Utterance)   

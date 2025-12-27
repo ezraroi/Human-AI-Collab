@@ -62,6 +62,7 @@ Created by:
 Links:
     - alpha-elements.md
     - field-viability-schema.md
+    - challenge-gap-d-c.md
     - zpd.md
     - negative-capability.md
     - true-self.md
@@ -88,7 +89,7 @@ C pairs with D (Difficulty) to form mismatch(D, C) in the[ Field Viability Schem
 
 - **C** = what you can handle independently (baseline capacity)   
 - **D** = what the task / experience demands   
-- **mismatch(D, C)** = the effective challenge gap that scaffolding must calibrate into a workable band ([ZPD](zpd.md) under guidance)   
+- mismatch(D, C) = the effective [challenge gap](challenge-gap-d-c.md) (often treated as **\|D–C\|** at the heuristic level) that scaffolding must calibrate into a workable band ([ZPD](zpd.md) under guidance)   
    
 ### What C Comprises   
 **Psychic Structure**   

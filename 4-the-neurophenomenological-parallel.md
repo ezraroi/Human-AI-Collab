@@ -4,6 +4,7 @@ Object type:
     - Manuscript Section
 Tag:
     - NoteBook 7 - Phenomenological Layer
+    - DRAFTING
 Backlinks:
     - 'Notebook 7: Theoretical Extensions to the Third Intelligence Model'
 Creation date: "2025-12-02T08:53:34Z"
@@ -52,10 +53,10 @@ its methodological stance—an adaptation of Varela's framework that legitimates
 first-person transformation data without requiring lab-grade third-person
 measurement.   
 **The role mapping:**   
-|        Position |                            Provider |                                                                  Function |
-|:----------------|:------------------------------------|:--------------------------------------------------------------------------|
-| 1st-Person (1P) |                   [Human](human.md) | Lived experience, pre-reflective feeling, the authentic "what-it-is-like" |
-| 3rd-Person (3P) | [AI](ai.md) + [Journal](journal.md) |              Structural constraint: logic, coherence, pattern recognition |
+|        Position |                                                                                           Provider |                                                                                                                                             Function |
+|:----------------|:---------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1st-Person (1P) |                                                                                  [Human](human.md) |                                                                            Lived experience, pre-reflective feeling, the authentic "what-it-is-like" |
+| 3rd-Person (3P) | [AI](ai.md) (with the [Journal](journal.md) as verified, owned-language corpus when AI-accessible) | Structural constraint: logic, coherence, and (when AI-accessible) cross-temporal patterning / idiom-preserving structuration from the Journal corpus |
 
 **Critical clarification:** 3P here means *structural constraint*, not
 empirical measurement. AI provides objectification (the "mapmaker"),

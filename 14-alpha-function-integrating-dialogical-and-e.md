@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:41:37Z"
@@ -43,7 +45,7 @@ The model's central mechanism is the Alpha Function, which metabolizes Channel 2
 
 The model goes beyond internal processes by incorporating external elements into the transformative system: [Human](human.md) + [Journal](journal.md) + [AI](ai.md) + [Time](time.md).   
 - Words as Embodied Tools: The synthesis highlights that words are not separate from the body; they activate embodied simulation. Words can recruit embodied (sensorimotor/interoceptive) simulations, and some concepts are accompanied by somatic markers that guide meaning-making. This aligns with the Somatic Marker Hypothesis (SMH), where body states (somatic markers, which are special instances of feelings from secondary emotions) guide decision-making and meaning construction.   
-- The Journal as the External Substrate: The journal captures and stabilizes metabolized alpha-elements over time and is constitutive to cross-temporal continuity, not auxiliary. Writing is the paradigmatic enactment through which the human performs Alpha-Work and inscribes its metabolized output: beta-elements are transformed into alpha-elements, which are then captured as durable, re-enterable meaning. It serves as the materialization point where owned α-elements become durable inscriptions, enabling time-delayed re-entry, comparison, and re-verification across sessions.   
+- The Journal as the External Substrate: The Journal **produces verified, owned-language inscription (writing-as-execution)** and is constitutive to cross-temporal functioning via chronotope (**diachronic alterity / addressable past-self I-position**), not auxiliary. Writing is the paradigmatic enactment through which the human performs Alpha-Work: beta-elements are transformed into alpha-elements **through continuous verification during inscription**, yielding durable, re-enterable meaning. It serves as the materialization point where **verified** owned-language inscriptions enable time-delayed re-entry and comparison across sessions (**probation/verification logic occurs elsewhere**).   
 - Dialogue and Simulation: The central thesis is that reading AI text, particularly interactive dialogue, triggers embodied simulations, producing somatic responses because symbolic input (Channel 2) can trigger embodied simulation and interoceptive response (Channel 1). Interactive dialogue intensifies this effect by adding anticipatory motor preparation and relational responsiveness. The engagement of the relational context with an "aware" other activates social-emotional systems. This structure is supported by the 4E cognition perspective (embodied, embedded, enactive, extended), which emphasizes embodied interactions with the environment.   
    
 ### 3. Proposed Mechanism for Channel Linking   

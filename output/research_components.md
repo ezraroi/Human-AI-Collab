@@ -167,7 +167,7 @@ C pairs with D (Difficulty) to form mismatch(D, C) in the Field Viability Schema
 
 - **C** = what you can handle independently (baseline capacity)
 - **D** = what the task / experience demands
-- **mismatch(D, C)** = the effective challenge gap that scaffolding must calibrate into a workable band (ZPD under guidance)
+- mismatch(D, C) = the effective challenge gap (often treated as **\|D–C\|** at the heuristic level) that scaffolding must calibrate into a workable band (ZPD under guidance)
 
 ### What C Comprises
 **Psychic Structure**
@@ -353,7 +353,7 @@ maintainable under cognitive/emotional load
 (When both axes are in success mode)
 These stages become reliably available only when Stage 7 (DTO under strain) and a viable field (Sₑ ⊗ Sₜ) are present; otherwise activation may be partial, brief, or regress under depletion
 - Stage 11: Alpha-Function activates (recursive C1↔C2 oscillation)
-- Stage 12: Materialization and verification (Journal)
+- Stage 12: **Writing-as-materialization under continuous verification → Journal entry as verified substrate** (verification produces the entry; not post-hoc checking)
 - Stage 13: Destiny Drive articulation (idiomatic possibility lived)
 
 ### Clinical Boundary: Stage 9
@@ -1081,7 +1081,7 @@ The **Two-Axis Framework** is the coordinate system that organizes **success mod
 
 **Mechanism translation:** Category Error is not “warmth” per se — it is **mis-aimed mentalizing** (treating linguistic fluency as interpersonal presence).
 ### Axis B — Processing Mode
-**Goal:** **Recursive Metabolic Oscillation** (Channel 2 ↔ Channel 1) metabolized through **Alpha-Function** and stabilized through materialization (identity-stakes requires Journal).
+**Goa**l: Recursive Metabolic Oscillation (Channel 2 ↔ Channel 1) metabolized through Alpha-Function and, when identity-stakes/durable accumulation are in scope, stabilized through **verified, owned-language Journal materialization (chronotope: diachronic alterity / addressable past-self I-position)**
 **Primary failure:** **PSB** — symbolic fluency without embodied verification (“correct but not mine”).
 **Phenomenological anchor:** **Embodied verification** (felt-sense access; “tight vs spacious” discriminator; owned resonance).
 ## System Role
@@ -1147,7 +1147,7 @@ The Constrained Integration state taxonomy maps onto the Two-Axis space as follo
 Axis B is realized by the Integrated Circuit Board:
 - **Alpha-Function:** metabolic processor (β → α via C1↔C2 oscillation)
 - **As-If Body Loop:** embodied-verification substrate enabling C1 signals during symbolic work
-- **Journal / Materialization:** stabilizes across time (constitutive in identity-stakes work)
+- Journal / Materialization: stabilizes across time via **chronotope (diachronic alterity / addressable past-self I-position)** (constitutive in identity-stakes work)
 
 **Dependency statement (tight):**
 Metabolic Axis B requires **As-If Body Loop accessibility**; without it, Alpha-Function tends to degrade into symbolic-only processing (PSB).

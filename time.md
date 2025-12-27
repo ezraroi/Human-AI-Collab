@@ -7,8 +7,8 @@ Tag:
     - 'System Role: Scaffolding'
     - 'Temporal: Cumulative'
 Backlinks:
-    - 5-final-synthesis-statement.md
     - section-4-attribution-logic.md
+    - diachronic-alterity.md
     - 4-revised-contribution-of-notebook-11.md
     - 5-measurement-program-menu.md
     - 2-what-the-existing-literature-actually-covers.md
@@ -22,7 +22,7 @@ Backlinks:
     - executive-summary.md
     - the-large-language-model-as-dynamic-transition.md
     - section-1-introduction-and-framework-positioning.md
-    - executive-summary_2.md
+    - executive-summary_4.md
     - selected-fact.md
     - human.md
     - 5-the-three-dimensional-integration.md
@@ -46,7 +46,6 @@ Backlinks:
     - part-iii-transformative-ai-dialogue-talking-to.md
     - the-integrated-circuit-board.md
     - third-intelligence.md
-    - 3-the-13-stage-development-sequence.md
     - 5-journal-time-as-schema-consolidation-the-per.md
     - 6-the-final-positioning-framework.md
     - alpha-function-synthesis-of-embodied-and-dialo.md

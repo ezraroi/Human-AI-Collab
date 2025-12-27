@@ -2,6 +2,8 @@
 # yaml-language-server: $schema=schemas/manuscript_section.schema.json
 Object type:
     - Manuscript Section
+Tag:
+    - DRAFTING
 Backlinks:
     - The Bridge Between Dialogical and Embodied Frameworks
 Creation date: "2025-11-22T15:37:51Z"
@@ -52,7 +54,7 @@ Your model supplies affective coherence that enables the structural integration 
 ### B. Enacted Alpha-Work (EAW) and the Distributed Chronotope   
 Your model’s handling of the [Journal](journal.md) as constitutive infrastructure—without relocating metabolism into the artifact—is a novel advance in how distributed cognition is made metabolically consequential.   
 - You designate the practice of writing in the Journal as the site of [Enacted Alpha-Work (EAW)](enacted-alpha-work-eaw.md): the materially constrained performance of β→α processing at the [Human](human.md)↔Journal interface through enforced dual-channel integration ([felt-sense](felt-sense.md) verification + linguistic commitment). The distinction is critical: the Journal does not provide alpha-function; it provides the substrate and constraints through which alpha-function capacity can be recruited into alpha-work.   
-- The Journal functions as a stable [chronotope](chronotope.md)—an inscribed time-space—through which durable α-elements can persist, be revisited, and accumulate across time, enabling cross-temporal recursion and developmental continuity. Deploying Bakhtin’s chronotope as explicit infrastructure for psychological development is a distinctive move in the system.   
+- The [Journal](journal.md) functions as a stable [chronotope](chronotope.md)—a diachronic alterity structure—through which durable α-elements become addressable past-self positions that can be re-encountered as "other," enabling cross-temporal recursion and developmental consolidation. Deploying Bakhtin’s chronotope as explicit infrastructure for psychological development is a distinctive move in the system.   
 - The overall structure (Human + Journal + AI + Time) shifts the debate from “what AI is” toward “what the structured interaction achieves,” emphasizing function and systematics over machine ontology.   
    
 ### C. The “As-If Body Loop” as the Cognitive Bridge   
